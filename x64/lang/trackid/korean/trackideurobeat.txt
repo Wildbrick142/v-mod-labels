@@ -1,0 +1,81 @@
+﻿{-- impact blue radio --}
+[20040A]
+VALENTINA
+[20040S]
+I Love You Like You Are
+[20041A]
+NORMA SHEFFIELD
+[20041S]
+Maybe Tonite
+[20042A]
+MAKO & SAYUKI
+[20042S]
+Wings of Fire
+[20043A]
+CHERRY
+[20043S]
+Set Me Free
+[20044A]
+THE SPIDERS FROM THE MARS
+[20044S]
+Fly to Me to the Moon & Back
+[20045A]
+HELY
+[20045S]
+Forever Sad
+[20046A]
+PRINCESS F
+[20046S]
+Technotronic Flight
+[20047A]
+QUEEN 26
+[20047S]
+You Are My Wonder
+[20048A]
+NUAGE
+[20048S]
+Give Me A Sign
+[20049A]
+SARA
+[20049S]
+Baby Fly
+[20050A]
+MICHIKO NEYA & KAKAZU YUMI
+[20050S]
+Impact Blue
+[20051A]
+NORMA SHEFFIELD
+[20051S]
+If You Wanna Stay
+[20052A]
+DELTA QUEENS
+[20052S]
+Energy Love
+[20053A]
+PAMSY
+[20053S]
+I Feel Emotions
+[20054A]
+JILLY
+[20054S]
+Be My Baby
+[20055A]
+BETTY FEAT. ANNALISE
+[20055S]
+The One For Me
+[20056A]
+DENISE
+[20056S]
+Emotional Fire
+[20057A]
+VIVI
+[20057S]
+Eyes of Sky
+[20058A]
+LESLIE PARRISH
+[20058S]
+Victim
+[20059A]
+CHERRY
+[20059S]
+Too Cool to Fall In Love

@@ -1,0 +1,1416 @@
+﻿{ --- original tracks ---}
+
+{-- RADIO_01_CLASS_ROCK --}
+{-- Los Santos Rock Radio --}
+
+[1004A]
+BOB SEGER
+[1004S]
+Hollywood Nights
+
+[1005A]
+BOB SEGER
+[1005S]
+Night Moves
+
+[1028A]
+ROBERT PLANT
+[1028S]
+Big Log
+[1031A]
+DON JOHNSON
+[1031S]
+Heartbeat
+
+[1032A]
+CHICAGO
+[1032S]
+If You Leave Me Now
+
+[1034A]
+BILLY SQUIER
+[1034S]
+Lonely Is The Night
+
+[1036A]
+DEF LEPPARD
+[1036S]
+Photograph
+[1038A]
+GOLDEN EARRING
+[1038S]
+Radar Love
+[1039A]
+ELTON JOHN
+[1039S]
+Saturday Night's Alright For Fighting
+
+[1041A]
+GREG KIHN BAND
+[1041S]
+The Breakup Song (They Don't Write 'Em)
+
+[1044A]
+THE DOOBIE BROTHERS
+[1044S]
+What A Fool Believes
+
+[1071A]
+QUEEN
+[1071S]
+Radio Ga Ga
+
+[1072A]
+GERRY RAFFERTY
+[1072S]
+Baker Street
+
+[1073A]
+THE ALAN PARSONS PROJECT
+[1073S]
+I Wouldn't Want To Be Like You
+
+[1075A]
+SMALL FACES
+[1075S]
+Ogden's Nut Gone Flake
+
+
+[1087A]
+FOREIGNER
+[1087S]
+Dirty White Boy
+
+[1088A]
+SIMPLE MINDS
+[1088S]
+All The Things She Said
+
+[1111A]
+STEVE WINWOOD
+[1111S]
+Higher Love
+
+[1112A]
+KENNY LOGGINS
+[1112S]
+I'm Free (Heaven Helps The Man)
+
+[1117A]
+JULIAN LENNON
+[1117S]
+Too Late For Goodbyes
+
+[1237A]
+STEVIE NICKS
+[1237S]
+I Can't Wait
+
+[1262A]
+PHIL COLLINS
+[1262S]
+I Don't Care Anymore
+
+[1285A]
+STEVE MILLER
+[1285S]
+Rock'n Me
+
+[1345A]
+THE CULT
+[1345S]
+Rain
+
+
+
+
+
+
+
+{-- RADIO_02_POP --}
+{-- NonStop Pop FM --}
+
+[1001A]
+HALL & OATES
+[1001S]
+Adult Education
+
+[1018A]
+BRITNEY SPEARS
+[1018S]
+Gimme More
+
+[1019A]
+FERGIE
+[1019S]
+Glamorous
+
+[1023A]
+AMERIE
+[1023S]
+1 Thing
+
+[1026A]
+ROBYN
+[1026S]
+With Every Heartbeat (With Kleerup)
+
+[1043A]
+PET SHOP BOYS
+[1043S]
+West End Girls
+
+[1107A]
+MIS-TEEQ
+[1107S]
+Scandalous
+
+[1232A]
+WHAM!
+[1232S]
+Everything She Wants
+
+[1234A]
+ALL SAINTS
+[1234S]
+Pure Shores
+
+[1235A]
+RIHANNA
+[1235S]
+Only Girl (In The World)
+
+[1242A]
+CORONA
+[1242S]
+Rhythm Of The Night
+
+[1257A]
+KELLY ROWLAND
+[1257S]
+Work (Freemasons Mix)
+
+[1258A]
+JANE CHILD
+[1258S]
+Don't Wanna Fall In Love
+
+[1263A]
+STARDUST
+[1263S]
+Music Sounds Better With You
+
+[1287A]
+MODJO
+[1287S]
+Lady (Hear Me Tonight)
+
+[1343A]
+N-JOI
+[1343S]
+Anthem
+
+
+
+
+
+{-- RADIO_03_HIPHOP_NEW ---}
+{-- Radio LS ---}
+
+[1222A]
+JAY ROCK FEAT. KENDRICK LAMAR
+[1222S]
+Hood Gone Love It
+
+[1259A]
+FUTURE
+[1259S]
+How It Was
+
+[1293A]
+GAME FEAT. 2 CHAINZ & RICK ROSS
+[1293S]
+Ali Bomaye
+
+[1295A]
+CLYDE CARSON FEAT. THE TEAM
+[1295S]
+Slow Down
+
+[1296A]
+FREDDIE GIBBS
+[1296S]
+Still Livin'
+
+[1375A]
+AB-SOUL FEAT. KENDRICK LAMAR
+[1375S]
+ILLuminate
+
+[1376A]
+100S
+[1376S]
+Life Of A Mack
+
+[1380A]
+A$AP ROCKY
+[1380S]
+R-Cali
+
+[1383A]
+KENDRICK LAMAR
+[1383S]
+A.D.H.D.
+
+[1385A]
+GANGRENE
+[1385S]
+Bassheads
+
+[1386A]
+YG
+[1386S]
+I'm A Real 1
+
+[1387A]
+PROBLEM FEAT. GLASSES MALONE
+[1387S]
+Say That Then
+
+[1388A]
+BJ THE CHICAGO KID FEAT. FREDDIE GIBBS & PROBLEM
+[1388S]
+Smoke And Ride
+
+[1389A]
+GUCCI MANE FEAT. CIARA
+[1389S]
+Too Hood
+
+[1397A]
+MARION BAND$ FEAT. NIPSEY HUSSLE
+[1397S]
+Hold Up
+
+
+
+
+{-- RADIO_04_PUNK ---}
+{-- Radio X ---}
+
+[1046A]
+FEAR
+[1046S]
+The Mouth Don't Stop (The Trouble With Women Is)
+
+[1091A]
+BLACK FLAG
+[1091S]
+My War
+
+[1093A]
+SUICIDAL TENDENCIES
+[1093S]
+Subliminal
+
+[1146A]
+YOUTH BRIGADE
+[1146S]
+Blown Away
+
+[1148A]
+THE GERMS
+[1148S]
+Lexicon Devil
+
+[1245A]
+CIRCLE JERKS
+[1245S]
+Rock House
+
+[1246A]
+T.S.O.L.
+[1246S]
+Abolish Government/Silent Majority
+
+[1260A]
+THE WEIRDOS
+[1260S]
+Life Of Crime
+
+[1264A]
+THE ADOLESCENTS
+[1264S]
+Amoeba
+
+[1265A]
+THE DESCENDENTS
+[1265S]
+Pervert
+
+[1346A]
+AGENT ORANGE
+[1346S]
+Bored Of You
+
+[1374A]
+OFF!
+[1374S]
+What's Next?
+
+
+
+
+
+
+{-- RADIO_05_TALK_01 --}
+{-- TALK SHOWS - CITY --}
+[1249A]
+CHAKRA ATTACK
+
+[1378A]
+The Fernando Show
+
+[1382A]
+CHATTERSPHERE
+
+
+
+
+
+{ -- RADIO_06_COUNTRY --}
+{ -- Rebel Radio --}
+
+[1048A]
+WAYLON JENNINGS
+[1048S]
+Are You Sure Hank Done It This Way
+
+[1049A]
+HASIL ADKINS
+[1049S]
+Get Outta My Car
+
+[1070A]
+OZARK MOUNTAIN DAREDEVILS
+[1070S]
+If You Wanna Get To Heaven
+
+[1138A]
+CHARLIE FEATHERS
+[1138S]
+Can't Hardly Stand It
+
+[1141A]
+WAYLON JENNINGS
+[1141S]
+I Ain't Living Long Like This
+
+[1142A]
+JOHNNY PAYCHECK
+[1142S]
+It Won't Be Long (And I'll Be Hating You)
+
+[1145A]
+WILLIE NELSON
+[1145S]
+Whiskey River
+
+[1229A]
+JOHNNY CASH
+[1229S]
+The General Lee
+
+[1230A]
+JERRY REED
+[1230S]
+You Took All The Ramblin' Out Of Me
+
+[1291A]
+C.W. MCCALL
+[1291S]
+Convoy
+
+[1342A]
+HANK THOMPSON
+[1342S]
+It Don't Hurt Anymore
+
+
+
+
+
+
+
+{ -- RADIO_07_DANCE_01 --}
+{ -- Radio Soulwax Mix --}
+[1204A]
+SOULWAX FM
+[1204S]
+Mix
+
+[1324A]
+PALMBOMEN
+[1324S]
+Stock (Soulwax Remix)
+
+[1325A]
+FATAL ERROR
+[1325S]
+Fatal Error
+
+[1326A]
+SUPERSEMPFFT
+[1326S]
+Let's Beam Him Up
+
+[1327A]
+MIM SULEIMAN
+[1327S]
+Mingi
+
+[1328A]
+FK CLUB
+[1328S]
+The Strange Art (Inflagranti Remix)
+
+[1329A]
+MATIAS AGUAYO
+[1329S]
+El Sucu Tucu
+
+[1330A]
+DANIEL AVERY
+[1330S]
+Naive Reception
+
+[1331A]
+JOE GODDARD
+[1331S]
+Gabriel (Soulwax Remix)
+
+[1332A]
+DANIEL MALASO
+[1332S]
+Body Music (Original Mix)
+
+[1333A]
+GREEN VELVET & HARVARD BASS
+[1333S]
+Lazer Beams
+
+[1334A]
+ZOMBIE NATION
+[1334S]
+Tryouts
+
+[1335A]
+TOM ROWLANDS
+[1335S]
+Nothing But Pleasure
+
+[1336A]
+JACKSON AND HIS COMPUTER BAND
+[1336S]
+Arp #1
+
+[1337A]
+GOOSE
+[1337S]
+Synrise (Soulwax Remix)
+
+[1338A]
+TRANSISTORCAKE
+[1338S]
+Mr. Croissant Taker
+
+[1339A]
+TIGA
+[1339S]
+Plush (Jaques Lu Cont Remix)
+
+[1340A]
+THE HACKER
+[1340S]
+Shockwave (Gesaffelstein Remix)
+
+[1341A]
+PULP
+[1341S]
+After You (Soulwax Remix)
+
+
+
+
+
+{ -- RADIO_08_MEXICAN --}
+{ -- East Los FM Mix --}
+
+[1181A]
+LOS BUITRES DE CULIACAN SINALOA
+[1181S]
+El Cocaino
+
+[1182A]
+MEXICAN INSTITUTE OF SOUND
+[1182S]
+Es-Toy
+
+[1183A]
+NINA DIOZ
+[1183S]
+Criminal Sound
+
+[1184A]
+LA VIDA BOHEME
+[1184S]
+Radio Capital
+
+[1185A]
+FANDANGO
+[1185S]
+Autos, Moda Y Rock And Roll
+
+[1186A]
+DON CHETO
+[1186S]
+El Tatuado
+
+[1187A]
+LA SONORA DINAMITA
+[1187S]
+Se Me Perdio La Cadenita
+
+[1188A]
+SHE'S A TEASE
+[1188S]
+Fiebre De Jack
+
+[1189A]
+MALDITA VECINDAD
+[1189S]
+Pachuco
+
+[1190A]
+HECHIZEROS BAND
+[1190S]
+El Sonidito
+
+[1191A]
+MILKMAN
+[1191S]
+Fresco
+
+[1192A]
+JESSY BULBO
+[1192S]
+Maldito
+
+[1193A]
+LA LIGA FEAT. ALIKA
+[1193S]
+Yo Tengo El Don
+
+[1194A]
+LOS TIGRES DEL NORTE
+[1194S]
+La Granja
+
+[1195A]
+LOS ANGELES NEGROS
+[1195S]
+El Rey Y Yo
+
+
+{--  mix placeholders --}
+[1196A]
+EAST LOS FM
+[1196S]
+Mix
+
+[1197A]
+EAST LOS FM
+[1197S]
+Mix
+
+[1198A]
+EAST LOS FM
+[1198S]
+Mix
+
+[1199A]
+EAST LOS FM
+[1199S]
+Mix
+
+[1200A]
+EAST LOS FM
+[1200S]
+Mix
+
+[1201A]
+EAST LOS FM
+[1201S]
+Mix
+
+[1202A]
+EAST LOS FM
+[1202S]
+Mix
+
+
+
+
+
+
+
+
+{ -- RADIO_09_HIPHOP_OLD --}
+{ -- WCC --}
+[1095A]
+GETO BOYS
+[1095S]
+Mind Playing Tricks On Me
+
+[1097A]
+DR. DRE
+[1097S]
+Still D.R.E (ft Snoop Dogg)
+
+[1098A]
+MC EIHT
+[1098S]
+Streiht Up Menace
+
+[1100A]
+THE DOGG POUND
+[1100S]
+What Would U Do
+
+[1102A]
+ICE CUBE
+[1102S]
+You Know How We Do It
+
+[1208A]
+2PAC
+[1208S]
+Ambitionz Az A Ridah
+
+[1209A]
+N.W.A
+[1209S]
+Appetite For Destruction
+
+[1210A]
+KURUPT
+[1210S]
+C-Walk
+
+[1211A]
+N.W.A
+[1211S]
+Gangsta Gangsta
+
+[1212A]
+SNOOP DOGG
+[1212S]
+Gin and Juice
+
+[1215A]
+DR. DRE
+[1215S]
+The Next Episode (Ft Snoop Dogg)
+
+[1216A]
+KAUSION
+[1216S]
+What You Wanna Do?
+
+[1238A]
+COMPTON'S MOST WANTED
+[1238S]
+Late Night Hype
+
+[1239A]
+MACK 10 FEAT. THE DOGG POUND
+[1239S]
+Nothin' But The Cavi Hit
+
+[1240A]
+TOO $HORT
+[1240S]
+So You Wanna Be A Gangster
+
+[1266A]
+DJ QUIK
+[1266S]
+Dollaz & Sense
+
+[1283A]
+KING TEE
+[1283S]
+Played Like A Piano
+
+
+
+
+
+
+
+
+
+
+
+{-- RADIO_10_SURF --}
+{-- Santos Surf --}
+
+
+
+{-- RADIO_11_TALK_02 --}
+{-- TALK SHOWS - COUNTRY --}
+[1203A]
+Talk Shows
+
+[1205A]
+BCR Community Hour
+[1231A]
+Beyond Insemination
+[1323A]
+BLESS YOUR HEART
+
+
+
+
+
+
+
+{-- RADIO_12_REGGAE --}
+{-- Blue Ark --}
+[1103A]
+LEE SCRATCH PERRY & THE FULL EXPERIENCE
+[1103S]
+Disco Devil
+
+[1124A]
+LEE SCRATCH PERRY
+[1124S]
+I Am A Madman
+
+[1128A]
+JOE GIBBS & THE PROFESSIONALS
+[1128S]
+Chapter Three
+
+[1129A]
+HALF PINT
+[1129S]
+Crazy Girl
+
+[1132A]
+GREGORY ISAACS
+[1132S]
+Night Nurse
+
+[1133A]
+YELLOWMAN
+[1133S]
+Nobody Move Nobody Get Hurt
+
+[1255A]
+JUNIOR DELGADO
+[1255S]
+Sons Of Slaves
+
+[1261A]
+DENNIS BROWN
+[1261S]
+Money In My Pocket
+
+[1284A]
+PROTOJE
+[1284S]
+Kingston Be Wise
+
+[1288A]
+VYBZ KARTEL FEAT. POPCAAN
+[1288S]
+We Never Fear Dem
+
+[1289A]
+TOMMY LEE SPARTA
+[1289S]
+Psycho
+
+[1371A]
+THE UPSETTERS
+[1371S]
+Grumblin' Dub
+
+[1372A]
+KONSHENS
+[1372S]
+Gun Shot A Fire
+
+[1373A]
+CHRONIXX
+[1373S]
+Odd Ras
+
+
+
+
+
+
+
+
+
+
+{-- RADIO_13_JAZZ --}
+{-- WorldWide FM Mix --}
+[1206A]
+Worldwide FM
+[1206S]
+Gilles Peterson
+
+[1352A]
+CASHMERE CAT
+[1352S]
+Mirror Maru
+
+[1353A]
+THE HICS
+[1353S]
+Cold Air
+
+[1354A]
+INC.
+[1354S]
+The Place
+
+[1355A]
+TRICKSKI
+[1355S]
+Beginning
+
+[1356A]
+MALA
+[1356S]
+Ghost
+
+[1357A]
+SWINDLE
+[1357S]
+Forest Funk
+
+[1358A]
+TOM BROWNE
+[1358S]
+Throw Down
+
+[1359A]
+DONALD BYRD
+[1359S]
+You And The Music
+
+[1360A]
+CANDIDO
+[1360S]
+Thousand Finger Man
+
+[1361A]
+TORO Y MOI
+[1361S]
+Harm In Change
+
+[1362A]
+KYODAI
+[1362S]
+Breaking
+
+[1363A]
+DJANGO DJANGO
+[1363S]
+Waveforms
+
+[1364A]
+THE GASLAMP KILLER
+[1364S]
+Nissim
+
+[1365A]
+OWINY SIGOMA BAND
+[1365S]
+Harpoon Land
+
+[1366A]
+GUTS
+[1366S]
+Brand New Revolution
+
+[1367A]
+YUNA
+[1367S]
+Live Your Life (MeLo-X Motherland God Mix)
+
+[1368A]
+KIKO NAVARRO & TUCCILLO FEAT. AMOR
+[1368S]
+Lovery (Slow Cuban Vibe Mix)
+
+[1369A]
+RICHARD SPAVEN
+[1369S]
+1759 (Outro)
+
+[1370A]
+HACKMAN
+[1370S]
+Forgotten Notes
+
+
+
+
+{-- RADIO_14_DANCE_02 --}
+{-- Flying Lotus FM Mix --}
+[1207A]
+Flylo FM
+[1207S]
+Mix
+
+
+[1302A]
+FLYING LOTUS FEAT. NIKI RANDA
+[1302S]
+Getting There
+
+[1303A]
+CLAMS CASINO
+[1303S]
+Crystals
+
+[1304A]
+FLYING LOTUS
+[1304S]
+Crosswerved
+
+[1305A]
+FLYING LOTUS
+[1305S]
+Be Spin
+
+[1306A]
+FLYING LOTUS
+[1306S]
+See Thru To U (ft Erykah Badu)
+
+[1307A]
+FLYING LOTUS
+[1307S]
+The Diddler
+
+[1308A]
+FLYING LOTUS
+[1308S]
+Computer Face RMX
+
+[1309A]
+HUDSON MOHAWKE
+[1309S]
+100hm
+
+[1310A]
+FLYING LOTUS FEAT. NIKI RANDA
+[1310S]
+The Kill
+
+[1311A]
+TYLER, THE CREATOR
+[1311S]
+Garbage
+
+[1312A]
+OUTKAST
+[1312S]
+Elevators (Me & You)
+
+[1313A]
+CAPTAIN MURPHY
+[1313S]
+Evil Grin
+
+[1314A]
+FLYING LOTUS
+[1314S]
+Catapult Man
+
+[1315A]
+DABRYE
+[1315S]
+Encoded Flow
+
+[1316A]
+MACHINEDRUM
+[1316S]
+She Died There
+
+[1317A]
+DJ RASHAD & HEAVEE
+[1317S]
+It's Wack
+
+[1318A]
+THUNDERCAT
+[1318S]
+O Sheit It's X
+
+[1319A]
+FLYING LOTUS
+[1319S]
+Stonecutters
+
+[1320A]
+SHADOW CHILD
+[1320S]
+23
+
+[1321A]
+KINGDOM
+[1321S]
+Stalker Ha
+
+[1322A]
+APHEX TWIN
+[1322S]
+Windowlicker
+
+
+
+
+{-- RADIO_15_MOTOWN --}
+{-- The Lowdown --}
+[1007A]
+BT EXPRESS
+[1007S]
+Do It ('Til You're Satisfied)
+
+[1011A]
+THE FIVE STAIRSTEPS
+[1011S]
+O-O-H Child
+
+[1012A]
+THE DELFONICS
+[1012S]
+Ready Or Not Here I Come (Can't Hide From Love)
+
+[1013A]
+THE UNDISPUTED TRUTH
+[1013S]
+Smiling Faces Sometimes
+
+[1014A]
+EL CHICANO
+[1014S]
+Viva Tirado - Part 1
+
+[1051A]
+MARLENA SHAW
+[1051S]
+California Soul
+
+[1055A]
+GEORGE MCCRAE
+[1055S]
+I Get Lifted
+
+[1063A]
+WAR
+[1063S]
+The Cisco Kid
+
+[1226A]
+SMOKEY ROBINSON
+[1226S]
+Cruisin'
+
+[1227A]
+AARON NEVILLE
+[1227S]
+Hercules
+
+[1228A]
+THE TRAMMPS
+[1228S]
+Rubber Band
+
+[1254A]
+THE SOUL SEARCHERS
+[1254S]
+Ashley's Roachclip
+
+
+
+
+{-- RADIO_16_SILVERLAKE --}
+{-- Mirror Park Radio --}
+
+[1156A]
+BLACK STROBE
+[1156S]
+Boogie In Zero Gravity
+
+[1162A]
+THE C90S
+[1162S]
+Shine A Light (Flight Facilities Remix)
+
+[1163A]
+MIAMI HORROR
+[1163S]
+Sometimes
+
+[1170A]
+POOLSIDE
+[1170S]
+Do You Believe
+
+[1172A]
+TORO Y MOI
+[1172S]
+Harm In Change
+
+[1174A]
+LIVING DAYS
+[1174S]
+Little White Lie
+
+[1177A]
+TWIN SHADOW
+[1177S]
+Shooting Holes
+
+[1225A]
+DJ MEHDI
+[1225S]
+Lucky Boy (Outlines Remix)
+
+[1276A]
+FEATHERS
+[1276S]
+Dark Matter
+
+[1277A]
+BATTLE TAPES
+[1277S]
+Feel The Same
+
+[1278A]
+DAN CROLL
+[1278S]
+From Nowhere (Baardson Remix)
+
+[1279A]
+TONY CASTLES
+[1279S]
+Heart In The Pipes (KAUF Remix)
+
+[1280A]
+JAI PAUL
+[1280S]
+Jasmine
+
+[1281A]
+TORO Y MOI
+[1281S]
+So Many Details
+
+[1298A]
+YACHT
+[1298S]
+Psychic City (Classixx Remix)
+
+[1300A]
+YEASAYER
+[1300S]
+Don't Come Close
+
+[1347A]
+FAVORED NATIONS
+[1347S]
+The Set Up
+
+[1348A]
+THE CHAIN GANG OF 1974
+[1348S]
+Sleepwalking
+
+[1349A]
+TWIN SHADOW
+[1349S]
+Old Love, New Love
+
+[1350A]
+HEALTH
+[1350S]
+High Pressure Dave
+
+[1379A]
+NEON INDIAN
+[1379S]
+Change Of Coast
+
+[1391A]
+AGE OF CONSENT
+[1391S]
+Colours
+
+[1392A]
+NITE JEWEL
+[1392S]
+Nowhere To Go
+
+
+
+
+
+{-- RADIO_17_FUNK --}
+{-- Space 102.3 --}
+[1009A]
+RICK JAMES
+[1009S]
+Give It To Me Baby
+
+[1035A]
+EDDIE MURPHY
+[1035S]
+Party All The Time
+
+[1052A]
+ONE WAY
+[1052S]
+Cutie Pie
+
+[1060A]
+STEVIE WONDER
+[1060S]
+Skeletons
+
+[1064A]
+WELDON IRVINE
+[1064S]
+We're Getting Down
+
+[1083A]
+EVELYN CHAMPAGNE KING
+[1083S]
+I'm In Love (12" Dance Mix)
+
+[1218A]
+ZAPP
+[1218S]
+Heartbreaker, Pts. 1-2
+
+[1219A]
+BOOTSY COLLINS
+[1219S]
+I'd Rather Be With You
+
+[1220A]
+KLEEER
+[1220S]
+Tonight
+
+[1221A]
+D TRAIN
+[1221S]
+You're The One For Me
+
+[1247A]
+SHO-NUFF
+[1247S]
+Funkasize You
+
+[1248A]
+TAANA GARDNER
+[1248S]
+Heartbeat
+
+{-- [1292A] --}
+{-- KANO --}
+{-- [1292S] --}
+{-- Can't Hold Back (Your Loving) --}
+
+[1381A]
+BERNARD WRIGHT
+[1381S]
+Haboglabotribin'
+
+
+
+
+
+{-- RADIO_18_90S_ROCK --}
+{-- Pre-Millenium Radio --}
+[1267A]
+FIDLAR
+[1267S]
+Cocaine
+
+[1268A]
+BASS DRUM OF DEATH
+[1268S]
+Crawling After You
+
+[1270A]
+SAM FLAX
+[1270S]
+Fire Doesn't Burn Itself
+
+[1273A]
+MOON DUO
+[1273S]
+Sleepwalker
+
+[1275A]
+HOT SNAKES
+[1275S]
+This Mystic Decade
+
+[1297A]
+SHARK?
+[1297S]
+California Grrls
+
+[1351A]
+WAVVES
+[1351S]
+Nine Is God
+
+[1377A]
+THE BLACK ANGELS
+[1377S]
+Black Grease
+
+[1393A]
+TY SEGALL BAND
+[1393S]
+Diddy Wah Diddy
+
+[1394A]
+METZ
+[1394S]
+Wet Blanket
+
+[1395A]
+CEREMONY
+[1395S]
+Hysteria
+
+[1396A]
+THEE OH SEES
+[1396S]
+The Dream
+
+
+

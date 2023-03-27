@@ -1,0 +1,113 @@
+﻿{--- Vice City FM music --}
+[10015A]
+NENEH CHERRY
+[10015S]
+Buffalo Stance
+[10016A]
+ROBBIE NEVIL
+[10016S]
+C'est la Vie
+[10017A]
+ROACHFORD
+[10017S]
+Cuddly Toy
+[10018A]
+NARADA MICHAEL WALDEN
+[10018S]
+Divine Emotions
+[10019A]
+FIVE STAR
+[10019S]
+Find the Time
+[10020A]
+T'PAU
+[10020S]
+Heart and Soul
+[10021A]
+MAI TAI
+[10021S]
+History
+[10022A]
+NU SHOOZ
+[10022S]
+I Can't Wait
+[10023A]
+TEXAS
+[10023S]
+I Don't Want A Lover
+[10024A]
+MARILLION
+[10024S]
+Kayleigh
+[10025A]
+HUE AND CRY
+[10025S]
+Labour of Love
+[10026A]
+CLIMIE FISHER
+[10026S]
+Love Changes (Everything)
+[10027A]
+HALL & OATES
+[10027S]
+Maneater
+[10028A]
+CURIOSITY KILLED THE CAT
+[10028S]
+Misfit
+[10029A]
+COLDCUT FEAT. LISA STANSFIELD
+[10029S]
+People Hold On
+[10030A]
+RE-FLEX
+[10030S]
+The Politics of Dancing
+[10031A]
+LEVEL 42
+[10031S]
+Something About You
+[10032A]
+JEFFREY OSBORNE
+[10032S]
+Stay with Me Tonight
+[10033A]
+WOMACK & WOMACK
+[10033S]
+Teardrops
+[10034A]
+ROXETTE
+[10034S]
+The Look
+[10035A]
+­'TIL TUESDAY
+[10035S]
+Voices Carry
+[10036A]
+BOY MEETS GIRL
+[10036S]
+Waiting for a Star to Fall
+[10037A]
+PREFAB SPROUT
+[10037S]
+When Love Breaks Down
+[10038A]
+WET WET WET
+[10038S]
+Wishing I Was Lucky
+[10039A]
+TERENCE TRENT D'ARBY
+[10039S]
+Wishing Well
+[10040A]
+SCRITTI POLITTI
+[10040S]
+Wood Beez (Pray Like Aretha Franklin)
+[10041A]
+JOHN FARNHAM
+[10041S]
+You're The Voice
+[10042A]
+SWING OUT SISTER
+[10042S]
+Breakout

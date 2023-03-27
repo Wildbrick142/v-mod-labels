@@ -1,0 +1,629 @@
+﻿
+
+[12000A]
+ULTRAISTA
+[12000S]
+Smalltalk (Four Tet Remix)
+
+[12001A]
+DIGITALISM
+[12001S]
+2 Hearts
+
+[12002A]
+DUCKTAILS
+[12002S]
+Assistant Director
+
+[12003A]
+FRIENDLY FIRES
+[12003S]
+Hurting
+
+[12004A]
+FUTURE ISLANDS
+[12004S]
+Before The Bridge
+
+[12005A]
+GOLD FIELDS
+[12005S]
+Thunder
+[12006A]
+JUNIOR BOYS
+[12006S]
+ep
+
+[12007A]
+MIIKE SNOW
+[12007S]
+Animal
+
+[12008A]
+MOVING UNITS
+[12008S]
+Until She Says
+
+[12009A]
+PANAMA
+[12009S]
+One Piece
+
+[12010A]
+RAINBOW ARABIA
+[12010S]
+Blind
+
+[12011A]
+SEBASTIAN
+[12011S]
+Love In Motion
+
+[12012A]
+THE SHOES
+[12012S]
+Time to Dance
+
+[12013A]
+TORO Y MOI
+[12013S]
+Day One
+
+[12014A]
+TWIN SHADOW
+[12014S]
+Run My Heart
+
+[12015A]
+WAKA FLOCKA FLAME
+[12015S]
+Rooster in My Rari
+
+[12016A]
+A$AP ROCKY
+[12016S]
+Fuckin' Problems
+
+[12017A]
+BUDDY
+[12017S]
+Awesome Awesome
+
+[12018A]
+JAY ROCK
+[12018S]
+Boomerang
+
+[12019A]
+GLASSES MALONE FEAT. JAY ROCK
+[12019S]
+No Sympathy
+
+[12020A]
+KANYE WEST FEAT. BIG SEAN, PUSHA T & 2 CHAINZ
+[12020S]
+Mercy
+
+[12021A]
+JUICY J FEAT. LIL WAYNE & 2 CHAINZ
+[12021S]
+Bandz A Make Her Dance
+
+[12022A]
+TYGA
+[12022S]
+Rack City
+
+[12023A]
+WIZ KHALIFA
+[12023S]
+Work Hard, Play Hard
+
+[12024A]
+WC FEAT. YOUNG MAYLAY & ICE CUBE
+[12024S]
+You Know Me
+
+[12025A]
+FRENCH MONTANA
+[12025S]
+Pop That (ft Drake, Rick Ross, Lil Wayne)
+
+[12026A]
+DJ DRAMA FEAT. YOUNG JEEZY & FREDDIE GIBBS
+[12026S]
+Rough
+
+[12027A]
+YOUNG JEEZY FEAT. FREDDIE GIBBS
+[12027S]
+Do It for You
+
+[12028A]
+MEEK MILL FEAT. RICK ROSS
+[12028S]
+Believe It
+
+[12029A]
+T.I. FEAT. TRAE THA TRUTH
+[12029S]
+What It Do
+
+[12030A]
+2 CHAINZ FEAT. DRAKE
+[12030S]
+No Lie
+
+[12031A]
+2 CHAINZ
+[12031S]
+I'm Different
+
+[12032A]
+WIZ KHALIFA FEAT. LOLA MONROE
+[12032S]
+Initiation
+
+[12033A]
+100S 
+[12033S]
+Brick $ell Phone
+
+[12034A]
+MACHINE GUN KELLY FEAT. WAKA FLOCKA FLAME
+[12034S]
+Wild Boy
+
+[12035A]
+E-40 FEAT. SLIM THUG & BUN B
+[12035S]
+That Candy Paint
+
+[12036A]
+CLAMS CASINO
+[12036S]
+Cold War
+
+[12037A]
+MIGUEL
+[12037S]
+Adorn
+
+[12038A]
+COLD WAR KIDS
+[12038S]
+Hang Me Up To Dry
+
+[12039A]
+DIIV
+[12039S]
+Doused
+
+[12040A]
+HANNI EL KHATIB
+[12040S]
+Head In the Dirt
+
+[12041A]
+HANNI EL KHATIB
+[12041S]
+Pay No Mind
+
+[12042A]
+NO AGE
+[12042S]
+Eraser
+
+[12043A]
+PSYCHIC ILLS
+[12043S]
+I Get By
+
+[12044A]
+TAME IMPALA
+[12044S]
+Solitude Is Bliss
+
+[12045A]
+WAVVES
+[12045S]
+Dog
+
+[12046A]
+ESTELLE
+[12046S]
+American Boy
+
+[12047A]
+TEARS FOR FEARS
+[12047S]
+Everybody Wants To Rule The World
+
+[12048A]
+TIMBALAND
+[12048S]
+The Way I Are
+
+[12049A]
+COBRA STARSHIP
+[12049S]
+You Make Me Feel...
+
+[12050A]
+WILSON PHILLIPS
+[12050S]
+Hold On
+
+[12051A]
+JAMIROQUAI
+[12051S]
+Love Foolosophy
+
+[12052A]
+KEVIN RUDOLF FEAT. LIL WAYNE
+[12052S]
+Let It Rock
+
+[12053A]
+KYLIE MINOGUE
+[12053S]
+Surrender
+
+[12054A]
+SEAL
+[12054S]
+Future Love Paradise
+
+[12055A]
+DUNCAN SHEIK
+[12055S]
+She Runs Away
+
+[12056A]
+ENRIQUE IGLESIAS/PITBULL
+[12056S]
+I Like It
+
+[12057A]
+NEON TREES
+[12057S]
+Animal
+
+[12058A]
+SEAN PAUL
+[12058S]
+Temperature
+
+[12059A]
+DURAN DURAN
+[12059S]
+Serious
+
+[12060A]
+OLIVIA NEWTON-JOHN
+[12060S]
+Physical
+
+[12061A]
+RUFUS & CHAKA KHAN
+[12061S]
+Ain't Nobody
+
+[12062A]
+2PAC
+[12062S]
+How Do U Want It
+
+[12063A]
+WARREN G
+[12063S]
+Regulate
+
+[12064A]
+DR. DRE
+[12064S]
+Let Me Ride
+
+[12065A]
+ICE CUBE
+[12065S]
+Wicked
+[12066A]
+MACK 10 FEAT. ICE CUBE & WC
+[12066S]
+Westside Slaughterhouse
+
+[12067A]
+DJ POOH
+[12067S]
+Whoop! Whoop!
+
+[12068A]
+NATE DOGG
+[12068S]
+I Got Love
+
+[12069A]
+MC REN
+[12069S]
+Ruthless For Life
+
+[12070A]
+BONE THUGZ-N-HARMONY
+[12070S]
+Mr. Bill Collector
+
+[12071A]
+THE D.O.C FEAT. N.W.A
+[12071S]
+Grand Finalé
+
+[12072A]
+SNOOP DOGG FT. GOLDIE LOC 
+[12072S]
+20 Minutes
+
+[12073A]
+SNOOP DOGG FT. GOLDIE LOC
+[12073S]
+Back Up Ho
+
+[12074A]
+TOO SHORT
+[12074S]
+Money In The Ghetto
+
+[12075A]
+DIGITAL UNDERGROUND
+[12075S]
+Same Song
+
+[12076A]
+WAR
+[12076S]
+Slippin' Into Darkness
+
+[12077A]
+MARVIN GAYE
+[12077S]
+I Want You (Vocal)
+
+[12078A]
+THE JACKSON FIVE
+[12078S]
+Dancing Machine
+
+[12079A]
+LOLEATTA HOLLOWAY
+[12079S]
+Runaway
+
+[12080A]
+THE DRAMATICS
+[12080S]
+Whatcha See Is Whatcha Get
+
+[12081A]
+THE POINTER SISTERS
+[12081S]
+Yes We Can, Can
+
+[12082A]
+EDWIN STARR
+[12082S]
+Easin' In
+
+[12083A]
+TIMMY THOMAS
+[12083S]
+Why Can't We Live Together
+
+[12084A]
+THE METERS
+[12084S]
+Cissy Strut
+
+[12085A]
+THE KAY-GEES
+[12085S]
+Master Plan
+
+[12086A]
+OHIO PLAYERS
+[12086S]
+Fopp
+
+[12087A]
+THE TEMPTATIONS
+[12087S]
+Cloud Nine
+
+[12088A]
+WELDON IRVINE
+[12088S]
+We Gettin' Down
+
+[12089A]
+JIGSAW
+[12089S]
+Sky High
+
+[12090A]
+LITTLE ANTHONY
+[12090S]
+Tears On My Pillow
+
+[12091A]
+THE BROTHERS JOHNSON
+[12091S]
+Strawberry Letter #23
+
+[12092A]
+THE DETROIT EMERALDS
+[12092S]
+Baby Let Me Take You (In My Arms)
+
+[12093A]
+THE TEMPTATIONS
+[12093S]
+Psychedelic Shack
+
+[12094A]
+THE SHIRELLES
+[12094S]
+Dedicated To The One I Love
+
+[12095A]
+BAD RELIGION
+[12095S]
+We're Only Gonna Die
+
+[12096A]
+AGENT ORANGE
+[12096S]
+Bloodstains
+
+[12097A]
+THE GERMS
+[12097S]
+Manimal
+
+[12098A]
+THE ALLEY CATS
+[12098S]
+Nothing Means Nothing Anymore
+
+[12099A]
+THE GUN CLUB
+[12099S]
+Sex Beat
+
+[12100A]
+FEAR
+[12100S]
+Let's Have a War
+
+[12101A]
+THE WEIRDOS
+[12101S]
+Solitary Confinement
+
+[12102A]
+THE LAST
+[12102S]
+She Don't Know Why I'm Here
+
+[12103A]
+THE DESCENDENTS
+[12103S]
+Ride The Wild
+
+[12104A]
+7 SECONDS
+[12104S]
+99 Red Balloons
+
+[12105A]
+THE DICKIES
+[12105S]
+Give It Back
+
+[12106A]
+MIDDLE CLASS
+[12106S]
+Out Of Vogue
+
+[12107A]
+REDD KROSS
+[12107S]
+I Hate My School
+
+[12108A]
+CIRCLE JERKS
+[12108S]
+Dude
+
+[12109A]
+THE DICKIES
+[12109S]
+Hideous
+
+[12110A]
+SCREAMERS
+[12110S]
+Vertigo
+
+[12111A]
+FRENZAL RHOMB
+[12111S]
+You Are Not My Friend
+
+[12112A]
+TOY SELECTAH
+[12112S]
+El Sabanero Raver
+
+[12113A]
+NATALIE DUNCAN
+[12113S]
+Devil In Me
+
+[12114A]
+JOE
+[12114S]
+MB
+
+[12115A]
+THE INVISIBLE
+[12115S]
+Generational (Theo Parrish Edit)
+
+[12116A]
+LEWIS TAYLOR
+[12116S]
+Lucky
+
+[12117A]
+ALICE RUSSELL
+[12117S]
+For A While
+
+[12118A]
+MILES DAVIS
+[12118S]
+Will O' The Wisp
+
+[12119A]
+LIANNE LA HAVAS
+[12119S]
+Au Cinéma
+
+[12120A]
+RHYE
+[12120S]
+The Fall
+
+[12121A]
+THE FUNKEES
+[12121S]
+Dancing Time
+
+[12122A]
+JANKO NILOVIĆ
+[12122S]
+Funky Tramway
+
+[12123A]
+LOVE, WARMTH & AFFECTION
+[12123S]
+Talking 'bout Love
+
+[12124A]
+IBRAHIM MAALOUF
+[12124S]
+Missin'ya (Night in Tunisia)
+
+[12125A]
+JEF GILSON
+[12125S]
+Chakan

@@ -1,0 +1,2166 @@
+﻿{ Rockstar Editor SFX }
+
+{-- original score --}
+[2101A]
+Electro
+[2101S]
+Dark Intent
+
+[2102A]
+Electro
+[2102S]
+Vacuum
+
+[2103A]
+Electro
+[2103S]
+The City
+
+[2104A]
+Electro
+[2104S]
+City Lights
+
+[2105A]
+Electro
+[2105S]
+The Streets
+
+[2106A]
+Electro
+[2106S]
+Scrapyard
+
+[2107A]
+Electro
+[2107S]
+Slow Burn
+
+[2108A]
+Rock
+[2108S]
+Gasoline Trail
+
+[2109A]
+Rock
+[2109S]
+Rolling Tracks
+
+[2110A]
+Rock
+[2110S]
+Silver Splinter
+
+[2111A]
+Rock
+[2111S]
+Debunked
+
+[2112A]
+Rock
+[2112S]
+The Summit
+
+[2113A]
+Rock
+[2113S]
+Distant Rumble
+
+[2114A]
+Rock
+[2114S]
+Crocodile Tears
+
+[2115A]
+Urban
+[2115S]
+Shotgun Game
+
+[2116A]
+Urban
+[2116S]
+Cruising
+
+[2117A]
+Urban
+[2117S]
+Street Slice
+
+[2118A]
+Urban
+[2118S]
+Vodka
+
+[2119A]
+Urban
+[2119S]
+Gun Novel
+
+
+
+
+{--- Commercials ---}
+[3100A]
+Commercial
+[3100S]
+Life Invader
+
+[3101A]
+Commercial
+[3101S]
+Righteous Slaughter "Nuke"
+
+[3102A]
+Commercial
+[3102S]
+Righteous Slaughter "Russians"
+
+[3103A]
+Commercial
+[3103S]
+Righteous Slaughter "Levels"
+
+[3104A]
+Commercial
+[3104S]
+San Andreas Tourism Board
+
+[3105A]
+Commercial
+[3105S]
+Grand Senora Desert
+
+[3106A]
+Commercial
+[3106S]
+San Andreas Water And Power
+
+[3107A]
+Commercial
+[3107S]
+Up-n-Atom
+
+[3108A]
+Commercial
+[3108S]
+Proposition 43
+
+[3109A]
+Commercial
+[3109S]
+Toeshoes
+
+[3110A]
+Commercial
+[3110S]
+Implant Outsource
+
+[3111A]
+Commercial
+[3111S]
+Donate Your Car
+
+[3112A]
+Commercial
+[3112S]
+Race To Pluto
+
+[3113A]
+Commercial
+[3113S]
+Proposition 208 "Dad"
+
+[3114A]
+Commercial
+[3114S]
+Proposition 208 "Jungle"
+
+[3115A]
+Commercial
+[3115S]
+Pisswasser
+
+[3116A]
+Commercial
+[3116S]
+Queensbury Boxing
+
+[3117A]
+Commercial
+[3117S]
+Lottery "Solving Hunger"
+
+[3118A]
+Commercial
+[3118S]
+Lottery 2 "Bugle"
+
+[3119A]
+Commercial
+[3119S]
+Whiz Wireless
+
+[3120A]
+Commercial
+[3120S]
+Rectify Holistic
+
+[3121A]
+Commercial
+[3121S]
+Jay's Bail Bonds
+
+[3122A]
+Commercial
+[3122S]
+Ovine Human Resources
+
+[3123A]
+Commercial
+[3123S]
+Proposition 14
+
+[3124A]
+Commercial
+[3124S]
+Prison Industrial Complex "Officer"
+
+[3125A]
+Commercial
+[3125S]
+Prison Industrial Complex 2 "Franchise"
+
+[3126A]
+Commercial
+[3126S]
+San Andreas Lobotomy
+
+[3127A]
+Commercial
+[3127S]
+Darwinian Yoga
+
+[3128A]
+Commercial
+[3128S]
+Gastro Band
+
+[3129A]
+Commercial
+[3129S]
+Economic Recovery Group
+
+[3130A]
+Commercial
+[3130S]
+Rehab Island
+
+[3131A]
+Commercial
+[3131S]
+Larry's RV Sales
+
+[3132A]
+Commercial
+[3132S]
+Night Lights
+
+[3133A]
+Commercial
+[3133S]
+Head Shots
+
+[3134A]
+Commercial
+[3134S]
+Electrotoke
+
+[3135A]
+Commercial
+[3135S]
+Toilet Cleaner
+
+[3136A]
+Commercial
+[3136S]
+Stop Paying Your Mortgage
+
+[3137A]
+Commercial
+[3137S]
+Floyd's Scrap Metal
+
+[3138A]
+Commercial
+[3138S]
+Buddy's Trucking
+
+[3139A]
+Commercial
+[3139S]
+Fleeca "Interest Fees"
+
+[3140A]
+Commercial
+[3140S]
+Fleeca 2 "Bedroom"
+
+[3141A]
+Commercial
+[3141S]
+Shark
+
+[3142A]
+Commercial
+[3142S]
+Smoked Dreams
+
+[3143A]
+Commercial
+[3143S]
+Hipsters For Hire
+
+[3144A]
+Commercial
+[3144S]
+Preservex
+
+[3145A]
+Commercial
+[3145S]
+Don's Country Store
+
+[3146A]
+Commercial
+[3146S]
+Proposition 45
+
+[3147A]
+Commercial
+[3147S]
+Windsor Real Estate "Immigrant"
+
+[3148A]
+Commercial
+[3148S]
+Windsor Real Estate 2 "Swinger"
+
+[3149A]
+Commercial
+[3149S]
+Cuckold Therapy
+
+[3150A]
+Commercial
+[3150S]
+Digifarm "Digifarm"
+
+[3151A]
+Commercial
+[3151S]
+Digifarm "Games"
+
+[3152A]
+Commercial
+[3152S]
+Blaine County Bank
+
+[3153A]
+Commercial
+[3153S]
+Lombank
+
+[3154A]
+Commercial
+[3154S]
+Hitting Kids Works Wonders
+
+[3155A]
+Commercial
+[3155S]
+Vinewood Health
+
+[3156A]
+Commercial
+[3156S]
+LS Benders "Wanker"
+
+[3157A]
+Commercial
+[3157S]
+LS Benders "Fat Bastard"
+
+[3158A]
+Commercial
+[3158S]
+Youtool
+
+[3159A]
+Commercial
+[3159S]
+Ammunation "Gardening"
+
+[3160A]
+Commercial
+[3160S]
+Ammunation "Apocalypse"
+
+[3161A]
+Commercial
+[3161S]
+Flow Water
+
+[3162A]
+Commercial
+[3162S]
+13 Steps To Heaven "Opportunity"
+
+[3163A]
+Commercial
+[3163S]
+Serious Cougar
+
+[3164A]
+Commercial
+[3164S]
+Cloud Computing
+
+[3165A]
+Commercial
+[3165S]
+Pride Not Prejudice "Grain Alcohol"
+
+[3166A]
+Commercial
+[3166S]
+Pride Not Prejudice "Tornado"
+
+[3167A]
+Commercial
+[3167S]
+Hitting Kids Works Wonders "Pot"
+
+[3168A]
+Commercial
+[3168S]
+Hammerstein And Faust
+
+[3169A]
+Commercial
+[3169S]
+Grain Of Truth
+
+[3170A]
+Commercial
+[3170S]
+FlyUS "Choices"
+
+[3171A]
+Commercial
+[3171S]
+FlyUS "Drunk"
+
+[3172A]
+Commercial
+[3172S]
+FlyUS "Planes"
+
+[3173A]
+Commercial
+[3173S]
+Refinance Your Home
+
+[3174A]
+Commercial
+[3174S]
+Unlock The Power "Jerking"
+
+[3175A]
+Commercial
+[3175S]
+Unlock The Power "Abyss"
+
+[3176A]
+Commercial
+[3176S]
+13 Steps To Heaven "Drowning"
+
+[3177A]
+Commercial
+[3177S]
+13 Steps To Heaven "Train"
+
+[3178A]
+Commercial
+[3178S]
+Manopause Adventures
+
+[3179A]
+Commercial
+[3179S]
+MMA
+
+[3180A]
+Commercial
+[3180S]
+Alcoholla
+
+[3181A]
+Commercial
+[3181S]
+Egochaser
+
+[3182A]
+Commercial
+[3182S]
+Chains Of Intimacy "Throbbing"
+
+[3183A]
+Commercial
+[3183S]
+Chains Of Intimacy "Diamonds"
+
+[3184A]
+Commercial
+[3184S]
+Bravado "Farms"
+
+[3185A]
+Commercial
+[3185S]
+Bravado "Cruise Control"
+
+[3186A]
+Commercial
+[3186S]
+SA Flight School
+
+[3187A]
+Commercial
+[3187S]
+Crevis "Nature"
+
+[3188A]
+Commercial
+[3188S]
+Crevis "Everest"
+
+[3189A]
+Commercial
+[3189S]
+Epsilon "Antarctica"
+
+[3190A]
+Commercial
+[3190S]
+Epsilon "Famous People"
+
+[3191A]
+Commercial
+[3191S]
+13 Steps To Heaven "Victims"
+
+[3192A]
+Commercial
+[3192S]
+Pontius
+
+[3193A]
+Commercial
+[3193S]
+Sue Murry
+
+[3194A]
+Commercial
+[3194S]
+Jock Cranley "Vote Jock"
+
+[3195A]
+Commercial
+[3195S]
+Jock Cranley "Your Jock"
+
+[3196A]
+Commercial
+[3196S]
+Extreme Paleo TM "Get Extreme"
+
+[3197A]
+Commercial
+[3197S]
+Extreme Paleo TM 2 "Real Paleo"
+
+[3198A]
+Commercial
+[3198S]
+Machiavelli Race "Win"
+
+[3199A]
+Commercial
+[3199S]
+Machiavelli Race "The Race"
+
+[3200A]
+Commercial
+[3200S]
+Mystaspot
+
+[3201A]
+Commercial
+[3201S]
+Phat Chips
+
+[3202A]
+Commercial
+[3202S]
+TCS Energy Pro 1
+
+[3203A]
+Commercial
+[3203S]
+TCS Energy Pro 2
+
+[3204A]
+Commercial
+[3204S]
+Visit Liberty City
+
+[3205A]
+Commercial
+[3205S]
+Bison
+
+[3206A]
+Commercial
+[3206S]
+Bravado "Together"
+
+[3207A]
+Commercial
+[3207S]
+Logger Beer
+
+[3208A]
+Commercial
+[3208S]
+Lottery "Ex-Wife"
+
+[3209A]
+Commercial
+[3209S]
+Hospital
+
+[3210A]
+Commercial
+[3210S]
+San Andreas Tourism Board 2
+
+[3211A]
+Commercial
+[3211S]
+San Andreas Water And Power 2
+
+[3212A]
+Commercial
+[3212S]
+Stunt Academy
+
+[3213A]
+Commercial
+[3213S]
+Epsilon "Famous People" 2
+
+[3214A]
+Commercial
+[3214S]
+Phat Chips 2
+
+[3215A]
+Commercial
+[3215S]
+Mystaspot 2
+
+[3216A]
+Commercial
+[3216S]
+Ammunation "Apocalypse" 2
+
+[3217A]
+Commercial
+[3217S]
+Grand Senora Desert 2
+
+[3218A]
+Commercial
+[3218S]
+Life Invader 2
+
+[3219A]
+Commercial
+[3219S]
+Surano
+
+[3220A]
+Commercial
+[3220S]
+Up-n-Atom 2
+
+
+
+
+
+
+{-- SFX --}
+[3300A]
+충돌
+
+[3300S]
+강한 충돌 1
+
+[3301A]
+충돌
+
+[3301S]
+강한 충돌 2
+
+[3302A]
+충돌
+
+[3302S]
+강한 충돌 3
+
+[3303A]
+충돌
+
+[3303S]
+보통 충돌 1
+
+[3304A]
+충돌
+
+[3304S]
+보통 충돌 2
+
+[3305A]
+충돌
+
+[3305S]
+보통 충돌 3
+
+[3306A]
+충돌
+
+[3306S]
+가벼운 충돌 1
+
+[3307A]
+충돌
+
+[3307S]
+가벼운 충돌 2
+
+[3308A]
+충돌
+
+[3308S]
+가벼운 충돌 3
+
+[3309A]
+폭파
+
+[3309S]
+금속 폭파 1
+
+[3310A]
+폭파
+
+[3310S]
+금속 폭파 2
+
+[3311A]
+폭파
+
+[3311S]
+금속 폭파 3
+
+[3312A]
+폭파
+
+[3312S]
+나무 폭파 1
+
+[3313A]
+폭파
+
+[3313S]
+나무 폭파 2
+
+[3314A]
+폭파
+
+[3314S]
+나무 폭파 3
+
+[3315A]
+충돌
+
+[3315S]
+큰 유리 파열 1
+
+[3316A]
+충돌
+
+[3316S]
+큰 유리 파열 2
+
+[3317A]
+충돌
+
+[3317S]
+큰 유리 파열 3
+
+[3318A]
+충돌
+
+[3318S]
+보통 유리 파열 1
+
+[3319A]
+충돌
+
+[3319S]
+보통 유리 파열 2
+
+[3320A]
+충돌
+
+[3320S]
+보통 유리 파열 3
+
+[3321A]
+충돌
+
+[3321S]
+가벼운 유리 파열 1
+
+[3322A]
+충돌
+
+[3322S]
+가벼운 유리 파열 2
+
+[3323A]
+충돌
+
+[3323S]
+가벼운 유리 파열 3
+
+[3324A]
+폭파
+
+[3324S]
+폭파 1
+
+[3325A]
+폭파
+
+[3325S]
+폭파 2
+
+[3326A]
+폭파
+
+[3326S]
+폭파 3
+
+[3327A]
+폭파
+
+[3327S]
+멀리서 들리는 폭파 1
+
+[3328A]
+폭파
+
+[3328S]
+멀리서 들리는 폭파 2
+
+[3329A]
+폭파
+
+[3329S]
+멀리서 들리는 폭파 3
+
+[3330A]
+기타
+
+[3330S]
+문 열림 1
+
+[3331A]
+기타
+
+[3331S]
+문 열림 2
+
+[3332A]
+기타
+
+[3332S]
+문 닫힘 1
+
+[3333A]
+기타
+
+[3333S]
+문 닫힘 2
+
+[3334A]
+이동 수단 지나가는 소리
+
+[3334S]
+제트기 지나감 5
+
+[3335A]
+이동 수단 지나가는 소리
+
+[3335S]
+제트기 지나감 6
+
+[3340A]
+기타
+
+[3340S]
+병 깨짐 1
+
+[3341A]
+기타
+
+[3341S]
+병 깨짐 2
+
+[3342A]
+기타
+
+[3342S]
+병 깨짐 3
+
+[3343A]
+기타
+
+[3343S]
+타이어 미끄러짐 1
+
+[3344A]
+기타
+
+[3344S]
+타이어 미끄러짐 2
+
+[3345A]
+기타
+
+[3345S]
+타이어 미끄러짐 3
+
+[3346A]
+기타
+
+[3346S]
+타이어 미끄러짐 4
+
+[3347A]
+기타
+
+[3347S]
+타이어 미끄러짐 5
+
+[3348A]
+기타
+
+[3348S]
+노크 1
+
+[3349A]
+기타
+
+[3349S]
+노크 2
+
+[3350A]
+기타
+
+[3350S]
+노크 3
+
+[3351A]
+기타
+
+[3351S]
+노크 4
+
+[3352A]
+기타
+
+[3352S]
+노크 5
+
+[3353A]
+기타
+
+[3353S]
+노크 6
+
+[3354A]
+기타
+
+[3354S]
+노크 7
+
+[3355A]
+기타
+
+[3355S]
+개 짖음 1
+
+[3356A]
+기타
+
+[3356S]
+개 짖음 2
+
+[3357A]
+기타
+
+[3357S]
+개 짖음 3
+
+[3358A]
+기타
+
+[3358S]
+개 짖음 4
+
+[3359A]
+기타
+
+[3359S]
+개 짖음 5
+
+[3360A]
+이동 수단 지나가는 소리
+
+[3360S]
+자동차가 경적 울리며 지나감 1
+
+[3361A]
+이동 수단 지나가는 소리
+
+[3361S]
+자동차가 경적 울리며 지나감 2
+
+[3362A]
+이동 수단 지나가는 소리
+
+[3362S]
+자동차가 경적 울리며 지나감 3
+
+[3363A]
+이동 수단 지나가는 소리
+
+[3363S]
+자동차가 경적 울리며 지나감 4
+
+[3364A]
+이동 수단 지나가는 소리
+
+[3364S]
+자동차가 경적 울리며 지나감 5
+
+[3365A]
+이동 수단 지나가는 소리
+
+[3365S]
+트럭이 경적 울리며 지나감 1
+
+[3366A]
+이동 수단 지나가는 소리
+
+[3366S]
+트럭이 경적 울리며 지나감 2
+
+[3367A]
+이동 수단 지나가는 소리
+
+[3367S]
+트럭이 경적 울리며 지나감 3
+
+[3368A]
+이동 수단 지나가는 소리
+
+[3368S]
+오토바이가 경적 울리며 지나감 1
+
+[3369A]
+이동 수단 지나가는 소리
+
+[3369S]
+오토바이가 경적 울리며 지나감 2
+
+[3370A]
+이동 수단 지나가는 소리
+
+[3370S]
+오토바이가 경적 울리며 지나감 3
+
+[3371A]
+이동 수단 지나가는 소리
+
+[3371S]
+오토바이가 경적 울리며 지나감 4
+
+[3372A]
+이동 수단 지나가는 소리
+
+[3372S]
+오토바이가 경적 울리며 지나감 5
+
+[3373A]
+이동 수단 지나가는 소리
+
+[3373S]
+오토바이가 경적 울리며 지나감 6
+
+[3374A]
+이동 수단 지나가는 소리
+
+[3374S]
+오토바이 지나감 1
+
+[3375A]
+이동 수단 지나가는 소리
+
+[3375S]
+오토바이 지나감 2
+
+[3376A]
+이동 수단 지나가는 소리
+
+[3376S]
+오토바이 지나감 3
+
+[3377A]
+이동 수단 지나가는 소리
+
+[3377S]
+오토바이 지나감 4
+
+[3378A]
+이동 수단 지나가는 소리
+
+[3378S]
+오토바이 지나감 5
+
+[3379A]
+이동 수단 지나가는 소리
+
+[3379S]
+차 지나감 1
+
+[3380A]
+이동 수단 지나가는 소리
+
+[3380S]
+차 지나감 2
+
+[3381A]
+이동 수단 지나가는 소리
+
+[3381S]
+차 지나감 3
+
+[3382A]
+이동 수단 지나가는 소리
+
+[3382S]
+차 지나감 4
+
+[3383A]
+이동 수단 지나가는 소리
+
+[3383S]
+차 지나감 5
+
+[3384A]
+이동 수단 지나가는 소리
+
+[3384S]
+차 지나감 6
+
+[3385A]
+이동 수단 지나가는 소리
+
+[3385S]
+차 지나감 7
+
+[3386A]
+이동 수단 지나가는 소리
+
+[3386S]
+차 지나감 8
+
+[3387A]
+이동 수단 지나가는 소리
+
+[3387S]
+사이렌 지나감 1
+
+[3388A]
+이동 수단 지나가는 소리
+
+[3388S]
+사이렌 지나감 2
+
+[3389A]
+이동 수단 지나가는 소리
+
+[3389S]
+사이렌 지나감 3
+
+[3390A]
+이동 수단 지나가는 소리
+
+[3390S]
+사이렌 지나감 4
+
+[3391A]
+이동 수단 지나가는 소리
+
+[3391S]
+프로펠러 비행기 지나감 1
+
+[3392A]
+이동 수단 지나가는 소리
+
+[3392S]
+프로펠러 비행기 지나감 2
+
+[3393A]
+이동 수단 지나가는 소리
+
+[3393S]
+프로펠러 비행기 지나감 3
+
+[3394A]
+이동 수단 지나가는 소리
+
+[3394S]
+프로펠러 비행기 지나감 4
+
+[3395A]
+이동 수단 지나가는 소리
+
+[3395S]
+프로펠러 비행기 지나감 5
+
+[3396A]
+이동 수단 지나가는 소리
+
+[3396S]
+제트기 지나감 1
+
+[3397A]
+이동 수단 지나가는 소리
+
+[3397S]
+제트기 지나감 2
+
+[3398A]
+이동 수단 지나가는 소리
+
+[3398S]
+제트기 지나감 3
+
+[3399A]
+이동 수단 지나가는 소리
+
+[3399S]
+제트기 지나감 4
+
+[3400A]
+스팅거
+
+[3400S]
+스팅거 히트 1
+
+[3401A]
+스팅거
+
+[3401S]
+스팅거 히트 2
+
+[3402A]
+스팅거
+
+[3402S]
+스팅거 히트 3
+
+[3403A]
+스팅거
+
+[3403S]
+스팅거 히트 4
+
+[3404A]
+스팅거
+
+[3404S]
+스팅거 히트 5
+
+[3405A]
+스팅거
+
+[3405S]
+스팅거 라이저 1
+
+[3406A]
+스팅거
+
+[3406S]
+스팅거 라이저 2
+
+[3407A]
+스팅거
+
+[3407S]
+스팅거 라이저 3
+
+[3408A]
+스팅거
+
+[3408S]
+스팅거 라이저 4
+
+[3409A]
+스팅거
+
+[3409S]
+스팅거 라이저 5
+
+[3410A]
+스팅거
+
+[3410S]
+스팅거 와이프 1
+
+[3411A]
+스팅거
+
+[3411S]
+스팅거 와이프 2
+
+[3412A]
+스팅거
+
+[3412S]
+스팅거 와이프 3
+
+[3413A]
+스팅거
+
+[3413S]
+스팅거 와이프 4
+
+[3414A]
+스팅거
+
+[3414S]
+스팅거 와이프 5
+
+
+
+
+{--- DLC_HALLOWEEN_SFX --}
+[3415A]
+호러 스팅거
+
+[3415S]
+호러 스팅거 히트 1
+
+[3416A]
+호러 스팅거
+
+[3416S]
+호러 스팅거 히트 2
+
+[3417A]
+호러 스팅거
+
+[3417S]
+호러 스팅거 히트 3
+
+[3418A]
+호러 스팅거
+
+[3418S]
+호러 스팅거 히트 4
+
+[3419A]
+호러 스팅거
+
+[3419S]
+호러 스팅거 히트 5
+
+[3420A]
+호러 스팅거
+
+[3420S]
+호러 스팅거 히트 6
+
+[3421A]
+호러 스팅거
+
+[3421S]
+호러 스팅거 히트 7
+
+[3422A]
+호러 스팅거
+
+[3422S]
+호러 스팅거 히트 8
+
+[3423A]
+호러 스팅거
+
+[3423S]
+호러 스팅거 라이저 1
+
+[3424A]
+호러 스팅거
+
+[3424S]
+호러 스팅거 라이저 2
+
+[3425A]
+호러 스팅거
+
+[3425S]
+호러 스팅거 라이저 3
+
+[3426A]
+호러 스팅거
+
+[3426S]
+호러 스팅거 라이저 4
+
+[3427A]
+호러 스팅거
+
+[3427S]
+호러 스팅거 라이저 5
+
+[3428A]
+호러 스팅거
+
+[3428S]
+호러 스팅거 써드 1
+
+[3429A]
+호러 스팅거
+
+[3429S]
+호러 스팅거 써드 2
+
+[3430A]
+호러 스팅거
+
+[3430S]
+호러 스팅거 써드 3
+
+[3431A]
+기타 호러
+
+[3431S]
+낡은 문 여는 소리 1
+
+[3432A]
+기타 호러
+
+[3432S]
+낡은 문 여는 소리 2
+
+[3433A]
+기타 호러
+
+[3433S]
+낡은 문 닫는 소리 1
+
+[3434A]
+기타 호러
+
+[3434S]
+낡은 문 닫는 소리 2
+
+[3435A]
+호러 고어
+
+[3435S]
+크러시 1
+
+[3436A]
+호러 고어
+
+[3436S]
+크러시 2
+
+[3437A]
+호러 고어
+
+[3437S]
+크러시 3
+
+[3438A]
+호러 고어
+
+[3438S]
+크러시 4
+
+[3439A]
+호러 고어
+
+[3439S]
+크러시 5
+
+[3440A]
+호러 고어
+
+[3440S]
+크러시 6
+
+[3441A]
+호러 고어
+
+[3441S]
+본 크런치 1
+
+[3442A]
+호러 고어
+
+[3442S]
+본 크런치 2
+
+[3443A]
+호러 고어
+
+[3443S]
+디스멤버 1
+
+[3444A]
+호러 고어
+
+[3444S]
+스로트 슬릿 1
+
+[3445A]
+호러 고어
+
+[3445S]
+스로트 슬릿 2
+
+[3446A]
+호러 고어
+
+[3446S]
+호러 크런치 6
+
+[3447A]
+호러 고어
+
+[3447S]
+스탭 1
+
+[3448A]
+호러 고어
+
+[3448S]
+스탭 2
+
+[3449A]
+호러 고어
+
+[3449S]
+스탭 3
+
+[3450A]
+날씨
+
+[3450S]
+천둥번개
+
+[3451A]
+날씨
+
+[3451S]
+가랑비와 바람
+
+[3452A]
+날씨
+
+[3452S]
+폭우와 바람
+
+[3480A]
+호러 애니멀
+
+[3480S]
+늑대 1
+
+[3481A]
+호러 애니멀
+
+[3481S]
+늑대 2
+
+[3482A]
+호러 애니멀
+
+[3482S]
+늑대 3
+
+[3483A]
+호러 보이스
+
+[3483S]
+마녀 1
+
+[3484A]
+호러 보이스
+
+[3484S]
+마녀 2
+
+[3485A]
+호러 애니멀
+
+[3485S]
+성난 고양이 1
+
+[3486A]
+호러 애니멀
+
+[3486S]
+성난 고양이 2
+
+[3487A]
+호러 애니멀
+
+[3487S]
+성난 고양이 3
+
+[3488A]
+호러 애니멀
+
+[3488S]
+성난 고양이 4
+
+[3489A]
+호러 애니멀
+
+[3489S]
+성난 고양이 5
+
+[3490A]
+호러 고어
+
+[3490S]
+스탭 4
+
+[3491A]
+호러 고어
+
+[3491S]
+스탭 5
+
+[3492A]
+호러 고어
+
+[3492S]
+블러전 1
+
+[3493A]
+호러 고어
+
+[3493S]
+블러전 2
+
+[3494A]
+호러 고어
+
+[3494S]
+블러전 3
+
+[3495A]
+호러 고어
+
+[3495S]
+해크 1
+
+[3496A]
+호러 고어
+
+[3496S]
+해크 2
+
+[3497A]
+호러 고어
+
+[3497S]
+해크 3
+
+[3498A]
+호러 고어
+
+[3498S]
+해크 4
+
+[3499A]
+호러 고어
+
+[3499S]
+해크 5
+
+[3500A]
+알람
+
+[3500S]
+알람 1
+
+[3501A]
+알람
+
+[3501S]
+알람 2
+
+[3502A]
+알람
+
+[3502S]
+알람 3
+
+[3503A]
+알람
+
+[3503S]
+알람 4
+
+[3504A]
+알람
+
+[3504S]
+알람 5
+
+[3505A]
+알람
+
+[3505S]
+알람 6
+
+[3510A]
+불
+
+[3510S]
+불 1
+
+[3511A]
+불
+
+[3511S]
+불 2
+
+[3512A]
+불
+
+[3512S]
+불 3
+
+[3513A]
+불
+
+[3513S]
+불 4
+
+[3515A]
+사이렌
+
+[3515S]
+사이렌 1
+
+[3516A]
+사이렌
+
+[3516S]
+사이렌 2
+
+[3517A]
+사이렌
+
+[3517S]
+사이렌 3
+
+[3550A]
+주변 환경 소음
+
+[3550S]
+상업 지역 1
+
+[3551A]
+주변 환경 소음
+
+[3551S]
+산업 지역 1
+
+[3552A]
+주변 환경 소음
+
+[3552S]
+주거 지역 1
+
+[3553A]
+주변 환경 소음
+
+[3553S]
+주거 지역 2
+
+[3554A]
+주변 환경 소음
+
+[3554S]
+교외 1
+
+[3555A]
+주변 환경 소음
+
+[3555S]
+교외 2
+
+[3556A]
+주변 환경 소음
+
+[3556S]
+사막 1
+
+[3557A]
+주변 환경 소음
+
+[3557S]
+사막 2
+
+[3558A]
+주변 환경 소음
+
+[3558S]
+사막 3
+
+[3559A]
+호러 드론
+
+[3559S]
+호러 드론 1
+
+[3560A]
+호러 드론
+
+[3560S]
+호러 드론 2
+
+[3562A]
+호러 드론
+
+[3562S]
+호러 드론 3
+
+[3564A]
+호러 드론
+
+[3564S]
+호러 드론 4
+
+[3565A]
+호러 드론
+
+[3565S]
+호러 드론 5
+
+[3566A]
+호러 드론
+
+[3566S]
+호러 드론 6
+
+[3567A]
+호러 드론
+
+[3567S]
+호러 드론 7
+
+[3568A]
+호러 드론
+
+[3568S]
+호러 드론 8
+
+[3570A]
+기타 호러
+
+[3570S]
+버닝 얼라이브 1
+
+[3571A]
+기타 호러
+
+[3571S]
+숨소리 1
+
+[3573A]
+기타 호러
+
+[3573S]
+스산한 바람 소리 1
+
+[3574A]
+기타 호러
+
+[3574S]
+스산한 바람 소리 2
+
+[3575A]
+기타 호러
+
+[3575S]
+여자 울음 1
+
+[3576A]
+기타 호러
+
+[3576S]
+수도꼭지 1
+
+[3577A]
+기타 호러
+
+[3577S]
+체인 소리 1
+
+[3578A]
+기타 호러
+
+[3578S]
+낡은 계단 1
+
+[3580A]
+호러 고어
+
+[3580S]
+바디 임팩트 1
+
+[3581A]
+호러 고어
+
+[3581S]
+바디 임팩트 2
+
+[3582A]
+호러 고어
+
+[3582S]
+바디 임팩트 3
+
+[3583A]
+호러 고어
+
+[3583S]
+바디 임팩트 4
+
+[3584A]
+호러 보이스
+
+[3584S]
+여자 비명 1
+
+[3585A]
+호러 보이스
+
+[3585S]
+여자 비명 2
+
+[3586A]
+호러 보이스
+
+[3586S]
+여자 비명 3
+
+[3587A]
+호러 보이스
+
+[3587S]
+여자 비명 4
+
+[3588A]
+호러 보이스
+
+[3588S]
+여자 비명 5
+
+[3589A]
+호러 보이스
+
+[3589S]
+남자 비명 1
+
+[3590A]
+호러 보이스
+
+[3590S]
+남자 비명 2
+
+[3591A]
+호러 보이스
+
+[3591S]
+남자 비명 3
+
+[3592A]
+호러 보이스
+
+[3592S]
+남자 비명 4
+
+[3593A]
+호러 보이스
+
+[3593S]
+남자 비명 5
+
+[3594A]
+호러 보이스
+
+[3594S]
+크리처 1
+
+[3595A]
+호러 보이스
+
+[3595S]
+크리처 2
+
+[3596A]
+호러 보이스
+
+[3596S]
+크리처 3
+
+[3597A]
+기타 호러
+
+[3597S]
+낮은 발자국 소리 1
+
+[3598A]
+기타 호러
+
+[3598S]
+문 손잡이 소리 1
+
+[3599A]
+기타 호러
+
+[3599S]
+문 손잡이 소리 2
+
+[3600A]
+호러 고어
+
+[3600S]
+피 흐르는 소리 1
+
+[3601A]
+호러 고어
+
+[3601S]
+피 흐르는 소리 2
+
+[3602A]
+기타 호러
+
+[3602S]
+자정 교회 종소리 1
+
+[3603A]
+호러 애니멀
+
+[3603S]
+성난 개 1
+
+[3604A]
+호러 애니멀
+
+[3604S]
+성난 개 2
+
+[3605A]
+호러 애니멀
+
+[3605S]
+성난 개 3
+
+[3606A]
+호러 애니멀
+
+[3606S]
+성난 개 4
+
+[3607A]
+호러 애니멀
+
+[3607S]
+성난 개 5
+
+[3608A]
+호러 고어
+
+[3608S]
+블러전 4
+
+[3609A]
+호러 고어
+
+[3609S]
+블러전 5
+
+[3610A]
+호러 고어
+
+[3610S]
+블러전 6
+
+[3611A]
+호러 고어
+
+[3611S]
+블러전 7
+
+[3612A]
+호러 고어
+
+[3612S]
+블러전 8
+
+[3613A]
+호러 고어
+
+[3613S]
+보틀 스탭 1
+
+
+
+{--- SFX END --}
