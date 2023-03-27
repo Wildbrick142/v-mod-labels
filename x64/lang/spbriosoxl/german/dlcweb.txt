@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+Vor langer Zeit haben alle die heiße Luke gemobbt. Erst eines Tages, als ein fragwürdig kreativer Kopf mit zu viel Zeit auf den Beinen eine ungewöhnliche Lösung gefunden hat, ist die heiße Luke zum Tyrann geworden. Dieser Monstertruck im Taschenformat ist eine Lösung für all Ihre Probleme, während Sie so tun, als hätten Sie etwas da unten.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

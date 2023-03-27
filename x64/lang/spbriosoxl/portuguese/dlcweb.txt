@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+Há muito tempo, todo mundo intimidava a escotilha quente. Não foi até um dia, quando uma mente questionavelmente criativa com muito tempo em suas mãos surgiu com uma solução incomum, que o hot hatch se tornou o valentão. Este caminhão monstro de bolso é uma solução para todos os seus problemas, enquanto finge que você tem algo lá embaixo.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

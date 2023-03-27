@@ -1,0 +1,10 @@
+﻿
+
+{--- vehicle names --}
+[DILLO]
+犰狳
+
+
+{--- dummy ---}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

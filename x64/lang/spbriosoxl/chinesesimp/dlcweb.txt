@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+很久以前，每个人都欺负热门孵化器。 直到有一天，当一个有着太多时间的创造性思维能够提出一个不寻常的解决方案时，热门孵化已成为欺凌者。 这款口袋大小的怪物卡车可以解决您的所有问题，同时假装您有一些东西在那里。
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

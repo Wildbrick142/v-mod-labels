@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[SSS_DILLO]
+Used by the military to invade countries and wipe them out with a massive gun without needing to leave the vehicle, the Insurgent Pick-Up quickly became a popular military vehicle right next to the very original MAMMOTH jeep. What could HVY do in this case? Release a civilian model, and rake the cash in. The brand new armored Armordillo off-road truck will plow through any traffic the rush hour can throw at you.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

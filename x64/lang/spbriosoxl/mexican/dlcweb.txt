@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+Hace mucho tiempo, todos atacaron la escotilla caliente. No fue hasta un día, cuando una mente cuestionadamente creativa con demasiado tiempo en sus manos ha encontrado una solución inusual, que la escotilla caliente se ha convertido en el matón. Este camión monstruo de bolsillo es una solución a todos tus problemas, mientras que finges que tienes algo ahí abajo.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

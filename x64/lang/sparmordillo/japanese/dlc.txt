@@ -1,0 +1,10 @@
+﻿
+
+{--- vehicle names --}
+[DILLO]
+アルマジロ
+
+
+{--- dummy ---}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,41 @@
+﻿
+
+{--- vehicle names --}
+[BRIOSOXL]
+BRIOSO XL
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+{ -- BRIOXL_LIVERY -- }
+[BRIOXL_LIV_1]
+Специальное итальянское
+
+[BRIOXL_LIV_2]
+прикрытие
+
+[BRIOXL_LIV_3]
+Шрусбери
+
+[BRIOXL_LIV_4]
+Принцесса Робот Жвачка
+
+[BRIOXL_LIV_5]
+Жевательная резинка
+
+[BRIOXL_LIV_6]
+Вырождение
+
+[BRIOXL_LIV_7]
+Монстр Патруль
+
+[BRIOXL_LIV_8]
+Сервер сообщества TheIvaneh
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,41 @@
+﻿
+
+{--- vehicle names --}
+[BRIOSOXL]
+브리오소 XL
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+{ -- BRIOXL_LIVERY -- }
+[BRIOXL_LIV_1]
+이탈리아 스페셜
+
+[BRIOXL_LIV_2]
+뒤덮기
+
+[BRIOXL_LIV_3]
+쉬 루스 베리
+
+[BRIOXL_LIV_4]
+공주 로봇 버블 검
+
+[BRIOXL_LIV_5]
+풍선 껌
+
+[BRIOXL_LIV_6]
+퇴화
+
+[BRIOXL_LIV_7]
+몬스터 패트롤
+
+[BRIOXL_LIV_8]
+TheIvaneh 커뮤니티 서버
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

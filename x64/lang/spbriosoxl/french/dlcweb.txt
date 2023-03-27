@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+Il y a longtemps, tout le monde a intimidé la trappe chaude. Ce n’est qu’un jour, quand un esprit discutable créatif avec trop de temps disponible a proposé une solution inhabituelle, que la trappe chaude est devenue l’intimidateur. Ce camion monstre de poche est une solution à tous vos problèmes, tout en prétendant avoir quelque chose là-bas.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

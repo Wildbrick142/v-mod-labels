@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+오래 전에 모든 사람들이 뜨거운 해치를 괴롭혔습니다. 어느 날, 손에 너무 많은 시간을두고 창의력을 발휘하여 뜨거운 해치가 괴롭힘을 당했다는 특이한 해결책을 찾았습니다. 이 주머니 크기의 괴물 트럭은 모든 문제에 대한 해결책이며 거기에 뭔가있는 것처럼 보이게합니다.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

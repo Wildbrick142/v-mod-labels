@@ -1,0 +1,41 @@
+﻿
+
+{--- vehicle names --}
+[BRIOSOXL]
+精力霸µXL
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+{ -- BRIOXL_LIVERY -- }
+[BRIOXL_LIV_1]
+意大利特别
+
+[BRIOXL_LIV_2]
+掩盖
+
+[BRIOXL_LIV_3]
+什鲁斯伯里
+
+[BRIOXL_LIV_4]
+公主机器人泡泡糖
+
+[BRIOXL_LIV_5]
+泡泡糖
+
+[BRIOXL_LIV_6]
+简并性
+
+[BRIOXL_LIV_7]
+怪物巡逻
+
+[BRIOXL_LIV_8]
+TheIvaneh社区服务器
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

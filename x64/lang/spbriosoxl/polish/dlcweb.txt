@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_BRIOSOXL]
+Dawno temu wszyscy znęcali się nad gorącym włazem. Dopiero pewnego dnia, gdy wątpliwie twórczy umysł, mający zbyt dużo czasu, wymyślił nietypowe rozwiązanie, gorący właz stał się tyranem. Ten kieszonkowy monster truck jest rozwiązaniem wszystkich twoich problemów, udając, że coś tam masz.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

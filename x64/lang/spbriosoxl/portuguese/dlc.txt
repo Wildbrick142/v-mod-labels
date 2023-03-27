@@ -1,0 +1,41 @@
+﻿
+
+{--- vehicle names --}
+[BRIOSOXL]
+Brioso XL
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+{ -- BRIOXL_LIVERY -- }
+[BRIOXL_LIV_1]
+Especial Itália
+
+[BRIOXL_LIV_2]
+Coverup
+
+[BRIOXL_LIV_3]
+Shrewsbury
+
+[BRIOXL_LIV_4]
+Princess Robot Bubblegum
+
+[BRIOXL_LIV_5]
+Chiclete
+
+[BRIOXL_LIV_6]
+Degeneracy
+
+[BRIOXL_LIV_7]
+Patrulha de Monstros
+
+[BRIOXL_LIV_8]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

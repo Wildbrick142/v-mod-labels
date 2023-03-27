@@ -1,0 +1,41 @@
+﻿
+
+{--- vehicle names --}
+[BRIOSOXL]
+ブリオッソXL
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+{ -- BRIOXL_LIVERY -- }
+[BRIOXL_LIV_1]
+イタリアスペシャル
+
+[BRIOXL_LIV_2]
+隠蔽
+
+[BRIOXL_LIV_3]
+シュルーズベリー
+
+[BRIOXL_LIV_4]
+プリンセスロボットバブルガム
+
+[BRIOXL_LIV_5]
+バブルガム
+
+[BRIOXL_LIV_6]
+縮退
+
+[BRIOXL_LIV_7]
+モンスターパトロール
+
+[BRIOXL_LIV_8]
+コミュニティサーバー「TheIvaneh」
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
