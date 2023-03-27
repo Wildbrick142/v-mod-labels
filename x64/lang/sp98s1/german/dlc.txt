@@ -1,0 +1,160 @@
+﻿
+
+{--- vehicle names --}
+[S98]
+98S/1
+
+
+
+{ --- modparts - updated 11/6/21 --- }
+{***********************************************}
+{ - S98_SPOILER -}
+[S98_WING1]
+Stock WingSerienmäßige Flügel
+
+[S98_WING2]
+Erweiterter Flügel
+
+[S98_WING3]
+LM-Flügel
+
+
+{ - S98_DECL -}
+
+[S98_DECL1]
+Emblems vorderseite entfernen
+
+[S98_DECL2]
+Seiten-Emblems entfernen
+
+
+[S98_DECL3]
+Emblems entfernen
+
+
+{ - S98_PLATE -}
+
+[S98_PLT1]
+Nummernschilder entfernen
+
+[S98_PLT2]
+Nummerns. vorderseite entfernen
+[S98_PLT3]
+Nummerns. rückseite entfernen
+
+
+
+{ - GRILL -}
+[S98_GRILL1]
+Verkleidung mit Lüftung
+
+
+{ - ROOF -}
+[S98_ROOF1]
+Sonnenblende
+
+
+
+{ -- S98_LIVERY -- }
+[S98_LIV1]
+Holzkohlestreifen
+
+[S98_LIV2]
+Für uns, von uns
+
+[S98_LIV3]
+Heat #42
+
+[S98_LIV4]
+Homies-ProLaps #61
+
+[S98_LIV5]
+eCola #1
+
+[S98_LIV6]
+De Koch-Kronos #8
+
+[S98_LIV7]
+Yukon #16
+
+[S98_LIV8]
+Sidio #33
+
+[S98_LIV9]
+Kakagawa #23
+
+[S98_LIV10]
+PALLA #50
+
+[S98_LIV11]
+AKEDO #36
+
+[S98_LIV12]
+Dalique #22
+
+[S98_LIV13]
+Jakey's Lager #12
+
+[S98_LIV14]
+Mannschaft Fleeca FR #88
+
+[S98_LIV15]
+Atomic #21
+
+[S98_LIV16]
+Coolhand #38
+
+[S98_LIV17]
+EgoChaser #99
+
+[S98_LIV18]
+Chariot #2
+
+[S98_LIV19]
+Kabel Racing #27
+
+[S98_LIV20]
+Dense #37
+
+[S98_LIV21]
+Globe Oil-Karin USA #39
+
+[S98_LIV22]
+Terroil #9
+
+[S98_LIV23]
+Mannschaft Xero #4
+
+[S98_LIV24]
+Nihon #5
+
+[S98_LIV25]
+Nihon lichter #5
+
+[S98_LIV26]
+Karin Rennfahrer-Team #64
+
+[S98_LIV27]
+Karin Rennauto-Performance #77
+
+[S98_LIV28]
+Flow LAVA #70
+
+[S98_LIV29]
+Gutter & Blood #10
+
+[S98_LIV30]
+Globe Oil Superon-Karin #18
+
+[S98_LIV31]
+Mannschaft Premier-Fukaru #82
+
+[S98_LIV32]
+Mannschaft Karin-Zenshin #14
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

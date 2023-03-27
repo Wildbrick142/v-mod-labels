@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[VWE_S98]
+Construído com a corrida de resistência em mente, o 98S/1 também possui o dom da legalidade nas ruas. Engenharia de última geração, níveis absurdos de potência e aerodinâmica refinada na perfeição - o que mais você precisaria para uma corrida no mercado tarde da noite ou uma viagem para o sul com os irmãos? Provavelmente algumas fraldas sobressalentes ...
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

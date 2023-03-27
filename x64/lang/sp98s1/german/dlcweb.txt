@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[VWE_S98]
+Der 98S/1 wurde für Langstreckenrennen gebaut und besitzt auch die Gabe der Straßenzulassung. Modernste Technik, absurde PS-Zahlen und bis zur Perfektion verfeinerte Aerodynamik - was braucht man mehr für einen nächtlichen Einkaufsbummel oder einen Ausflug mit den Brüdern in den Süden? Vermutlich ein paar Ersatzwindeln...
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!
