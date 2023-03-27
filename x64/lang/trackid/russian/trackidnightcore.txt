@@ -1,0 +1,305 @@
+﻿{--- galaxy is our dancefloor vol 4 --}
+[20000A]
+PINCH & DASH FEAT. DEE DEE & DAIYON
+[20000S]
+Music Is Love (DJ Oskar Remix)
+[20001A]
+DJ DELIRIOUS & CAZ VS. V-STAR
+[20001S]
+Cold As Ice (Original Mix)
+[20002A]
+FLOORFILLAZ FEAT. V-STAR
+[20002S]
+Don't Say Anything (Kritikal Mass Remix)
+[20003A]
+MIKY ONE & DJ KINO
+[20003S]
+Ready For It (Original Mix)
+[20004A]
+DJ CHIKI FEAT BAYRON MARTIN
+[20004S]
+Maniac (Basic Beatz Remix)
+[20005A]
+DJ CHIKI FEAT BAYRON MARTIN
+[20005S]
+Maniac (Bounce Enforcerz Remix)
+[20006A]
+DJ BASS
+[20006S]
+Close Your Eyes (Bounce Enforcerz Remix)
+[20007A]
+DJ BASS
+[20007S]
+Close Your Eyes
+[20008A]
+JAIME GUERRERO
+[20008S]
+Take Over Control (Original Mix)
+[20009A]
+BOUNCE ENFORCERZ & DJ OSKAR
+[20009S]
+Tell Me Now (Dj Oskar Mix)
+[20010A]
+DJ BASS
+[20010S]
+Something To Believe
+[20011A]
+JAMIE B
+[20011S]
+Turn Me On
+[20012A]
+JORDI BUMP
+[20012S]
+We All Need Love (Original Mix)
+[20013A]
+JUE
+[20013S]
+You My Heart (Original Mix)
+[20014A]
+T-JAY
+[20014S]
+Angel (Original Mix)
+[20015A]
+ALFRE DJ
+[20015S]
+You Are The Only One (Original Mix)
+[20016A]
+DJ MUELA & PAKORE DJ
+[20016S]
+Live Without It
+[20017A]
+JAIME GUERRERO FEAT. CLARISSE
+[20017S]
+Breath Into Me (Original Mix)
+[20018A]
+DJ NEOS
+[20018S]
+Call Me (Original Mix)
+[20019A]
+NYS
+[20019S]
+Save Me (Original Mix)
+[20020A]
+DJ MIHO
+[20020S]
+Break My Heart (Original Mix)
+[20021A]
+ANDRES BALLESTEROS
+[20021S]
+Lights Go Out (Original Mix)
+[20022A]
+DJ CHIKI
+[20022S]
+One Moment (Original Mix)
+[20023A]
+JUE
+[20023S]
+Be Magic (JJ Remix)
+[20024A]
+JAMIE B
+[20024S]
+In My Head (DJ Oskar Remix)
+[20025A]
+DJ MOIX
+[20025S]
+Don't U Worry (Original Mix)
+[20026A]
+J. JBLACK PRESENTS
+[20026S]
+Stay With Me (Original Mix)
+[20027A]
+DJ MOIX
+[20027S]
+Desires
+[20028A]
+DJ MOIX
+[20028S]
+What Will I Do (Original Mix)
+[20029A]
+MIKY ONE/DJ KINO
+[20029S]
+Where Did You Go (Sergio Caubal Remix)
+[20030A]
+JAIME GUERRERO AND J JBLACK
+[20030S]
+Latin Moon
+[20031A]
+RAUL ARRIBAS
+[20031S]
+This Feeling (Original Mix)
+[20032A]
+DJ OSKAR
+[20032S]
+Blown Away (Original Mix)
+[20033A]
+BOUNCE ENFORCERZ
+[20033S]
+Only U (DJ Oskar Remix)
+[20034A]
+KRITIKAL MASS VS. MISSY M
+[20034S]
+Girls Just Wanna Have Fun (Extended Mix)
+[20035A]
+DEEJAY LAURA
+[20035S]
+Wonderland (Original Mix)
+[20036A]
+BEN G
+[20036S]
+Like About You (DJ Oskar HDM Remix)
+[20037A]
+RAUL ARRIBAS & YANNICK ESQUEFA
+[20037S]
+Wanna Be
+[20038A]
+TRILOGIA FEAT. ALIZEE
+[20038S]
+Life (Original Mix)
+[20039A]
+JAMIE B
+[20039S]
+With Every Heartbeat (DJ Oskar Remix)
+
+
+
+{-- vol. 21 --}
+[20060A]
+ALBERT NEVE
+[20060S]
+Interstellar (Italoconnection Remix)
+[20061A]
+NAOKY FEAT. STYLOVE
+[20061S]
+Cybernetic Love (Extended Mix)
+[20062A]
+VANELLO & STEVEN KIMBER
+[20062S]
+S.O.S. for Love (Maxi Version)
+[20063A]
+STOCKHOLM NIGHTLIFE FEAT. NATHALIE HANBERG
+[20063S]
+Stay One Day (Cliff Wedge Special ZYX Remix 2018)
+[20064A]
+MARCOS RODRIGUEZ FEAT. KENEIDA
+[20064S]
+In This World (Italoconnection Remix)
+[20065A]
+ITALOVE
+[20065S]
+Heading For The Sun
+[20066A]
+TESS
+[20066S]
+Cry Away (Italo Disco Extended Mix)
+[20067A]
+NIGHT IN WALES
+[20067S]
+For Your Love
+[20068A]
+M@RGO FEAT. MODE-ONE
+[20068S]
+My Love In Your Heart (Disco Version)
+[20069A]
+CHILLYMOUSE
+[20069S]
+Touch My Heart (Flemming Dalum Remix)
+[20070A]
+ITALOVE
+[20070S]
+The Mirror (Extended Version)
+[20071A]
+FRED VENTURA
+[20071S]
+Looking For Love (Italoconnection Remix)
+[20072A]
+FLEXX
+[20072S]
+Break You Down (Vocal Version)
+[20073A]
+ITALOVE
+[20073S]
+Burn This City (Flashback Ri-Mix)
+[20074A]
+FRANK LOZANO
+[20074S]
+Forever Love (Extended Mix)
+[20075A]
+ESTIMADO
+[20075S]
+Yes You One (Long Version)
+[20076A]
+SIBERIAN HEAT
+[20076S]
+Pick Up The Phone (ZYX Summer Mix)
+[20077A]
+D.J. SAVAGE
+[20077S]
+Love Fly Your Way (Extended Version)
+[20078A]
+D.J. SAVAGE
+[20078S]
+You Can Fly (Special ZYX Long Version)
+[20079A]
+AVENIDA FEAT. ME K NO
+[20079S]
+La Fuerza Del Destino (Extended)
+[20080A]
+SOULYA ID
+[20080S]
+The Day You'll Get Somebody (Extended Mix)
+[20081A]
+CHILLYMOUSE
+[20081S]
+Boys (Summertime Love) (Van Edelsteyn Extended Remix)
+[20082A]
+AVENUE FEAT. TONY COSTA & RAUL OLIVARES
+[20082S]
+The Story Of Love
+[20083A]
+DIMENSION ONE
+[20083S]
+Angel (Extended Version)
+[20084A]
+MAGNUS KRIEG
+[20084S]
+Time Traveller (Flemming Dalum Remix)
+[20085A]
+DIGITALO
+[20085S]
+Girl From Russia (Extended Version)
+[20086A]
+DIGITALO
+[20086S]
+Love Me Endlessly (Extended Version)
+[20087A]
+ESTIMADO
+[20087S]
+Faster (Albiero Remix)
+[20088A]
+BIRIZDO I AM
+[20088S]
+I Love Italo Disco (Extended Version)
+[20089A]
+FRANCK CHOPPIN FEAT. EMPHAVIOCE
+[20089S]
+Pain In My Heart (Extended Mix)
+[20090A]
+KEN MARTINA
+[20090S]
+A Simple Story (Extended Love Mix)
+[20091A]
+STYLOVE FEAT. NAOKY
+[20091S]
+Now Close Your Eyes
+[20092A]
+D. WHITE
+[20092S]
+Walking (ZYX Extended Version)
+[20093A]
+STEFANO BRIGNOLI
+[20093S]
+Honesty (Extended Version)
+[20094A]
+SINTESY
+[20094S]
+80s Nostalgia (Special ZYX Extended Version)

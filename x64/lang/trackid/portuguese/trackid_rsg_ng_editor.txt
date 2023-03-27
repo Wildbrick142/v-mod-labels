@@ -1,0 +1,2166 @@
+﻿{ Rockstar Editor SFX }
+
+{-- original score --}
+[2101A]
+Electro
+[2101S]
+Dark Intent
+
+[2102A]
+Electro
+[2102S]
+Vacuum
+
+[2103A]
+Electro
+[2103S]
+The City
+
+[2104A]
+Electro
+[2104S]
+City Lights
+
+[2105A]
+Electro
+[2105S]
+The Streets
+
+[2106A]
+Electro
+[2106S]
+Scrapyard
+
+[2107A]
+Electro
+[2107S]
+Slow Burn
+
+[2108A]
+Rock
+[2108S]
+Gasoline Trail
+
+[2109A]
+Rock
+[2109S]
+Rolling Tracks
+
+[2110A]
+Rock
+[2110S]
+Silver Splinter
+
+[2111A]
+Rock
+[2111S]
+Debunked
+
+[2112A]
+Rock
+[2112S]
+The Summit
+
+[2113A]
+Rock
+[2113S]
+Distant Rumble
+
+[2114A]
+Rock
+[2114S]
+Crocodile Tears
+
+[2115A]
+Urban
+[2115S]
+Shotgun Game
+
+[2116A]
+Urban
+[2116S]
+Cruising
+
+[2117A]
+Urban
+[2117S]
+Street Slice
+
+[2118A]
+Urban
+[2118S]
+Vodka
+
+[2119A]
+Urban
+[2119S]
+Gun Novel
+
+
+
+
+{--- Commercials ---}
+[3100A]
+Commercial
+[3100S]
+Life Invader
+
+[3101A]
+Commercial
+[3101S]
+Righteous Slaughter "Nuke"
+
+[3102A]
+Commercial
+[3102S]
+Righteous Slaughter "Russians"
+
+[3103A]
+Commercial
+[3103S]
+Righteous Slaughter "Levels"
+
+[3104A]
+Commercial
+[3104S]
+San Andreas Tourism Board
+
+[3105A]
+Commercial
+[3105S]
+Grand Senora Desert
+
+[3106A]
+Commercial
+[3106S]
+San Andreas Water And Power
+
+[3107A]
+Commercial
+[3107S]
+Up-n-Atom
+
+[3108A]
+Commercial
+[3108S]
+Proposition 43
+
+[3109A]
+Commercial
+[3109S]
+Toeshoes
+
+[3110A]
+Commercial
+[3110S]
+Implant Outsource
+
+[3111A]
+Commercial
+[3111S]
+Donate Your Car
+
+[3112A]
+Commercial
+[3112S]
+Race To Pluto
+
+[3113A]
+Commercial
+[3113S]
+Proposition 208 "Dad"
+
+[3114A]
+Commercial
+[3114S]
+Proposition 208 "Jungle"
+
+[3115A]
+Commercial
+[3115S]
+Pisswasser
+
+[3116A]
+Commercial
+[3116S]
+Queensbury Boxing
+
+[3117A]
+Commercial
+[3117S]
+Lottery "Solving Hunger"
+
+[3118A]
+Commercial
+[3118S]
+Lottery 2 "Bugle"
+
+[3119A]
+Commercial
+[3119S]
+Whiz Wireless
+
+[3120A]
+Commercial
+[3120S]
+Rectify Holistic
+
+[3121A]
+Commercial
+[3121S]
+Jay's Bail Bonds
+
+[3122A]
+Commercial
+[3122S]
+Ovine Human Resources
+
+[3123A]
+Commercial
+[3123S]
+Proposition 14
+
+[3124A]
+Commercial
+[3124S]
+Prison Industrial Complex "Officer"
+
+[3125A]
+Commercial
+[3125S]
+Prison Industrial Complex 2 "Franchise"
+
+[3126A]
+Commercial
+[3126S]
+San Andreas Lobotomy
+
+[3127A]
+Commercial
+[3127S]
+Darwinian Yoga
+
+[3128A]
+Commercial
+[3128S]
+Gastro Band
+
+[3129A]
+Commercial
+[3129S]
+Economic Recovery Group
+
+[3130A]
+Commercial
+[3130S]
+Rehab Island
+
+[3131A]
+Commercial
+[3131S]
+Larry's RV Sales
+
+[3132A]
+Commercial
+[3132S]
+Night Lights
+
+[3133A]
+Commercial
+[3133S]
+Head Shots
+
+[3134A]
+Commercial
+[3134S]
+Electrotoke
+
+[3135A]
+Commercial
+[3135S]
+Toilet Cleaner
+
+[3136A]
+Commercial
+[3136S]
+Stop Paying Your Mortgage
+
+[3137A]
+Commercial
+[3137S]
+Floyd's Scrap Metal
+
+[3138A]
+Commercial
+[3138S]
+Buddy's Trucking
+
+[3139A]
+Commercial
+[3139S]
+Fleeca "Interest Fees"
+
+[3140A]
+Commercial
+[3140S]
+Fleeca 2 "Bedroom"
+
+[3141A]
+Commercial
+[3141S]
+Shark
+
+[3142A]
+Commercial
+[3142S]
+Smoked Dreams
+
+[3143A]
+Commercial
+[3143S]
+Hipsters For Hire
+
+[3144A]
+Commercial
+[3144S]
+Preservex
+
+[3145A]
+Commercial
+[3145S]
+Don's Country Store
+
+[3146A]
+Commercial
+[3146S]
+Proposition 45
+
+[3147A]
+Commercial
+[3147S]
+Windsor Real Estate "Immigrant"
+
+[3148A]
+Commercial
+[3148S]
+Windsor Real Estate 2 "Swinger"
+
+[3149A]
+Commercial
+[3149S]
+Cuckold Therapy
+
+[3150A]
+Commercial
+[3150S]
+Digifarm "Digifarm"
+
+[3151A]
+Commercial
+[3151S]
+Digifarm "Games"
+
+[3152A]
+Commercial
+[3152S]
+Blaine County Bank
+
+[3153A]
+Commercial
+[3153S]
+Lombank
+
+[3154A]
+Commercial
+[3154S]
+Hitting Kids Works Wonders
+
+[3155A]
+Commercial
+[3155S]
+Vinewood Health
+
+[3156A]
+Commercial
+[3156S]
+LS Benders "Wanker"
+
+[3157A]
+Commercial
+[3157S]
+LS Benders "Fat Bastard"
+
+[3158A]
+Commercial
+[3158S]
+Youtool
+
+[3159A]
+Commercial
+[3159S]
+Ammunation "Gardening"
+
+[3160A]
+Commercial
+[3160S]
+Ammunation "Apocalypse"
+
+[3161A]
+Commercial
+[3161S]
+Flow Water
+
+[3162A]
+Commercial
+[3162S]
+13 Steps To Heaven "Opportunity"
+
+[3163A]
+Commercial
+[3163S]
+Serious Cougar
+
+[3164A]
+Commercial
+[3164S]
+Cloud Computing
+
+[3165A]
+Commercial
+[3165S]
+Pride Not Prejudice "Grain Alcohol"
+
+[3166A]
+Commercial
+[3166S]
+Pride Not Prejudice "Tornado"
+
+[3167A]
+Commercial
+[3167S]
+Hitting Kids Works Wonders "Pot"
+
+[3168A]
+Commercial
+[3168S]
+Hammerstein And Faust
+
+[3169A]
+Commercial
+[3169S]
+Grain Of Truth
+
+[3170A]
+Commercial
+[3170S]
+FlyUS "Choices"
+
+[3171A]
+Commercial
+[3171S]
+FlyUS "Drunk"
+
+[3172A]
+Commercial
+[3172S]
+FlyUS "Planes"
+
+[3173A]
+Commercial
+[3173S]
+Refinance Your Home
+
+[3174A]
+Commercial
+[3174S]
+Unlock The Power "Jerking"
+
+[3175A]
+Commercial
+[3175S]
+Unlock The Power "Abyss"
+
+[3176A]
+Commercial
+[3176S]
+13 Steps To Heaven "Drowning"
+
+[3177A]
+Commercial
+[3177S]
+13 Steps To Heaven "Train"
+
+[3178A]
+Commercial
+[3178S]
+Manopause Adventures
+
+[3179A]
+Commercial
+[3179S]
+MMA
+
+[3180A]
+Commercial
+[3180S]
+Alcoholla
+
+[3181A]
+Commercial
+[3181S]
+Egochaser
+
+[3182A]
+Commercial
+[3182S]
+Chains Of Intimacy "Throbbing"
+
+[3183A]
+Commercial
+[3183S]
+Chains Of Intimacy "Diamonds"
+
+[3184A]
+Commercial
+[3184S]
+Bravado "Farms"
+
+[3185A]
+Commercial
+[3185S]
+Bravado "Cruise Control"
+
+[3186A]
+Commercial
+[3186S]
+SA Flight School
+
+[3187A]
+Commercial
+[3187S]
+Crevis "Nature"
+
+[3188A]
+Commercial
+[3188S]
+Crevis "Everest"
+
+[3189A]
+Commercial
+[3189S]
+Epsilon "Antarctica"
+
+[3190A]
+Commercial
+[3190S]
+Epsilon "Famous People"
+
+[3191A]
+Commercial
+[3191S]
+13 Steps To Heaven "Victims"
+
+[3192A]
+Commercial
+[3192S]
+Pontius
+
+[3193A]
+Commercial
+[3193S]
+Sue Murry
+
+[3194A]
+Commercial
+[3194S]
+Jock Cranley "Vote Jock"
+
+[3195A]
+Commercial
+[3195S]
+Jock Cranley "Your Jock"
+
+[3196A]
+Commercial
+[3196S]
+Extreme Paleo TM "Get Extreme"
+
+[3197A]
+Commercial
+[3197S]
+Extreme Paleo TM 2 "Real Paleo"
+
+[3198A]
+Commercial
+[3198S]
+Machiavelli Race "Win"
+
+[3199A]
+Commercial
+[3199S]
+Machiavelli Race "The Race"
+
+[3200A]
+Commercial
+[3200S]
+Mystaspot
+
+[3201A]
+Commercial
+[3201S]
+Phat Chips
+
+[3202A]
+Commercial
+[3202S]
+TCS Energy Pro 1
+
+[3203A]
+Commercial
+[3203S]
+TCS Energy Pro 2
+
+[3204A]
+Commercial
+[3204S]
+Visit Liberty City
+
+[3205A]
+Commercial
+[3205S]
+Bison
+
+[3206A]
+Commercial
+[3206S]
+Bravado "Together"
+
+[3207A]
+Commercial
+[3207S]
+Logger Beer
+
+[3208A]
+Commercial
+[3208S]
+Lottery "Ex-Wife"
+
+[3209A]
+Commercial
+[3209S]
+Hospital
+
+[3210A]
+Commercial
+[3210S]
+San Andreas Tourism Board 2
+
+[3211A]
+Commercial
+[3211S]
+San Andreas Water And Power 2
+
+[3212A]
+Commercial
+[3212S]
+Stunt Academy
+
+[3213A]
+Commercial
+[3213S]
+Epsilon "Famous People" 2
+
+[3214A]
+Commercial
+[3214S]
+Phat Chips 2
+
+[3215A]
+Commercial
+[3215S]
+Mystaspot 2
+
+[3216A]
+Commercial
+[3216S]
+Ammunation "Apocalypse" 2
+
+[3217A]
+Commercial
+[3217S]
+Grand Senora Desert 2
+
+[3218A]
+Commercial
+[3218S]
+Life Invader 2
+
+[3219A]
+Commercial
+[3219S]
+Surano
+
+[3220A]
+Commercial
+[3220S]
+Up-n-Atom 2
+
+
+
+
+
+
+{-- SFX --}
+[3300A]
+Acidentes
+
+[3300S]
+Grande acidente 1
+
+[3301A]
+Acidentes
+
+[3301S]
+Grande acidente 2
+
+[3302A]
+Acidentes
+
+[3302S]
+Grande acidente 3
+
+[3303A]
+Acidentes
+
+[3303S]
+Acidente médio 1
+
+[3304A]
+Acidentes
+
+[3304S]
+Acidente médio 2
+
+[3305A]
+Acidentes
+
+[3305S]
+Acidente médio 3
+
+[3306A]
+Acidentes
+
+[3306S]
+Acidente pequeno 1
+
+[3307A]
+Acidentes
+
+[3307S]
+Acidente pequeno 2
+
+[3308A]
+Acidentes
+
+[3308S]
+Acidente pequeno 3
+
+[3309A]
+Explosões
+
+[3309S]
+Explosão metálica 1
+
+[3310A]
+Explosões
+
+[3310S]
+Explosão metálica 2
+
+[3311A]
+Explosões
+
+[3311S]
+Explosão metálica 3
+
+[3312A]
+Explosões
+
+[3312S]
+Explosão de madeira 1
+
+[3313A]
+Explosões
+
+[3313S]
+Explosão de madeira 2
+
+[3314A]
+Explosões
+
+[3314S]
+Explosão de madeira 3
+
+[3315A]
+Acidentes
+
+[3315S]
+Vidro grande quebrando 1
+
+[3316A]
+Acidentes
+
+[3316S]
+Vidro grande quebrando 2
+
+[3317A]
+Acidentes
+
+[3317S]
+Vidro grande quebrando 3
+
+[3318A]
+Acidentes
+
+[3318S]
+Vidro médio quebrando 1
+
+[3319A]
+Acidentes
+
+[3319S]
+Vidro médio quebrando 2
+
+[3320A]
+Acidentes
+
+[3320S]
+Vidro médio quebrando 3
+
+[3321A]
+Acidentes
+
+[3321S]
+Vidro peq. quebrando 1
+
+[3322A]
+Acidentes
+
+[3322S]
+Vidro peq. quebrando 2
+
+[3323A]
+Acidentes
+
+[3323S]
+Vidro peq. quebrando 3
+
+[3324A]
+Explosões
+
+[3324S]
+Explosão 1
+
+[3325A]
+Explosões
+
+[3325S]
+Explosão 2
+
+[3326A]
+Explosões
+
+[3326S]
+Explosão 3
+
+[3327A]
+Explosões
+
+[3327S]
+Explosão distante 1
+
+[3328A]
+Explosões
+
+[3328S]
+Explosão distante 2
+
+[3329A]
+Explosões
+
+[3329S]
+Explosão distante 3
+
+[3330A]
+Miscelânea
+
+[3330S]
+Porta abrindo 1
+
+[3331A]
+Miscelânea
+
+[3331S]
+Porta abrindo 2
+
+[3332A]
+Miscelânea
+
+[3332S]
+Porta fechando 1
+
+[3333A]
+Miscelânea
+
+[3333S]
+Porta fechando 2
+
+[3334A]
+Ultrapassagem
+
+[3334S]
+Jato passando 5
+
+[3335A]
+Ultrapassagem
+
+[3335S]
+Jato passando 6
+
+[3340A]
+Miscelânea
+
+[3340S]
+Garrafa quebrando 1
+
+[3341A]
+Miscelânea
+
+[3341S]
+Garrafa quebrando 2
+
+[3342A]
+Miscelânea
+
+[3342S]
+Garrafa quebrando 3
+
+[3343A]
+Miscelânea
+
+[3343S]
+Derrapada 1
+
+[3344A]
+Miscelânea
+
+[3344S]
+Derrapada 2
+
+[3345A]
+Miscelânea
+
+[3345S]
+Derrapada 3
+
+[3346A]
+Miscelânea
+
+[3346S]
+Derrapada 4
+
+[3347A]
+Miscelânea
+
+[3347S]
+Derrapada 5
+
+[3348A]
+Miscelânea
+
+[3348S]
+Batida na porta 1
+
+[3349A]
+Miscelânea
+
+[3349S]
+Batida na porta 2
+
+[3350A]
+Miscelânea
+
+[3350S]
+Batida na porta 3
+
+[3351A]
+Miscelânea
+
+[3351S]
+Batida na porta 4
+
+[3352A]
+Miscelânea
+
+[3352S]
+Batida na porta 5
+
+[3353A]
+Miscelânea
+
+[3353S]
+Batida na porta 6
+
+[3354A]
+Miscelânea
+
+[3354S]
+Batida na porta 7
+
+[3355A]
+Miscelânea
+
+[3355S]
+Latido 1
+
+[3356A]
+Miscelânea
+
+[3356S]
+Latido 2
+
+[3357A]
+Miscelânea
+
+[3357S]
+Latido 3
+
+[3358A]
+Miscelânea
+
+[3358S]
+Latido 4
+
+[3359A]
+Miscelânea
+
+[3359S]
+Latido 5
+
+[3360A]
+Ultrapassagem
+
+[3360S]
+Buzina carro ultrap. 1
+
+[3361A]
+Ultrapassagem
+
+[3361S]
+Buzina carro ultrap. 2
+
+[3362A]
+Ultrapassagem
+
+[3362S]
+Buzina carro ultrap. 3
+
+[3363A]
+Ultrapassagem
+
+[3363S]
+Buzina carro ultrap. 4
+
+[3364A]
+Ultrapassagem
+
+[3364S]
+Buzina carro ultrap. 5
+
+[3365A]
+Ultrapassagem
+
+[3365S]
+Buzina caminhão ultrap. 1
+
+[3366A]
+Ultrapassagem
+
+[3366S]
+Buzina caminhão ultrap. 2
+
+[3367A]
+Ultrapassagem
+
+[3367S]
+Buzina caminhão ultrap. 3
+
+[3368A]
+Ultrapassagem
+
+[3368S]
+Buzina moto ultrap. 1
+
+[3369A]
+Ultrapassagem
+
+[3369S]
+Buzina moto ultrap. 2
+
+[3370A]
+Ultrapassagem
+
+[3370S]
+Buzina moto ultrap. 3
+
+[3371A]
+Ultrapassagem
+
+[3371S]
+Buzina moto ultrap. 4
+
+[3372A]
+Ultrapassagem
+
+[3372S]
+Buzina moto ultrap. 5
+
+[3373A]
+Ultrapassagem
+
+[3373S]
+Buzina moto ultrap. 6
+
+[3374A]
+Ultrapassagem
+
+[3374S]
+Ultrapassagem moto 1
+
+[3375A]
+Ultrapassagem
+
+[3375S]
+Ultrapassagem moto 2
+
+[3376A]
+Ultrapassagem
+
+[3376S]
+Ultrapassagem moto 3
+
+[3377A]
+Ultrapassagem
+
+[3377S]
+Ultrapassagem moto 4
+
+[3378A]
+Ultrapassagem
+
+[3378S]
+Ultrapassagem moto 5
+
+[3379A]
+Ultrapassagem
+
+[3379S]
+Carro ultrapassando 1
+
+[3380A]
+Ultrapassagem
+
+[3380S]
+Carro ultrapassando 2
+
+[3381A]
+Ultrapassagem
+
+[3381S]
+Carro ultrapassando 3
+
+[3382A]
+Ultrapassagem
+
+[3382S]
+Carro ultrapassando 4
+
+[3383A]
+Ultrapassagem
+
+[3383S]
+Carro ultrapassando 5
+
+[3384A]
+Ultrapassagem
+
+[3384S]
+Carro ultrapassando 6
+
+[3385A]
+Ultrapassagem
+
+[3385S]
+Carro ultrapassando 7
+
+[3386A]
+Ultrapassagem
+
+[3386S]
+Carro ultrapassando 8
+
+[3387A]
+Ultrapassagem
+
+[3387S]
+Sirene ultrapassando 1
+
+[3388A]
+Ultrapassagem
+
+[3388S]
+Sirene ultrapassando 2
+
+[3389A]
+Ultrapassagem
+
+[3389S]
+Sirene ultrapassando 3
+
+[3390A]
+Ultrapassagem
+
+[3390S]
+Sirene ultrapassando 4
+
+[3391A]
+Ultrapassagem
+
+[3391S]
+Avião passando 1
+
+[3392A]
+Ultrapassagem
+
+[3392S]
+Avião passando 2
+
+[3393A]
+Ultrapassagem
+
+[3393S]
+Avião passando 3
+
+[3394A]
+Ultrapassagem
+
+[3394S]
+Avião passando 4
+
+[3395A]
+Ultrapassagem
+
+[3395S]
+Avião passando 5
+
+[3396A]
+Ultrapassagem
+
+[3396S]
+Jato passando 1
+
+[3397A]
+Ultrapassagem
+
+[3397S]
+Jato passando 2
+
+[3398A]
+Ultrapassagem
+
+[3398S]
+Jato passando 3
+
+[3399A]
+Ultrapassagem
+
+[3399S]
+Jato passando 4
+
+[3400A]
+Uma Situação Espinhosa
+
+[3400S]
+Inverso forte 1
+
+[3401A]
+Sons inversos
+
+[3401S]
+Inverso forte 2
+
+[3402A]
+Sons inversos
+
+[3402S]
+Inverso forte 3
+
+[3403A]
+Sons inversos
+
+[3403S]
+Inverso forte 4
+
+[3404A]
+Sons inversos
+
+[3404S]
+Inverso forte 5
+
+[3405A]
+Sons inversos
+
+[3405S]
+Inverso fraco 1
+
+[3406A]
+Sons inversos
+
+[3406S]
+Inverso fraco 2
+
+[3407A]
+Sons inversos
+
+[3407S]
+Inverso fraco 3
+
+[3408A]
+Sons inversos
+
+[3408S]
+Inverso fraco 4
+
+[3409A]
+Sons inversos
+
+[3409S]
+Inverso fraco 5
+
+[3410A]
+Sons inversos
+
+[3410S]
+Inverso médio 1
+
+[3411A]
+Sons inversos
+
+[3411S]
+Inverso médio 2
+
+[3412A]
+Sons inversos
+
+[3412S]
+Inverso médio 3
+
+[3413A]
+Sons inversos
+
+[3413S]
+Inverso médio 4
+
+[3414A]
+Sons inversos
+
+[3414S]
+Inverso médio 5
+
+
+
+
+{--- DLC_HALLOWEEN_SFX --}
+[3415A]
+Inversos macabros
+
+[3415S]
+Inverso macabro forte 1
+
+[3416A]
+Inversos macabros
+
+[3416S]
+Inverso macabro forte 2
+
+[3417A]
+Inversos macabros
+
+[3417S]
+Inverso macabro forte 3
+
+[3418A]
+Inversos macabros
+
+[3418S]
+Inverso macabro forte  4
+
+[3419A]
+Inversos macabros
+
+[3419S]
+Inverso macabro forte 5
+
+[3420A]
+Inversos macabros
+
+[3420S]
+Inverso macabro forte 6
+
+[3421A]
+Inversos macabros
+
+[3421S]
+Inverso macabro forte 7
+
+[3422A]
+Inversos macabros
+
+[3422S]
+Inverso macabro forte 8
+
+[3423A]
+Inversos macabros
+
+[3423S]
+Inverso macabro fraco 1
+
+[3424A]
+Inversos macabros
+
+[3424S]
+Inverso macabro fraco 2
+
+[3425A]
+Inversos macabros
+
+[3425S]
+Inverso macabro fraco 3
+
+[3426A]
+Inversos macabros
+
+[3426S]
+Inverso macabro fraco 4
+
+[3427A]
+Inversos macabros
+
+[3427S]
+Inverso macabro fraco 5
+
+[3428A]
+Inversos macabros
+
+[3428S]
+Inverso macabro 1
+
+[3429A]
+Inversos macabros
+
+[3429S]
+Inverso macabro 2
+
+[3430A]
+Inversos macabros
+
+[3430S]
+Inverso macabro 3
+
+[3431A]
+Diversos macabros
+
+[3431S]
+Porta velha abrindo 1
+
+[3432A]
+Diversos macabros
+
+[3432S]
+Porta velha abrindo 2
+
+[3433A]
+Diversos macabros
+
+[3433S]
+Porta velha fechando 1
+
+[3434A]
+Diversos macabros
+
+[3434S]
+Porta velha fechando 2
+
+[3435A]
+Repulsivos
+
+[3435S]
+Esmagamento  1
+
+[3436A]
+Repulsivos
+
+[3436S]
+Esmagamento  2
+
+[3437A]
+Repulsivos
+
+[3437S]
+Esmagamento  3
+
+[3438A]
+Repulsivos
+
+[3438S]
+Esmagamento  4
+
+[3439A]
+Repulsivos
+
+[3439S]
+Esmagamento  5
+
+[3440A]
+Repulsivos
+
+[3440S]
+Esmagamento 6
+
+[3441A]
+Repulsivos
+
+[3441S]
+Osso quebrado 1
+
+[3442A]
+Repulsivos
+
+[3442S]
+Osso quebrado 2
+
+[3443A]
+Repulsivos
+
+[3443S]
+Desmembramento 1
+
+[3444A]
+Repulsivos
+
+[3444S]
+Degolamento 1
+
+[3445A]
+Repulsivos
+
+[3445S]
+Degolamento 2
+
+[3446A]
+Repulsivos
+
+[3446S]
+Mordida repulsiva 6
+
+[3447A]
+Repulsivos
+
+[3447S]
+Facada 1
+
+[3448A]
+Repulsivos
+
+[3448S]
+Facada 2
+
+[3449A]
+Repulsivos
+
+[3449S]
+Facada 3
+
+[3450A]
+Clima
+
+[3450S]
+Trovoada
+
+[3451A]
+Clima
+
+[3451S]
+Chuva e vento leve
+
+[3452A]
+Clima
+
+[3452S]
+Chuva e vento forte
+
+[3480A]
+Animais macabros
+
+[3480S]
+Lobo 1
+
+[3481A]
+Animais macabros
+
+[3481S]
+Lobo 2
+
+[3482A]
+Animais macabros
+
+[3482S]
+Lobo 3
+
+[3483A]
+Vozes macabras
+
+[3483S]
+Bruxa 1
+
+[3484A]
+Vozes macabras
+
+[3484S]
+Bruxa 2
+
+[3485A]
+Animais macabros
+
+[3485S]
+Gato puto 1
+
+[3486A]
+Animais macabros
+
+[3486S]
+Gato puto 2
+
+[3487A]
+Animais macabros
+
+[3487S]
+Gato puto 3
+
+[3488A]
+Animais macabros
+
+[3488S]
+Gato puto 4
+
+[3489A]
+Animais macabros
+
+[3489S]
+Gato puto 5
+
+[3490A]
+Repulsivos
+
+[3490S]
+Facada 4
+
+[3491A]
+Repulsivos
+
+[3491S]
+Facada 5
+
+[3492A]
+Repulsivos
+
+[3492S]
+Pancada 1
+
+[3493A]
+Repulsivos
+
+[3493S]
+Pancada 2
+
+[3494A]
+Repulsivos
+
+[3494S]
+Pancada 3
+
+[3495A]
+Repulsivos
+
+[3495S]
+Laceração 1
+
+[3496A]
+Repulsivos
+
+[3496S]
+Laceração 2
+
+[3497A]
+Repulsivos
+
+[3497S]
+Laceração 3
+
+[3498A]
+Repulsivos
+
+[3498S]
+Laceração 4
+
+[3499A]
+Repulsivos
+
+[3499S]
+Laceração 5
+
+[3500A]
+Alarmes
+
+[3500S]
+Alarme 1
+
+[3501A]
+Alarmes
+
+[3501S]
+Alarme 2
+
+[3502A]
+Alarmes
+
+[3502S]
+Alarme 3
+
+[3503A]
+Alarmes
+
+[3503S]
+Alarme 4
+
+[3504A]
+Alarmes
+
+[3504S]
+Alarme 5
+
+[3505A]
+Alarmes
+
+[3505S]
+Alarme 6
+
+[3510A]
+Fogo
+
+[3510S]
+Fogo 1
+
+[3511A]
+Fogo
+
+[3511S]
+Fogo 2
+
+[3512A]
+Fogo
+
+[3512S]
+Fogo 3
+
+[3513A]
+Fogo
+
+[3513S]
+Fogo 4
+
+[3515A]
+Sirenes
+
+[3515S]
+Sirene 1
+
+[3516A]
+Sirenes
+
+[3516S]
+Sirene 2
+
+[3517A]
+Sirenes
+
+[3517S]
+Sirene 3
+
+[3550A]
+Ruído de fundo
+
+[3550S]
+Área comercial 1
+
+[3551A]
+Ruído de fundo
+
+[3551S]
+Área industrial 1
+
+[3552A]
+Ruído de fundo
+
+[3552S]
+Área residencial 1
+
+[3553A]
+Ruído de fundo
+
+[3553S]
+Área residencial 2
+
+[3554A]
+Ruído de fundo
+
+[3554S]
+Campo 1
+
+[3555A]
+Ruído de fundo
+
+[3555S]
+Campo 2
+
+[3556A]
+Ruído de fundo
+
+[3556S]
+Deserto 1
+
+[3557A]
+Ruído de fundo
+
+[3557S]
+Deserto 2
+
+[3558A]
+Ruído de fundo
+
+[3558S]
+Deserto 3
+
+[3559A]
+Ruídos macabros
+
+[3559S]
+Ruído macabro 1
+
+[3560A]
+Ruídos macabros
+
+[3560S]
+Ruído macabro 2
+
+[3562A]
+Ruídos macabros
+
+[3562S]
+Ruído macabro 3
+
+[3564A]
+Ruídos macabros
+
+[3564S]
+Ruído macabro 4
+
+[3565A]
+Ruídos macabros
+
+[3565S]
+Ruído macabro 5
+
+[3566A]
+Ruídos macabros
+
+[3566S]
+Ruído macabro 6
+
+[3567A]
+Ruídos macabros
+
+[3567S]
+Ruído macabro 7
+
+[3568A]
+Ruídos macabros
+
+[3568S]
+Ruído macabro 8
+
+[3570A]
+Diversos macabros
+
+[3570S]
+Queimando vivo 1
+
+[3571A]
+Diversos macabros
+
+[3571S]
+Respirando 1
+
+[3573A]
+Diversos macabros
+
+[3573S]
+Ventania enigmática 1
+
+[3574A]
+Diversos macabros
+
+[3574S]
+Ventania enigmática 2
+
+[3575A]
+Diversos macabros
+
+[3575S]
+Mulher chorando 1
+
+[3576A]
+Diversos macabros
+
+[3576S]
+Torneira pingando 1
+
+[3577A]
+Diversos macabros
+
+[3577S]
+Correntes remexendo 1
+
+[3578A]
+Diversos macabros
+
+[3578S]
+Degraus rangendo 1
+
+[3580A]
+Repulsivos
+
+[3580S]
+Impacto 1
+
+[3581A]
+Repulsivos
+
+[3581S]
+Impacto 2
+
+[3582A]
+Repulsivos
+
+[3582S]
+Impacto 3
+
+[3583A]
+Repulsivos
+
+[3583S]
+Impacto 4
+
+[3584A]
+Vozes macabras
+
+[3584S]
+Grito feminino 1
+
+[3585A]
+Vozes macabras
+
+[3585S]
+Grito feminino 2
+
+[3586A]
+Vozes macabras
+
+[3586S]
+Grito feminino 3
+
+[3587A]
+Vozes macabras
+
+[3587S]
+Grito feminino 4
+
+[3588A]
+Vozes macabras
+
+[3588S]
+Grito feminino 5
+
+[3589A]
+Vozes macabras
+
+[3589S]
+Grito masculino 1
+
+[3590A]
+Vozes macabras
+
+[3590S]
+Grito masculino 2
+
+[3591A]
+Vozes macabras
+
+[3591S]
+Grito masculino 3
+
+[3592A]
+Vozes macabras
+
+[3592S]
+Grito masculino 4
+
+[3593A]
+Vozes macabras
+
+[3593S]
+Grito masculino 5
+
+[3594A]
+Vozes macabras
+
+[3594S]
+Criatura 1
+
+[3595A]
+Vozes macabras
+
+[3595S]
+Criatura 2
+
+[3596A]
+Vozes macabras
+
+[3596S]
+Criatura 3
+
+[3597A]
+Diversos macabros
+
+[3597S]
+Passos abafados 1
+
+[3598A]
+Diversos macabros
+
+[3598S]
+Maçaneta 1
+
+[3599A]
+Diversos macabros
+
+[3599S]
+Maçaneta 2
+
+[3600A]
+Repulsivos
+
+[3600S]
+Sangue derramado 1
+
+[3601A]
+Repulsivos
+
+[3601S]
+Sangue derramado 2
+
+[3602A]
+Diversos macabros
+
+[3602S]
+Sino badalando 1
+
+[3603A]
+Animais macabros
+
+[3603S]
+Cachorro puto 1
+
+[3604A]
+Animais macabros
+
+[3604S]
+Cachorro puto 2
+
+[3605A]
+Animais macabros
+
+[3605S]
+Cachorro puto 3
+
+[3606A]
+Animais macabros
+
+[3606S]
+Cachorro puto 4
+
+[3607A]
+Animais macabros
+
+[3607S]
+Cachorro puto 5
+
+[3608A]
+Repulsivos
+
+[3608S]
+Pancada 4
+
+[3609A]
+Repulsivos
+
+[3609S]
+Pancada 5
+
+[3610A]
+Repulsivos
+
+[3610S]
+Pancada 6
+
+[3611A]
+Repulsivos
+
+[3611S]
+Pancada 7
+
+[3612A]
+Repulsivos
+
+[3612S]
+Pancada 8
+
+[3613A]
+Repulsivos
+
+[3613S]
+Garrafa cortando 1
+
+
+
+{--- SFX END --}
