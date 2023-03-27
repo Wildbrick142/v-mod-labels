@@ -1,0 +1,343 @@
+﻿{ --- modshop - plates --- }
+{ - actually, shouldn't this go into mod_mnu? - }
+{***********************************************}
+{ - plate names -}
+[FBKI_PLA_0]
+Yankton (worn)
+
+[FBKI_PLA_1]
+Liberty City
+
+[FBKI_PLA_2]
+Vice City
+
+[FBKI_PLA_3]
+Liberty City (modern)
+
+[FBKI_PLA_4]
+Liberty City (retro)
+
+[FBKI_PLA_5]
+Sprunk
+
+[FBKI_PLA_6]
+Patriot Beer
+
+[FBKI_PLA_7]
+LS Shrimps
+
+[FBKI_PLA_8]
+Lake San Andreas
+
+[FBKI_PLA_9]
+North Volucrina
+
+[FBKI_PLA_10]
+Alderney
+
+[FBKI_PLA_11]
+Robada
+
+[FBKI_PLA_12]
+Lincoln
+
+[FBKI_PLA_13]
+Epsilon Program
+
+[FBKI_PLA_14]
+Pantera
+
+[FBKI_PLA_15]
+Pantera (1970's)
+
+[FBKI_PLA_16]
+Pantera (1980's)
+
+[FBKI_PLA_17]
+Hareona
+
+[FBKI_PLA_18]
+North Yankton
+
+[FBKI_PLA_19]
+South Yankton
+
+[FBKI_PLA_20]
+South Volucrina
+
+[FBKI_PLA_21]
+Firefighters
+
+[FBKI_PLA_22]
+Alamo
+
+[FBKI_PLA_23]
+Alamo (2009)
+
+[FBKI_PLA_24]
+Alamo (2000's)
+
+[FBKI_PLA_25]
+Cataldo
+
+[FBKI_PLA_26]
+Lemoyne
+
+[FBKI_PLA_27]
+Cascadia
+
+[FBKI_PLA_28]
+San Andreas Coquettes
+
+[FBKI_PLA_29]
+Crosswalk
+
+[FBKI_PLA_30]
+Crosswalk (SA)
+
+[FBKI_PLA_31]
+Arts of SA
+
+[FBKI_PLA_32]
+Colina
+
+[FBKI_PLA_33]
+Ambarino
+
+[FBKI_PLA_34]
+Jefferson
+
+[FBKI_PLA_35]
+Jefferson, C.D.
+
+[FBKI_PLA_36]
+Meskousin
+
+[FBKI_PLA_37]
+Black on Yellow
+
+[FBKI_PLA_38]
+1st Anniversary Plate
+
+[FBKI_PLA_39]
+Minnewa
+
+[FBKI_PLA_40]
+Yankton
+
+[FBKI_PLA_41]
+Misquakewan
+
+[FBKI_PLA_42]
+Carcer City
+
+[FBKI_PLA_43]
+Tanadux
+
+[FBKI_PLA_44]
+Haiateaa
+
+[FBKI_PLA_45]
+Retrowave
+
+[FBKI_PLA_46]
+Willsylvania
+
+[FBKI_PLA_47]
+2nd Anniversary Plate
+
+[FBKI_PLA_48]
+Digital
+
+[FBKI_PLA_49]
+Arena War: Contender
+
+[FBKI_PLA_50]
+Arena War: Spectator
+
+[FBKI_PLA_51]
+3rd Anniversary Plate
+
+[FBKI_PLA_52]
+Robada (1980's)
+
+[FBKI_PLA_53]
+Veterans
+
+[FBKI_PLA_54]
+4th Anniversary Plate
+
+[FBKI_PLA_55]
+Cayo Perico
+
+[FBKI_PLA_56]
+Cayo Perico (worn)
+
+[FBKI_PLA_57]
+5th Anniversary Plate
+
+[FBKI_PLA_58]
+Green Vehicles
+
+[FBKI_PLA_59]
+New Austin
+
+[FBKI_PLA_60]
+New Austin (Centennial)
+
+[FBKI_PLA_61]
+Lannahechee
+
+[FBKI_PLA_62]
+New Hanover
+
+[FBKI_PLA_63]
+Elizabeth
+
+[FBKI_PLA_64]
+Princess Robot Bubblegum!
+
+[FBKI_PLA_65]
+Baja San Andreas
+
+[FBKI_PLA_66]
+Baja San Andreas Sur
+
+[FBKI_PLA_67]
+6th Anniversary Plate
+
+[FBKI_PLA_68]
+LD Organics
+
+[FBKI_PLA_69]
+Fubuki City
+
+[FBKI_PLA_70]
+Sarthe
+
+[FBKI_PLA_71]
+blank
+
+[FBKI_PLA_72]
+blank
+
+[FBKI_PLA_73]
+blank
+
+[FBKI_PLA_74]
+blank
+
+[FBKI_PLA_75]
+blank
+
+[FBKI_PLA_76]
+blank
+
+[FBKI_PLA_77]
+blank
+
+[FBKI_PLA_78]
+blank
+
+[FBKI_PLA_79]
+blank
+
+[FBKI_PLA_80]
+blank
+
+
+
+{ - category names -}
+
+[FBKI_PLT_0]
+San Andreas State Plates
+
+[FBKI_PLT_1]
+Liberty State Plates
+
+[FBKI_PLT_2]
+Pantera State Plates
+
+[FBKI_PLT_3]
+West Coast States
+
+[FBKI_PLT_4]
+Midwest States
+
+[FBKI_PLT_5]
+Southern States
+
+[FBKI_PLT_6]
+East Coast States
+
+[FBKI_PLT_7]
+Non-USA Plates
+
+[FBKI_PLT_8]
+Special Plates
+
+
+
+{ - category descriptions -}
+
+[FBKI_PLT_0_D]
+Collection of license plates from the state of San Andreas.
+
+[FBKI_PLT_1_D]
+Collection of license plates from the state of Liberty.
+
+[FBKI_PLT_2_D]
+Collection of license plates from the state of Pantera.
+
+[FBKI_PLT_3_D]
+Collection of license plates from the West Coast states. Excludes state of San Andreas.
+
+[FBKI_PLT_4_D]
+Collection of license plates from the Midwest states.
+
+[FBKI_PLT_5_D]
+Collection of license plates from the Southern states. Excludes state of Pantera.
+
+[FBKI_PLT_6_D]
+Collection of license plates from the East Coast states. Excludes state of Liberty.
+
+[FBKI_PLT_7_D]
+Collection of license plates from outside of the United States.
+
+[FBKI_PLT_8_D]
+Collecition of special-issue license plates. May or may not be legal.
+
+
+
+{ - category uppercase -}
+[FBKI_PLT_0_T]
+LICENSE - SAN ANDREAS
+
+[FBKI_PLT_1_T]
+LICENSE - LIBERTY
+
+[FBKI_PLT_2_T]
+LICENSE - PANTERA
+
+[FBKI_PLT_3_T]
+LICENSE - WEST COAST
+
+[FBKI_PLT_4_T]
+LICENSE - MIDWEST
+
+[FBKI_PLT_5_T]
+LICENSE - SOUTH
+
+[FBKI_PLT_6_T]
+LICENSE - EAST COAST
+
+[FBKI_PLT_7_T]
+LICENSE - NON-USA
+
+[FBKI_PLT_8_T]
+LICENSE - SPECIAL
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

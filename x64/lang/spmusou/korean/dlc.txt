@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_MUSOU_ISSHIN]
+Musou Isshin
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_MUSOU_ISSHIN]
+MUSOU ISSHIN
+
+
+{ - the weapon -}
+[WTT_MUSOU_ISSHIN]
+the Musou Isshin
+
+
+{ - decription -}
+[WTD_MUSOU_ISSHIN]
+A very sharp, and very lethal sword that, despite looking like a cosplay prop, one can't help but feel a power not from this world emanating from it. Maybe it's just the lights' glow.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

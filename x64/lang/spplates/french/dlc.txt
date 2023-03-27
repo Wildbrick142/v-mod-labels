@@ -1,0 +1,343 @@
+﻿{ --- modshop - plates --- }
+{ - actually, shouldn't this go into mod_mnu? - }
+{***********************************************}
+{ - plate names -}
+[FBKI_PLA_0]
+Yankton (épuisé)
+
+[FBKI_PLA_1]
+Liberty City
+
+[FBKI_PLA_2]
+Vice City
+
+[FBKI_PLA_3]
+Liberty City (moderne)
+
+[FBKI_PLA_4]
+Liberty City (rétro)
+
+[FBKI_PLA_5]
+Sprunk
+
+[FBKI_PLA_6]
+Patriot Beer
+
+[FBKI_PLA_7]
+LS Shrimps
+
+[FBKI_PLA_8]
+Lac San Andreas
+
+[FBKI_PLA_9]
+North Volucrina
+
+[FBKI_PLA_10]
+Alderney
+
+[FBKI_PLA_11]
+Robada
+
+[FBKI_PLA_12]
+Lincoln
+
+[FBKI_PLA_13]
+Le Programme Epsilon
+
+[FBKI_PLA_14]
+Pantera
+
+[FBKI_PLA_15]
+Pantera (années 1970)
+
+[FBKI_PLA_16]
+Pantera (années 1980)
+
+[FBKI_PLA_17]
+Hareona
+
+[FBKI_PLA_18]
+North Yankton
+
+[FBKI_PLA_19]
+South Yankton
+
+[FBKI_PLA_20]
+South Volucrina
+
+[FBKI_PLA_21]
+Firefighters
+
+[FBKI_PLA_22]
+Alamo
+
+[FBKI_PLA_23]
+Alamo (2009)
+
+[FBKI_PLA_24]
+Alamo (années 2000)
+
+[FBKI_PLA_25]
+Cataldo
+
+[FBKI_PLA_26]
+Lemoyne
+
+[FBKI_PLA_27]
+Cascadia
+
+[FBKI_PLA_28]
+Coquettes de San Andreas
+
+[FBKI_PLA_29]
+Passage clouté
+
+[FBKI_PLA_30]
+Passage clouté (SA)
+
+[FBKI_PLA_31]
+Arts de SA
+
+[FBKI_PLA_32]
+Colina
+
+[FBKI_PLA_33]
+Ambarino
+
+[FBKI_PLA_34]
+Jefferson
+
+[FBKI_PLA_35]
+Jefferson, C.D.
+
+[FBKI_PLA_36]
+Meskousin
+
+[FBKI_PLA_37]
+Noir sur jaune
+
+[FBKI_PLA_38]
+Assiette du 1er anniversaire
+
+[FBKI_PLA_39]
+Minnewa
+
+[FBKI_PLA_40]
+Yankton
+
+[FBKI_PLA_41]
+Misquakewan
+
+[FBKI_PLA_42]
+Carcer City
+
+[FBKI_PLA_43]
+Tanadux
+
+[FBKI_PLA_44]
+Haiateaa
+
+[FBKI_PLA_45]
+Rétroonde
+
+[FBKI_PLA_46]
+Willsylvania
+
+[FBKI_PLA_47]
+Assiette du 2e anniversaire
+
+[FBKI_PLA_48]
+Numérique
+
+[FBKI_PLA_49]
+Guerre d'arène: Concurrent
+
+[FBKI_PLA_50]
+Guerre d'arène: Spectateur
+
+[FBKI_PLA_51]
+Assiette du 3e anniversaire
+
+[FBKI_PLA_52]
+Robada (années 1980)
+
+[FBKI_PLA_53]
+Anciens combattants
+
+[FBKI_PLA_54]
+Assiette du 4e anniversaire
+
+[FBKI_PLA_55]
+Cayo Perico
+
+[FBKI_PLA_56]
+Cayo Perico (épuisé)
+
+[FBKI_PLA_57]
+Assiette du 5e anniversaire
+
+[FBKI_PLA_58]
+Véhicules écologiques
+
+[FBKI_PLA_59]
+New Austin
+
+[FBKI_PLA_60]
+New Austin (centenaire)
+
+[FBKI_PLA_61]
+Lannahechee
+
+[FBKI_PLA_62]
+New Hanover
+
+[FBKI_PLA_63]
+Elizabeth
+
+[FBKI_PLA_64]
+Princess Robot Bubblegum!
+
+[FBKI_PLA_65]
+Baja San Andreas
+
+[FBKI_PLA_66]
+Baja San Andreas Sur
+
+[FBKI_PLA_67]
+Assiette du 6e anniversaire
+
+[FBKI_PLA_68]
+LD Organics
+
+[FBKI_PLA_69]
+Fubuki City
+
+[FBKI_PLA_70]
+Sarthe
+
+[FBKI_PLA_71]
+blank
+
+[FBKI_PLA_72]
+blank
+
+[FBKI_PLA_73]
+blank
+
+[FBKI_PLA_74]
+blank
+
+[FBKI_PLA_75]
+blank
+
+[FBKI_PLA_76]
+blank
+
+[FBKI_PLA_77]
+blank
+
+[FBKI_PLA_78]
+blank
+
+[FBKI_PLA_79]
+blank
+
+[FBKI_PLA_80]
+blank
+
+
+
+{ - category names -}
+
+[FBKI_PLT_0]
+Plaques d'état de San Andreas
+
+[FBKI_PLT_1]
+Plaques d'état de Liberty
+
+[FBKI_PLT_2]
+Plaques d'état de Pantera
+
+[FBKI_PLT_3]
+Plaques d'états de la côte ouest
+
+[FBKI_PLT_4]
+Plaques d'états du midwest
+
+[FBKI_PLT_5]
+Plaques d'états du sud
+
+[FBKI_PLT_6]
+Plaques d'états de la côte est
+
+[FBKI_PLT_7]
+Plaques non américaines
+
+[FBKI_PLT_8]
+Plaques spéciales
+
+
+
+{ - category descriptions -}
+
+[FBKI_PLT_0_D]
+Collection de plaques d'immatriculation de l'état de San Andreas.
+
+[FBKI_PLT_1_D]
+Collection de plaques d'immatriculation de l'état de Liberty.
+
+[FBKI_PLT_2_D]
+Collection de plaques d'immatriculation de l'état de Pantera.
+
+[FBKI_PLT_3_D]
+Collection de plaques d'immatriculation des États de la côte ouest. Exclut l'état de San Andreas.
+
+[FBKI_PLT_4_D]
+Collection de plaques d'immatriculation des États du Midwest.
+
+[FBKI_PLT_5_D]
+Collection de plaques d'immatriculation des États du Sud. Exclut l'état de Pantera.
+
+[FBKI_PLT_6_D]
+Collection de plaques d'immatriculation des États de la côte Est. Exclut l'état de Liberty.
+
+[FBKI_PLT_7_D]
+Collection de plaques d'immatriculation de l'extérieur des États-Unis.
+
+[FBKI_PLT_8_D]
+Collection de plaques d'immatriculation spéciales. Peut ou non être légal.
+
+
+
+{ - category uppercase -}
+[FBKI_PLT_0_T]
+LICENCE - SAN ANDREAS
+
+[FBKI_PLT_1_T]
+LICENCE - LIBERTY
+
+[FBKI_PLT_2_T]
+LICENCE - PANTERA
+
+[FBKI_PLT_3_T]
+LICENCE - CÔTE OUEST
+
+[FBKI_PLT_4_T]
+LICENCE - MIDWEST
+
+[FBKI_PLT_5_T]
+LICENCE - SUD
+
+[FBKI_PLT_6_T]
+LICENCE - CÔTE EST
+
+[FBKI_PLT_7_T]
+LICENCE - HORS USA
+
+[FBKI_PLT_8_T]
+LICENCE - SPÉCIALE
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

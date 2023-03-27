@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_MUSOU_ISSHIN]
+夢想の一心
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_MUSOU_ISSHIN]
+夢想の一心
+
+
+{ - the weapon -}
+[WTT_MUSOU_ISSHIN]
+夢想の一心
+
+
+{ - decription -}
+[WTD_MUSOU_ISSHIN]
+非常に鋭く、非常に致命的な剣で、コスプレ小道具のように見えますが、この世のものではない力がそこから発しているのを感じずにはいられません.多分それはただのライトの輝きです。
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
