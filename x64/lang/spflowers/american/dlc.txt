@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Flower Bouquet
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+FLOWER BOUQUET
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+the Flower Bouquet
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Show these to your loved one, and you might just have a chance at eating more than a box of chocolates this Valentines. Alternatively, smack someone across the face - those are some versatile flowers.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

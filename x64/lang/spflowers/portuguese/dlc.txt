@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Buquê de Flores
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+BUQUÊ DE FLORES
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+o Buquê de Flores
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Mostre isso para sua amada, e você pode ter a chance de comer mais do que uma caixa de chocolates neste Dia dos Namorados. Alternativamente, dê um tapa no rosto de alguém - essas são algumas flores versáteis.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

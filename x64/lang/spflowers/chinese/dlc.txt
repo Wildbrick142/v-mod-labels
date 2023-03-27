@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+鮮花花束
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+鮮花花束
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+鮮花花束
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+把這些給你愛的人看，你可能有機會在這個情人節吃到不止一盒巧克力。 或者，打人的臉——那些是多才多藝的花。
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

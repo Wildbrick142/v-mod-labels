@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[SSS_BLISTA4]
+** placeholder Blista4 description **
+
+[WEB_BLISTA4HSW]
+Teil von HSW: Kanjo Legend
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

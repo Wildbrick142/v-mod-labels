@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[SSS_BLISTA4]
+** placeholder Blista4 description **
+
+[WEB_BLISTA4HSW]
+「HSW:カンジョ凡例」のアイテム
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

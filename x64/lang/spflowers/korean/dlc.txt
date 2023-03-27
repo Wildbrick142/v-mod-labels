@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+꽃다발
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+꽃다발
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+꽃 꽃다발
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+이것을 사랑하는 사람에게 보여주면 이번 발렌타인 데이에 초콜릿 한 상자 이상을 먹을 수 있는 기회가 생길 수도 있습니다. 또는 얼굴을 가로질러 누군가를 때리십시오. 이것은 다재다능한 꽃입니다.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

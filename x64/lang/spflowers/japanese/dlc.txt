@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+花の花束
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+花の花束
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+花の花束
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+これらをあなたの愛する人に見せてください。そうすれば、このバレンタインにチョコレートの箱以上を食べるチャンスがあるかもしれません。 あるいは、顔全体に誰かを叩きます。それらはいくつかの用途の広い花です。
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

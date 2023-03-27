@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Bukiet Kwiatów
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+BUKIET KWIATÓW
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+Bukiet Kwiatów
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Pokaż je ukochanej osobie, a być może będziesz miał szansę zjeść więcej niż pudełko czekoladek w te walentynki. Ewentualnie uderz kogoś w twarz - to są wszechstronne kwiaty.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

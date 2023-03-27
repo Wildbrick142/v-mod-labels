@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Ramo de flores
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+RAMO DE FLORES
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+el ramo de flores
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Muéstreselos a su ser querido y quizás tenga la oportunidad de comer más que una caja de chocolates este San Valentín. Alternativamente, golpea a alguien en la cara: esas son algunas flores versátiles.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,18 @@
+﻿
+
+{--- vehicle names --}
+[BLISTA4]
+Blista Compacto
+
+
+
+{ --- modparts --- }
+{***********************************************}
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

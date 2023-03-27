@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Blumenstrauß
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+BLUMENSTRAUß
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+der Blumenstrauß
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Zeigen Sie diese Ihrem Liebsten und Sie haben vielleicht die Chance, an diesem Valentinstag mehr als eine Schachtel Pralinen zu essen. Alternativ können Sie jemandem ins Gesicht schlagen – das sind einige vielseitige Blumen.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

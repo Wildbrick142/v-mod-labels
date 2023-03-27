@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLOWER_BOUQUET]
+Bouquet di fiori
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLOWER_BOUQUET]
+BOUQUET DI FIORI
+
+
+{ - the weapon -}
+[WTT_FLOWER_BOUQUET]
+il Bouquet di fiori
+
+
+{ - decription -}
+[WTD_FLOWER_BOUQUET]
+Mostrali alla persona amata e potresti avere la possibilità di mangiare più di una scatola di cioccolatini questo San Valentino. In alternativa, colpisci qualcuno in faccia: quelli sono dei fiori versatili.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
