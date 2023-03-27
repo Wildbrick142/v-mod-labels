@@ -1,0 +1,640 @@
+﻿
+
+{--- vehicle names --}
+[ZR250]
+ZR250 Savestra
+
+
+
+{ --- modparts --- }
+{***********************************************}
+{ - ZR250_SPOILER -}
+[ZR250_WING_1]
+Lackierter-Spoiler
+
+[ZR250_WING_2]
+Tuning-Spoiler
+
+[ZR250_WING_3]
+Kosoku GT Spoiler
+
+[ZR250_WING_4]
+Entenschwanz Spoiler
+
+[ZR250_WING_5]
+Dragster-Spoiler
+
+[ZR250_WING_6]
+Ayanami-RS GT Spoiler
+
+[ZR250_WING_7]
+Tuner-Spoiler
+
+[ZR250_WING_8]
+X-Flow Spoiler
+
+[ZR250_WING_9]
+Mk2 X-Flow Spoiler
+
+[ZR250_WING_10]
+X-Flow Monster-Spoiler
+
+[ZR250_WING_11]
+Extrem Aero Spoiler
+
+[ZR250_WING_12]
+Extrem Aero Spoiler Mk2
+
+[ZR250_WING_NO]
+Spoiler entfernen
+
+
+
+
+{ - ZR250_F_BUMPER -}
+[ZR250_BUMF_1]
+Lackierter Stoßstange
+
+[ZR250_BUMF_2]
+Performance Stoßstange
+
+[ZR250_BUMF_3]
+Tuning-Stoßstange
+
+[ZR250_BUMF_4]
+Ayanami-RS Stoßstange
+
+[ZR250_BUMF_5]
+Mk2 Ayanami-RS Stoßstange
+
+[ZR250_BUMF_6]
+Drag Stoßstange
+
+[ZR250_BUMF_7]
+Kosoku GT Stoßstange
+
+[ZR250_BUMF_8]
+Mk2 Kosoku GT Stoßstange
+
+[ZR250_BUMF_9]
+Kosoku GT LM Stoßstange
+
+[ZR250_BUMF_10]
+X-Flow Stoßstange
+
+[ZR250_BUMF_11]
+Mk2 X-Flow Stoßstange
+
+[ZR250_BUMF_12]
+X-Flow Monster-Stoßstange
+
+[ZR250_BUMF_13]
+Mk2 X-Flow Monster-Stoßstange
+
+[ZR250_BUMF_14]
+Super Rally Stoßstange
+
+[ZR250_BUMF_14A]
+Super Rally Safari-Stoßstange
+
+[zr250_bumf_15]
+Polizeilichter
+
+[zr250_bumf_15a]
+Polizeilichter mit Lackierter Stoß.
+
+
+
+{ - ZR250_R_BUMPER -}
+[zr250_bumr_1]
+Lackierter Rear Stoßstange
+
+[zr250_bumr_2]
+X-Flow Stoßstange
+
+[zr250_bumr_3]
+Ayanami-RS Stoßstange
+
+[zr250_bumr_4]
+Kosoku GT Stoßstange
+
+[zr250_bumr_5]
+Mk2 Kosoku GT Stoßstange
+
+[zr250_bumr_6]
+Super Rally Stoßstange
+
+
+
+
+{ - ZR250_SKIRT -}
+[ZR250_SKRT_1]
+Tuning-Seitenschweller
+
+[ZR250_SKRT_2]
+Ayanami-RS Seitenschweller
+
+[ZR250_SKRT_3]
+Kosoku GT Seitenschweller
+
+[ZR250_SKRT_4]
+Mk2 Kosoku GT Seitenschweller
+
+[ZR250_SKRT_5]
+X-Flow Seitenschweller
+
+[ZR250_SKRT_6]
+Schmutzfänger
+
+
+
+{ - ZR250_EXHAUST -}
+
+[ZR250_EXH_1]
+Ayanami-RS Auspuff
+
+[ZR250_EXH_1A]
+Super Rally Auspuff
+
+[ZR250_EXH_2]
+Lackierter Stoßstange
+
+[ZR250_EXH_2A]
+Lackierter Stoß. mit Ayanami-RS Tips
+
+[ZR250_EXH_2B]
+Lackierter Stoß. mit Super Rally Tips
+
+[ZR250_EXH_3]
+X-Flow Stoßstange
+
+[ZR250_EXH_4]
+Ayanami-RS
+
+[ZR250_EXH_4A]
+Ayanami-RS mit Ayanami-RS Auspuff
+
+[ZR250_EXH_4B]
+Ayanami-RS mit Super Rally Auspuff
+
+[ZR250_EXH_5]
+Kosoku GT
+
+[ZR250_EXH_5A]
+Kosoku GT mit Kosoku GT Auspuff
+
+[ZR250_EXH_5B]
+Kosoku GT mit Ayanami-RS Auspuff
+
+[ZR250_EXH_5C]
+Kosoku GT mit Super Rally Auspuff
+
+[ZR250_EXH_6]
+Kosoku GT
+
+[ZR250_EXH_6A]
+Kosoku GT mit Kosoku GT Auspuff
+
+[ZR250_EXH_6B]
+Kosoku GT mit Ayanami-RS Auspuff
+
+[ZR250_EXH_6C]
+Kosoku GT mit Super Rally Auspuff
+
+[ZR250_EXH_7]
+Super Rally
+
+[ZR250_EXH_N1]
+Stoß. entf. mit Kosoku GT Auspuff
+
+[ZR250_EXH_N2]
+Stoß. entf. mit Ayanami-RS Auspuff
+
+[ZR250_EXH_N3]
+Stoß. entf. mit X-Flow Auspuff
+
+[ZR250_EXH_N4]
+Stoß. entf. mit Super Rally Auspuff
+
+[zr250_ex_1]
+Kosoku GT Auspuff
+
+[zr250_ex_2]
+Ayanami-RS Auspuff
+
+[zr250_ex_3]
+X-Flow Auspuff
+
+[zr250_ex_4]
+Super Rally Auspuff
+
+
+
+{ - ZR250_HOODS -}
+[ZR250_HOOD_0]
+Carbon-Motorhaube
+
+[ZR250_HOOD_1]
+Glatte Motorhaube
+
+[ZR250_HOOD_1a]
+Glatte Carbon-Motorhaube
+
+[ZR250_HOOD_2]
+Ayanami-RS Motorhaube
+
+[ZR250_HOOD_2a]
+Ayanami-RS Carbon-Motorhaube
+
+[ZR250_HOOD_3]
+Entlüften Motorhaube
+
+[ZR250_HOOD_3a]
+Entlüften Carbon-Motorhaube
+
+[ZR250_HOOD_4]
+X-Flow Motorhaube
+
+[ZR250_HOOD_4a]
+X-Flow Carbon-Motorhaube
+
+[ZR250_HOOD_5]
+Dragster Carbon-Motorhaube
+
+[ZR250_HOOD_5a]
+Dragster Motorhaube
+
+[ZR250_HOOD_6]
+Kosoku GT Motorhaube
+
+[ZR250_HOOD_6a]
+Kosoku GT Carbon-Motorhaube
+
+[ZR250_HOOD_7]
+Mk2 Kosoku GT Motorhaube
+
+[ZR250_HOOD_7a]
+Mk2 Kosoku GT Carbon-Motorhaube
+
+[ZR250_HOOD_8]
+Super Rally Motorhaube
+
+[ZR250_HOOD_8a]
+Super Rally Carbon-Motorhaube
+
+[ZR250_HOOD_9]
+Polizeiabweiser
+
+[ZR250_HOOD_9A]
+Polizeiabweiser mit Carbon-Motorh.
+
+
+
+{ - ZR250_CHASSIS_CAGE -}
+[ZR250_CAGE_1]
+Halber Überrollkäfig
+
+[ZR250_CAGE_2]
+Straße Überrollkäfig
+
+[ZR250_CAGE_3]
+Überrollkäfig
+
+[ZR250_CAGE_4]
+Komplett Überrollkäfig
+
+
+
+{ - ZR250_STRIP -}
+[ZR250_STRIP_1]
+Sonnenstreifen
+
+[ZR250_STRIP_2]
+Sonnenstreifen mit Dachspoiler
+
+
+
+
+{ - ZR250_BOOT -}
+[ZR250_BOOT_1]
+Lackierter Kofferraum
+
+
+
+
+{ - ZR250_HL -}
+[ZR250_LIGHT_1]
+Lackierter Abdeckung
+
+[zr250_light_1a]
+Lackierter Abdeckung
+
+[zr250_light_2]
+Festescheinwerfer
+
+[zr250_light_2a]
+Festescheinwerfer mit Entlü. Abde.
+
+[zr250_light_2b]
+Festescheinwerfer mit Lackier. Abde.
+
+[ZR250_LIGHT_3]
+Festescheinwerfer Mk1
+
+[ZR250_LIGHT_3A]
+Chrom-Festescheinwerfer Mk1
+
+[ZR250_LIGHT_3B]
+Lackier. Festescheinwerfer Mk1
+
+[ZR250_LIGHT_4]
+Festescheinwerfer Mk2
+
+[ZR250_LIGHT_4A]
+Chrom-Festescheinwerfer Mk2
+
+[ZR250_LIGHT_4B]
+Lackier. Festescheinwerfer Mk2
+
+[ZR250_LIGHT_5]
+Festescheinwerfer Mk3
+
+[ZR250_LIGHT_5A]
+Carbon-Festescheinwerfer Mk3
+
+[zr250_light_6]
+Festescheinwerfer Mk4
+
+
+
+{ - ZR250_TRIM -}
+[ZR250_TRIMR_1]
+Plastiktrimmen
+
+[ZR250_TRIMR_2]
+Plastiktrimmen mit Logo
+
+[ZR250_TRIMR_3]
+Lackierter Trimmen
+
+[ZR250_TRIM_1]
+Lackierter Trimmen
+
+
+
+
+{ - ZR250_MIR -}
+[ZR250_MIRROR_1]
+Aero Spiegel
+
+[ZR250_MIRROR_2]
+Spiegel entfernen
+
+
+
+{ - ZR250_MISC -}
+[ZR250_MISC_1]
+Super Rally Entlüften
+
+[ZR250_MISC_2]
+Wheelie-Bar
+
+[ZR250_MISC_3]
+Wheelie-Bar mit Bremsschirm
+
+[ZR250_MISC_A]
+Hecklogo entfernen
+
+
+
+{ - ZR250_DASH -}
+[ZR250_DASH_1]
+Schiebedach entfernen
+
+[ZR250_DASH_2]
+Super Rally Lufthutze
+
+[ZR250_DASH_3]
+Renninterieur
+
+[ZR250_DASH_4]
+Rennint. mit Super Rally Lufthutze
+
+
+
+{ - ZR250 PLATE -}
+[ZR250_PLATE_1]
+Vorderes Nummernschild seite
+
+[ZR250_PLATE_2]
+Vorderes Nummernschild Windsch.
+
+[ZR250_PLATE_3]
+Kein Nummernschild vorne
+
+
+{ - ROOF -}
+[ZR250_ROOF_1]
+Dachspoiler
+
+[ZR250_ROOF_2]
+Polizeiausrüstung
+
+[ZR250_ROOF_3]
+Mk1 Super Rally Nebellichter
+
+[ZR250_ROOF_3A]
+Mk1 Super Rally Nebel. mit Sonnenstr.
+
+[ZR250_ROOF_4]
+Mk2 Super Rally Nebellichter
+
+[ZR250_ROOF_5]
+Mk3 Super Rally Nebellichter
+
+[ZR250_ROOF_5A]
+Super Rally Paket
+
+[ZR250_ROOF_NO]
+Antenne entfernen
+
+
+
+{ -- ZR250_SEATS -- }
+[ZR250_SEAT_1]
+GT Autositz
+
+[ZR250_SEAT_2]
+Abgestreift GT Autositz
+
+[ZR250_SEAT_3]
+GT Autositze
+
+[ZR250_SEAT_4]
+Sport-Autositze
+
+
+
+{ -- ZR250_LIVERY -- }
+
+[ZR250_LIV01]
+Auto Exotic
+
+[ZR250_LIV02]
+Bay Shore Schwarz
+
+[ZR250_LIV03]
+Bay Shore Weiß
+
+[ZR250_LIV04]
+Fukaru
+
+[ZR250_LIV05]
+Hayes Schwarz
+
+[ZR250_LIV06]
+Hayes Rosa
+
+[ZR250_LIV07]
+Hayes Weiß
+
+[ZR250_LIV08]
+Hayes Gelb
+
+[ZR250_LIV09]
+Hayes Blaue
+
+[ZR250_LIV10]
+Ayanami-RS Schwarz
+
+[ZR250_LIV11]
+Ayanami-RS Weiß
+
+[ZR250_LIV12]
+Sternenbanner
+
+[ZR250_LIV13]
+Zenshin Drift
+
+[ZR250_LIV14]
+WeißComet
+
+[ZR250_LIV15]
+X-Flow
+
+[ZR250_LIV16]
+Annis Turbo Schwarz
+
+[ZR250_LIV17]
+Annis Turbo Weiß
+
+[ZR250_LIV18]
+Schwarz ZR-250 Streifen
+
+[ZR250_LIV19]
+Weiß ZR-250 Streifen
+
+[ZR250_LIV20]
+Tryhard
+
+[ZR250_LIV21]
+Nur Jazz
+
+[ZR250_LIV22]
+Jakey's Lager
+
+[ZR250_LIV23]
+Estancia Rennsport
+
+[ZR250_LIV24]
+Estancia Straße
+
+[ZR250_LIV25]
+Chiliad Bergrennen
+
+[ZR250_LIV26]
+Chiliad Straße
+
+[ZR250_LIV27]
+Annis Drehkraft
+
+[ZR250_LIV28]
+Ayanami-RS AWD
+
+[ZR250_LIV29]
+Grün Sprint
+
+[ZR250_LIV30]
+Turbostreifen
+
+[ZR250_LIV31]
+**Placeholder**
+
+[ZR250_LIV32]
+**Placeholder**
+
+[ZR250_LIV33]
+Yours
+
+[ZR250_LIV34]
+Kogane Ōkami
+
+[ZR250_LIV35]
+RBS Performance
+
+[ZR250_LIV36]
+Bay Shore Süßigkeiten
+
+[ZR250_LIV37]
+Bootybronco
+
+[ZR250_LIV38]
+Drachen
+
+[ZR250_LIV39]
+HardShip Süßigkeiten
+
+[ZR250_LIV40]
+Verblasster Tiger
+
+[ZR250_LIV41]
+Kaugummi-Tiger
+
+[ZR250_LIV42]
+Atomic Rennsport JPN
+
+[ZR250_LIV43]
+Schwarz Rennstreifen
+
+[ZR250_LIV44]
+Weiß Rennstreifen
+
+[ZR250_LIV45]
+Premier Rennsport Blaue
+
+[ZR250_LIV46]
+Premier Rennsport Weiß
+
+[ZR250_LIV47]
+Chepalle Retro-Rennfahrer
+
+[ZR250_LIV48]
+Shark Retro-Rennfahrer
+
+[ZR250_LIV49]
+Savestra Straße Decals
+
+[ZR250_LIV50]
+Annisport Monochrome-Streifen
+
+[ZR250_LIV51]
+Annisport Blaue-Streifen
+
+[ZR250_LIV52]
+Alien Styling Kunst-Motorhaube
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,81 @@
+﻿{--- updated 2/01/23 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_TOR2_RAY]
+Ray Cannons
+
+[WTD_V_TORERO2]
+Zielona broń laserowa z pociskami
+
+[WTD_V_TORERO2_P]
+Laserowe karabiny maszynowe i pociski
+
+[WTD_V_TORERO2_R]
+Czerwona broń laserowa z pociskami
+
+[WT_V_TOR2_MG]
+Zielona broń laserowa
+
+[WT_V_TOR2_MGR]
+Czerwona broń laserowa
+
+[WT_V_TOR2_RAY]
+Ray Cannon
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[TORERO3]
+Technical Torero
+
+[BLISTADIGI]
+Bilateral Blista
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - **** modshop category **** -}
+[TOP_DIGI]
+Dekoracje cyfrowe
+
+
+{ - TOR3_CVR -}
+
+[TOR3_CVR4]
+Świecąca pokrywa żaluzji
+
+
+{ - TOR3_DEBADGE -}
+
+[TOR3_DBDG1]
+Usuń przednią odznakę
+
+
+{ - TOR2_DIGI -}
+[TOR3_DIGI1]
+Cyfrowa tablica rejestracyjna
+
+
+{ - TOR3_PANELS -}
+[TOR3_RPNL5]
+Panel węglowy
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,81 @@
+﻿{--- updated 2/01/23 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_TOR2_RAY]
+Ray Cannons
+
+[WTD_V_TORERO2]
+Green Laser Gun w/ Missiles
+
+[WTD_V_TORERO2_P]
+Laser Machine Guns and Missiles
+
+[WTD_V_TORERO2_R]
+Red Laser Gun w/ Missiles
+
+[WT_V_TOR2_MG]
+Green Laser MG
+
+[WT_V_TOR2_MGR]
+Red Laser MG
+
+[WT_V_TOR2_RAY]
+Ray Cannon
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[TORERO3]
+Technical Torero
+
+[BLISTADIGI]
+Bilateral Blista
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - **** modshop category **** -}
+[TOP_DIGI]
+Digital Decorations
+
+
+{ - TOR3_CVR -}
+
+[TOR3_CVR4]
+Glowing Louvers Cover
+
+
+{ - TOR3_DEBADGE -}
+
+[TOR3_DBDG1]
+Front Badge Delete
+
+
+{ - TOR2_DIGI -}
+[TOR3_DIGI1]
+Digital License Plate
+
+
+{ - TOR3_PANELS -}
+[TOR3_RPNL5]
+Carbon Panel
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

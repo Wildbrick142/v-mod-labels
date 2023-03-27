@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[CANDC_TORERO3]
+Prosto z lat 80. XX wieku Ocean Drive z neonowym koszmarem, Technical Torero to wszystko, o co nie prosiłeś, a jednocześnie wszystko, czego możesz się spodziewać. Absurdalna ilość neonów? Czek. Projekt w kształcie klina w stylu retro? Czek. Umiejętność jednoczesnego latania i wymazywania wszystkiego za pomocą laserów? Sprawdź i sprawdź. Z wystarczającą mocą, by oświetlić ulice jaśniej niż w Vinewood w nocy, zastanawiałbyś się, dlaczego korporacje nie zaczęły jeszcze korzystać z tych samochodów jako znaków reklamowych.<br><br>Uwaga: model produkcyjny tego pojazdu ma zmniejszone możliwości ofensywne.
+
+[WEB_TRAIL2308PACK]
+Część Trailblazers 2308
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

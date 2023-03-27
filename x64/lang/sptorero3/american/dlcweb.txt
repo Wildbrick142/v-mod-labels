@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[CANDC_TORERO3]
+Straight from 1980's Ocean Drive neon-clad nightmare, the Technical Torero is everything you did not ask for, yet everything you could expect. Absurd amount of neons? Check. A retro, wedge-shaped design? Check. Ability to simultaneously fly and obliterate anything with lasers? Check and check. With enough power to light up the streets brighter than Vinewood at night, you'd wonder why corporations haven't started using these cars as advertisement signs yet.<br><br>Note, the production model of this vehicle has reduced offensive capabilities.
+
+[WEB_TRAIL2308PACK]
+Part of Trailblazers 2308
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[CANDC_TORERO3]
+Tout droit sorti du cauchemar de Ocean Drive des années 1980, le Technical Torero est tout ce que vous n'avez pas demandé, mais tout ce que vous pouvez attendre. Quantité absurde de néons? Vérifier. Un design rétro en forme de coin? Vérifier. Capacité à voler et à effacer en même temps n'importe quoi avec des lasers? Vérifiez et vérifiez. Avec assez de puissance pour éclairer les rues plus brillantes que Vinewood la nuit, vous vous demanderiez pourquoi les entreprises n’ont pas encore commencé à utiliser ces voitures comme panneaux publicitaires.<br><br> Le modèle de production de ce véhicule a réduit ses capacités offensives.
+
+[WEB_TRAIL2308PACK]
+Disponible dans Trailblazers 2308
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

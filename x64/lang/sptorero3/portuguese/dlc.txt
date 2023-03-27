@@ -1,0 +1,81 @@
+﻿{--- updated 2/01/23 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_TOR2_RAY]
+Canhões de raio
+
+[WTD_V_TORERO2]
+Arma laser verde com mísseis
+
+[WTD_V_TORERO2_P]
+Metralhadoras e mísseis a laser
+
+[WTD_V_TORERO2_R]
+Arma laser vermelha com mísseis
+
+[WT_V_TOR2_MG]
+Laser Verde MG
+
+[WT_V_TOR2_MGR]
+Laser Vermelho MG
+
+[WT_V_TOR2_RAY]
+Canhões de raio
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[TORERO3]
+Technical Torero
+
+[BLISTADIGI]
+Bilateral Blista
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - **** modshop category **** -}
+[TOP_DIGI]
+Decorações Digitais
+
+
+{ - TOR3_CVR -}
+
+[TOR3_CVR4]
+Cobertura Glowing das Grelhas
+
+
+{ - TOR3_DEBADGE -}
+
+[TOR3_DBDG1]
+Excluir o emblema da frente
+
+
+{ - TOR2_DIGI -}
+[TOR3_DIGI1]
+Matrícula digital
+
+
+{ - TOR3_PANELS -}
+[TOR3_RPNL5]
+Painel de carbono
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

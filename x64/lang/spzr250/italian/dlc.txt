@@ -1,0 +1,640 @@
+﻿
+
+{--- vehicle names --}
+[ZR250]
+ZR250 Savestra
+
+
+
+{ --- modparts --- }
+{***********************************************}
+{ - ZR250_SPOILER -}
+[ZR250_WING_1]
+Alettone verniciato
+
+[ZR250_WING_2]
+Alettone aftermarket
+
+[ZR250_WING_3]
+Alettone Kosoku GT
+
+[ZR250_WING_4]
+Alettone ducktail
+
+[ZR250_WING_5]
+Alettone dragster
+
+[ZR250_WING_6]
+Alettone GT Ayanami-RS
+
+[ZR250_WING_7]
+Alettone tuner
+
+[ZR250_WING_8]
+Alettone X-Flow
+
+[ZR250_WING_9]
+Mk2 alettone X-Flow
+
+[ZR250_WING_10]
+Alettone X-Flow enorme
+
+[ZR250_WING_11]
+Alettone aerodinamica estrema
+
+[ZR250_WING_12]
+Alettone aerodinamica estrema Mk2
+
+[ZR250_WING_NO]
+Rimozione alettone
+
+
+
+
+{ - ZR250_F_BUMPER -}
+[ZR250_BUMF_1]
+Dipinta
+
+[ZR250_BUMF_2]
+Prestazioni
+
+[ZR250_BUMF_3]
+Aftermarket
+
+[ZR250_BUMF_4]
+Ayanami-RS
+
+[ZR250_BUMF_5]
+Mk2 Ayanami-RS
+
+[ZR250_BUMF_6]
+Dragster
+
+[ZR250_BUMF_7]
+Kosoku GT
+
+[ZR250_BUMF_8]
+Mk2 Kosoku GT
+
+[ZR250_BUMF_9]
+Kosoku GT LM
+
+[ZR250_BUMF_10]
+X-Flow
+
+[ZR250_BUMF_11]
+Mk2 X-Flow
+
+[ZR250_BUMF_12]
+X-Flow enorme
+
+[ZR250_BUMF_13]
+Mk2 X-Flow enorme
+
+[ZR250_BUMF_14]
+Super Rally
+
+[ZR250_BUMF_14A]
+Super Rally Safari
+
+[zr250_bumf_15]
+Luci della polizia
+
+[zr250_bumf_15a]
+Luci della polizia e dipinta
+
+
+
+{ - ZR250_R_BUMPER -}
+[zr250_bumr_1]
+Dipinta
+
+[zr250_bumr_2]
+X-Flow
+
+[zr250_bumr_3]
+Ayanami-RS
+
+[zr250_bumr_4]
+Kosoku GT
+
+[zr250_bumr_5]
+Mk2 Kosoku GT
+
+[zr250_bumr_6]
+Super Rally
+
+
+
+
+{ - ZR250_SKIRT -}
+[ZR250_SKRT_1]
+Aftermarket
+
+[ZR250_SKRT_2]
+Ayanami-RS
+
+[ZR250_SKRT_3]
+Kosoku GT
+
+[ZR250_SKRT_4]
+Mk2 Kosoku GT
+
+[ZR250_SKRT_5]
+X-Flow
+
+[ZR250_SKRT_6]
+Parafanghi
+
+
+
+{ - ZR250_EXHAUST -}
+
+[ZR250_EXH_1]
+Ayanami-RS
+
+[ZR250_EXH_1A]
+Super Rally
+
+[ZR250_EXH_2]
+Dipinta paraurti
+
+[ZR250_EXH_2A]
+Dipinta paraurti e Ayanami-RS
+
+[ZR250_EXH_2B]
+Dipinta paraurti e Super Rally
+
+[ZR250_EXH_3]
+X-Flow paraurti
+
+[ZR250_EXH_4]
+Ayanami-RS paraurti
+
+[ZR250_EXH_4A]
+Ayanami-RS paraurti e Ayanami-RS
+
+[ZR250_EXH_4B]
+Ayanami-RS paraurti e Super Rally
+
+[ZR250_EXH_5]
+Kosoku GT paraurti
+
+[ZR250_EXH_5A]
+Kosoku GT paraurti e Kosoku GT
+
+[ZR250_EXH_5B]
+Kosoku GT paraurti e Ayanami-RS
+
+[ZR250_EXH_5C]
+Kosoku GT paraurti e Super Rally
+
+[ZR250_EXH_6]
+Kosoku GT paraurti
+
+[ZR250_EXH_6A]
+Kosoku GT paraurti e Kosoku GT
+
+[ZR250_EXH_6B]
+Kosoku GT paraurti e Ayanami-RS
+
+[ZR250_EXH_6C]
+Kosoku GT paraurti e Super Rally
+
+[ZR250_EXH_7]
+Super Rally paraurti
+
+[ZR250_EXH_N1]
+Rimozione paraurti e Kosoku GT
+
+[ZR250_EXH_N2]
+Rimozione paraurti e Ayanami-RS
+
+[ZR250_EXH_N3]
+Rimozione paraurti e X-Flow
+
+[ZR250_EXH_N4]
+Rimozione paraurti e Super Rally
+
+[zr250_ex_1]
+Kosoku GT
+
+[zr250_ex_2]
+Ayanami-RS
+
+[zr250_ex_3]
+X-Flow
+
+[zr250_ex_4]
+Super Rally
+
+
+
+{ - ZR250_HOODS -}
+[ZR250_HOOD_0]
+In carbonio
+
+[ZR250_HOOD_1]
+Liscio
+
+[ZR250_HOOD_1a]
+Liscio carbonio
+
+[ZR250_HOOD_2]
+Ayanami-RS
+
+[ZR250_HOOD_2a]
+Ayanami-RS carbonio
+
+[ZR250_HOOD_3]
+Condotto dell'aria
+
+[ZR250_HOOD_3a]
+Condotto dell'aria carbonio
+
+[ZR250_HOOD_4]
+X-Flow
+
+[ZR250_HOOD_4a]
+X-Flow carbonio
+
+[ZR250_HOOD_5]
+Dragster carbonio
+
+[ZR250_HOOD_5a]
+Dragster
+
+[ZR250_HOOD_6]
+Kosoku GT
+
+[ZR250_HOOD_6a]
+Kosoku GT carbonio
+
+[ZR250_HOOD_7]
+Mk2 Kosoku GT
+
+[ZR250_HOOD_7a]
+Mk2 Kosoku GT carbonio
+
+[ZR250_HOOD_8]
+Super Rally
+
+[ZR250_HOOD_8a]
+Super Rally carbonio
+
+[ZR250_HOOD_9]
+Polizia deflettore
+
+[ZR250_HOOD_9A]
+Polizia deflettore e carbonio
+
+
+
+{ - ZR250_CHASSIS_CAGE -}
+[ZR250_CAGE_1]
+Mezza gabbia
+
+[ZR250_CAGE_2]
+Strada gabbia
+
+[ZR250_CAGE_3]
+Gabbia di sicurezza
+
+[ZR250_CAGE_4]
+Intero gabbia di sicurezza
+
+
+
+{ - ZR250_STRIP -}
+[ZR250_STRIP_1]
+Striscia solare
+
+[ZR250_STRIP_2]
+Stris. solare e spoiler sul tetto
+
+
+
+
+{ - ZR250_BOOT -}
+[ZR250_BOOT_1]
+Dipinta
+
+
+
+
+{ - ZR250_HL -}
+[ZR250_LIGHT_1]
+Copertura ventilata dipinta
+
+[zr250_light_1a]
+Copertura ventilata dipinta
+
+[zr250_light_2]
+Immobile fari
+
+[zr250_light_2a]
+Immobile fari e ventilata
+
+[zr250_light_2b]
+Immobile fari e ventil. dipinta
+
+[ZR250_LIGHT_3]
+Immobile fari Mk1
+
+[ZR250_LIGHT_3A]
+Immobile fari Mk1 cromate
+
+[ZR250_LIGHT_3B]
+Immobile fari Mk1 dipinta
+
+[ZR250_LIGHT_4]
+Immobile fari Mk2
+
+[ZR250_LIGHT_4A]
+Immobile fari Mk2 cromate
+
+[ZR250_LIGHT_4B]
+Immobile fari Mk2 dipinta
+
+[ZR250_LIGHT_5]
+Immobile fari Mk3
+
+[ZR250_LIGHT_5A]
+Immobile fari Mk3 carbonio
+
+[zr250_light_6]
+Immobile fari Mk4
+
+
+
+{ - ZR250_TRIM -}
+[ZR250_TRIMR_1]
+In plastica
+
+[ZR250_TRIMR_2]
+In plastica e Logo
+
+[ZR250_TRIMR_3]
+Dipinta
+
+[ZR250_TRIM_1]
+Dipinta
+
+
+
+
+{ - ZR250_MIR -}
+[ZR250_MIRROR_1]
+Specchietti aerodinamici
+
+[ZR250_MIRROR_2]
+Rimozione specchietti
+
+
+
+{ - ZR250_MISC -}
+[ZR250_MISC_1]
+Prese d'aria Super Rally
+
+[ZR250_MISC_2]
+Barra di supporto
+
+[ZR250_MISC_3]
+Barra di supporto e paracadute
+
+[ZR250_MISC_A]
+Rimozione logo posteriore
+
+
+
+{ - ZR250_DASH -}
+[ZR250_DASH_1]
+Senza tetto apribile
+
+[ZR250_DASH_2]
+Presa d'aria con Super Rally
+
+[ZR250_DASH_3]
+Interni da corsa
+
+[ZR250_DASH_4]
+Int. da corsa e presa d'aria con S.R.
+
+
+
+{ - ZR250 PLATE -}
+[ZR250_PLATE_1]
+Targa anteriore a lato
+
+[ZR250_PLATE_2]
+Targa anteriore a parabrezza
+
+[ZR250_PLATE_3]
+Rimozione targa anteriore
+
+
+{ - ROOF -}
+[ZR250_ROOF_1]
+Spoiler sul tetto
+
+[ZR250_ROOF_2]
+Equipaggiamento della polizia
+
+[ZR250_ROOF_3]
+Mk1 fendinebbia Super Rally
+
+[ZR250_ROOF_3A]
+Mk1 fendi. S.R. e striscia solare
+
+[ZR250_ROOF_4]
+Mk2 fendinebbia Super Rally
+
+[ZR250_ROOF_5]
+Mk3 fendinebbia Super Rally
+
+[ZR250_ROOF_5A]
+Super Rally insieme
+
+[ZR250_ROOF_NO]
+Rimozione antenna
+
+
+
+{ -- ZR250_SEATS -- }
+[ZR250_SEAT_1]
+Sedil GT
+
+[ZR250_SEAT_2]
+Sedil GT spogliato
+
+[ZR250_SEAT_3]
+Sedili GT
+
+[ZR250_SEAT_4]
+Sedili sportivi
+
+
+
+{ -- ZR250_LIVERY -- }
+
+[ZR250_LIV01]
+Auto Exotic
+
+[ZR250_LIV02]
+Bay Shore nere
+
+[ZR250_LIV03]
+Bay Shore bianche
+
+[ZR250_LIV04]
+Fukaru
+
+[ZR250_LIV05]
+Hayes nere
+
+[ZR250_LIV06]
+Hayes rosa
+
+[ZR250_LIV07]
+Hayes bianche
+
+[ZR250_LIV08]
+Hayes giallo
+
+[ZR250_LIV09]
+Hayes azzurro
+
+[ZR250_LIV10]
+Ayanami-RS nere
+
+[ZR250_LIV11]
+Ayanami-RS bianche
+
+[ZR250_LIV12]
+Stelle e strisce
+
+[ZR250_LIV13]
+Zenshin Drift
+
+[ZR250_LIV14]
+WhiteComet
+
+[ZR250_LIV15]
+X-Flow
+
+[ZR250_LIV16]
+Annis Turbo nere
+
+[ZR250_LIV17]
+Annis Turbo bianche
+
+[ZR250_LIV18]
+Strisce ZR-250 nere
+
+[ZR250_LIV19]
+Strisce ZR-250 bianche
+
+[ZR250_LIV20]
+Tryhard
+
+[ZR250_LIV21]
+Solo Jazz
+
+[ZR250_LIV22]
+Jakey's Lager
+
+[ZR250_LIV23]
+Estancia da corsa
+
+[ZR250_LIV24]
+Estancia da strada
+
+[ZR250_LIV25]
+Chiliad cronoscalata
+
+[ZR250_LIV26]
+Chiliad da strada
+
+[ZR250_LIV27]
+Annis alimentato da rotativo
+
+[ZR250_LIV28]
+Ayanami-RS AWD
+
+[ZR250_LIV29]
+Sprint verde
+
+[ZR250_LIV30]
+Striscia turbo
+
+[ZR250_LIV31]
+**Placeholder**
+
+[ZR250_LIV32]
+**Placeholder**
+
+[ZR250_LIV33]
+Yours
+
+[ZR250_LIV34]
+Kogane Ōkami
+
+[ZR250_LIV35]
+RBS Prestazioni
+
+[ZR250_LIV36]
+Bay Shore caramella
+
+[ZR250_LIV37]
+Bootybronco
+
+[ZR250_LIV38]
+Il Drago
+
+[ZR250_LIV39]
+HardShip caramella
+
+[ZR250_LIV40]
+Tigre sbiadita
+
+[ZR250_LIV41]
+Tigre rosa
+
+[ZR250_LIV42]
+Atomic da corsa Giappone
+
+[ZR250_LIV43]
+Strisce da corsa nere
+
+[ZR250_LIV44]
+Strisce da corsa bianche
+
+[ZR250_LIV45]
+Premier da corsa azzurro
+
+[ZR250_LIV46]
+Premier da corsa bianche
+
+[ZR250_LIV47]
+Corridore retrò Chepalle
+
+[ZR250_LIV48]
+Corridore retrò Shark
+
+[ZR250_LIV49]
+Savestra Street Decals
+
+[ZR250_LIV50]
+Strisce Annisport monocromatiche
+
+[ZR250_LIV51]
+strisce Annisport blu
+
+[ZR250_LIV52]
+Cofano d'arte di Alien Styling
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

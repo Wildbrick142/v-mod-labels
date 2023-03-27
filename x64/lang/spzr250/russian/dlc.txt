@@ -1,0 +1,641 @@
+﻿{ translation by Boywond }
+
+{--- vehicle names --}
+[ZR250]
+ZR250 Savestra
+
+
+
+{ --- modparts --- }
+{***********************************************}
+{ - ZR250_SPOILER -}
+[ZR250_WING_1]
+Крашеный спойлер
+
+[ZR250_WING_2]
+Спортивный спойлер
+
+[ZR250_WING_3]
+Спойлер Kosoku GT
+
+[ZR250_WING_4]
+Утиный хвост
+
+[ZR250_WING_5]
+Драгстерский спойлер
+
+[ZR250_WING_6]
+GT cпойлер Ayanami-RS
+
+[ZR250_WING_7]
+Тюнерский спойлер
+
+[ZR250_WING_8]
+Спойлер X-Flow
+
+[ZR250_WING_9]
+Спойлер X-Flow Mk.II
+
+[ZR250_WING_10]
+Спойлер X-Flow Monster
+
+[ZR250_WING_11]
+Экстремальный спойлер
+
+[ZR250_WING_12]
+Экстремальный спойлер Mk.II
+
+[ZR250_WING_NO]
+Снять спойлер
+
+
+
+
+{ - ZR250_F_BUMPER -}
+[ZR250_BUMF_1]
+Крашеный передний бампер
+
+[ZR250_BUMF_2]
+Спортивный передний бампер
+
+[ZR250_BUMF_3]
+Удлинённый передний бампер
+
+[ZR250_BUMF_4]
+Передний бампер Ayanami-RS
+
+[ZR250_BUMF_5]
+Передний бампер Ayanami-RS Mk.II
+
+[ZR250_BUMF_6]
+Драгстерский передний бампер
+
+[ZR250_BUMF_7]
+Передний бампер Kosoku GT
+
+[ZR250_BUMF_8]
+Передний бампер Kosoku GT Mk.II
+
+[ZR250_BUMF_9]
+Передний бампер Kosoku GT-LM
+
+[ZR250_BUMF_10]
+Передний бампер X-Flow
+
+[ZR250_BUMF_11]
+Передний бампер X-Flow Mk.II
+
+[ZR250_BUMF_12]
+Передний бампер X-Flow Monster
+
+[ZR250_BUMF_13]
+Передний бампер X-Flow Monster Mk.II
+
+[ZR250_BUMF_14]
+Передний бампер Super Rally
+
+[ZR250_BUMF_14A]
+Передний бампер Super Rally для сафари
+
+[zr250_bumf_15]
+Полицейские сигналы
+
+[zr250_bumf_15a]
+Крашеный передний бампер с полицейскими сигналами
+
+
+
+{ - ZR250_R_BUMPER -}
+[zr250_bumr_1]
+Крашеный задний бампер
+
+[zr250_bumr_2]
+Задний бампер X-Flow
+
+[zr250_bumr_3]
+Задний бампер Ayanami-RS
+
+[zr250_bumr_4]
+Задний бампер Kosoku GT
+
+[zr250_bumr_5]
+Задний бампер Kosoku GT Mk.II
+
+[zr250_bumr_6]
+Задний бампер Super Rally
+
+
+
+
+{ - ZR250_SKIRT -}
+[ZR250_SKRT_1]
+Спортивные пороги
+
+[ZR250_SKRT_2]
+Пороги Ayanami-RS
+
+[ZR250_SKRT_3]
+Пороги Kosoku GT
+
+[ZR250_SKRT_4]
+Пороги Kosoku GT Mk.II
+
+[ZR250_SKRT_5]
+Пороги X-Flow
+
+[ZR250_SKRT_6]
+Брызговики
+
+
+
+{ - ZR250_EXHAUST -}
+
+[ZR250_EXH_1]
+Выхлоп Ayanami-RS
+
+[ZR250_EXH_1A]
+Выхлоп Super Rally
+
+[ZR250_EXH_2]
+Крашеный задний бампер
+
+[ZR250_EXH_2A]
+Крашеный задний бампер с выхлопом Ayanami-RS
+
+[ZR250_EXH_2B]
+Крашеный задний бампер с выхлопом Super Rally
+
+[ZR250_EXH_3]
+Задний бампер X-Flow
+
+[ZR250_EXH_4]
+Задний бампер Ayanami-RS
+
+[ZR250_EXH_4A]
+Задний бампер Ayanami-RS с выхлопом Ayanami-RS
+
+[ZR250_EXH_4B]
+Задний бампер Ayanami-RS с выхлопом Super Rally
+
+[ZR250_EXH_5]
+Задний бампер Kosoku GT
+
+[ZR250_EXH_5A]
+Задний бампер Kosoku GT с выхлопом Kosoku GT
+
+[ZR250_EXH_5B]
+Задний бампер Kosoku GT с выхлопом Ayanami-RS
+
+[ZR250_EXH_5C]
+Задний бампер Kosoku GT с выхлопом Super Rally
+
+[ZR250_EXH_6]
+Задний бампер Kosoku GT Mk.II
+
+[ZR250_EXH_6A]
+Задний бампер Kosoku GT Mk.II с выхлопом Kosoku GT
+
+[ZR250_EXH_6B]
+Задний бампер Kosoku GT Mk.II с выхлопом Ayanami-RS
+
+[ZR250_EXH_6C]
+Задний бампер Kosoku GT Mk.II с выхлопом Super Rally
+
+[ZR250_EXH_7]
+Задний бампер Super Rally
+
+[ZR250_EXH_N1]
+Без бампера с выхлопом Kosoku GT
+
+[ZR250_EXH_N2]
+Без бампера с выхлопом Ayanami-RS
+
+[ZR250_EXH_N3]
+Без бампера с выхлопом X-Flow
+
+[ZR250_EXH_N4]
+Без бампера с выхлопом Super Rally
+
+[zr250_ex_1]
+Выхлоп Kosoku GT
+
+[zr250_ex_2]
+Выхлоп Ayanami-RS
+
+[zr250_ex_3]
+Выхлоп X-Flow
+
+[zr250_ex_4]
+Выхлоп Super Rally
+
+
+
+{ - ZR250_HOODS -}
+[ZR250_HOOD_0]
+Карбоновый капот
+
+[ZR250_HOOD_1]
+Гладкий капот
+
+[ZR250_HOOD_1a]
+Карбоновый гладкий капот
+
+[ZR250_HOOD_2]
+Капот Ayanami-RS
+
+[ZR250_HOOD_2a]
+Карбоновый капот Ayanami-RS
+
+[ZR250_HOOD_3]
+Капот с воздуховодами
+
+[ZR250_HOOD_3a]
+Карбоновый капот с воздуховодами
+
+[ZR250_HOOD_4]
+Капот X-Flow
+
+[ZR250_HOOD_4a]
+Карбоновый капот X-Flow
+
+[ZR250_HOOD_5]
+Карбоновый капот для драг-рейсинга
+
+[ZR250_HOOD_5a]
+Капот для драг-рейсинга
+
+[ZR250_HOOD_6]
+Капот Kosoku GT
+
+[ZR250_HOOD_6a]
+Карбоновый капот Kosoku GT
+
+[ZR250_HOOD_7]
+Капот Kosoku GT Mk.II
+
+[ZR250_HOOD_7a]
+Карбоновый капот Kosoku GT Mk.II
+
+[ZR250_HOOD_8]
+Капот Super Rally
+
+[ZR250_HOOD_8a]
+Карбоновый капот Super Rally
+
+[ZR250_HOOD_9]
+Полицейский дефлектор
+
+[ZR250_HOOD_9A]
+Карбоновый капот с полицейским дефлектором
+
+
+
+{ - ZR250_CHASSIS_CAGE -}
+[ZR250_CAGE_1]
+Каркас безопасности
+
+[ZR250_CAGE_2]
+Уличный каркас безопасности
+
+[ZR250_CAGE_3]
+Спортивный каркас безопасности
+
+[ZR250_CAGE_4]
+Гоночный каркас безопасности
+
+
+
+{ - ZR250_STRIP -}
+[ZR250_STRIP_1]
+Полоса на лобовое стекло
+
+[ZR250_STRIP_2]
+Полоса на лобовое стекло со спойлером
+
+
+
+
+{ - ZR250_BOOT -}
+[ZR250_BOOT_1]
+Крашеная крышка багажника
+
+
+
+
+{ - ZR250_HL -}
+[ZR250_LIGHT_1]
+Крашеные передние заглушки
+
+[zr250_light_1a]
+Крашеные передние заглушки
+
+[zr250_light_2]
+Стационарные передние фары
+
+{- these strings are really long -}
+[zr250_light_2a]
+Стационарные передние фары с воздуховодами
+
+[zr250_light_2b]
+Стационарные передние фары с крашеными заглушками
+
+[ZR250_LIGHT_3]
+Стационарные передние фары Mk.I
+
+[ZR250_LIGHT_3A]
+Хромированные стационарные передние фары Mk.I
+
+[ZR250_LIGHT_3B]
+Крашеные стационарные передние фары Mk.I
+
+[ZR250_LIGHT_4]
+Стационарные передние фары Mk.II
+
+[ZR250_LIGHT_4A]
+Хромированные стационарные передние фары Mk.II
+
+[ZR250_LIGHT_4B]
+Крашеные стационарные передние фары Mk.II
+
+[ZR250_LIGHT_5]
+Стационарные передние фары Mk.III
+
+[ZR250_LIGHT_5A]
+Карбоновые стационарные передние фары Mk.III
+
+[zr250_light_6]
+Стационарные передние фары Mk.IV
+
+
+
+{ - ZR250_TRIM -}
+[ZR250_TRIMR_1]
+Пластмассовая задняя заглушка
+
+[ZR250_TRIMR_2]
+Пластмассовая задняя заглушка с логотипом
+
+[ZR250_TRIMR_3]
+Крашеная задняя заглушка
+
+[ZR250_TRIM_1]
+Крашеные боковые панели
+
+
+
+
+{ - ZR250_MIR -}
+[ZR250_MIRROR_1]
+Спортивные боковые зеркала
+
+[ZR250_MIRROR_2]
+Снять боковые зеркала
+
+
+
+{ - ZR250_MISC -}
+[ZR250_MISC_1]
+Задние воздуховоды Super Rally
+
+[ZR250_MISC_2]
+Вилли-бар
+
+[ZR250_MISC_3]
+Вилли-бар с парашютом
+
+[ZR250_MISC_A]
+Снять задние шильдики
+
+
+
+{ - ZR250_DASH -}
+[ZR250_DASH_1]
+Убрать люк
+
+[ZR250_DASH_2]
+Воздухоборник Super Rally
+
+[ZR250_DASH_3]
+Гоночный салон
+
+[ZR250_DASH_4]
+Гоночный салон с воздухозаборником
+
+
+
+{ - ZR250 PLATE -}
+[ZR250_PLATE_1]
+Передний номерной знак сбоку
+
+[ZR250_PLATE_2]
+Передний номерной знак под лобовым стеклом
+
+[ZR250_PLATE_3]
+Снять передний номерной знак
+
+
+{ - ROOF -}
+[ZR250_ROOF_1]
+Спойлер на крыше
+
+[ZR250_ROOF_2]
+Полицейское снаряжение
+
+[ZR250_ROOF_3]
+Освещение Super Rally Mk.I
+
+[ZR250_ROOF_3A]
+Освещение Super Rally Mk.I с полосой на лобовое стекло
+
+[ZR250_ROOF_4]
+Освещение Super Rally Mk.II
+
+[ZR250_ROOF_5]
+Освещение Super Rally Mk.III
+
+[ZR250_ROOF_5A]
+Снаряжение Super Rally
+
+[ZR250_ROOF_NO]
+Убрать антенну
+
+
+
+{ -- ZR250_SEATS -- }
+[ZR250_SEAT_1]
+Сиденье GT
+
+[ZR250_SEAT_2]
+Облегчённое сиденье GT
+
+[ZR250_SEAT_3]
+Сиденья GT
+
+[ZR250_SEAT_4]
+Спортивные сиденья
+
+
+
+{ -- ZR250_LIVERY -- }
+
+[ZR250_LIV01]
+Auto Exotic
+
+[ZR250_LIV02]
+Bay Shore (Чёрный)
+
+[ZR250_LIV03]
+Bay Shore (Белый)
+
+[ZR250_LIV04]
+Fukaru
+
+[ZR250_LIV05]
+Hayes (Чёрный)
+
+[ZR250_LIV06]
+Hayes (Розовый)
+
+[ZR250_LIV07]
+Hayes (Белый)
+
+[ZR250_LIV08]
+Hayes (Жёлтый)
+
+[ZR250_LIV09]
+Hayes (Синий)
+
+[ZR250_LIV10]
+Ayanami-RS (Чёрный)
+
+[ZR250_LIV11]
+Ayanami-RS (Белый)
+
+[ZR250_LIV12]
+Звёзды и полосы
+
+[ZR250_LIV13]
+Дрифтовая Zenshin
+
+[ZR250_LIV14]
+Белая Комета
+
+[ZR250_LIV15]
+X-Flow
+
+[ZR250_LIV16]
+Annis Turbo (Чёрный)
+
+[ZR250_LIV17]
+Annis Turbo (Белый)
+
+[ZR250_LIV18]
+Чёрные полосы ZR-250
+
+[ZR250_LIV19]
+Белые полосы ZR-250
+
+[ZR250_LIV20]
+Развалюха
+
+[ZR250_LIV21]
+Ностальгия по 90-м
+
+[ZR250_LIV22]
+Jakey's Lager
+
+[ZR250_LIV23]
+Estancia Racing
+
+[ZR250_LIV24]
+Estancia Street
+
+[ZR250_LIV25]
+Chiliad Hillclimb
+
+[ZR250_LIV26]
+Chiliad Street
+
+[ZR250_LIV27]
+Annis Rotary Powered
+
+[ZR250_LIV28]
+Ayanami-RS AWD
+
+[ZR250_LIV29]
+Green Dash
+
+[ZR250_LIV30]
+Полоса Turbo
+
+[ZR250_LIV31]
+**Placeholder**
+
+[ZR250_LIV32]
+**Placeholder**
+
+[ZR250_LIV33]
+Yours
+
+[ZR250_LIV34]
+Золотая владыка
+
+[ZR250_LIV35]
+RBS Performance
+
+[ZR250_LIV36]
+Bay Shore Candy
+
+[ZR250_LIV37]
+Мясотряс
+
+[ZR250_LIV38]
+Дракон
+
+[ZR250_LIV39]
+HardShip Candy
+
+[ZR250_LIV40]
+Угасающий тигр
+
+[ZR250_LIV41]
+Радужный тигр
+
+[ZR250_LIV42]
+Atomic Racing JPN
+
+[ZR250_LIV43]
+Чёрные гоночные полосы
+
+[ZR250_LIV44]
+Белые гоночные полосы
+
+[ZR250_LIV45]
+Premier Racing (Синий)
+
+[ZR250_LIV46]
+Premier Racing (Белый)
+
+[ZR250_LIV47]
+Ретро-гонщик Chepalle
+
+[ZR250_LIV48]
+Ретро-гонщик Shark
+
+[ZR250_LIV49]
+Уличные наклейки Savestra
+
+[ZR250_LIV50]
+Монохромные полосы Annisport
+
+[ZR250_LIV51]
+Синие полосы Annisport
+
+[ZR250_LIV52]
+Аэрография Alien Styling
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

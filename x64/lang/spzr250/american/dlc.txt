@@ -1,0 +1,640 @@
+﻿
+
+{--- vehicle names --}
+[ZR250]
+ZR250 Savestra
+
+
+
+{ --- modparts --- }
+{***********************************************}
+{ - ZR250_SPOILER -}
+[ZR250_WING_1]
+Painted Wing
+
+[ZR250_WING_2]
+Aftermarket Wing
+
+[ZR250_WING_3]
+Kosoku GT Wing
+
+[ZR250_WING_4]
+Ducktail Wing
+
+[ZR250_WING_5]
+Drag Wing
+
+[ZR250_WING_6]
+Ayanami-RS GT Wing
+
+[ZR250_WING_7]
+Tuner Wing
+
+[ZR250_WING_8]
+X-Flow Wing
+
+[ZR250_WING_9]
+Mk2 X-Flow Wing
+
+[ZR250_WING_10]
+X-Flow Monster Wing
+
+[ZR250_WING_11]
+Extreme Aero Wing
+
+[ZR250_WING_12]
+Extreme Aero Wing Mk2
+
+[ZR250_WING_NO]
+Remove Wing
+
+
+
+
+{ - ZR250_F_BUMPER -}
+[ZR250_BUMF_1]
+Painted Front Bumper
+
+[ZR250_BUMF_2]
+Performance Bumper
+
+[ZR250_BUMF_3]
+Aftermarket Bumper
+
+[ZR250_BUMF_4]
+Ayanami-RS Bumper
+
+[ZR250_BUMF_5]
+Mk2 Ayanami-RS Bumper
+
+[ZR250_BUMF_6]
+Drag Bumper
+
+[ZR250_BUMF_7]
+Kosoku GT Bumper
+
+[ZR250_BUMF_8]
+Mk2 Kosoku GT Bumper
+
+[ZR250_BUMF_9]
+Kosoku GT LM Bumper
+
+[ZR250_BUMF_10]
+X-Flow Bumper
+
+[ZR250_BUMF_11]
+Mk2 X-Flow Bumper
+
+[ZR250_BUMF_12]
+X-Flow Monster Bumper
+
+[ZR250_BUMF_13]
+Mk2 X-Flow Monster Bumper
+
+[ZR250_BUMF_14]
+Super Rally Bumper
+
+[ZR250_BUMF_14A]
+Super Rally Safari Bumper
+
+[zr250_bumf_15]
+Police Lights
+
+[zr250_bumf_15a]
+Police Lights w/ Painted Bumper
+
+
+
+{ - ZR250_R_BUMPER -}
+[zr250_bumr_1]
+Painted Rear Bumper
+
+[zr250_bumr_2]
+X-Flow Bumper
+
+[zr250_bumr_3]
+Ayanami-RS Bumper
+
+[zr250_bumr_4]
+Kosoku GT Bumper
+
+[zr250_bumr_5]
+Mk2 Kosoku GT Bumper
+
+[zr250_bumr_6]
+Super Rally Bumper
+
+
+
+
+{ - ZR250_SKIRT -}
+[ZR250_SKRT_1]
+Aftermarket Skirts
+
+[ZR250_SKRT_2]
+Ayanami-RS Skirts
+
+[ZR250_SKRT_3]
+Kosoku GT Skirts
+
+[ZR250_SKRT_4]
+Mk2 Kosoku GT Skirts
+
+[ZR250_SKRT_5]
+X-Flow Skirts
+
+[ZR250_SKRT_6]
+Mud Flaps
+
+
+
+{ - ZR250_EXHAUST -}
+
+[ZR250_EXH_1]
+Ayanami-RS Exhaust
+
+[ZR250_EXH_1A]
+Super Rally Exhaust
+
+[ZR250_EXH_2]
+Painted Bumper
+
+[ZR250_EXH_2A]
+Painted Bumper w/ Ayanami-RS Tips
+
+[ZR250_EXH_2B]
+Painted Bumper w/ Super Rally Tips
+
+[ZR250_EXH_3]
+X-Flow Bumper
+
+[ZR250_EXH_4]
+Ayanami-RS
+
+[ZR250_EXH_4A]
+Ayanami-RS w/ Ayanami-RS Tips
+
+[ZR250_EXH_4B]
+Ayanami-RS w/ Super Rally Tips
+
+[ZR250_EXH_5]
+Kosoku GT
+
+[ZR250_EXH_5A]
+Kosoku GT w/ Kosoku GT Tips
+
+[ZR250_EXH_5B]
+Kosoku GT w/ Ayanami-RS Tips
+
+[ZR250_EXH_5C]
+Kosoku GT w/ Super Rally Tips
+
+[ZR250_EXH_6]
+Kosoku GT
+
+[ZR250_EXH_6A]
+Kosoku GT w/ Kosoku GT Tips
+
+[ZR250_EXH_6B]
+Kosoku GT w/ Ayanami-RS Tips
+
+[ZR250_EXH_6C]
+Kosoku GT w/ Super Rally Tips
+
+[ZR250_EXH_7]
+Super Rally
+
+[ZR250_EXH_N1]
+Remove Bumper w/ Kosoku GT Tips
+
+[ZR250_EXH_N2]
+Remove Bumper w/ Ayanami-RS Tips
+
+[ZR250_EXH_N3]
+Remove Bumper w/ X-Flow Tips
+
+[ZR250_EXH_N4]
+Remove Bumper w/ Super Rally Tips
+
+[zr250_ex_1]
+Kosoku GT Exhaust
+
+[zr250_ex_2]
+Ayanami-RS Exhaust
+
+[zr250_ex_3]
+X-Flow Exhaust
+
+[zr250_ex_4]
+Super Rally Exhaust
+
+
+
+{ - ZR250_HOODS -}
+[ZR250_HOOD_0]
+Carbon Hood
+
+[ZR250_HOOD_1]
+Smooth Hood
+
+[ZR250_HOOD_1a]
+Carbon Smooth Hood
+
+[ZR250_HOOD_2]
+Ayanami-RS Hood
+
+[ZR250_HOOD_2a]
+Carbon Ayanami-RS Hood
+
+[ZR250_HOOD_3]
+Ducted Hood
+
+[ZR250_HOOD_3a]
+Carbon Ducted Hood
+
+[ZR250_HOOD_4]
+X-Flow Hood
+
+[ZR250_HOOD_4a]
+Carbon X-Flow Hood
+
+[ZR250_HOOD_5]
+Carbon Drag Hood
+
+[ZR250_HOOD_5a]
+Drag Hood
+
+[ZR250_HOOD_6]
+Kosoku GT Hood
+
+[ZR250_HOOD_6a]
+Carbon Kosoku GT Hood
+
+[ZR250_HOOD_7]
+Mk2 Kosoku GT Hood
+
+[ZR250_HOOD_7a]
+Carbon Mk2 Kosoku GT Hood
+
+[ZR250_HOOD_8]
+Super Rally Hood
+
+[ZR250_HOOD_8a]
+Carbon Super Rally Hood
+
+[ZR250_HOOD_9]
+Police Deflector
+
+[ZR250_HOOD_9A]
+Police Deflector w/ Carbon Hood
+
+
+
+{ - ZR250_CHASSIS_CAGE -}
+[ZR250_CAGE_1]
+Half Cage
+
+[ZR250_CAGE_2]
+Street Cage
+
+[ZR250_CAGE_3]
+Roll Cage
+
+[ZR250_CAGE_4]
+Full Roll Cage
+
+
+
+{ - ZR250_STRIP -}
+[ZR250_STRIP_1]
+Sunstrip
+
+[ZR250_STRIP_2]
+Sunstrip w/ Roof Spoiler
+
+
+
+
+{ - ZR250_BOOT -}
+[ZR250_BOOT_1]
+Painted Boot
+
+
+
+
+{ - ZR250_HL -}
+[ZR250_LIGHT_1]
+Painted Front Cover
+
+[zr250_light_1a]
+Painted Front Cover
+
+[zr250_light_2]
+Fixed Headlights
+
+[zr250_light_2a]
+Fixed Headlights w/ Vented Cover
+
+[zr250_light_2b]
+Fixed Headlights w/ Painted Cover
+
+[ZR250_LIGHT_3]
+Fixed Headlights Mk1
+
+[ZR250_LIGHT_3A]
+Chromed Fixed Headlights Mk1
+
+[ZR250_LIGHT_3B]
+Painted Fixed Headlights Mk1
+
+[ZR250_LIGHT_4]
+Fixed Headlights Mk2
+
+[ZR250_LIGHT_4A]
+Chromed Fixed Headlights Mk2
+
+[ZR250_LIGHT_4B]
+Painted Fixed Headlights Mk2
+
+[ZR250_LIGHT_5]
+Fixed Headlights Mk3
+
+[ZR250_LIGHT_5A]
+Carbon Fixed Headlights Mk3
+
+[zr250_light_6]
+Fixed Headlights Mk4
+
+
+
+{ - ZR250_TRIM -}
+[ZR250_TRIMR_1]
+Plastic Trim
+
+[ZR250_TRIMR_2]
+Plastic Trim w/ Logo
+
+[ZR250_TRIMR_3]
+Painted Trim
+
+[ZR250_TRIM_1]
+Painted Trim
+
+
+
+
+{ - ZR250_MIR -}
+[ZR250_MIRROR_1]
+Aero Side Mirrors
+
+[ZR250_MIRROR_2]
+Remove Mirrors
+
+
+
+{ - ZR250_MISC -}
+[ZR250_MISC_1]
+Super Rally Vents
+
+[ZR250_MISC_2]
+Wheelie Bar
+
+[ZR250_MISC_3]
+Wheelie Bar w/ Chute
+
+[ZR250_MISC_A]
+Rear Debadge
+
+
+
+{ - ZR250_DASH -}
+[ZR250_DASH_1]
+No Sunroof
+
+[ZR250_DASH_2]
+Super Rally Scoop
+
+[ZR250_DASH_3]
+Race Interior
+
+[ZR250_DASH_4]
+Race Interior w/ Super Rally Scoop
+
+
+
+{ - ZR250 PLATE -}
+[ZR250_PLATE_1]
+Side Mounted Front Plate
+
+[ZR250_PLATE_2]
+Windshield Plate
+
+[ZR250_PLATE_3]
+Remove Front Plate
+
+
+{ - ROOF -}
+[ZR250_ROOF_1]
+Roof Spoiler
+
+[ZR250_ROOF_2]
+Police Equipment
+
+[ZR250_ROOF_3]
+Mk1 Super Rally Lights
+
+[ZR250_ROOF_3A]
+Mk1 Super Rally Lights w/ Sunstrip
+
+[ZR250_ROOF_4]
+Mk2 Super Rally Lights
+
+[ZR250_ROOF_5]
+Mk3 Super Rally Lights
+
+[ZR250_ROOF_5A]
+Super Rally Package
+
+[ZR250_ROOF_NO]
+Remove Antenna
+
+
+
+{ -- ZR250_SEATS -- }
+[ZR250_SEAT_1]
+GT Seat
+
+[ZR250_SEAT_2]
+Stripped GT Seat
+
+[ZR250_SEAT_3]
+GT Seats
+
+[ZR250_SEAT_4]
+Sport Seats
+
+
+
+{ -- ZR250_LIVERY -- }
+
+[ZR250_LIV01]
+Auto Exotic
+
+[ZR250_LIV02]
+Bay Shore Black
+
+[ZR250_LIV03]
+Bay Shore White
+
+[ZR250_LIV04]
+Fukaru
+
+[ZR250_LIV05]
+Hayes Black
+
+[ZR250_LIV06]
+Hayes Pink
+
+[ZR250_LIV07]
+Hayes White
+
+[ZR250_LIV08]
+Hayes Yellow
+
+[ZR250_LIV09]
+Hayes Blue
+
+[ZR250_LIV10]
+Ayanami-RS Black
+
+[ZR250_LIV11]
+Ayanami-RS White
+
+[ZR250_LIV12]
+Stars and Stripes
+
+[ZR250_LIV13]
+Zenshin Drift
+
+[ZR250_LIV14]
+WhiteComet
+
+[ZR250_LIV15]
+X-Flow
+
+[ZR250_LIV16]
+Annis Turbo Black
+
+[ZR250_LIV17]
+Annis Turbo White
+
+[ZR250_LIV18]
+Black ZR-250 Stripes
+
+[ZR250_LIV19]
+White ZR-250 Stripes
+
+[ZR250_LIV20]
+Tryhard
+
+[ZR250_LIV21]
+Just Jazz
+
+[ZR250_LIV22]
+Jakey's Lager
+
+[ZR250_LIV23]
+Estancia Racing
+
+[ZR250_LIV24]
+Estancia Street
+
+[ZR250_LIV25]
+Chiliad Hillclimb
+
+[ZR250_LIV26]
+Chiliad Street
+
+[ZR250_LIV27]
+Annis Rotary Powered
+
+[ZR250_LIV28]
+Ayanami-RS AWD
+
+[ZR250_LIV29]
+Green Dash
+
+[ZR250_LIV30]
+Turbo Stripe
+
+[ZR250_LIV31]
+**Placeholder**
+
+[ZR250_LIV32]
+**Placeholder**
+
+[ZR250_LIV33]
+Yours
+
+[ZR250_LIV34]
+Kogane Ōkami
+
+[ZR250_LIV35]
+RBS Performance
+
+[ZR250_LIV36]
+Bay Shore Candy
+
+[ZR250_LIV37]
+Bootybronco
+
+[ZR250_LIV38]
+Dragon
+
+[ZR250_LIV39]
+HardShip Candy
+
+[ZR250_LIV40]
+Faded Tiger
+
+[ZR250_LIV41]
+Bubblegum Tiger
+
+[ZR250_LIV42]
+Atomic Racing JPN
+
+[ZR250_LIV43]
+Black Racing Stripes
+
+[ZR250_LIV44]
+White Racing Stripes
+
+[ZR250_LIV45]
+Premier Racing Blue
+
+[ZR250_LIV46]
+Premier Racing White
+
+[ZR250_LIV47]
+Chepalle Retro Racer
+
+[ZR250_LIV48]
+Shark Retro Racer
+
+[ZR250_LIV49]
+Savestra Street Decals
+
+[ZR250_LIV50]
+Annisport Monochrome Stripes
+
+[ZR250_LIV51]
+Annisport Blue Stripes
+
+[ZR250_LIV52]
+Alien Styling Art Hood
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,81 @@
+﻿{--- updated 2/01/23 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_TOR2_RAY]
+雷加農炮
+
+[WTD_V_TORERO2]
+帶導彈的綠色激光槍
+
+[WTD_V_TORERO2_P]
+激光機槍和導彈
+
+[WTD_V_TORERO2_R]
+帶導彈的紅色激光槍
+
+[WT_V_TOR2_MG]
+綠色激光MG
+
+[WT_V_TOR2_MGR]
+紅色激光MG
+
+[WT_V_TOR2_RAY]
+雷加農炮
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+數字德路克索
+
+[TORERO3]
+技術鬥牛士
+
+[BLISTADIGI]
+兩岸旅行家
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - **** modshop category **** -}
+[TOP_DIGI]
+數字裝飾
+
+
+{ - TOR3_CVR -}
+
+[TOR3_CVR4]
+發光百葉窗蓋
+
+
+{ - TOR3_DEBADGE -}
+
+[TOR3_DBDG1]
+正面徽章刪除
+
+
+{ - TOR2_DIGI -}
+[TOR3_DIGI1]
+數字牌照
+
+
+{ - TOR3_PANELS -}
+[TOR3_RPNL5]
+碳面板
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
