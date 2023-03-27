@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Miotacz ognia
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+MIOTACZ OGNIA
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+miotacz ognia
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Nie ma nic bardziej Amerykańskiego niż twój własny przenośny miotacz ognia. Przydatne do specjalnego rodzaju smażenia, gdy zabraknie Ci argumentów. Część aktualizacji [mpboats].
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

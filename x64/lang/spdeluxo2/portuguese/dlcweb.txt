@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_DELUXO2]
+O futuro está aqui, mais uma vez, e agora ele trouxe uma dose insalubre de visão retrofuturista, vista apenas nas mais selvagens viagens ácidas. Esqueça o cromo, tudo é neon no futuro. Esta versão digital de um clássico dos anos 80 é o mais perto que você vai chegar a se tornar uma IA desesperada e deletado por um usuário infeliz.<br><br>Nota, o modelo de produção deste veículo reduziu as capacidades ofensivas.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

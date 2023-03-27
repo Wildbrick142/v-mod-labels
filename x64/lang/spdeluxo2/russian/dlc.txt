@@ -1,0 +1,299 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+Белая футболка
+
+[CLO_NDF_DECL_8]
+Черная футболка
+
+[CLO_NDF_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDF_DECL_10]
+Восходящая Sun Tee
+
+[CLO_NDF_DECL_11]
+Сансет Ти Сансет
+
+[CLO_NDF_DECL_12]
+Ночная футболка
+
+[CLO_NDF_DECL_13]
+Кибер Сан Андреас Ти
+
+[CLO_NDF_O_0]
+80-е годы
+
+[CLO_NDF_O_1]
+Ретро
+
+[CLO_NDF_O_2]
+Всадник
+
+[CLO_NDF_O_3]
+вдохновитель
+
+[CLO_NDF_O_4]
+Пальмы
+
+[CLO_NDF_O_5]
+Волна
+
+[CLO_NDF_O_6]
+Чужой
+
+[CLO_NDF_O_7]
+Waifu
+
+[CLO_NDF_O_8]
+Glowstick
+
+[CLO_NDF_O_9]
+Хром
+
+[CLO_NDF_T_0_0]
+Галстук с черной лентой
+
+[CLO_NDF_T_0_1]
+Галстук с белой лентой
+
+[CLO_NDF_T_0_2]
+Красная лента для галстука
+
+[CLO_NDF_T_0_3]
+Зеленая лента
+
+[CLO_NDF_T_0_4]
+Галстук с голубой лентой
+
+[CLO_NDF_T_0_5]
+Галстук с розовой лентой
+
+[CLO_NDF_T_0_6]
+Фиолетовая лента
+
+[CLO_NDF_T_0_7]
+Галстук с желтой лентой
+
+[CLO_NDF_U_0_0]
+Закатная футболка с градиентом
+
+[CLO_NDF_U_0_1]
+Полуночная градиентная футболка
+
+[CLO_NDF_U_0_2]
+Ретро градиентная футболка
+
+[CLO_NDF_U_0_3]
+Яркая футболка с градиентом
+
+[CLO_NDM_DECL_7]
+Белая футболка
+
+[CLO_NDM_DECL_8]
+Черная футболка
+
+[CLO_NDM_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDM_DECL_10]
+Восходящая Sun Tee
+
+[CLO_NDM_DECL_11]
+Сансет Ти Сансет
+
+[CLO_NDM_DECL_12]
+Ночная футболка
+
+[CLO_NDM_DECL_13]
+Кибер Сан Андреас Ти
+
+[CLO_NDM_U_0_0]
+Закатная футболка с градиентом
+
+[CLO_NDM_U_0_1]
+Полуночная градиентная футболка
+
+[CLO_NDM_U_0_2]
+Ретро градиентная футболка
+
+[CLO_NDM_U_0_3]
+Яркая футболка с градиентом
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Ray Cannons
+
+[WTD_V_DELUXO2]
+Лазерные пулеметы и ракеты
+
+[WTD_V_DELUXO2_P]
+Плазменные пулеметы и ракеты
+
+[WTD_V_DELUXO2_R]
+Красные лазерные пулеметы и ракеты
+
+[WT_V_DEL2_MG]
+Зеленый лазерный пулемет
+
+[WT_V_DEL2_MGR]
+Красный лазерный пулемет
+
+[WT_V_DEL2_RAY]
+Рэй Кэннон
+
+[WT_V_KH2_FL]
+Огнемет
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[DELUXO3]
+Ballcar
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Черный лип
+
+[DELUXO2_WING_2]
+Стекло с лип
+
+[DELUXO2_WING_3]
+Черный заводской
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Светящаяся решетка радиатора
+
+[DELUXO2_GRILL_3]
+Светящаяся решетка
+
+[DELUXO2_GRILL_4]
+Светящаяся сетка решетки
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Светящиеся гонки Rents
+
+[DELUXO2_HOOD_4]
+Carbon Glow Race Vents
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Светящаяся вентилируемая юбка
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Удалить антенну
+
+[JETMAX2_ANT_RL]
+Удалить левую антенну
+
+[JETMAX2_ANT_RR]
+Удалить правую антенну
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Углеродные рельсы
+
+[JETMAX2_RAIL_G]
+Золотые рельсы
+
+[JETMAX2_RAIL_P]
+Основные цветовые рельсы
+
+[JETMAX2_RAIL_R]
+Удалить рельсы
+
+[JETMAX2_RAIL_S]
+Вторичные цветные рельсы
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Деревянная скамья
+
+[JETMAX2_SEAT2]
+Деревянная скамья / с грузом
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Отделка золотого окна
+
+[JETMAX2_WIND_2]
+Карбоновая накладка
+
+[JETMAX2_WIND_3]
+Первичная окраска окон
+
+[JETMAX2_WIND_4]
+Вторичное окрашенное окно
+
+[JETMAX2_WIND_5]
+Рубленая оконная отделка
+
+[JETMAX2_WIND_6]
+Углеродная рубленая оконная отделка
+
+[JETMAX2_WIND_N]
+Удалить обрезку окна
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Основной Большой Спойлер
+
+[JETMAX2_WING_2]
+Вторичный большой спойлер
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

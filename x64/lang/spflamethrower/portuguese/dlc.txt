@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Lança-chamas
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+LANÇA-CHAMAS
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+o Lança-chamas
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Nada é mais Americano do que o teu lança-chamas portátil. Útil para um tipo especial de torrefação para quando você ficar sem argumentos. Parte de [mpboats] Update.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

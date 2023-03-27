@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Lance-flammes
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+LANCE-FLAMMES
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+le Lance-flammes
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Rien n'est plus Américain que votre propre lance-flammes portable. Utile pour un type spécial de torréfaction lorsque vous manquez d'arguments. Partie de [mpboats] mise à jour.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

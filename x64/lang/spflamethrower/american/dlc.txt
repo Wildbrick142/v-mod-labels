@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Flamethrower
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+FLAMETHROWER
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+the Flamethrower
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Nothing is more American than your own portable Flamethrower. Useful for a special kind of roasting for when you run out of arguments. Part of [mpboats] Update.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

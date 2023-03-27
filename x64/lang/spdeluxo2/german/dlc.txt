@@ -1,0 +1,299 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+Weißes Sun-T-Stück
+
+[CLO_NDF_DECL_8]
+Black Sun Tee
+
+[CLO_NDF_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDF_DECL_10]
+T-Stück der aufgehenden Sonne
+
+[CLO_NDF_DECL_11]
+Sonnenuntergangs-T-Stück
+
+[CLO_NDF_DECL_12]
+Nacht-Sun-T-Stück
+
+[CLO_NDF_DECL_13]
+Cyber ​​San Andreas T-Stück
+
+[CLO_NDF_O_0]
+Die 80er Jahre
+
+[CLO_NDF_O_1]
+Das Retro
+
+[CLO_NDF_O_2]
+Der Fahrer
+
+[CLO_NDF_O_3]
+Der Mastermind
+
+[CLO_NDF_O_4]
+Die Palmen
+
+[CLO_NDF_O_5]
+Die Welle
+
+[CLO_NDF_O_6]
+Der Ausländer
+
+[CLO_NDF_O_7]
+Die Waifu
+
+[CLO_NDF_O_8]
+Der Leuchtstab
+
+[CLO_NDF_O_9]
+Das Chrom
+
+[CLO_NDF_T_0_0]
+Schwarze Krawatte
+
+[CLO_NDF_T_0_1]
+Weiße Krawatte
+
+[CLO_NDF_T_0_2]
+Rote Schleife
+
+[CLO_NDF_T_0_3]
+Grüne Schleife
+
+[CLO_NDF_T_0_4]
+Blaue Schleife
+
+[CLO_NDF_T_0_5]
+Pink Ribbon Tie
+
+[CLO_NDF_T_0_6]
+Lila Krawatte
+
+[CLO_NDF_T_0_7]
+Gelbe Krawatte
+
+[CLO_NDF_U_0_0]
+T-Shirt mit Sonnenuntergang
+
+[CLO_NDF_U_0_1]
+Mitternachtsfarbverlauf T-Shirt
+
+[CLO_NDF_U_0_2]
+Retro-T-Shirt mit Farbverlauf
+
+[CLO_NDF_U_0_3]
+T-Shirt mit lebendigem Verlauf
+
+[CLO_NDM_DECL_7]
+Weißes Sun-T-Stück
+
+[CLO_NDM_DECL_8]
+Black Sun T-Shirt
+
+[CLO_NDM_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDM_DECL_10]
+T-Stück der aufgehenden Sonne
+
+[CLO_NDM_DECL_11]
+T-Shirt bei Sonnenuntergang
+
+[CLO_NDM_DECL_12]
+Nacht-Sun-T-Stück
+
+[CLO_NDM_DECL_13]
+Cyber ​​San Andreas T-Stück
+
+[CLO_NDM_U_0_0]
+T-Shirt mit Sonnenuntergang
+
+[CLO_NDM_U_0_1]
+Mitternachtsfarbverlauf T-Shirt
+
+[CLO_NDM_U_0_2]
+Retro-T-Shirt mit Farbverlauf
+
+[CLO_NDM_U_0_3]
+T-Shirt mit lebendigem Verlauf
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Strahlkanonen
+
+[WTD_V_DELUXO2]
+Laser-MGs und Raketen
+
+[WTD_V_DELUXO2_P]
+Plasma-MGs und Raketen
+
+[WTD_V_DELUXO2_R]
+Rote Laser-MGs und Raketen
+
+[WT_V_DEL2_MG]
+Grüner Laser MG
+
+[WT_V_DEL2_MGR]
+Roter Laser MG
+
+[WT_V_DEL2_RAY]
+Strahlenkanone
+
+[WT_V_KH2_FL]
+Flammenwerfer
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[DELUXO3]
+Ballwagen
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Spoilerlippe
+
+[DELUXO2_WING_2]
+Fenster-Spoilerlippe
+
+[DELUXO2_WING_3]
+Fabrikstil-Spoiler
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Spoiler mit leuchtendem Grill
+
+[DELUXO2_GRILL_3]
+Glühender entrosteter Grill
+
+[DELUXO2_GRILL_4]
+Glowing Grate Mesh
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Glowing Race Vents
+
+[DELUXO2_HOOD_4]
+Carbon Glowing Race Vents
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Leuchtender belüfteter Rock
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Antenne entfernen
+
+[JETMAX2_ANT_RL]
+Linke Antenne entfernen
+
+[JETMAX2_ANT_RR]
+Rechte Antenne entfernen
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Carbon Rails
+
+[JETMAX2_RAIL_G]
+Gold Rails
+
+[JETMAX2_RAIL_P]
+Primärfarbschienen
+
+[JETMAX2_RAIL_R]
+Schienen entfernen
+
+[JETMAX2_RAIL_S]
+Sekundärfarbschienen
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Holzbank
+
+[JETMAX2_SEAT2]
+Holzbank mit Ladung
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Goldfensterbeschnitt
+
+[JETMAX2_WIND_2]
+Verkleidung aus Carbonfenster
+
+[JETMAX2_WIND_3]
+Beschnitt des primären gemalten Fensters
+
+[JETMAX2_WIND_4]
+Beschnitt für sekundär bemalte Fenster
+
+[JETMAX2_WIND_5]
+Schnittfenster geschnitten
+
+[JETMAX2_WIND_6]
+Beschnittene Fensterleiste aus Carbon
+
+[JETMAX2_WIND_N]
+Fensterbeschnitt entfernen
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Primärer Großspoiler
+
+[JETMAX2_WING_2]
+Sekundärer großer Spoiler
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

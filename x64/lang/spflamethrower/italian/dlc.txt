@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Lanciafiamme
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+LANCIAFIAMME
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+il Lanciafiamme
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Niente e ' piu ' americano del tuo lanciafiamme portatile. Utile per un tipo speciale di arrostimento per quando si esauriscono gli argomenti. Parte Dell'aggiornamento [mpboats].
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

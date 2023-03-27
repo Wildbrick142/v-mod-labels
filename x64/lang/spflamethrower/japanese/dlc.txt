@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+火炎放射器
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+火炎放射器
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+火炎放射器
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+何もあなた自身の携帯用の火炎放射器よりもアメリカ人ではありません。 あなたが引数を使い果たしたときのための焙煎の特別な種類のために便利です。 の一部[mpboats]更新.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

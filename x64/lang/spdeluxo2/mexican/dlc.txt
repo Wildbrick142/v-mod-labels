@@ -1,0 +1,300 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+Camiseta White Sun
+
+[CLO_NDF_DECL_8]
+Black Sun Tee
+
+[CLO_NDF_DECL_9]
+Camiseta Cyber ​​Sun
+
+[CLO_NDF_DECL_10]
+Rising Sun Tee
+
+[CLO_NDF_DECL_11]
+Sunset Sun Tee
+
+[CLO_NDF_DECL_12]
+Night Sun Tee
+
+[CLO_NDF_DECL_13]
+Camiseta Cyber ​​San Andreas
+
+[CLO_NDF_O_0]
+Los 80s
+
+[CLO_NDF_O_1]
+El Retro
+
+[CLO_NDF_O_2]
+El jinete
+
+[CLO_NDF_O_3]
+La mente maestra
+
+[CLO_NDF_O_4]
+Las Palmas
+
+[CLO_NDF_O_5]
+La Ola
+
+[CLO_NDF_O_6]
+El Alien
+
+[CLO_NDF_O_7]
+El Waifu
+
+[CLO_NDF_O_8]
+El Glowstick
+
+[CLO_NDF_O_9]
+El cromo
+
+[CLO_NDF_T_0_0]
+Corbata de cinta negra
+
+[CLO_NDF_T_0_1]
+Corbata de cinta blanca
+
+[CLO_NDF_T_0_2]
+Lazo de cinta roja
+
+[CLO_NDF_T_0_3]
+Lazo de cinta verde
+
+[CLO_NDF_T_0_4]
+Blue Ribbon Tie
+
+[CLO_NDF_T_0_5]
+Corbata de cinta rosada
+
+[CLO_NDF_T_0_6]
+Corbata de cinta morada
+
+[CLO_NDF_T_0_7]
+Corbata de cinta amarilla
+
+[CLO_NDF_U_0_0]
+Sunset Gradient T-Shirt
+
+[CLO_NDF_U_0_1]
+Camiseta degradada de medianoche
+
+[CLO_NDF_U_0_2]
+Retro Gradient T-Shirt
+
+[CLO_NDF_U_0_3]
+Camiseta con degradado vibrante
+
+[CLO_NDM_DECL_7]
+Camiseta White Sun
+
+[CLO_NDM_DECL_8]
+Black Sun Tee
+
+[CLO_NDM_DECL_9]
+Camiseta Cyber ​​Sun
+
+[CLO_NDM_DECL_10]
+Rising Sun Tee
+
+[CLO_NDM_DECL_11]
+Sunset Sun Tee
+
+[CLO_NDM_DECL_12]
+Night Sun Tee
+
+[CLO_NDM_DECL_13]
+Camiseta Cyber ​​San Andreas
+
+[CLO_NDM_U_0_0]
+Sunset Gradient T-Shirt
+
+[CLO_NDM_U_0_1]
+Camiseta degradada de medianoche
+
+[CLO_NDM_U_0_2]
+Camiseta retro degradada
+
+[CLO_NDM_U_0_3]
+Camiseta con degradado vibrante
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Ray Cannons
+
+[WTD_V_DELUXO2]
+Ametralladoras láser y misiles
+
+[WTD_V_DELUXO2_P]
+Ametralladoras de plasma y misiles
+
+[WTD_V_DELUXO2_R]
+Ametralladoras y misiles con láser rojo
+
+[WT_V_DEL2_MG]
+Ametralladora láser verde
+
+[WT_V_DEL2_MGR]
+Ametralladora láser roja
+
+[WT_V_DEL2_RAY]
+Ray Cannon
+
+[WT_V_KH2_FL]
+Lanzallamas
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[DELUXO3]
+Ballcar
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Alerón trasero fino
+
+[DELUXO2_WING_2]
+Alerón tras. fino ven.
+
+[DELUXO2_WING_3]
+Alerón estilo fábrica
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Spoiler de parrilla brillante
+
+[DELUXO2_GRILL_3]
+Rejilla recargada resplandeciente
+
+[DELUXO2_GRILL_4]
+Malla de rejilla brillante
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Respiraderos de carrera resplandecientes
+
+[DELUXO2_HOOD_4]
+{ i think this one goes twice over the char limit... }
+Respiraderos de carbono que brillan intensamente en la carrera
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Falda con ventilación brillante
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Eliminar antena
+
+[JETMAX2_ANT_RL]
+Eliminar antena izquierda
+
+[JETMAX2_ANT_RR]
+Eliminar antena derecha
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Rieles de carbono
+
+[JETMAX2_RAIL_G]
+Rieles de oro
+
+[JETMAX2_RAIL_P]
+Rieles de color primario
+
+[JETMAX2_RAIL_R]
+Eliminar rieles
+
+[JETMAX2_RAIL_S]
+Rieles de color secundarios
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Banco de madera
+
+[JETMAX2_SEAT2]
+Banco de madera / w cargo
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Adorno de ventana dorado
+
+[JETMAX2_WIND_2]
+Ajuste de la ventana de carbono
+
+[JETMAX2_WIND_3]
+Ventana principal pintada
+
+[JETMAX2_WIND_4]
+Recorte de ventana pintado secundario
+
+[JETMAX2_WIND_5]
+Cortar ventana cortada
+
+[JETMAX2_WIND_6]
+Recorte de ventana de carbono picado
+
+[JETMAX2_WIND_N]
+Eliminar ventana de ajuste
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Spoiler grande primario
+
+[JETMAX2_WING_2]
+Spoiler grande secundario
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,299 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+White Sun Tee
+
+[CLO_NDF_DECL_8]
+Black Sun Tee
+
+[CLO_NDF_DECL_9]
+Cyber-Sun Tee
+
+[CLO_NDF_DECL_10]
+Rising Sun Tee
+
+[CLO_NDF_DECL_11]
+Sunset Sun Tee
+
+[CLO_NDF_DECL_12]
+Night Sun Tee
+
+[CLO_NDF_DECL_13]
+Cyber ​​San Andreas Tee
+
+[CLO_NDF_O_0]
+Lata 80
+
+[CLO_NDF_O_1]
+The Retro
+
+[CLO_NDF_O_2]
+Jeździec
+
+[CLO_NDF_O_3]
+The Mastermind
+
+[CLO_NDF_O_4]
+Palmy
+
+[CLO_NDF_O_5]
+Fala
+
+[CLO_NDF_O_6]
+Obcy
+
+[CLO_NDF_O_7]
+The Waifu
+
+[CLO_NDF_O_8]
+Glowstick
+
+[CLO_NDF_O_9]
+Chromium
+
+[CLO_NDF_T_0_0]
+Black Ribbon Tie
+
+[CLO_NDF_T_0_1]
+Biała wstążka
+
+[CLO_NDF_T_0_2]
+Czerwona wstążka
+
+[CLO_NDF_T_0_3]
+Zielony krawat wstążki
+
+[CLO_NDF_T_0_4]
+Niebieska wstążka
+
+[CLO_NDF_T_0_5]
+Różowa wstążka krawat
+
+[CLO_NDF_T_0_6]
+Purple Ribbon Tie
+
+[CLO_NDF_T_0_7]
+Yellow Ribbon Tie
+
+[CLO_NDF_U_0_0]
+Koszulka Sunset Gradient
+
+[CLO_NDF_U_0_1]
+Koszulka z gradientem o północy
+
+[CLO_NDF_U_0_2]
+Retro Gradientowa koszulka
+
+[CLO_NDF_U_0_3]
+Wibrujący, gradientowy T-Shirt
+
+[CLO_NDM_DECL_7]
+White Sun Tee
+
+[CLO_NDM_DECL_8]
+Black Sun Tee
+
+[CLO_NDM_DECL_9]
+Cyber-Sun Tee
+
+[CLO_NDM_DECL_10]
+Rising Sun Tee
+
+[CLO_NDM_DECL_11]
+Sunset Sun Tee
+
+[CLO_NDM_DECL_12]
+Night Sun Tee
+
+[CLO_NDM_DECL_13]
+Cyber ​​San Andreas Tee
+
+[CLO_NDM_U_0_0]
+Koszulka Sunset Gradient
+
+[CLO_NDM_U_0_1]
+Koszulka z gradientem o północy
+
+[CLO_NDM_U_0_2]
+T-shirt w stylu retro z gradientem
+
+[CLO_NDM_U_0_3]
+T-shirt o żywych kolorach
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Armaty promienia
+
+[WTD_V_DELUXO2]
+Laserowe karabiny maszynowe i pociski
+
+[WTD_V_DELUXO2_P]
+Pistolety maszynowe i pociski plazmowe
+
+[WTD_V_DELUXO2_R]
+Red Laser Machine Guns and Missiles
+
+[WT_V_DEL2_MG]
+Zielony laserowy karabin maszynowy
+
+[WT_V_DEL2_MGR]
+Red Laser Machine Gun
+
+[WT_V_DEL2_RAY]
+Ray Cannon
+
+[WT_V_KH2_FL]
+Miotacz ognia
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[DELUXO3]
+Ballcar
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Lotka
+
+[DELUXO2_WING_2]
+Lotka na oknie
+
+[DELUXO2_WING_3]
+Roboczy spojler
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Świecący spoiler w kratce
+
+[DELUXO2_GRILL_3]
+Żarząca się kratka z debugowaniem
+
+[DELUXO2_GRILL_4]
+Świecąca siatka kraty
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Żarzące się wieże wyścigowe
+
+[DELUXO2_HOOD_4]
+Otwory wentylacyjne świecące węglem
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Glowing Vented Skirt
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Usuń antenę
+
+[JETMAX2_ANT_RL]
+Usuń lewą antenę
+
+[JETMAX2_ANT_RR]
+Usuń prawą antenę
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Szyny węglowe
+
+[JETMAX2_RAIL_G]
+Gold Rails
+
+[JETMAX2_RAIL_P]
+Primary Colour Rails
+
+[JETMAX2_RAIL_R]
+Usuń Railsy
+
+[JETMAX2_RAIL_S]
+Secondary Colour Rails
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Drewniana ława
+
+[JETMAX2_SEAT2]
+Drewniana ławka / w Ładunek
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Wykończenie okna Gold
+
+[JETMAX2_WIND_2]
+Wykończenie okna węglowego
+
+[JETMAX2_WIND_3]
+Podstawowa podstawa okna malowanego
+
+[JETMAX2_WIND_4]
+Wtórne okno malarskie
+
+[JETMAX2_WIND_5]
+Tapicerka przyciętego okna
+
+[JETMAX2_WIND_6]
+Tapicerka z przyciętym węglem
+
+[JETMAX2_WIND_N]
+Usuń przycinanie okna
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Główny duży spoiler
+
+[JETMAX2_WING_2]
+Drugi duży spoiler
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

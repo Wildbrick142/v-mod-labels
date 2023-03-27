@@ -1,0 +1,300 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+Tee-shirt Sun blanc
+
+[CLO_NDF_DECL_8]
+Tee-shirt Sun noir
+
+[CLO_NDF_DECL_9]
+Tee Cyber ​​Sun
+
+[CLO_NDF_DECL_10]
+Té soleil levant
+
+[CLO_NDF_DECL_11]
+Tee Soleil Couchant
+
+[CLO_NDF_DECL_12]
+Tee soleil de nuit
+
+[CLO_NDF_DECL_13]
+Tee-shirt Cyber ​​San Andreas
+
+[CLO_NDF_O_0]
+Les années 80
+
+[CLO_NDF_O_1]
+Le rétro
+
+[CLO_NDF_O_2]
+Le coureur
+
+[CLO_NDF_O_3]
+Le Mastermind
+
+[CLO_NDF_O_4]
+Les paumes
+
+[CLO_NDF_O_5]
+La vague
+
+[CLO_NDF_O_6]
+L’Alien
+
+[CLO_NDF_O_7]
+Le Waifu
+
+[CLO_NDF_O_8]
+Le bâton lumineux
+
+[CLO_NDF_O_9]
+Le chrome
+
+[CLO_NDF_T_0_0]
+Cravate de ruban noir
+
+[CLO_NDF_T_0_1]
+Cravate à ruban blanc
+
+[CLO_NDF_T_0_2]
+Lien du ruban rouge
+
+[CLO_NDF_T_0_3]
+Cravate de ruban vert
+
+[CLO_NDF_T_0_4]
+Cravate de ruban bleu
+
+[CLO_NDF_T_0_5]
+Cravate de ruban rose
+
+[CLO_NDF_T_0_6]
+Cravate de ruban violet
+
+[CLO_NDF_T_0_7]
+Cravate à ruban jaune
+
+[CLO_NDF_U_0_0]
+T-shirt à dégradé au coucher du soleil
+
+[CLO_NDF_U_0_1]
+T-shirt à dégradé de minuit
+
+[CLO_NDF_U_0_2]
+T-shirt à dégradé rétro
+
+[CLO_NDF_U_0_3]
+T-shirt à gradient vibrant
+
+[CLO_NDM_DECL_7]
+Tee-shirt Sun blanc
+
+[CLO_NDM_DECL_8]
+Tee-shirt Sun noir
+
+[CLO_NDM_DECL_9]
+Tee Cyber ​​Sun
+
+[CLO_NDM_DECL_10]
+Té soleil levant
+
+[CLO_NDM_DECL_11]
+Tee Soleil Couchant
+
+[CLO_NDM_DECL_12]
+Tee soleil de nuit
+
+[CLO_NDM_DECL_13]
+Tee-shirt Cyber ​​San Andreas
+
+[CLO_NDM_U_0_0]
+T-shirt dégradé au coucher du soleil
+
+[CLO_NDM_U_0_1]
+T-shirt à dégradé de minuit
+
+[CLO_NDM_U_0_2]
+T-shirt à dégradé rétro
+
+[CLO_NDM_U_0_3]
+T-shirt à gradient vibrant
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Canons à rayons
+
+[WTD_V_DELUXO2]
+MGs et missiles laser
+
+[WTD_V_DELUXO2_P]
+MG et missiles Plasma
+
+[WTD_V_DELUXO2_R]
+MG et missiles laser rouge
+
+[WT_V_DEL2_MG]
+MG laser verte
+
+[WT_V_DEL2_MGR]
+MG laser rouge
+
+[WT_V_DEL2_RAY]
+Ray Cannon
+
+[WT_V_KH2_FL]
+Lance-flammes
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Digital Deluxo
+
+[DELUXO3]
+voiture de balle
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Aileron plat
+
+[DELUXO2_WING_2]
+Aileron plat fenêtre
+
+[DELUXO2_WING_3]
+Aileron style usine
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Spoiler de grille incandescent
+
+[DELUXO2_GRILL_3]
+Grille rougeoyante debadged
+
+[DELUXO2_GRILL_4]
+Maille de grille rougeoyante
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Évents de course luisants
+
+[DELUXO2_HOOD_4]
+{ this is super long? gotta properly translate someday... }
+Conduits de ventilation pour course au carbone
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Jupe aérée éclatante
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Supprimer l'antenne
+
+[JETMAX2_ANT_RL]
+Supprimer l'antenne gauche
+
+[JETMAX2_ANT_RR]
+Supprimer l'antenne droite
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Rails en carbone
+
+[JETMAX2_RAIL_G]
+Rails en or
+
+[JETMAX2_RAIL_P]
+Rails de couleurs primaires
+
+[JETMAX2_RAIL_R]
+Supprimer les rails
+
+[JETMAX2_RAIL_S]
+Rails de couleurs secondaires
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Banc en bois
+
+[JETMAX2_SEAT2]
+Banc en bois / cargo
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Rogner la fenêtre en or
+
+[JETMAX2_WIND_2]
+Recadrage de la fenêtre Carbone
+
+[JETMAX2_WIND_3]
+Recadrage de la fenêtre peinte principale
+
+[JETMAX2_WIND_4]
+Limite secondaire de la fenêtre peinte
+
+[JETMAX2_WIND_5]
+Limite de fenêtre hachée
+
+[JETMAX2_WIND_6]
+Garniture de fenêtre hachée au carbone
+
+[JETMAX2_WIND_N]
+Supprimer le rognage de la fenêtre
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Grand spoiler principal
+
+[JETMAX2_WING_2]
+Grand spoiler secondaire
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

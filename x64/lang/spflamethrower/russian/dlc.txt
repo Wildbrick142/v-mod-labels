@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Огнемет
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+ОГНЕМЕТ
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+огнемет
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Нет ничего более американского, чем ваш собственный портативный огнемет. Полезно для особого вида жарки, когда у вас закончатся аргументы. Часть обновления [mpboats].
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

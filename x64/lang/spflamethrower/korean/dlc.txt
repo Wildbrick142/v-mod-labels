@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+화염 방사기
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+화염 방사기
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+화염 방사기
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+아무것도 자신의 휴대용 화염 방사기보다 더 미국 없습니다. 당신이 인수가 부족할 때를 위해 굽기의 특별한 종류를 위해 유용한. [Mpboats]업데이트의 일부.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

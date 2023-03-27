@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Lanzallamas
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+LANZALLAMAS
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+el Lanzallamas
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Nada es más americano que su propio lanzallamas portátil. Útil para un tipo especial de asado para cuando te quedas sin argumentos. Parte de [mpboats] Actualización.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

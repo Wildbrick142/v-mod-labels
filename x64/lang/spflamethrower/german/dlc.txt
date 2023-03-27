@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+Flammenwerfer
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+FLAMMENWERFER
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+der Flammenwerfer
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+Nichts ist amerikanischer als dein eigener Tragbarer Flammenwerfer. Nützlich für eine spezielle Art von braten, wenn Sie Argumente fehlen. Teil von [mpboats] update.
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

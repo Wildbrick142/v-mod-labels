@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_DELUXO2]
+L'avenir est ici, encore une fois, et maintenant il vous a apporté une dose malsaine de vision rétrofuturiste vue uniquement dans les voyages les plus fous à l'acide. Oubliez le chrome, tout est néon dans le futur. Cette prise numérique d'un classique des années 1980 est aussi proche que vous allez devenir une IA désespérée et effacée par un utilisateur malheureux.<br><br>Notez que le modèle de production de ce véhicule a réduit ses capacités offensives.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

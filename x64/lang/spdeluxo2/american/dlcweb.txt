@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[CANDC_DELUXO2]
+The future is here, yet again, and now it has brought you an unhealthy dose of retrofuturistic vision seen only in the wildest of acid trips. Forget the chrome, everything is neon in the future. This digital take on a 1980's classic is as close as you're going to get to becoming a desperate AI and deleted by an unhappy user.<br><br>Note, the production model of this vehicle has reduced offensive capabilities.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

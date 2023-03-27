@@ -1,0 +1,299 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+화이트 선 티
+
+[CLO_NDF_DECL_8]
+블랙 선 티
+
+[CLO_NDF_DECL_9]
+사이버 썬 티
+
+[CLO_NDF_DECL_10]
+라이징 썬 티
+
+[CLO_NDF_DECL_11]
+선셋 썬 티
+
+[CLO_NDF_DECL_12]
+나이트 썬 티
+
+[CLO_NDF_DECL_13]
+사이버 ​​S.A. 티
+
+[CLO_NDF_O_0]
+80 년대
+
+[CLO_NDF_O_1]
+레트로
+
+[CLO_NDF_O_2]
+라이더
+
+[CLO_NDF_O_3]
+기안자
+
+[CLO_NDF_O_4]
+손바닥
+
+[CLO_NDF_O_5]
+웨이브
+
+[CLO_NDF_O_6]
+외국인
+
+[CLO_NDF_O_7]
+와이 후
+
+[CLO_NDF_O_8]
+그로스 틱
+
+[CLO_NDF_O_9]
+크롬
+
+[CLO_NDF_T_0_0]
+검은 리본 타이
+
+[CLO_NDF_T_0_1]
+흰색 리본 타이
+
+[CLO_NDF_T_0_2]
+레드 리본 타이
+
+[CLO_NDF_T_0_3]
+그린 리본 넥타이
+
+[CLO_NDF_T_0_4]
+블루 리본 넥타이
+
+[CLO_NDF_T_0_5]
+핑크 리본 타이
+
+[CLO_NDF_T_0_6]
+퍼플 리본 타이
+
+[CLO_NDF_T_0_7]
+옐로우 리본 타이
+
+[CLO_NDF_U_0_0]
+선셋 그라데이션 티셔츠
+
+[CLO_NDF_U_0_1]
+자정 그라데이션 티셔츠
+
+[CLO_NDF_U_0_2]
+레트로 그라데이션 티셔츠
+
+[CLO_NDF_U_0_3]
+역동적 인 그라데이션 티셔츠
+
+[CLO_NDM_DECL_7]
+화이트 선 티
+
+[CLO_NDM_DECL_8]
+블랙 선 티
+
+[CLO_NDM_DECL_9]
+사이버 썬 티
+
+[CLO_NDM_DECL_10]
+라이징 썬 티
+
+[CLO_NDM_DECL_11]
+선셋 썬 티
+
+[CLO_NDM_DECL_12]
+나이트 썬 티
+
+[CLO_NDM_DECL_13]
+사이버 산 안드레아스 티
+
+[CLO_NDM_U_0_0]
+선셋 그라데이션 티셔츠
+
+[CLO_NDM_U_0_1]
+자정 그라데이션 티셔츠
+
+[CLO_NDM_U_0_2]
+레트로 그라데이션 티셔츠
+
+[CLO_NDM_U_0_3]
+역동적 인 그라데이션 티셔츠
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+레이 캐논
+
+[WTD_V_DELUXO2]
+레이저 머신 건 및 미사일
+
+[WTD_V_DELUXO2_P]
+플라즈마 기계 총과 미사일
+
+[WTD_V_DELUXO2_R]
+적색 레이저 기계 총과 미사일
+
+[WT_V_DEL2_MG]
+녹색 레이저 총
+
+[WT_V_DEL2_MGR]
+적색 레이저 기관총
+
+[WT_V_DEL2_RAY]
+레이 캐논
+
+[WT_V_KH2_FL]
+화염 방사기
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+디지털 디럭소
+
+[DELUXO3]
+볼 자동차
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+립 스포일러
+
+[DELUXO2_WING_2]
+윈도우 립 스포일러
+
+[DELUXO2_WING_3]
+팩토리 스타일 스포일러
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+빛나는 그릴 스포일러
+
+[DELUXO2_GRILL_3]
+빛나는 투기 그릴
+
+[DELUXO2_GRILL_4]
+빛나는 격자 메쉬
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+빛나는 레이스 벤트
+
+[DELUXO2_HOOD_4]
+카본 백열 레이스 벤트
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+빛나는 벤트 스커트
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+안테나 제거
+
+[JETMAX2_ANT_RL]
+왼쪽 안테나 제거
+
+[JETMAX2_ANT_RR]
+오른쪽 안테나 제거
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+탄소 레일
+
+[JETMAX2_RAIL_G]
+골드 레일즈
+
+[JETMAX2_RAIL_P]
+기본 컬러 레일
+
+[JETMAX2_RAIL_R]
+레일 제거
+
+[JETMAX2_RAIL_S]
+보조 컬러 레일
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+나무 벤치
+
+[JETMAX2_SEAT2]
+나무 벤치 /화물
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+골드 윈도우 트림
+
+[JETMAX2_WIND_2]
+카본 윈도우 트림
+
+[JETMAX2_WIND_3]
+기본 페인트 윈도우 트림
+
+[JETMAX2_WIND_4]
+2 차 페인 티드 윈도우 트림
+
+[JETMAX2_WIND_5]
+창 잘림
+
+[JETMAX2_WIND_6]
+카본 다진 창 트림
+
+[JETMAX2_WIND_N]
+창 트림 제거
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+1 차 대형 스포일러
+
+[JETMAX2_WING_2]
+2 차 대형 스포일러
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,299 @@
+﻿{--- updated 11/18/18 --}
+
+{ --- clothes --- }
+
+{***********************************************}
+
+[CLO_NDF_DECL_7]
+Sun branco Tee
+
+[CLO_NDF_DECL_8]
+Sun preto Tee
+
+[CLO_NDF_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDF_DECL_10]
+T de Nascente do Sol
+
+[CLO_NDF_DECL_11]
+Sunset Tee de sol
+
+[CLO_NDF_DECL_12]
+T do sol da noite
+
+[CLO_NDF_DECL_13]
+Cyber ​​San Andreas Tee
+
+[CLO_NDF_O_0]
+os anos 80
+
+[CLO_NDF_O_1]
+O Retro
+
+[CLO_NDF_O_2]
+O cavaleiro
+
+[CLO_NDF_O_3]
+O Mastermind
+
+[CLO_NDF_O_4]
+as palmas
+
+[CLO_NDF_O_5]
+A onda
+
+[CLO_NDF_O_6]
+O Estrangeiro
+
+[CLO_NDF_O_7]
+O Waifu
+
+[CLO_NDF_O_8]
+O Glowstick
+
+[CLO_NDF_O_9]
+O cromo
+
+[CLO_NDF_T_0_0]
+Laço preto da fita
+
+[CLO_NDF_T_0_1]
+Laço branco da fita
+
+[CLO_NDF_T_0_2]
+Laço vermelho da fita
+
+[CLO_NDF_T_0_3]
+Laço de fita verde
+
+[CLO_NDF_T_0_4]
+Laço da fita azul
+
+[CLO_NDF_T_0_5]
+Laço cor-de-rosa da fita
+
+[CLO_NDF_T_0_6]
+Laço roxo da fita
+
+[CLO_NDF_T_0_7]
+Laço amarelo da fita
+
+[CLO_NDF_U_0_0]
+T-shirt do inclinação do por do sol
+
+[CLO_NDF_U_0_1]
+T-shirt do inclinação da meia-noite
+
+[CLO_NDF_U_0_2]
+T-shirt retro do inclinação
+
+[CLO_NDF_U_0_3]
+T-shirt vibrante do inclinação
+
+[CLO_NDM_DECL_7]
+T branco de Sun
+
+[CLO_NDM_DECL_8]
+Sun preto Tee
+
+[CLO_NDM_DECL_9]
+Cyber ​​Sun Tee
+
+[CLO_NDM_DECL_10]
+T de Nascente do Sol
+
+[CLO_NDM_DECL_11]
+Sunset Tee de sol
+
+[CLO_NDM_DECL_12]
+T do sol da noite
+
+[CLO_NDM_DECL_13]
+Cyber ​​San Andreas Tee
+
+[CLO_NDM_U_0_0]
+T-shirt do inclinação do por do sol
+
+[CLO_NDM_U_0_1]
+T-shirt do inclinação da meia-noite
+
+[CLO_NDM_U_0_2]
+T-shirt retro do inclinação
+
+[CLO_NDM_U_0_3]
+T-shirt vibrante do inclinação
+
+
+
+{ --- weapons names --- }
+
+{***********************************************}
+
+[WTD_V_DEL2_RAY]
+Canhões de raio
+
+[WTD_V_DELUXO2]
+Metralhadoras e mísseis a laser
+
+[WTD_V_DELUXO2_P]
+Metralhadoras e Mísseis Plasma
+
+[WTD_V_DELUXO2_R]
+Metralhadoras e Mísseis com Laser Vermelho
+
+[WT_V_DEL2_MG]
+Canivete Laser Verde
+
+[WT_V_DEL2_MGR]
+Metralhadora a laser vermelho
+
+[WT_V_DEL2_RAY]
+Ray Cannon
+
+[WT_V_KH2_FL]
+Lança-chamas
+
+
+
+{--- vehicle names --}
+{***********************************************}
+[DELUXO2]
+Deluxo Digital
+
+[DELUXO3]
+carro de bola
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+
+{ - DELUXO2_SPOILERS -}
+[DELUXO2_WING_1]
+Lip
+
+[DELUXO2_WING_2]
+Lip de janela
+
+[DELUXO2_WING_3]
+Industrial
+
+{ - DEL2_GRILL -}
+[DELUXO2_GRILL_2]
+Glowing Grille Spoiler
+
+[DELUXO2_GRILL_3]
+Grelha Desbastada Incandescente
+
+[DELUXO2_GRILL_4]
+Malha de grelha brilhante
+
+
+
+{ - DEL2_HOODS -}
+[DELUXO2_HOOD_3]
+Aberturas da Corrida Brilhante
+
+[DELUXO2_HOOD_4]
+Aberturas de corrida de carbono
+
+
+{ - DEL2_SKRT -}
+[DELUXO2_SKIRT_2]
+Saia Ventilada Brilhante
+
+
+
+
+{ - JETMAX_ ANTENNA -}
+
+[JETMAX2_ANT_RA]
+Remover Antena
+
+[JETMAX2_ANT_RL]
+Remover a Antena Esquerda
+
+[JETMAX2_ANT_RR]
+Remover a Antena Direita
+
+
+{ - JETMAX_DECK -}
+
+
+{ - JETMAX_ENG -}
+
+
+
+{ - JETMAX_NAMEPLATE -}
+
+
+{ - JETMAX_RAILS -}
+[JETMAX2_RAIL_C]
+Trilhos de Carbono
+
+[JETMAX2_RAIL_G]
+Trilhos Dourados
+
+[JETMAX2_RAIL_P]
+Trilhos de cores primárias
+
+[JETMAX2_RAIL_R]
+Remover trilhos
+
+[JETMAX2_RAIL_S]
+Trilhos de cores secundárias
+
+
+{ - JETMAX_RUDDERS -}
+
+
+{ - JETMAX_SEATS -}
+[JETMAX2_SEAT1]
+Banco de madeira
+
+[JETMAX2_SEAT2]
+Banco de madeira / w Cargo
+
+
+{ - JETMAX_SWIMPLT -}
+
+
+{ - JETMAX_WTRIM -}
+[JETMAX2_WIND_1]
+Gold Window Trim
+
+[JETMAX2_WIND_2]
+Guarnição da janela de carbono
+
+[JETMAX2_WIND_3]
+Trim da janela pintada primária
+
+[JETMAX2_WIND_4]
+Trim secundário da janela pintada
+
+[JETMAX2_WIND_5]
+Trim da janela cortada
+
+[JETMAX2_WIND_6]
+Guarnição da Janela Cortada em Carbono
+
+[JETMAX2_WIND_N]
+Remover guarnição da janela
+
+
+{ - JETMAX_SPOILER -}
+[JETMAX2_WING_1]
+Spoiler Principal Principal
+
+[JETMAX2_WING_2]
+Spoiler Grande Secundário
+
+
+{ - JETMAX_LIVERY -}
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

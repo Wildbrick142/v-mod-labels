@@ -1,0 +1,28 @@
+﻿{--- weapon names --}
+[WT_FLAMETHROWER]
+喷火器
+
+
+{ --- gunshop text --- }
+
+{ - uppercase -}
+
+[WTU_FLAMETHROWER]
+喷火器
+
+
+{ - the weapon -}
+[WTT_FLAMETHROWER]
+火焰喷射器
+
+
+{ - decription -}
+[WTD_FLAMETHROWER]
+没有什么比你自己的便携式喷火器更美国。 有用的一种特殊的焙烧，当你的论据用完时。 [Mpboats]更新的一部分。
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
