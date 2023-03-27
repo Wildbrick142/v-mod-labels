@@ -1,0 +1,10 @@
+﻿
+
+{--- vehicle names --}
+[ARDENT3]
+Ardent Turbo
+
+
+{--- dummy ---}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

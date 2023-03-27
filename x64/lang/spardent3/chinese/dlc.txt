@@ -1,0 +1,10 @@
+﻿
+
+{--- vehicle names --}
+[ARDENT3]
+熾烈涡轮
+
+
+{--- dummy ---}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

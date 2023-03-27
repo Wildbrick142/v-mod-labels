@@ -1,0 +1,10 @@
+﻿
+
+{--- vehicle names --}
+[ARDENT3]
+アーデントターボ
+
+
+{--- dummy ---}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

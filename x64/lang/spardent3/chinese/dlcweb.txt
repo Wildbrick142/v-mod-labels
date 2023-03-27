@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[VWE_ARDENT3]
+Engaging submarine mode is so 2017 - if you really want to make a splash at a beach party, drive off the pier at a speed so high you stone-skip yourself beyond the horizon. And guess what, the Ardent Turbo, a faster version of the original wannabe-submarine, is just the pick for this party trick. Inevitably reaching the world's end and sinking by gods' will doesn't matter - at least you won't die in a tacky spy gizmo.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!
