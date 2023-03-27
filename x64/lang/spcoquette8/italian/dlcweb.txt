@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+Venendo direttamente dall'era della violenza senza fine tra le famiglie mafiose ei dirigenti Invetero non sono stati in grado di nominare la loro ultima macchina muscolare terribilmente maneggevole. Soprannominato Phobos, siccome è sicuro di mandarti in una delle lune di Marte dopo un incidente automobilistico ad alta velocità causato da malfunzionanti fari a scomparsa.
+
+[WEB_COQUETTEPACK]
+Parte di GTA V: Coquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

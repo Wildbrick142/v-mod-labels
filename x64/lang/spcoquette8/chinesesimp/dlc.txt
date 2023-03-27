@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+艳妇 鲨鱼
+
+[COQUETTE8]
+艳妇 火卫一
+
+[COQUETTE8b]
+艳妇 鱼翅
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+原色翼
+
+[COQ8_WING1B]
+辅助色翼
+
+[COQ8_WING1C]
+初级碳翼
+
+[COQ8_WING1D]
+次级碳翼
+
+[COQ8_WING2]
+原色扰流板
+
+[COQ8_WING2B]
+二次色彩扰流板
+
+[COQ8_WING2C]
+碳扰流板
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT徽章
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+原色分离器
+
+[COQ8_SPLT_AR]
+使用主分离器删除前保险杠
+
+[COQ8_SPLT_B]
+辅助分色器
+
+[COQ8_SPLT_BR]
+使用辅助分离器删除前保险杠
+
+[COQ8_SPLT_CR]
+使用碳分离器删除前保险杠
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+辅助色罩
+
+[COQ8_SCOOP1]
+原色遮光罩勺子
+
+[COQ8_SCOOP1B]
+辅助色罩
+
+[COQ8_SCOOP1C]
+碳头罩勺
+
+[COQ8_SCOOP2]
+原色遮光罩和三重摄入量
+
+[COQ8_SCOOP2B]
+辅助色罩和三重摄入量
+
+[COQ8_SCOOP2C]
+碳罩和三重摄入量
+
+[COQ8_SCOOP3]
+原色遮光罩和单一摄入量
+
+[COQ8_SCOOP3B]
+辅助色罩和单次进气
+
+[COQ8_SCOOP3C]
+碳罩和单一摄入量
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+预告片垃圾箱
+
+[COQ8_LIV2]
+毒刺条纹
+
+[COQ8_LIV3]
+MECHABOTS火焰
+
+[COQ8_LIV4]
+火焰
+
+[COQ8_LIV5]
+火火卫一
+
+[COQ8_LIV6]
+火卫一
+
+[COQ8_LIV7]
+红色赛事赛车手
+
+[COQ8_LIV8]
+箭头赛车手
+
+[COQ8_LIV9]
+Pisswasser赛跑
+
+[COQ8_LIV10]
+美国痛车
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

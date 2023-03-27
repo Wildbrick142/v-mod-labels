@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+흑백
+
+[G9_PAINT02]
+밤과 낮
+
+[G9_PAINT03]
+벌리어러
+
+[G9_PAINT04]
+Sprunk X-treme
+
+[G9_PAINT05]
+바이스 시티
+
+[G9_PAINT06]
+신스웨이브 나이트
+
+[G9_PAINT07]
+사계절
+
+[G9_PAINT08]
+Maisonette 9 후퇴
+
+[G9_PAINT09]
+풍선껌
+
+[G9_PAINT10]
+풀 레인보우
+
+[G9_PAINT11]
+일몰
+
+[G9_PAINT12]
+더 세븐
+
+[G9_PAINT13]
+가면라이더
+
+[G9_PAINT14]
+색수차
+
+[G9_PAINT15]
+크리스마스다!
+
+[G9_PAINT16]
+온도
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+아노다이즈드 블루 펄
+
+[ANOD_BRONZE]
+아노다이즈드 브론즈 펄
+
+[ANOD_CHAMPAGNE]
+아노다이즈드 샴페인 펄
+
+[ANOD_COPPER]
+아노다이즈드 동색 펄
+
+[ANOD_GOLD]
+아노다이즈드 골드 펄
+
+[ANOD_GREEN]
+아노다이즈드 그린 펄
+
+[ANOD_LIME]
+아노다이즈드 라임 펄
+
+[ANOD_PURPLE]
+아노다이즈드 퍼플 펄
+
+[ANOD_RED]
+아노다이즈드 레드 펄
+
+[ANOD_WINE]
+아노다이즈드 와인 펄
+
+[BLACK_HOLO]
+블랙 홀로그램 펄
+
+[BLACK_PRISMA]
+블랙 프리즈마틱 펄
+
+[BLUE_GREEN_FLIP]
+블루/그린 플립
+
+[BLUE_PEARL]
+베이비 블루 펄
+
+[BLUE_PINK_FLIP]
+블루/핑크 플립
+
+[BLU_RAINBO_FLIP]
+블루/레인보우 플립
+
+[BURG_GREEN_FLIP]
+암홍색/그린 플립
+
+[COPPE_PURP_FLIP]
+동색/퍼플 플립
+
+[CREAM_PEARL]
+크림 펄
+
+[CYAN_PURP_FLIP]
+녹청색/퍼플 플립
+
+[DARKBLUEPEARL]
+다크 블루 펄
+
+[DARKBLUEPRISMA]
+블루 프리즈마틱 펄
+
+[DARKGREENPEARL]
+다크 그린 펄
+
+[DARKPURPLEPEARL]
+다크 퍼플 펄
+
+[DARKPURPPRISMA]
+퍼플 프리즈마틱 펄
+
+[DARKTEALPEARL]
+다크 암청색 펄
+
+[GRAPHITE_PRISMA]
+흑연 프리즈마틱 펄
+
+[GREEN_BLUE_FLIP]
+그린/블루 플립
+
+[GREEN_BROW_FLIP]
+그린/브라운 플립
+
+[GREEN_PEARL]
+베이비 그린 펄
+
+[GREEN_PRISMA]
+그린 프리즈마틱 펄
+
+[GREEN_PURP_FLIP]
+그린/퍼플 플립
+
+[GREEN_RED_FLIP]
+그린/레드 플립
+
+[GREEN_TURQ_FLIP]
+그린/청록색 플립
+
+[HOT_PINK_PRISMA]
+핫 핑크 프리즈마틱 펄
+
+[LIT_BLUE_PEARL]
+라이트 블루 펄
+
+[LIT_GREEN_PEARL]
+라이트 그린 펄
+
+[LIT_PINK_PEARL]
+라이트 핑크 펄
+
+[LIT_PURP_PEARL]
+라이트 퍼플 펄
+
+[MAGEN_CYAN_FLIP]
+마젠타/녹청색 플립
+
+[MAGEN_GREE_FLIP]
+마젠타/그린 플립
+
+[MAGEN_ORAN_FLIP]
+마젠타/오렌지 플립
+
+[MAGEN_YELL_FLIP]
+마젠타/옐로우 플립
+
+[OFFWHITE_PRISMA]
+황백색 펄
+
+[OIL_SLICK_PEARL]
+기름 유출 펄
+
+[OIL_SLIC_PRISMA]
+기름 유출 프리즈마틱 펄
+
+[ORANG_BLUE_FLIP]
+오렌지/블루 플립
+
+[ORANG_PURP_FLIP]
+오렌지/퍼플 플립
+
+[PINK_PEARL]
+Cute 핑크 펄
+
+[PURP_GREEN_FLIP]
+퍼플/그린 플립
+
+[PURP_RED_FLIP]
+퍼플/레드 플립
+
+[RAINBOW_PRISMA]
+레인보우 프리즈마틱 펄
+
+[RED_ORANGE_FLIP]
+레드/오렌지 플립
+
+[RED_PRISMA]
+레드 프리즈마틱 펄
+
+[RED_RAINBO_FLIP]
+레드/레인보우 플립
+
+[TEAL_PURP_FLIP]
+암청색/퍼플 플립
+
+[TURQ_PURP_FLIP]
+청록색/퍼플 플립
+
+[TURQ_RED_FLIP]
+청록색/레드 플립
+
+[WHITE_HOLO]
+화이트 홀로그램 펄
+
+[WHITE_PRISMA]
+화이트 프리즈마틱 펄
+
+[WHITE_PURP_FLIP]
+화이트/퍼플 플립
+
+[YELLOW_PEARL]
+베이비 옐로우 펄
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+눈보라 성 스페셜: 버블 껌
+
+[YKTA_CHRISTMAS]
+눈보라 성 스페셜: 크리스마스입니다!
+
+[YKTA_CHROMABERA]
+눈보라 성 스페셜: 크로매틱
+
+[YKTA_ELECTRO]
+눈보라 성 스페셜: 아노다이즈드 번개
+
+[YKTA_FOUR_SEASO]
+눈보라 성 스페셜: 포 시즌
+
+[YKTA_FUBUKI]
+눈보라 성 스페셜: 눈보라 성
+
+[YKTA_FULL_RBOW]
+눈보라 성 스페셜: 풀 레인보우
+
+[YKTA_HSW]
+눈보라 성 스페셜: HSW 배지
+
+[YKTA_KAMENRIDER]
+눈보라 성 스페셜: 가면 라이더
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+눈보라 성 스페셜: M9 슬로우 백
+
+[YKTA_MONIKA]
+눈보라 성 스페셜: 에메랄드
+
+[YKTA_MONOCHROME]
+눈보라 성 스페셜: 흑백
+
+[YKTA_NITE_DAY]
+눈보라 성 스페셜: 나이트와 데이
+
+[YKTA_SPRUNK_EX]
+눈보라 성 스페셜: Sprunk Extreme
+
+[YKTA_SUNSETS]
+눈보라 성 스페셜: 선셋
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+눈보라 성 스페셜: 신세웨이브 나이트
+
+[YKTA_TEMPERATUR]
+눈보라 성 스페셜: 템프다
+
+[YKTA_THE_SEVEN]
+눈보라 성 스페셜: 일곱 신
+
+[YKTA_VERLIERER2]
+눈보라 성 스페셜: 벌리어러
+
+[YKTA_VICE_CITY]
+눈보라 성 스페셜: 바이스 시티
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

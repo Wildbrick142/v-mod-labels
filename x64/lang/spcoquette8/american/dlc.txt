@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+Coquette Shark
+
+[COQUETTE8]
+Coquette Phobos
+
+[COQUETTE8b]
+Coquette Sharkfin
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+Primary Color Wing
+
+[COQ8_WING1B]
+Secondary Color Wing
+
+[COQ8_WING1C]
+Primary Carbon Wing
+
+[COQ8_WING1D]
+Secondary Carbon Wing
+
+[COQ8_WING2]
+Primary Color Spoiler
+
+[COQ8_WING2B]
+Secondary Color Spoiler
+
+[COQ8_WING2C]
+Carbon Spoiler
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT Badge
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+Primary Color Splitter
+
+[COQ8_SPLT_AR]
+Front Bumper Delete w/ Primary Splitter
+
+[COQ8_SPLT_B]
+Secondary Color Splitter
+
+[COQ8_SPLT_BR]
+Front Bumper Delete w/ Secondary Splitter
+
+[COQ8_SPLT_CR]
+Front Bumper Delete w/ Carbon Splitter
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+Secondary Color Hood
+
+[COQ8_SCOOP1]
+Primary Color Hood Scoop
+
+[COQ8_SCOOP1B]
+Secondary Color Hood Scoop
+
+[COQ8_SCOOP1C]
+Carbon Hood Scoop
+
+[COQ8_SCOOP2]
+Primary Color Hood & Triple Intake
+
+[COQ8_SCOOP2B]
+Secondary Color Hood & Triple Intake
+
+[COQ8_SCOOP2C]
+Carbon Hood & Triple Intake
+
+[COQ8_SCOOP3]
+Primary Color Hood & Single Intake
+
+[COQ8_SCOOP3B]
+Secondary Color Hood & Single Intake
+
+[COQ8_SCOOP3C]
+Carbon Hood & Single Intake
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+Trailer Trash
+
+[COQ8_LIV2]
+Stinger Stripes
+
+[COQ8_LIV3]
+Mechabots Flame
+
+[COQ8_LIV4]
+Flames
+
+[COQ8_LIV5]
+Fire Phobos
+
+[COQ8_LIV6]
+The Phobos
+
+[COQ8_LIV7]
+Red Event Racer
+
+[COQ8_LIV8]
+Arrow Racer
+
+[COQ8_LIV9]
+Pisswasser Racing
+
+[COQ8_LIV10]
+American Itasha
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

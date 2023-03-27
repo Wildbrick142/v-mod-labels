@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monocromatico
+
+[G9_PAINT02]
+Notte e Giorno
+
+[G9_PAINT03]
+Il Verlierer
+
+[G9_PAINT04]
+Sprunk estrema
+
+[G9_PAINT05]
+Vice City
+
+[G9_PAINT06]
+Notti Synthwave
+
+[G9_PAINT07]
+Quattro Stagioni
+
+[G9_PAINT08]
+Maisonette 9 Ritorno al passato
+
+[G9_PAINT09]
+Gomma da masticare
+
+[G9_PAINT10]
+Arcobaleno pieno
+
+[G9_PAINT11]
+Tramonto
+
+[G9_PAINT12]
+I sette dei
+
+[G9_PAINT13]
+Kamen Rider
+
+[G9_PAINT14]
+Aberrazione cromatica
+
+[G9_PAINT15]
+È Natale!
+
+[G9_PAINT16]
+Temperatura
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Blu perla anodizzato
+
+[ANOD_BRONZE]
+Bronzo perla anodizzato
+
+[ANOD_CHAMPAGNE]
+Champagne perla anodizzato
+
+[ANOD_COPPER]
+Rame perla anodizzato
+
+[ANOD_GOLD]
+Oro perla anodizzato
+
+[ANOD_GREEN]
+Verde perla anodizzato
+
+[ANOD_LIME]
+Lime perla anodizzato
+
+[ANOD_PURPLE]
+Viola perla anodizzato
+
+[ANOD_RED]
+Rosso perla anodizzato
+
+[ANOD_WINE]
+vino perla anodizzato
+
+[BLACK_HOLO]
+Nero olografico perla
+
+[BLACK_PRISMA]
+Nero prismatico perla
+
+[BLUE_GREEN_FLIP]
+Blu/Verde cangiante
+
+[BLUE_PEARL]
+Azzurro perla
+
+[BLUE_PINK_FLIP]
+Blu/Rosa cangiante
+
+[BLU_RAINBO_FLIP]
+Blu/Arcobaleno cangiante
+
+[BURG_GREEN_FLIP]
+Bordeaux/Verde cangiante
+
+[COPPE_PURP_FLIP]
+Rame/Viola cangiante
+
+[CREAM_PEARL]
+Crema perla
+
+[CYAN_PURP_FLIP]
+Ciano/Viola cangiante
+
+[DARKBLUEPEARL]
+Blu scuro perla
+
+[DARKBLUEPRISMA]
+Blu prismatica perla
+
+[DARKGREENPEARL]
+Perla verde scuro perla
+
+[DARKPURPLEPEARL]
+Viola scuro perla
+
+[DARKPURPPRISMA]
+Viola prismatico perla
+
+[DARKTEALPEARL]
+Verde acqua scuro perla
+
+[GRAPHITE_PRISMA]
+Grafite prismatico perla
+
+[GREEN_BLUE_FLIP]
+Verde/Blu cangiante
+
+[GREEN_BROW_FLIP]
+Verde/Marrone cangiante
+
+[GREEN_PEARL]
+Verde chiaro perla
+
+[GREEN_PRISMA]
+Verde prismatico perla
+
+[GREEN_PURP_FLIP]
+Verde/Viola cangiante
+
+[GREEN_RED_FLIP]
+Verde/Rosso cangiante
+
+[GREEN_TURQ_FLIP]
+Verde/Turchese cangiante
+
+[HOT_PINK_PRISMA]
+Rosa caldo prismatico perla
+
+[LIT_BLUE_PEARL]
+Azzurro perla
+
+[LIT_GREEN_PEARL]
+Verde chiaro perla
+
+[LIT_PINK_PEARL]
+Rosa chiaro perla
+
+[LIT_PURP_PEARL]
+Viola chiaro perla
+
+[MAGEN_CYAN_FLIP]
+Magenta/Ciano cangiante
+
+[MAGEN_GREE_FLIP]
+Magenta/Verde cangiante
+
+[MAGEN_ORAN_FLIP]
+Magenta/Arancione cangiante
+
+[MAGEN_YELL_FLIP]
+Magenta/Giallo cangiante
+
+[OFFWHITE_PRISMA]
+Bianco sporco prismatico perla
+
+[OIL_SLICK_PEARL]
+Chiazza di petrolio perla
+
+[OIL_SLIC_PRISMA]
+Chiazza di petrolio prismatico perla
+
+[ORANG_BLUE_FLIP]
+Arancione/Blu cangiante
+
+[ORANG_PURP_FLIP]
+Arancione/Viola cangiante
+
+[PINK_PEARL]
+Rosa carina perla
+
+[PURP_GREEN_FLIP]
+Viola/Verde cangiante
+
+[PURP_RED_FLIP]
+Viola/Rosso cangiante
+
+[RAINBOW_PRISMA]
+Arcobaleno prismatico perla
+
+[RED_ORANGE_FLIP]
+Rosso/Arancione cangiante
+
+[RED_PRISMA]
+Perla prismatica rossa
+
+[RED_RAINBO_FLIP]
+Rosso/Arcobaleno cangiante
+
+[TEAL_PURP_FLIP]
+Verde acqua/Viola cangiante
+
+[TURQ_PURP_FLIP]
+Turchese/Viola cangiante
+
+[TURQ_RED_FLIP]
+Turchese/Rosso cangiante
+
+[WHITE_HOLO]
+Bianco olografico perla
+
+[WHITE_PRISMA]
+Bianco prismatico perla
+
+[WHITE_PURP_FLIP]
+Bianco/Viola cangiante
+
+[YELLOW_PEARL]
+Giallo chiaro perla
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Speciali Fubuki-jo: Gomma da masticare
+
+[YKTA_CHRISTMAS]
+Speciali Fubuki-jo: È Natale!
+
+[YKTA_CHROMABERA]
+Speciali Fubuki-jo: Cromatico
+
+[YKTA_ELECTRO]
+Fubuki-jo Speciali: Fulmine anodizzato
+
+[YKTA_FOUR_SEASO]
+Speciali Fubuki-jo: Quattro stagioni
+
+[YKTA_FUBUKI]
+Speciali Fubuki-jo: Castello di Fubuki
+
+[YKTA_FULL_RBOW]
+Speciali Fubuki-jo: Arcobaleno pieno
+
+[YKTA_HSW]
+Speciali Fubuki-jo: Badge HSW
+
+[YKTA_KAMENRIDER]
+Speciali Fubuki-jo: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Speciali Fubuki-jo: M9 rit. al passato
+
+[YKTA_MONIKA]
+Speciali Fubuki-jo: Smeraldi
+
+[YKTA_MONOCHROME]
+Speciali Fubuki-jo: Monocromatico
+
+[YKTA_NITE_DAY]
+Speciali Fubuki-jo: Notte e giorno
+
+[YKTA_SPRUNK_EX]
+Speciali Fubuki-jo: Sprunk Extreme
+
+[YKTA_SUNSETS]
+Speciali Fubuki-jo: Tramonto
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Speciali Fubuki-jo: Notti synthwave
+
+[YKTA_TEMPERATUR]
+Speciali Fubuki-jo: Temperatura
+
+[YKTA_THE_SEVEN]
+Speciali Fubuki-jo: I Sette
+
+[YKTA_VERLIERER2]
+Speciali Fubuki-jo: Il Verlierer
+
+[YKTA_VICE_CITY]
+Speciali Fubuki-jo: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

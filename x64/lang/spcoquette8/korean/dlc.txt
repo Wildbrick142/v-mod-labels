@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+동성 애자 상어
+
+[COQUETTE8]
+코켓 포보스
+
+[COQUETTE8b]
+코케트 상어 지느러미
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+원색 윙
+
+[COQ8_WING1B]
+보조 컬러 윙
+
+[COQ8_WING1C]
+1 차 탄소 윙
+
+[COQ8_WING1D]
+보조 탄소 윙
+
+[COQ8_WING2]
+기본 컬러 스포일러
+
+[COQ8_WING2B]
+보조 컬러 스포일러
+
+[COQ8_WING2C]
+카본 스포일러
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT 배지
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+기본 색상 분리기
+
+[COQ8_SPLT_AR]
+1 차 스플리터가있는 앞 범퍼 삭제
+
+[COQ8_SPLT_B]
+보조 컬러 스플리터
+
+[COQ8_SPLT_BR]
+보조 스플리터가있는 앞 범퍼 삭제
+
+[COQ8_SPLT_CR]
+카본 스플리터를 사용한 전면 범퍼 삭제
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+2 차 색상 두건
+
+[COQ8_SCOOP1]
+1 차색 색 두건 색 상
+
+[COQ8_SCOOP1B]
+2 차 컬러 후드 특종
+
+[COQ8_SCOOP1C]
+탄소 두건 국자
+
+[COQ8_SCOOP2]
+1 차 색상 두드림 및 3 중 흡수
+
+[COQ8_SCOOP2B]
+2 차 컬러 후드 및 3 중 흡입
+
+[COQ8_SCOOP2C]
+탄소 두건 및 삼중 섭취량
+
+[COQ8_SCOOP3]
+1 차 색상 두건 및 단일 섭취
+
+[COQ8_SCOOP3B]
+2 차 색상 두건 및 단일 섭취
+
+[COQ8_SCOOP3C]
+탄소 두건 및 단일 섭취량
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+예고편 휴지통
+
+[COQ8_LIV2]
+스팅거 스트라이프
+
+[COQ8_LIV3]
+메카봇 화염
+
+[COQ8_LIV4]
+화염
+
+[COQ8_LIV5]
+포보스 파이어
+
+[COQ8_LIV6]
+포보스
+
+[COQ8_LIV7]
+레드 이벤트 레이서
+
+[COQ8_LIV8]
+화살 경주자
+
+[COQ8_LIV9]
+Pisswasser 경마
+
+[COQ8_LIV10]
+미국 이타 샤
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

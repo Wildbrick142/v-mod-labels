@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+마피아 가족과 Invetero 간부 사이에 끝없는 폭력 사태가 발생 해 곧바로 최신 취급 차량을 명명 할 수 없습니다. Phobos라는 별명을 붙인 이유는 팝업 헤드 라이트의 오작동으로 인한 고속 차량 충돌로 화성의 위성 중 하나를 보냈기 때문입니다.
+
+[WEB_COQUETTEPACK]
+GTA V:코켓 직에 포함
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

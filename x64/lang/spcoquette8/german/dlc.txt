@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+Coquette Shark
+
+[COQUETTE8]
+Coquette Phobos
+
+[COQUETTE8b]
+Coquette Sharkfin
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+Primärfarbenflügel
+
+[COQ8_WING1B]
+Sekundäre Farbe Wing
+
+[COQ8_WING1C]
+Primäres Carbon Wing
+
+[COQ8_WING1D]
+Sekundärer Carbon Wing
+
+[COQ8_WING2]
+Primärer Farbspoiler
+
+[COQ8_WING2B]
+Sekundäre Farbe Spoiler
+
+[COQ8_WING2C]
+Carbon Spoiler
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT-Kennzeichen
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+Primärer Farbteiler
+
+[COQ8_SPLT_AR]
+Frontstoßfänger mit Primärteiler löschen
+
+[COQ8_SPLT_B]
+Zweitfarbteiler
+
+[COQ8_SPLT_BR]
+Frontstoßfänger mit Sekundärteiler löschen
+
+[COQ8_SPLT_CR]
+Frontstoßfänger mit Carbon Splitter löschen
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+Sekundäre Farbkapuze
+
+[COQ8_SCOOP1]
+Primärfarben-Haubenschaufel
+
+[COQ8_SCOOP1B]
+Sekundäre Farbe Hood Scoop
+
+[COQ8_SCOOP1C]
+Carbon Hood Scoop
+
+[COQ8_SCOOP2]
+Hauptfarbe Hood & Triple Intake
+
+[COQ8_SCOOP2B]
+Sekundäre Farbkapuze und dreifache Aufnahme
+
+[COQ8_SCOOP2C]
+Carbon Hood & Triple Intake
+
+[COQ8_SCOOP3]
+Primärfarben-Haube und Einzelaufnahme
+
+[COQ8_SCOOP3B]
+Zweitfarben-Haube und Einzelaufnahme
+
+[COQ8_SCOOP3C]
+Carbon Hood & Single Intake
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+Trailer-Papierkorb
+
+[COQ8_LIV2]
+Stinger Stripe
+
+[COQ8_LIV3]
+Mechabots Flamme
+
+[COQ8_LIV4]
+Flammen
+
+[COQ8_LIV5]
+Feuerphobos
+
+[COQ8_LIV6]
+Die Phobos
+
+[COQ8_LIV7]
+Red Event Racer
+
+[COQ8_LIV8]
+Pfeilrenner
+
+[COQ8_LIV9]
+Pisswasserrennen
+
+[COQ8_LIV10]
+Amerikanischer Itasha
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+Vindo direto da era da violência interminável entre as famílias mafiosas e os executivos da Invetero sendo incapazes de nomear seu mais recente muscle car. Apelidado de Phobos, como é certo que o enviará para uma das luas de Marte após um acidente de carro em alta velocidade causado por faróis de pop-up com defeito.
+
+[WEB_COQUETTEPACK]
+Parte do GTA V: Coquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monochromatyczny
+
+[G9_PAINT02]
+Noc i dzień
+
+[G9_PAINT03]
+Verlierer
+
+[G9_PAINT04]
+Sprunk Extreme
+
+[G9_PAINT05]
+Vice City
+
+[G9_PAINT06]
+Noce Synthwave
+
+[G9_PAINT07]
+Cztery pory roku
+
+[G9_PAINT08]
+Powrót do Maisonette 9
+
+[G9_PAINT09]
+Guma do żucia
+
+[G9_PAINT10]
+Pełna tęcza
+
+[G9_PAINT11]
+Zachód słońca
+
+[G9_PAINT12]
+Siedem Bogów
+
+[G9_PAINT13]
+Kamen Rider
+
+[G9_PAINT14]
+Aberracja chromatyczna
+
+[G9_PAINT15]
+Są Święta Bożego Narodzenia!
+
+[G9_PAINT16]
+Temperatura
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Anod. niebieskie opalizujące
+
+[ANOD_BRONZE]
+Anodowane brązowe opalizujące
+
+[ANOD_CHAMPAGNE]
+Anod. szampańskie opalizujące
+
+[ANOD_COPPER]
+Anod. miedziane opalizujące
+
+[ANOD_GOLD]
+Anodowane złote opalizujące
+
+[ANOD_GREEN]
+Anod. zielone opalizujące
+
+[ANOD_LIME]
+Anod. limonkowe opalizujące
+
+[ANOD_PURPLE]
+Anod. fioletowe opalizujące
+
+[ANOD_RED]
+Anod. czerwone opalizujące
+
+[ANOD_WINE]
+Anodowane wino opalizujące
+
+[BLACK_HOLO]
+Czarne holograf. opalizujące
+
+[BLACK_PRISMA]
+Czarne pryzmat. opalizujące
+
+[BLUE_GREEN_FLIP]
+Niebiesko-zielone zmienne
+
+[BLUE_PEARL]
+Błękitne opalizujące
+
+[BLUE_PINK_FLIP]
+Niebiesko-różowe zmienne
+
+[BLU_RAINBO_FLIP]
+Niebiesko-tęczowe zmienne
+
+[BURG_GREEN_FLIP]
+Bordowo-zielone zmienne
+
+[COPPE_PURP_FLIP]
+Miedziano-fioletowe zmienne
+
+[CREAM_PEARL]
+Kremowe opalizujące
+
+[CYAN_PURP_FLIP]
+Cyjanowo-fioletowe zmienne
+
+[DARKBLUEPEARL]
+Ciemnoniebieske opalizujące
+
+[DARKBLUEPRISMA]
+Nieb. pryzmat. opalizujące
+
+[DARKGREENPEARL]
+Ciemnozielone opalizujące
+
+[DARKPURPLEPEARL]
+Ciemnofioletowe opalizujące
+
+[DARKPURPPRISMA]
+Purpu. pryzmat. opalizujące
+
+[DARKTEALPEARL]
+Ciemnoturkusowe opalizujące
+
+[GRAPHITE_PRISMA]
+Grafit. pryzmat. opalizujące
+
+[GREEN_BLUE_FLIP]
+Zielono-niebieske zmienne
+
+[GREEN_BROW_FLIP]
+Zielono-brązowe zmienne
+
+[GREEN_PEARL]
+Jasnozielone opalizujące
+
+[GREEN_PRISMA]
+Zielone pryzmat. opalizujące
+
+[GREEN_PURP_FLIP]
+Zielono-fioletowe zmienne
+
+[GREEN_RED_FLIP]
+Zielono-czerwone zmienne
+
+[GREEN_TURQ_FLIP]
+Zielono-turkusowe zmienne
+
+[HOT_PINK_PRISMA]
+Różowe pryzmat. opalizujące
+
+[LIT_BLUE_PEARL]
+Jasnoniebieske opalizujące
+
+[LIT_GREEN_PEARL]
+Jasnozielone opalizujące
+
+[LIT_PINK_PEARL]
+Jasnoróżowe opalizujące
+
+[LIT_PURP_PEARL]
+Jasnofioletowe opalizujące
+
+[MAGEN_CYAN_FLIP]
+Fuksyno-cyjanowe zmienne
+
+[MAGEN_GREE_FLIP]
+Fuksyno-zielone zmienne
+
+[MAGEN_ORAN_FLIP]
+Fuksyno-pomarańcz. zmienne
+
+[MAGEN_YELL_FLIP]
+Fuksyno-żółte zmienne
+
+[OFFWHITE_PRISMA]
+Białe opalizujące
+
+[OIL_SLICK_PEARL]
+Plama oleju opalizujące
+
+[OIL_SLIC_PRISMA]
+Wyciek oleju pryzmat. opal.
+
+[ORANG_BLUE_FLIP]
+Pomarańcz.-niebieskie zmienne
+
+[ORANG_PURP_FLIP]
+Pomarańcz.-fioletowe zmienne
+
+[PINK_PEARL]
+Śliczno różowe opalizujące
+
+[PURP_GREEN_FLIP]
+Fioletowo-zielone zmienne
+
+[PURP_RED_FLIP]
+Fioletowo-czerwone zmienne
+
+[RAINBOW_PRISMA]
+Tęcz. pryzmat. opalizujące
+
+[RED_ORANGE_FLIP]
+Czerwono-pomarańcz. zmienne
+
+[RED_PRISMA]
+Czerw. pryzmat. opalizujące
+
+[RED_RAINBO_FLIP]
+Czerwono-tęczowe zmienne
+
+[TEAL_PURP_FLIP]
+Turkusowo-fioletowe zmienne
+
+[TURQ_PURP_FLIP]
+Turkusowo-fioletowe zmienne
+
+[TURQ_RED_FLIP]
+Turkusowo-czerwone zmienne
+
+[WHITE_HOLO]
+Białe holograf. opalizujące
+
+[WHITE_PRISMA]
+Białe pryzmat. opalizujące
+
+[WHITE_PURP_FLIP]
+Biało-fioletowe zmienne
+
+[YELLOW_PEARL]
+Jasnożółte opalizujące
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Fubuki-jo: Guma balonowa
+
+[YKTA_CHRISTMAS]
+Fubuki-jo: To Boże Narodzenie!
+
+[YKTA_CHROMABERA]
+Fubuki-jo: chromatyczne
+
+[YKTA_ELECTRO]
+Fubuki-jo: Anod. błyskawica
+
+[YKTA_FOUR_SEASO]
+Fubuki-jo: Cztery pory roku
+
+[YKTA_FUBUKI]
+Fubuki-jo: Zamek Fubuki
+
+[YKTA_FULL_RBOW]
+Fubuki-jo: Pełna tęcza
+
+[YKTA_HSW]
+Fubuki-jo: Odznaka HSW
+
+[YKTA_KAMENRIDER]
+Fubuki-jo: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Fubuki-jo: Powrót do M9
+
+[YKTA_MONIKA]
+Fubuki-jo: Szmaragdy
+
+[YKTA_MONOCHROME]
+Fubuki-jo: Monochromatyczny
+
+[YKTA_NITE_DAY]
+Fubuki-jo: Noc i Dzień
+
+[YKTA_SPRUNK_EX]
+Fubuki-jo: Sprunk Extreme
+
+[YKTA_SUNSET]
+Fubuki-jo: Zachód słońca
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Fubuki-jo: Noc Synthwave
+
+[YKTA_TEMPERATUR]
+Fubuki-jo: Temperatura
+
+[YKTA_THE_SEVEN]
+Fubuki-jo: Siedem Bogów
+
+[YKTA_VERLIERER2]
+Fubuki-jo: Verlierer
+
+[YKTA_VICE_CITY]
+Fubuki-jo: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

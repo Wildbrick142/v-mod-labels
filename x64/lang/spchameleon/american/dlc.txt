@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monochrome
+
+[G9_PAINT02]
+Night & Day
+
+[G9_PAINT03]
+The Verlierer
+
+[G9_PAINT04]
+Sprunk Extreme
+
+[G9_PAINT05]
+Vice City
+
+[G9_PAINT06]
+Synthwave Nights
+
+[G9_PAINT07]
+Four Seasons
+
+[G9_PAINT08]
+Maisonette 9 Throwback
+
+[G9_PAINT09]
+Bubblegum
+
+[G9_PAINT10]
+Full Rainbow
+
+[G9_PAINT11]
+Sunset
+
+[G9_PAINT12]
+The Seven
+
+[G9_PAINT13]
+Kamen Rider
+
+[G9_PAINT14]
+Chromatic Aberration
+
+[G9_PAINT15]
+It's Christmas!
+
+[G9_PAINT16]
+Temperature
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Anodized Blue Pearl
+
+[ANOD_BRONZE]
+Anodized Bronze Pearl
+
+[ANOD_CHAMPAGNE]
+Anodized Champagne Pearl
+
+[ANOD_COPPER]
+Anodized Copper Pearl
+
+[ANOD_GOLD]
+Anodized Gold Pearl
+
+[ANOD_GREEN]
+Anodized Green Pearl
+
+[ANOD_LIME]
+Anodized Lime Pearl
+
+[ANOD_PURPLE]
+Anodized Purple Pearl
+
+[ANOD_RED]
+Anodized Red Pearl
+
+[ANOD_WINE]
+Anodized Wine Pearl
+
+[BLACK_HOLO]
+Dark Holographic
+
+[BLACK_PRISMA]
+Black Prismatic Pearl
+
+[BLUE_GREEN_FLIP]
+Blue/Green Flip
+
+[BLUE_PEARL]
+Baby Blue Pearl
+
+[BLUE_PINK_FLIP]
+Blue/Pink Flip
+
+[BLU_RAINBO_FLIP]
+Blue/Rainbow Flip
+
+[BURG_GREEN_FLIP]
+Burgundy/Green Flip
+
+[COPPE_PURP_FLIP]
+Copper/Purple Flip
+
+[CREAM_PEARL]
+Cream Pearl
+
+[CYAN_PURP_FLIP]
+Cyan/Purple Flip
+
+[DARKBLUEPEARL]
+Dark Blue Pearl
+
+[DARKBLUEPRISMA]
+Blue Prismatic Pearl
+
+[DARKGREENPEARL]
+Dark Green Pearl
+
+[DARKPURPLEPEARL]
+Dark Purple Pearl
+
+[DARKPURPPRISMA]
+Purple Prismatic Pearl
+
+[DARKTEALPEARL]
+Dark Teal Pearl
+
+[GRAPHITE_PRISMA]
+Graphite Prismatic Pearl
+
+[GREEN_BLUE_FLIP]
+Green/Blue Flip
+
+[GREEN_BROW_FLIP]
+Green/Brown Flip
+
+[GREEN_PEARL]
+Baby Green Pearl
+
+[GREEN_PRISMA]
+Green Prismatic Pearl
+
+[GREEN_PURP_FLIP]
+Green/Purple Flip
+
+[GREEN_RED_FLIP]
+Green/Red Flip
+
+[GREEN_TURQ_FLIP]
+Green/Turquoise Flip
+
+[HOT_PINK_PRISMA]
+Hot Pink Prismatic Pearl
+
+[LIT_BLUE_PEARL]
+Light Blue Pearl
+
+[LIT_GREEN_PEARL]
+Light Green Pearl
+
+[LIT_PINK_PEARL]
+Light Pink Pearl
+
+[LIT_PURP_PEARL]
+Light Purple Pearl
+
+[MAGEN_CYAN_FLIP]
+Magenta/Cyan Flip
+
+[MAGEN_GREE_FLIP]
+Magenta/Green Flip
+
+[MAGEN_ORAN_FLIP]
+Magenta/Orange Flip
+
+[MAGEN_YELL_FLIP]
+Magenta/Yellow Flip
+
+[OFFWHITE_PRISMA]
+Off White Pearl
+
+[OIL_SLICK_PEARL]
+Oil Slick Pearl
+
+[OIL_SLIC_PRISMA]
+Oil Spill Prismatic Pearl
+
+[ORANG_BLUE_FLIP]
+Orange/Blue Flip
+
+[ORANG_PURP_FLIP]
+Orange/Purple Flip
+
+[PINK_PEARL]
+Cute Pink Pearl
+
+[PURP_GREEN_FLIP]
+Purple/Green Flip
+
+[PURP_RED_FLIP]
+Purple/Red Flip
+
+[RAINBOW_PRISMA]
+Rainbow Prismatic Pearl
+
+[RED_ORANGE_FLIP]
+Red/Orange Flip
+
+[RED_PRISMA]
+Red Prismatic Pearl
+
+[RED_RAINBO_FLIP]
+Red/Rainbow Flip
+
+[TEAL_PURP_FLIP]
+Teal/Purple Flip
+
+[TURQ_PURP_FLIP]
+Turquoise/Purple Flip
+
+[TURQ_RED_FLIP]
+Turquoise/Red Flip
+
+[WHITE_HOLO]
+Light Holographic
+
+[WHITE_PRISMA]
+White Prismatic Pearl
+
+[WHITE_PURP_FLIP]
+White/Purple Flip
+
+[YELLOW_PEARL]
+Baby Yellow Pearl
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Fubuki-jo Specials: Bubblegum
+
+[YKTA_CHRISTMAS]
+Fubuki-jo Specials: It's Christmas!
+
+[YKTA_CHROMABERA]
+Fubuki-jo Specials: Chromatic
+
+[YKTA_ELECTRO]
+Fubuki-jo Specials: Anod. Lightning
+
+[YKTA_FOUR_SEASO]
+Fubuki-jo Specials: Four Seasons
+
+[YKTA_FUBUKI]
+Fubuki-jo Specials: Fubuki Castle
+
+[YKTA_FULL_RBOW]
+Fubuki-jo Specials: Full Rainbow
+
+[YKTA_HSW]
+Fubuki-jo Specials: HSW Badge
+
+[YKTA_KAMENRIDER]
+Fubuki-jo Specials: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Fubuki-jo Specials: M9 Throwback
+
+[YKTA_MONIKA]
+Fubuki-jo Specials: Emeralds
+
+[YKTA_MONOCHROME]
+Fubuki-jo Specials: Monochrome
+
+[YKTA_NITE_DAY]
+Fubuki-jo Specials: Night & Day
+
+[YKTA_SPRUNK_EX]
+Fubuki-jo Specials: Sprunk Extreme
+
+[YKTA_SUNSETS]
+Fubuki-jo Specials: Sunset
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Fubuki-jo Specials: Synthwave Night
+
+[YKTA_TEMPERATUR]
+Fubuki-jo Specials: Temperature
+
+[YKTA_THE_SEVEN]
+Fubuki-jo Specials: The Seven
+
+[YKTA_VERLIERER2]
+Fubuki-jo Specials: The Verlierer
+
+[YKTA_VICE_CITY]
+Fubuki-jo Specials: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

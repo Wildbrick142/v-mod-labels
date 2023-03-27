@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monocromo
+
+[G9_PAINT02]
+Día y noche
+
+[G9_PAINT03]
+El Verlierer
+
+[G9_PAINT04]
+Sprunk Extreme
+
+[G9_PAINT05]
+Vice City
+
+[G9_PAINT06]
+Noches de Synthwave
+
+[G9_PAINT07]
+Cuatro estaciones
+
+[G9_PAINT08]
+Maisonette 9 Retroceso
+
+[G9_PAINT09]
+Chicle
+
+[G9_PAINT10]
+Arco iris completo
+
+[G9_PAINT11]
+Puesta de sol
+
+[G9_PAINT12]
+Los siete dioses
+
+[G9_PAINT13]
+Kamen Rider
+
+[G9_PAINT14]
+Aberración cromática
+
+[G9_PAINT15]
+¡Es Navidad!
+
+[G9_PAINT16]
+Temperatura
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Anodizada aperlada azul
+
+[ANOD_BRONZE]
+Anodizada aperlada bronce
+
+[ANOD_CHAMPAGNE]
+Anodizada aperlada champagne
+
+[ANOD_COPPER]
+Anodizada aperlada cobre
+
+[ANOD_GOLD]
+Anodizada aperlada dorada
+
+[ANOD_GREEN]
+Anodizada aperlada verde
+
+[ANOD_LIME]
+Anodizada aperlada lima
+
+[ANOD_PURPLE]
+Anodizada aperlada morado
+
+[ANOD_RED]
+Anodizada aperlada roja
+
+[ANOD_WINE]
+Anodizada aperlada vino
+
+[BLACK_HOLO]
+Holográfica aperlada negra
+
+[BLACK_PRISMA]
+Prismática aperlada negra
+
+[BLUE_GREEN_FLIP]
+Camaleón azul/verde
+
+[BLUE_PEARL]
+Aperlada azul pastel
+
+[BLUE_PINK_FLIP]
+Camaleón azul/rosa
+
+[BLU_RAINBO_FLIP]
+Camaleón azul/arcoíris
+
+[BURG_GREEN_FLIP]
+Camaleón borgoña/verde
+
+[COPPE_PURP_FLIP]
+Camaleón cobre/morado
+
+[CREAM_PEARL]
+Aperlada crema
+
+[CYAN_PURP_FLIP]
+Camaleón cian/morado
+
+[DARKBLUEPEARL]
+Aperlada azul oscuro
+
+[DARKBLUEPRISMA]
+Prismática aperlada azul
+
+[DARKGREENPEARL]
+Aperlada verde oscuro
+
+[DARKPURPLEPEARL]
+Aperlada morado oscuro
+
+[DARKPURPPRISMA]
+Prismática aperlada morado
+
+[DARKTEALPEARL]
+Aperlada verde azulado oscuro
+
+[GRAPHITE_PRISMA]
+Prismática aperlada grafito
+
+[GREEN_BLUE_FLIP]
+Camaleón verde/azul
+
+[GREEN_BROW_FLIP]
+Camaleón verde/marrón
+
+[GREEN_PEARL]
+Aperlada verde pastel
+
+[GREEN_PRISMA]
+Prismática aperlada verde
+
+[GREEN_PURP_FLIP]
+Camaleón verde/morado
+
+[GREEN_RED_FLIP]
+Camaleón verde/roja
+
+[GREEN_TURQ_FLIP]
+Camaleón verde/turquesa
+
+[HOT_PINK_PRISMA]
+Prismática aperlada rosa fuerte
+
+[LIT_BLUE_PEARL]
+Aperlada azul claro
+
+[LIT_GREEN_PEARL]
+Aperlada verde claro
+
+[LIT_PINK_PEARL]
+Aperlada rosa claro
+
+[LIT_PURP_PEARL]
+Aperlada morado claro
+
+[MAGEN_CYAN_FLIP]
+Camaleón magenta/cian
+
+[MAGEN_GREE_FLIP]
+Camaleón magenta/verde
+
+[MAGEN_ORAN_FLIP]
+Camaleón magenta/naranja
+
+[MAGEN_YELL_FLIP]
+Camaleón magenta/amarillo
+
+[OFFWHITE_PRISMA]
+Aperlada blanco hueso
+
+[OIL_SLICK_PEARL]
+Aperlada mancha de aceite
+
+[OIL_SLIC_PRISMA]
+Prismática aperlada derr. de petról.
+
+[ORANG_BLUE_FLIP]
+Camaleón naranja/azul
+
+[ORANG_PURP_FLIP]
+Camaleón naranja/morado
+
+[PINK_PEARL]
+Aperlada rosa lindo
+
+[PURP_GREEN_FLIP]
+Camaleón púrpura/verde
+
+[PURP_RED_FLIP]
+Camaleón púrpura/roja
+
+[RAINBOW_PRISMA]
+Prismática aperlada arcoíris
+
+[RED_ORANGE_FLIP]
+Camaleón roja/naranja
+
+[RED_PRISMA]
+Prismática aperlada roja
+
+[RED_RAINBO_FLIP]
+Camaleón roja/arcoíris
+
+[TEAL_PURP_FLIP]
+Camaleón verde azulado/morado
+
+[TURQ_PURP_FLIP]
+Camaleón turquesa/morado
+
+[TURQ_RED_FLIP]
+Camaleón turquesa/roja
+
+[WHITE_HOLO]
+Holográfica aperlada blanca
+
+[WHITE_PRISMA]
+Prismática aperlada blanca
+
+[WHITE_PURP_FLIP]
+Camaleón blanca/morado
+
+[YELLOW_PEARL]
+Aperlada amarillo pastel
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Fubuki-jo: Chicle
+
+[YKTA_CHRISTMAS]
+Fubuki-jo: ¡Es Navidad!
+
+[YKTA_CHROMABERA]
+Fubuki-jo: Cromático
+
+[YKTA_ELECTRO]
+Fubuki-jo: Anod. Relámpago
+
+[YKTA_FOUR_SEASO]
+Fubuki-jo: Cuatro Estaciones
+
+[YKTA_FUBUKI]
+Fubuki-jo: Castillo de Fubuki
+
+[YKTA_FULL_RBOW]
+Fubuki-jo: Arco iris completo
+
+[YKTA_HSW]
+Fubuki-jo: Insignia HSW
+
+[YKTA_KAMENRIDER]
+Fubuki-jo: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Fubuki-jo: retroceso de M9
+
+[YKTA_MONIKA]
+Fubuki-jo: Esmeraldas
+
+[YKTA_MONOCROME]
+Fubuki-jo: Monocromo
+
+[YKTA_NITE_DAY]
+Fubuki-jo: Noche y Día
+
+[YKTA_SPRUNK_EX]
+Fubuki-jo: Sprunk Extreme
+
+[YKTA_SUNSETS]
+Fubuki-jo: Atardecer
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Fubuki-jo: Noche Synthwave
+
+[YKTA_TEMPERATUR]
+Fubuki-jo: Temperatura
+
+[YKTA_THE_SEVEN]
+Fubuki-jo: Los Siete
+
+[YKTA_VERLIERER2]
+Fubuki-jo: El Verlierer
+
+[YKTA_VICE_CITY]
+Fubuki-jo: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

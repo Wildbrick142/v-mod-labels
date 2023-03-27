@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Монохромный
+
+[G9_PAINT02]
+Ночь и День
+
+[G9_PAINT03]
+Верлиерер
+
+[G9_PAINT04]
+Спранк Экстрим
+
+[G9_PAINT05]
+Вайс-Сити
+
+[G9_PAINT06]
+Synthwave Nights
+
+[G9_PAINT07]
+Четыре сезона
+
+[G9_PAINT08]
+Мезонет 9 с возвратом
+
+[G9_PAINT09]
+жевательная резинка
+
+[G9_PAINT10]
+Полная радуга
+
+[G9_PAINT11]
+Закат
+
+[G9_PAINT12]
+Семь богов
+
+[G9_PAINT13]
+Камен Райдер
+
+[G9_PAINT14]
+Хроматическая аберрация
+
+[G9_PAINT15]
+Рождество!
+
+[G9_PAINT16]
+Температура
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Анод. синий перламутр
+
+[ANOD_BRONZE]
+Анод. бронза перламутр
+
+[ANOD_CHAMPAGNE]
+Анод. шампанское
+
+[ANOD_COPPER]
+Анод. медь перламутр
+
+[ANOD_GOLD]
+Анод. золотой перламутр
+
+[ANOD_GREEN]
+Анод. Зел. перламутр
+
+[ANOD_LIME]
+Анод. лайм перламутр
+
+[ANOD_PURPLE]
+Анод. Пурпур. перламутр
+
+[ANOD_RED]
+Анод. красный перламутр
+
+[ANOD_WINE]
+Анод. вино перламутр
+
+[BLACK_HOLO]
+Черный голограф. перламутр
+
+[BLACK_PRISMA]
+Черный призм. перламутр
+
+[BLUE_GREEN_FLIP]
+Синий/зел. переливчатый
+
+[BLUE_PEARL]
+Светло-голубой перламутр
+
+[BLUE_PINK_FLIP]
+Синий/розовый переливчатый
+
+[BLU_RAINBO_FLIP]
+Синий/радуга переливчатый
+
+[BURG_GREEN_FLIP]
+Бордовый/зел. переливчатый
+
+[COPPE_PURP_FLIP]
+Медный/фиол. переливчатый
+
+[CREAM_PEARL]
+Кремовый перламутр
+
+[CYAN_PURP_FLIP]
+Голубой/фиол. переливчатый
+
+[DARKBLUEPEARL]
+Темно-синий перламутр
+
+[DARKBLUEPRISMA]
+Синий призм. перламутр
+
+[DARKGREENPEARL]
+Темно-зеленый перламутр
+
+[DARKPURPLEPEARL]
+Темно-фиолетовый перламутр
+
+[DARKPURPPRISMA]
+фиол. призм. перламутр
+
+[DARKTEALPEARL]
+Темно-бирюзовый перламутр
+
+[GRAPHITE_PRISMA]
+Графит призм. перламутр
+
+[GREEN_BLUE_FLIP]
+Зел./синий переливчатый
+
+[GREEN_BROW_FLIP]
+Зел./корич. переливчатый
+
+[GREEN_PEARL]
+Нежно-зеленый перламутр
+
+[GREEN_PRISMA]
+Зел. призм. перламутр
+
+[GREEN_PURP_FLIP]
+Зел./фиол. переливчатый
+
+[GREEN_RED_FLIP]
+Зел./красный переливчатый
+
+[GREEN_TURQ_FLIP]
+Зел./бирюзовый переливчатый
+
+[HOT_PINK_PRISMA]
+Ярко-розовый призм. перламутр
+
+[LIT_BLUE_PEARL]
+Голубой перламутр
+
+[LIT_GREEN_PEARL]
+Светло-зеленый перламутр
+
+[LIT_PINK_PEARL]
+Светло-розовый перламутр
+
+[LIT_PURP_PEARL]
+Светло-фиолетовый перламутр
+
+[MAGEN_CYAN_FLIP]
+Пурпур./голубой переливчатый
+
+[MAGEN_GREE_FLIP]
+Пурпур./зел. переливчатый
+
+[MAGEN_ORAN_FLIP]
+Пурпур./оранж. переливчатый
+
+[MAGEN_YELL_FLIP]
+Пурпур./желтый переливчатый
+
+[OFFWHITE_PRISMA]
+Не совсем белый перламутр
+
+[OIL_SLICK_PEARL]
+Нефтяное пятно перламутр
+
+[OIL_SLIC_PRISMA]
+Разлив нефти призм. перламутр
+
+[ORANG_BLUE_FLIP]
+Оранж./синий переливчатый
+
+[ORANG_PURP_FLIP]
+Оранж./фиол. переливчатый
+
+[PINK_PEARL]
+Симпатичный розовый перламутр
+
+[PURP_GREEN_FLIP]
+фиол./зел. переливчатый
+
+[PURP_RED_FLIP]
+фиол./красный переливчатый
+
+[RAINBOW_PRISMA]
+Радуга призм. перламутр
+
+[RED_ORANGE_FLIP]
+Красный/оранж. переливчатый
+
+[RED_PRISMA]
+Красный призм. перламутр
+
+[RED_RAINBO_FLIP]
+Красный/радуга переливчатый
+
+[TEAL_PURP_FLIP]
+Бирюзовый/фиол. переливчатый
+
+[TURQ_PURP_FLIP]
+Бирюзовый/фиол. переливчатый
+
+[TURQ_RED_FLIP]
+Бирюзовый/красный переливчатый
+
+[WHITE_HOLO]
+Белый голограф. перламутр
+
+[WHITE_PRISMA]
+Белый призм. перламутр
+
+[WHITE_PURP_FLIP]
+Белый/фиол. переливчатый
+
+[YELLOW_PEARL]
+Светло-желтый перламутр
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Фубуки-дзё: Жвачка
+
+[YKTA_CHRISTMAS]
+Фубуки-дзё: Рождество!
+
+[YKTA_CHROMABERA]
+Фубуки-дзё: Хроматический
+
+[YKTA_ELECTRO]
+Фубуки-дзё: Анод. Молния
+
+[YKTA_FOUR_SEASO]
+Фубуки-дзё: Времена года
+
+[YKTA_FUBUKI]
+Фубуки-дзё: Замок Фубуки
+
+[YKTA_FULL_RBOW]
+Фубуки-дзё: Полная радуга
+
+[YKTA_HSW]
+Фубуки-дзё: Значок HSW
+
+[YKTA_KAMENRIDER]
+Фубуки-дзё: Камен Райдер
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Фубуки-дзё: Возвращение M9
+
+[YKTA_MONIKA]
+Фубуки-дзё: Изумруды
+
+[YKTA_MONOCHROME]
+Фубуки-дзё: Монохромный
+
+[YKTA_NITE_DAY]
+Фубуки-дзё: День и ночь
+
+[YKTA_SPRUNK_EX]
+Фубуки-дзё: Спранк Экстрим
+
+[YKTA_SUNSETS]
+Фубуки-дзё: Закат
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Фубуки-дзё: Ночь синтетич волн
+
+[YKTA_TEMPERATUR]
+Фубуки-дзё: Температура
+
+[YKTA_THE_SEVEN]
+Фубуки-дзё: Семь
+
+[YKTA_VERLIERER2]
+Фубуки-дзё: Верльер
+
+[YKTA_VICE_CITY]
+Фубуки-дзё: Вайс-Сити
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+風情 鯊魚
+
+[COQUETTE8]
+風情 火衛一
+
+[COQUETTE8b]
+風情 魚翅
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+原色翼
+
+[COQ8_WING1B]
+二級顏色翼
+
+[COQ8_WING1C]
+初級碳翼
+
+[COQ8_WING1D]
+次級碳翼
+
+[COQ8_WING2]
+原色擾流板
+
+[COQ8_WING2B]
+二次色彩擾流板
+
+[COQ8_WING2C]
+碳尾翼
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT徽章
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+原色分離器
+
+[COQ8_SPLT_AR]
+使用主分離器刪除前保險槓
+
+[COQ8_SPLT_B]
+二次分色器
+
+[COQ8_SPLT_BR]
+使用輔助分離器刪除前保險槓
+
+[COQ8_SPLT_CR]
+使用碳分離器刪除前保險槓
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+二次色胡德
+
+[COQ8_SCOOP1]
+原色胡德鏟
+
+[COQ8_SCOOP1B]
+二次色胡瓢
+
+[COQ8_SCOOP1C]
+碳罩瓢
+
+[COQ8_SCOOP2]
+原色胡德和三重攝入量
+
+[COQ8_SCOOP2B]
+二次色胡德和三重攝入量
+
+[COQ8_SCOOP2C]
+碳罩和三重攝入量
+
+[COQ8_SCOOP3]
+原色胡德和單一攝入量
+
+[COQ8_SCOOP3B]
+二次色胡德和單次攝入量
+
+[COQ8_SCOOP3C]
+碳罩和單一攝入量
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+預告片垃圾箱
+
+[COQ8_LIV2]
+毒刺條紋
+
+[COQ8_LIV3]
+MECHABOTS火焰
+
+[COQ8_LIV4]
+火焰
+
+[COQ8_LIV5]
+火火衛一
+
+[COQ8_LIV6]
+火衛一
+
+[COQ8_LIV7]
+紅色賽事賽車手
+
+[COQ8_LIV8]
+箭頭賽車手
+
+[COQ8_LIV9]
+Pisswasser賽跑
+
+[COQ8_LIV10]
+美國痛車
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

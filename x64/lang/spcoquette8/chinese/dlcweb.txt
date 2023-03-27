@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+直接來自黑手黨家族和Invetero高管之間無盡暴力的時代，他們無法命名他們最新的操控性極強的肌肉車。 綽號的火衛一，因為它肯定會送你到火星的衛星之一高速車禍造成的故障彈出式大燈。
+
+[WEB_COQUETTEPACK]
+係屬µGTAµV：µCoquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

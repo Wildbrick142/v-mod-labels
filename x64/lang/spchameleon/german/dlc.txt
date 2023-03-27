@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monochrom
+
+[G9_PAINT02]
+Nacht & Tag
+
+[G9_PAINT03]
+Der Verlierer
+
+[G9_PAINT04]
+Sprunk extrem
+
+[G9_PAINT05]
+Vizestadt
+
+[G9_PAINT06]
+Synthwave-Nächte
+
+[G9_PAINT07]
+Vier Jahreszeiten
+
+[G9_PAINT08]
+Maisonette 9 Rückfall
+
+[G9_PAINT09]
+Kaugummi
+
+[G9_PAINT10]
+Voller Regenbogen
+
+[G9_PAINT11]
+Sonnenuntergang
+
+[G9_PAINT12]
+Die Sieben Götter
+
+[G9_PAINT13]
+Kamen-Reiter
+
+[G9_PAINT14]
+Chromatische Aberration
+
+[G9_PAINT15]
+Es ist Weihnachten!
+
+[G9_PAINT16]
+Temperatur
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Eloxierte blaue Perle
+
+[ANOD_BRONZE]
+Eloxierte bronze Perle
+
+[ANOD_CHAMPAGNE]
+Eloxierte champagner Perle
+
+[ANOD_COPPER]
+Eloxierte kupfer Perle
+
+[ANOD_GOLD]
+Eloxierte goldene Perle
+
+[ANOD_GREEN]
+Eloxierte grüne Perle
+
+[ANOD_LIME]
+Eloxierte limetten Perle
+
+[ANOD_PURPLE]
+Eloxierte lila Perle
+
+[ANOD_RED]
+Eloxierte rote Perle
+
+[ANOD_WINE]
+Eloxierte wein Perle
+
+[BLACK_HOLO]
+Schwarze holografische Perle
+
+[BLACK_PRISMA]
+Schwarze prismatische Perle
+
+[BLUE_GREEN_FLIP]
+Blau-grün Flop
+
+[BLUE_PEARL]
+Babyblaue Perle
+
+[BLUE_PINK_FLIP]
+Blau-rosa Flop
+
+[BLU_RAINBO_FLIP]
+Blauer-regenbogen Flop
+
+[BURG_GREEN_FLIP]
+Burgund-grüner Flop
+
+[COPPE_PURP_FLIP]
+Kupfer-lila Flop
+
+[CREAM_PEARL]
+Cremefarbene Perle
+
+[CYAN_PURP_FLIP]
+Cyan-lila Flop
+
+[DARKBLUEPEARL]
+Dunkelblaue Perle
+
+[DARKBLUEPRISMA]
+Blaue prismatische Perle
+
+[DARKGREENPERL]
+Dunkelgrüne Perle
+
+[DARKPURPLEPEARL]
+Dunkellila Perle
+
+[DARKPURPPRISMA]
+Lila prismatische Perle
+
+[DARKTEALPEARL]
+Dunkelgrüne Perle
+
+[GRAPHITE_PRISMA]
+Graphit prismatische Perle
+
+[GREEN_BLUE_FLIP]
+Grün-blauer Flop
+
+[GREEN_BROW_FLIP]
+Grün-braun Flop
+
+[GREEN_PEARL]
+Babygrüne Perle
+
+[GREEN_PRISMA]
+Grüne prismatische Perle
+
+[GREEN_PURP_FLIP]
+Grün-lila Flop
+
+[GREEN_RED_FLIP]
+Grün-rot Flop
+
+[GREEN_TURQ_FLIP]
+Grün-türkis Flop
+
+[HOT_PINK_PRISMA]
+Pink prismatische Perle
+
+[KTA_BUBBLEGUM]
+Fubuki-jo-Spezialität: Kaugummi
+
+[LIT_BLUE_PEARL]
+Hellblaue Perle
+
+[LIT_GREEN_PEARL]
+Hellgrüne Perle
+
+[LIT_PINK_PEARL]
+Hellrosa Perle
+
+[LIT_PURP_PEARL]
+Hellviolette Perle
+
+[MAGEN_CYAN_FLIP]
+Magenta-cyan Flip
+
+[MAGEN_GREE_FLIP]
+Magenta-grüner Flop
+
+[MAGEN_ORAN_FLIP]
+Magenta-orange Flop
+
+[MAGEN_YELL_FLIP]
+Magenta-gelb Flop
+
+[OFFWHITE_PRISMA]
+Weiße Perle
+
+[OIL_SLICK_PEARL]
+Ölteppich Perle
+
+[OIL_SLIC_PRISMA]
+Ölteppich prismatische Perle
+
+[ORANG_BLUE_FLIP]
+Orange-blauer Flop
+
+[ORANG_PURP_FLIP]
+Orange-lila Flop
+
+[PINK_PEARL]
+Süße rosa Perle
+
+[PURP_GREEN_FLIP]
+Lila-grüner Flop
+
+[PURP_RED_FLIP]
+Lila-roter Flop
+
+[RAINBOW_PRISMA]
+Prismatische Regenbogenperle
+
+[RED_ORANGE_FLIP]
+Rot/Orange Flop
+
+[RED_PRISMA]
+Rote prismatische Perle
+
+[RED_RAINBO_FLIP]
+Roter/Regenbogen-Flop
+
+[TEAL_PURP_FLIP]
+Türkis-lila Flop
+
+[TURQ_PURP_FLIP]
+Türkis-lila Flop
+
+[TURQ_RED_FLIP]
+Türkis-roter Flop
+
+[WHITE_HOLO]
+Weiße holografische Perle
+
+[WHITE_PRISMA]
+Weiße prismatische Perle
+
+[WHITE_PURP_FLIP]
+Weiß-lila Flop
+
+[YELLOW_PEARL]
+Babygelbe Perle
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_CHRISTMAS]
+Fubuki-jo-Spezialität: Es ist Weihnachten!
+
+[YKTA_CHROMABERA]
+Fubuki-jo-Spezialität: Chromatisch
+
+[YKTA_ELECTRO]
+Fubuki-jo-Spezialität: Eloxierte blitz
+
+[YKTA_FOUR_SEASO]
+Fubuki-jo-Spezialität: Vier jahreszeiten
+
+[YKTA_FUBUKI]
+Fubuki-jo-Spezialität: Schloss Fubuki
+
+[YKTA_FULL_RBOW]
+Fubuki-jo-Spezialität: Voller regenbogen
+
+[YKTA_HSW]
+Fubuki-jo-Spezialität: HSW-abzeichen
+
+[YKTA_KAMENRIDER]
+Fubuki-jo-Spezialität: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Fubuki-jo-Spezialität: M9-rückblick
+
+[YKTA_MONIKA]
+Fubuki-jo-Spezialität: Smaragde
+
+[YKTA_MONOCHROME]
+Fubuki-jo-Spezialität: Monochrom
+
+[YKTA_NITE_DAY]
+Fubuki-jo-Spezialität: Nacht & Tag
+
+[YKTA_SPRUNK_EX]
+Fubuki-jo-Spezialität: Sprunk Extreme
+
+[YKTA_SUNSETS]
+Fubuki-jo-Spezialität: Sonnenuntergang
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Fubuki-jo-Spezialität: Synth.-Nacht
+
+[YKTA_TEMPERATUR]
+Fubuki-jo-Spezialität: Temperatur
+
+[YKTA_THE_SEVEN]
+Fubuki-jo-Spezialität: Die sieben
+
+[YKTA_VERLIERER2]
+Fubuki-jo-Spezialität: Der Verlierer
+
+[YKTA_VICE_CITY]
+Fubuki-jo-Spezialität: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

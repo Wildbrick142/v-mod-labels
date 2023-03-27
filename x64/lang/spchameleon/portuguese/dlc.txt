@@ -1,0 +1,318 @@
+﻿{ --- modshop --- }
+{***********************************************}
+
+{ -- OLD PAINTS -- }
+
+[G9_PAINT01]
+Monocromático
+
+[G9_PAINT02]
+Noite e dia
+
+[G9_PAINT03]
+O Verlierer
+
+[G9_PAINT04]
+Sprunk Extreme
+
+[G9_PAINT05]
+Vice City
+
+[G9_PAINT06]
+Noites Synthwave
+
+[G9_PAINT07]
+Quatro temporadas
+
+[G9_PAINT08]
+Maisonette 9 Retrocesso
+
+[G9_PAINT09]
+Chiclete
+
+[G9_PAINT10]
+Arco-íris completo
+
+[G9_PAINT11]
+Pôr-do-sol
+
+[G9_PAINT12]
+Os Sete Deuses
+
+[G9_PAINT13]
+Kamen Rider
+
+[G9_PAINT14]
+Aberração cromática
+
+[G9_PAINT15]
+É Natal!
+
+[G9_PAINT16]
+Temperatura
+
+
+
+
+{ -- Gen9 paint -- }
+[ANOD_BLUE]
+Pérola anodizada azul
+
+[ANOD_BRONZE]
+Pérola anodizada bronze
+
+[ANOD_CHAMPAGNE]
+Pérola anodizada champanhe
+
+[ANOD_COPPER]
+Pérola anodizada cobre
+
+[ANOD_GOLD]
+Pérola anodizada dourada
+
+[ANOD_GREEN]
+Pérola anodizada verde
+
+[ANOD_LIME]
+Pérola anodizada cal
+
+[ANOD_PURPLE]
+Pérola anodizada roxa
+
+[ANOD_RED]
+Pérola anodizada vermelha
+
+[ANOD_WINE]
+Pérola anodizada vinho
+
+[BLACK_HOLO]
+Pérola holográfica preta
+
+[BLACK_PRISMA]
+Pérola prismática preta
+
+[BLUE_GREEN_FLIP]
+Flip azul/verde
+
+[BLUE_PEARL]
+Pérola azul-bebê
+
+[BLUE_PINK_FLIP]
+Flip azul/rosa
+
+[BLU_RAINBO_FLIP]
+Flip azul/arco-íris
+
+[BURG_GREEN_FLIP]
+Flip borgonha/verde
+
+[COPPE_PURP_FLIP]
+Flip cobre/roxo
+
+[CREAM_PEARL]
+Pérola creme
+
+[CYAN_PURP_FLIP]
+Flip ciano/roxo
+
+[DARKBLUEPEEARL]
+Pérola azul-escuro
+
+[DARKBLUEPRISMA]
+Pérola prismática azul
+
+[DARKGREENPEARL]
+Pérola verde-escura
+
+[DARKPURPLEPEARL]
+Pérola roxa-escura
+
+[DARKPURPPRISMA]
+Pérola prismática roxa
+
+[DARKTEALPEARL]
+Pérola azul-petróleo-escura
+
+[GRAPHITE_PRISMA]
+Pérola prismática grafite
+
+[GREEN_BLUE_FLIP]
+Flip verde/azul
+
+[GREEN_BROW_FLIP]
+Flip verde/marrom
+
+[GREEN_PEARL]
+Pérola verde-bebê
+
+[GREEN_PRISMA]
+Pérola prismática verde
+
+[GREEN_PURP_FLIP]
+Flip verde/roxo
+
+[GREEN_RED_FLIP]
+Flip verde/vermelho
+
+[GREEN_TURQ_FLIP]
+Flip verde/turquesa
+
+[HOT_PINK_PRISMA]
+Pérola prismática eosa chocante
+
+[LIT_BLUE_PEARL]
+Pérola azul claro
+
+[LIT_GREEN_PEARL]
+Pérola verde claro
+
+[LIT_PINK_PEARL]
+Pérola rosa claro
+
+[LIT_PURP_PEARL]
+Pérola roxa clara
+
+[MAGEN_CYAN_FLIP]
+Flip magenta/ciano
+
+[MAGEN_GREE_FLIP]
+Flip magenta/verde
+
+[MAGEN_ORAN_FLIP]
+Flip magenta/laranja
+
+[MAGEN_YELL_FLIP]
+Flip magenta/amarelo
+
+[OFFWHITE_PRISMA]
+Pérola quase branco
+
+[OIL_SLICK_PEARL]
+Pérola mancha de óleo
+
+[OIL_SLIC_PRISMA]
+Pérola prismá. de Derr. de Óleo
+
+[ORANG_BLUE_FLIP]
+Flip laranja/azul
+
+[ORANG_PURP_FLIP]
+Flip laranja/roxo
+
+[PINK_PEARL]
+Pérola linda rosa
+
+[PURP_GREEN_FLIP]
+Flip roxo/verde
+
+[PURP_RED_FLIP]
+Flip roxo/vermelho
+
+[RAINBOW_PRISMA]
+Pérola prismática arco-íris
+
+[RED_ORANGE_FLIP]
+Flip vermelha/laranja
+
+[RED_PRISMA]
+Pérola prismática vermelha
+
+[RED_RAINBO_FLIP]
+Flip vermelha/arco-íris
+
+[TEAL_PURP_FLIP]
+Flip azul-petróleo/roxo
+
+[TURQ_PURP_FLIP]
+Flip turquesa/roxo
+
+[TURQ_RED_FLIP]
+Flip turquesa/vermelho
+
+[WHITE_HOLO]
+Pérola holográfica branca
+
+[WHITE_PRISMA]
+Pérola prismática branca
+
+[WHITE_PURP_FLIP]
+Flip branco/roxo
+
+[YELLOW_PEARL]
+Pérola amarela-bebê
+
+
+
+
+
+
+{ -- Fubuki Castle paints -- }
+[YKTA_BUBBLEGUM]
+Especiais Fubuki-jo: Chiclete
+
+[YKTA_CHRISTMAS]
+Especiais Fubuki-jo: É Natal!
+
+[YKTA_CHROMABERA]
+Especiais Fubuki-jo: Cromático
+
+[YKTA_ELECTRO]
+Especiais Fubuki-jo: Anod. relâmpago
+
+[YKTA_FOUR_SEASO]
+Especiais Fubuki-jo: Quatro estações
+
+[YKTA_FUBUKI]
+Especiais Fubuki-jo: Castelo Fubuki
+
+[YKTA_FULL_RBOW]
+Especiais Fubuki-jo: Arco-íris completo
+
+[YKTA_HSW]
+Especiais Fubuki-jo: Distintivo HSW
+
+[YKTA_KAMENRIDER]
+Especiais Fubuki-jo: Kamen Rider
+
+[YKTA_M9_THROWBA]
+{ Fubuki-jo Specials: Maisonette9 Throwback }
+Especiais Fubuki-jo: Retrocesso M9
+
+[YKTA_MONIKA]
+Especiais Fubuki-jo: Esmeraldas
+
+[YKTA_MONOCHROME]
+Especiais Fubuki-jo: Monocromático
+
+[YKTA_NITE_DAY]
+Especiais Fubuki-jo: Noite e dia
+
+[YKTA_SPRUNK_EX]
+Especiais Fubuki-jo: Sprunk Extreme
+
+[YKTA_SUNSETS]
+Especiais Fubuki-jo: Pôr do sol
+
+[YKTA_SYNTHWAVE]
+{ Fubuki-jo Specials: Synthwave Nights }
+Especiais Fubuki-jo: Noite synthwave
+
+[YKTA_TEMPERATUR]
+Especiais Fubuki-jo: Temperatura
+
+[YKTA_THE_SEVEN]
+Especiais Fubuki-jo: Os sete
+
+[YKTA_VERLIERER2]
+Especiais Fubuki-jo: O Verlierer
+
+[YKTA_VICE_CITY]
+Especiais Fubuki-jo: Vice City
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

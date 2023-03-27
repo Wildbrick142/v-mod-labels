@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+マフィア家族とInveteroのエグゼクティブの間で絶え間ない暴力の時代から直面しています。 Phobosの名前をつけたのは、ポップアップヘッドライトの故障による高速の車のクラッシュに続いて、火星の月の1つにあなたを送ってくれるからです。
+
+[WEB_COQUETTEPACK]
+「GTA V：コケット」のアイテム
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

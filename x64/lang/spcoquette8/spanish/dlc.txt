@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+Coquette Shark
+
+[COQUETTE8]
+Coquette Phobos
+
+[COQUETTE8b]
+Coquette Sharkfin
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+Ala de color primario
+
+[COQ8_WING1B]
+Ala de color secundario
+
+[COQ8_WING1C]
+Ala de carbono primaria
+
+[COQ8_WING1D]
+Ala secundaria de carbono
+
+[COQ8_WING2]
+Spoiler de color primario
+
+[COQ8_WING2B]
+Spoiler de color secundario
+
+[COQ8_WING2C]
+Spoiler de carbono
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+VT Badge
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+Divisor de colores primario
+
+[COQ8_SPLT_AR]
+Eliminación de parachoques delantero con divisor primario
+
+[COQ8_SPLT_B]
+Separador de colores secundario
+
+[COQ8_SPLT_BR]
+Eliminación de parachoques delantero con divisor secundario
+
+[COQ8_SPLT_CR]
+Eliminación de parachoques delantero con separador de carbón
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+Capucha de color secundaria
+
+[COQ8_SCOOP1]
+Primario color capucha Scoop
+
+[COQ8_SCOOP1B]
+Cubierta de campana de color secundario
+
+[COQ8_SCOOP1C]
+Cubierta de campana de carbono
+
+[COQ8_SCOOP2]
+Capucha de color primario y triple entrada
+
+[COQ8_SCOOP2B]
+Capucha de color secundario y triple entrada
+
+[COQ8_SCOOP2C]
+Campana de carbono y triple admisión
+
+[COQ8_SCOOP3]
+Capucha de color primario y toma única
+
+[COQ8_SCOOP3B]
+Capucha de color secundario y toma única
+
+[COQ8_SCOOP3C]
+Campana de carbono y toma única
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+Basura de remolque
+
+[COQ8_LIV2]
+Stinger Stripe
+
+[COQ8_LIV3]
+Mechabots Flame
+
+[COQ8_LIV4]
+Llamas
+
+[COQ8_LIV5]
+Fobos de Fuego
+
+[COQ8_LIV6]
+Los Fobos
+
+[COQ8_LIV7]
+Red Event Racer
+
+[COQ8_LIV8]
+Arrow Racer
+
+[COQ8_LIV9]
+Pisswasser Racing
+
+[COQ8_LIV10]
+Itasha estadounidense
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

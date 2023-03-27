@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+Es kommt direkt aus der Zeit der endlosen Gewalt zwischen Mafia-Familien und Invetero-Führungskräften, die nicht in der Lage sind, ihr neuestes schrecklich handhabbares Muskelauto zu nennen. Spitzname Phobos, der Sie nach einem Autounfall mit hoher Geschwindigkeit, verursacht durch defekte Scheinwerfern, zu einem der Marsmonde schickt.
+
+[WEB_COQUETTEPACK]
+Teil von GTA V: Coquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

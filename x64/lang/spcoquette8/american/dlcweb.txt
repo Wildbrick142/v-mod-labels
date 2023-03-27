@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+Coming straight from the era of endless violence between mafia families, and Invetero executives being unable to name their latest awfully-handling muscle car. Nicknamed the Phobos, as it's sure to send you to one of Mars' moons following a high-speed car crash caused by malfunctioning pop-up headlights.
+
+[WEB_COQUETTEPACK]
+Part of GTA V: Coquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

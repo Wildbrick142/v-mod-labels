@@ -1,0 +1,135 @@
+﻿
+{--- updated 5/07/19 --}
+
+{--- vehicle names --}
+{***********************************************}
+[COQUETTE2]
+Coquette Shark
+
+[COQUETTE8]
+Coquette Phobos
+
+[COQUETTE8b]
+Coquette Sharkfin
+
+
+{ --- modparts --- }
+
+{***********************************************}
+
+{ - COQUETTE8_SPOILER -}
+[COQ8_WING1]
+Ala colore primario
+
+[COQ8_WING1B]
+Ala colore secondaria
+
+[COQ8_WING1C]
+Ala di carbone primaria
+
+[COQ8_WING1D]
+Ala al carbonio secondaria
+
+[COQ8_WING2]
+Spoiler colori primari
+
+[COQ8_WING2B]
+Spoiler colore secondario
+
+[COQ8_WING2C]
+Carbon Spoiler
+
+
+
+{ - COQUETTE8_MISC -}
+[COQ8_VTBDG]
+Badge VT
+
+
+{ - COQUETTE8_SPLIT -}
+
+[COQ8_SPLT_A]
+Splitter colori primari
+
+[COQ8_SPLT_AR]
+Elimina paraurti anteriore con splitter primario
+
+[COQ8_SPLT_B]
+Color Splitter secondario
+
+[COQ8_SPLT_BR]
+Elimina paraurti anteriore con splitter secondario
+
+[COQ8_SPLT_CR]
+Elimina paraurti anteriore con Carbon Splitter
+
+
+{ - COQUETTE8_HOOD_N_SCOOP -}
+[COQ8_HOOD_1]
+Cappa secondaria di colore
+
+[COQ8_SCOOP1]
+Scoot Hood colore primario
+
+[COQ8_SCOOP1B]
+Scoop cappuccio colore secondario
+
+[COQ8_SCOOP1C]
+Scoop con cappuccio in carbonio
+
+[COQ8_SCOOP2]
+Cappuccio a colori primari e tripla assunzione
+
+[COQ8_SCOOP2B]
+Cappuccio colore secondario e aspirazione tripla
+
+[COQ8_SCOOP2C]
+Cappuccio in carbonio e tripla aspirazione
+
+[COQ8_SCOOP3]
+Cappa principale colore e aspirazione singola
+
+[COQ8_SCOOP3B]
+Cappuccio colore secondario e aspirazione singola
+
+[COQ8_SCOOP3C]
+Cappuccio in carbonio e aspirazione singola
+
+
+{ - COQUETTE8_LIVERY -}
+[COQ8_LIV1]
+Cestino del trailer
+
+[COQ8_LIV2]
+Stinger Stripe
+
+[COQ8_LIV3]
+Mechabots Flame
+
+[COQ8_LIV4]
+Fiamme
+
+[COQ8_LIV5]
+Fire Phobos
+
+[COQ8_LIV6]
+Il Phobos
+
+[COQ8_LIV7]
+Red Event Racer
+
+[COQ8_LIV8]
+Arrow Racer
+
+[COQ8_LIV9]
+Pisswasser Racing
+
+[COQ8_LIV10]
+Itasha Americano
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

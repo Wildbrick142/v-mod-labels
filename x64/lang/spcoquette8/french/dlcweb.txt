@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[LGM_COQUETTE8]
+Tout droit sorti de l'ère de la violence sans fin entre les familles de la mafia et les dirigeants d'Invetero, incapables de nommer leur dernière voiture de muscle qui manipule terriblement. Surnommé le Phobos, car il est sûr de vous envoyer à l'une des lunes de Mars suite à un accident de voiture à grande vitesse causé par des phares pop-up défectueux.
+
+[WEB_COQUETTEPACK]
+Disponible dans GTA V: Coquettes
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!
