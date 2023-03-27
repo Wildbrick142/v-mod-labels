@@ -1,0 +1,8 @@
+﻿
+{--- vehicle names --}
+[RCBARON]
+RC Baron
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

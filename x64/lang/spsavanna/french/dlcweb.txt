@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Certains disent que "Moins est plus" et, clairement, certains designers de Coil l'ont pris à cœur alors qu'il était ivre un vendredi soir. Si vous avez toujours voulu dépasser un speedtrap dans une brique pointue avec l'aérodynamisme d'une super voiture et plus de blindage que les chars de votre armée locale, c'est maintenant votre chance. C'est l'avenir de l'automobile, et cela ne vous permettra pas de piloter automatiquement une falaise aussi facilement.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

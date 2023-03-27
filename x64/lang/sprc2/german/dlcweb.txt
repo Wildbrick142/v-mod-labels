@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[ELT_RCBARON]
+Der Popularitätsanstieg von TopFun in den 1980er Jahren kann nur diesem klassischen, miniaturisierten Doppeldecker zugeschrieben werden. Die Lufträume der Einkaufszentren mehr zu bevölkern, als verfaulte Burger in nahe gelegenen Mülleimern herumzufliegen, oder Kriegsszenarien nachzustellen, während die lateinamerikanischen Gangs sich in einem guten altmodischen Bandenkrieg prügeln, ist heute sicher genauso ein Hingucker wie es damals war. Sowohl wörtlich als auch im übertragenen Sinne - der Propeller ist ziemlich scharf, sage ich Ihnen.
+
+[WEB_RCBARONPACK]
+Teil von Death From Above
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Algunos dicen que "Menos es más" y, claramente, algún diseñador de Coil se lo tomó muy en serio mientras estaba borracho un viernes por la noche. Si alguna vez quisiste atravesar una trampa de velocidad en un ladrillo puntiagudo con la aerodinámica de un supercoche y más armadura que los tanques de tu ejército local, ahora es tu oportunidad. Este es el futuro automotriz, y no te permitirá pilotear un acantilado tan fácilmente.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

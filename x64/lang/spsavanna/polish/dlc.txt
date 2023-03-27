@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Magazyn amunicji
+
+[SAV_BOOT2]
+Palacz łańcuchowy
+
+[SAV_BOOT3]
+Zbuduj-Coil
+
+[SAV_BOOT4]
+Ciężarówka przemytników
+
+[SAV_BOOT5]
+Pomoc medyczna
+
+[SAV_BOOT6]
+Toksyczne odpady
+
+[SAV_BOOT7]
+Przesyłka knockoff
+
+[SAV_BOOT8]
+Przenośne muzeum
+
+[SAV_BOOT9]
+Skórki i kości
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Pasek świetlny
+
+[SAV_BUMF2]
+Pasek specjalny
+
+[SAV_BUMF3]
+Wzmocniony pręt specjalny
+
+[SAV_BUMF4]
+Ciężki pręt specjalny
+
+[SAV_BUMF5]
+Rally Bar
+
+[SAV_BUMF6]
+Ciężki pręt
+
+[SAV_BUMF7]
+Mega Bar i wciągarka
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Zestaw narzędzi
+
+[SAV_HOOD2]
+Róg byka
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Pasek świetlny
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Duży stojak
+
+[SAV_ROOF4]
+Duży stojak z bzdurą
+
+[SAV_ROOF5]
+Tylko Mój Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Duże spojlery progowe
+
+[SAV_SKIRT2]
+Spojlery progowe Tube
+
+[SAV_SKIRT3]
+Spojlery progowe Tube Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Biały dach
+
+[SAV_LIV2]
+Czarny dach
+
+[SAV_LIV3]
+Brązowy kamuflaż
+
+[SAV_LIV4]
+Różowy kamuflaż
+
+[SAV_LIV5]
+Pasek w stylu retro
+
+[SAV_LIV6]
+Wygląda świeżo
+
+[SAV_LIV7]
+Wyścigi Coil
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+Szeryf
+
+[SAV_LIV10]
+Rydwan księżniczki
+
+[SAV_LIV11]
+Serwer Społeczności TheIvaneh
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

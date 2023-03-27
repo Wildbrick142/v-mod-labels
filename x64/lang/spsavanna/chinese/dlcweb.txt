@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+有人說“少了就是更多”，而且顯然，Coil的一些設計師在一個星期五晚上喝醉的時候非常喜歡它。 如果您想用超級跑車的空氣動力學特性和比當地軍隊的坦克更多的裝甲以尖銳的磚塊衝過自動擋，則現在是您的機會。 這是汽車的未來，它不會讓您輕鬆地自動駕駛懸崖。
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

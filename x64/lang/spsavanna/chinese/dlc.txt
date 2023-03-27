@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+稀樹草原
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+彈藥店
+
+[SAV_BOOT2]
+抽煙鏈
+
+[SAV_BOOT3]
+建造線圈
+
+[SAV_BOOT4]
+走私卡車
+
+[SAV_BOOT5]
+醫療援助
+
+[SAV_BOOT6]
+有毒廢物
+
+[SAV_BOOT7]
+仿冒貨
+
+[SAV_BOOT8]
+便攜式博物館
+
+[SAV_BOOT9]
+皮膚和骨骼
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+燈條
+
+[SAV_BUMF2]
+特殊欄
+
+[SAV_BUMF3]
+鋼筋特種鋼筋
+
+[SAV_BUMF4]
+重型特種棒
+
+[SAV_BUMF5]
+拉力棒
+
+[SAV_BUMF6]
+重型
+
+[SAV_BUMF7]
+Mega Bar＆絞盤
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+工具套件
+
+[SAV_HOOD2]
+公牛角
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+燈條
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+大機架
+
+[SAV_ROOF4]
+大架子
+
+[SAV_ROOF5]
+只有我的電磁炮
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+大側裙
+
+[SAV_SKIRT2]
+管側裙
+
+[SAV_SKIRT3]
+管側裙Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+西裝外套水色
+
+[SAV_SANCHEZ]
+桑切斯
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+白色屋頂
+
+[SAV_LIV2]
+黑色屋頂
+
+[SAV_LIV3]
+棕色迷彩
+
+[SAV_LIV4]
+粉紅迷彩
+
+[SAV_LIV5]
+復古條紋
+
+[SAV_LIV6]
+看起來很新鮮
+
+[SAV_LIV7]
+線圈競速
+
+[SAV_LIV8]
+什魯斯伯里
+
+[SAV_LIV9]
+警長
+
+[SAV_LIV10]
+公主的戰車
+
+[SAV_LIV11]
+TheIvaneh社區服務器
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

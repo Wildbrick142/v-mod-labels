@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+사바나
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+탄약 저장
+
+[SAV_BOOT2]
+체인 흡연자
+
+[SAV_BOOT3]
+코일 제작
+
+[SAV_BOOT4]
+밀수업자 트럭
+
+[SAV_BOOT5]
+의료 지원
+
+[SAV_BOOT6]
+독성 폐기물
+
+[SAV_BOOT7]
+최저 선적
+
+[SAV_BOOT8]
+휴대용 박물관
+
+[SAV_BOOT9]
+스킨과 본
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+라이트 바
+
+[SAV_BUMF2]
+특수 막대
+
+[SAV_BUMF3]
+강화 된 특수 막대
+
+[SAV_BUMF4]
+헤비 스페셜 바
+
+[SAV_BUMF5]
+랠리 바
+
+[SAV_BUMF6]
+헤비 바
+
+[SAV_BUMF7]
+메가 바 & 윈치
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+유틸리티 키트
+
+[SAV_HOOD2]
+물러나
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+라이트 바
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+큰 랙
+
+[SAV_ROOF4]
+큰 랙 O '랩
+
+[SAV_ROOF5]
+내 레일 건만
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+빅 사이드 스커트
+
+[SAV_SKIRT2]
+튜브 사이드 스커트
+
+[SAV_SKIRT3]
+튜브 사이드 스커트 Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+블레이저 아쿠아
+
+[SAV_SANCHEZ]
+산체스
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+하얀 지붕
+
+[SAV_LIV2]
+검은 지붕
+
+[SAV_LIV3]
+브라운 카모
+
+[SAV_LIV4]
+핑크 카모
+
+[SAV_LIV5]
+레트로 스트라이프
+
+[SAV_LIV6]
+신선함
+
+[SAV_LIV7]
+코일 레이싱
+
+[SAV_LIV8]
+슈 루즈 베리
+
+[SAV_LIV9]
+보안관
+
+[SAV_LIV10]
+공주 전차
+
+[SAV_LIV11]
+TheIvaneh 커뮤니티 서버
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

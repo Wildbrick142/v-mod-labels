@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Magasin de munitions
+
+[SAV_BOOT2]
+Fumoir à chaîne
+
+[SAV_BOOT3]
+Construire une bobine
+
+[SAV_BOOT4]
+Camion de contrebandier
+
+[SAV_BOOT5]
+Assistance médicale
+
+[SAV_BOOT6]
+Déchets toxiques
+
+[SAV_BOOT7]
+Expédition Knockoff
+
+[SAV_BOOT8]
+Musée portable
+
+[SAV_BOOT9]
+Skins et os
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Barre lumineuse
+
+[SAV_BUMF2]
+Barre spéciale
+
+[SAV_BUMF3]
+Barre spéciale renforcée
+
+[SAV_BUMF4]
+Barre spéciale lourde
+
+[SAV_BUMF5]
+Barre de rallye
+
+[SAV_BUMF6]
+Barre lourde
+
+[SAV_BUMF7]
+Méga barre et treuil
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Kit utilitaire
+
+[SAV_HOOD2]
+Corne de taureau
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Barre lumineuse
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Grand rack
+
+[SAV_ROOF4]
+Grand rack O 'Merde
+
+[SAV_ROOF5]
+Seulement mon Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Grandes jupes latérales
+
+[SAV_SKIRT2]
+Jupes latérales de tube
+
+[SAV_SKIRT3]
+Jupes latérales de tube Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Toit blanc
+
+[SAV_LIV2]
+Toit noir
+
+[SAV_LIV3]
+Camouflage marron
+
+[SAV_LIV4]
+Camouflage rose
+
+[SAV_LIV5]
+Bande rétro
+
+[SAV_LIV6]
+Regard frais
+
+[SAV_LIV7]
+Course de bobines
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+Le shérif
+
+[SAV_LIV10]
+Chariot de la princesse
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

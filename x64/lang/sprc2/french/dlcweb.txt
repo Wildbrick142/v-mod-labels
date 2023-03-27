@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[ELT_RCBARON]
+La montée en popularité de TopFun dans les années 1980 ne peut être attribuée qu'à ce biplan classique et miniaturisé. Peupler les espaces aériens des centres commerciaux plus que voler autour des hamburgers pourris dans les poubelles à proximité, ou reconstituer des scénarios de guerre alors que les gangs latino-américains s'affrontent dans une bonne guerre de gangs à l'ancienne, c'est sûr d'être tout aussi accrocheur aujourd'hui comme à l'époque. Au sens propre comme au sens figuré - l'hélice est assez tranchante, je vous le dis.
+
+[WEB_RCBARONPACK]
+Disponible dans Mort Venue du Ciel
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Alcuni sostengono che "Meno è meglio" e, chiaramente, alcuni designer di Coil se ne sono presi a cuore mentre si ubriacavano un venerdì sera. Se hai mai voluto attraversare un speedtrap in un mattone appuntito con l'aerodinamica di un'auto super e più armature dei carri armati dei tuoi militari locali, ora hai la possibilità. Questo è il futuro del settore automobilistico e non ti permetterà di guidare da una scogliera così facilmente.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

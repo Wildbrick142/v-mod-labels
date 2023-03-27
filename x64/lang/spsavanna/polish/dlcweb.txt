@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Niektórzy mówią, że „mniej znaczy więcej” i najwyraźniej pewien projektant w Coil bardzo wziął to sobie do serca, pijąc w piątek wieczorem. Jeśli kiedykolwiek chciałeś przelecieć obok pułapki prędkości w spiczastym klocku z aerodynamiką super samochodu i większym opancerzeniem niż czołgi lokalnego wojska, teraz masz szansę. To jest motoryzacyjna przyszłość i nie pozwoli ci tak łatwo autopilotować z klifu.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

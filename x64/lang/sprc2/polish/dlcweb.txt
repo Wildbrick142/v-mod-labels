@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[ELT_RCBARON]
+Wzrost popularności TopFun w latach 80. można przypisać tylko temu klasycznemu, zminiaturyzowanemu dwupłatowi. Zapełnianie przestrzeni powietrznej centrum handlowego bardziej niż muchy wokół gnijących hamburgerów w pobliskich koszach na śmieci lub odtwarzanie scenariuszy wojennych, gdy gangi latynoamerykańskie walczą o to w dobrej, staromodnej wojnie gangów, z pewnością będzie dziś równie przyciągające wzrok jak to było w tamtych czasach. Mówiąc dosłownie iw przenośni - śmigło jest dość ostre, mówię.
+
+[WEB_RCBARONPACK]
+Część Death From Above
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

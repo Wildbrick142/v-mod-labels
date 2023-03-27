@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Negozio di munizioni
+
+[SAV_BOOT2]
+Fumatore a catena
+
+[SAV_BOOT3]
+Costruire un Coil
+
+[SAV_BOOT4]
+Camion del contrabbandiere
+
+[SAV_BOOT5]
+Assistenza medica
+
+[SAV_BOOT6]
+Rifiuti tossici
+
+[SAV_BOOT7]
+Spedizione knockoff
+
+[SAV_BOOT8]
+Museo portatile
+
+[SAV_BOOT9]
+Pelle e ossa
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Barra luminosa
+
+[SAV_BUMF2]
+Barra speciale
+
+[SAV_BUMF3]
+Barra speciale rinforzata
+
+[SAV_BUMF4]
+Barra speciale pesante
+
+[SAV_BUMF5]
+Barra di rally
+
+[SAV_BUMF6]
+Barra pesante
+
+[SAV_BUMF7]
+Mega Bar & Winch
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Kit di utilità
+
+[SAV_HOOD2]
+Corno di toro
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Barra luminosa
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Big Rack
+
+[SAV_ROOF4]
+Big Rack O 'Crap
+
+[SAV_ROOF5]
+Solo il mio Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Gonne grandi
+
+[SAV_SKIRT2]
+Gonne a tubo
+
+[SAV_SKIRT3]
+Gonne a tubo Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Tetto bianco
+
+[SAV_LIV2]
+Tetto nero
+
+[SAV_LIV3]
+Camouflage marrone
+
+[SAV_LIV4]
+Camouflage rosa
+
+[SAV_LIV5]
+Striscia Retrò
+
+[SAV_LIV6]
+Sembra Fresco
+
+[SAV_LIV7]
+Coil Da Corsa
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+Lo Sceriffo
+
+[SAV_LIV10]
+Carro Principessa
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

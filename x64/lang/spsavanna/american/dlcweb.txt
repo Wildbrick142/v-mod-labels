@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Some say that "Less is more" and, clearly, some designer at Coil very much took it to heart while drunk one Friday night. If you ever wanted to blaze past a speedtrap in a pointy brick with the aerodynamics of a super car and more armor than your local military's tanks, now's your chance. This is the automotive future, and it won't let you auto-pilot off a cliff that easily.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

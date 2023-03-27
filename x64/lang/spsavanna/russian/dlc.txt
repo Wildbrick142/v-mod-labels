@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Магазин патронов
+
+[SAV_BOOT2]
+Цепной курильщик
+
+[SAV_BOOT3]
+Построить катушку
+
+[SAV_BOOT4]
+Грузовик контрабандиста
+
+[SAV_BOOT5]
+Медицинская помощь
+
+[SAV_BOOT6]
+Токсичные отходы
+
+[SAV_BOOT7]
+контрафактная Отгрузка
+
+[SAV_BOOT8]
+Портативный музей
+
+[SAV_BOOT9]
+Скины и кости
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+световой бар
+
+[SAV_BUMF2]
+Специальный бар
+
+[SAV_BUMF3]
+Усиленный специальный бар
+
+[SAV_BUMF4]
+Тяжелый Специальный Бар
+
+[SAV_BUMF5]
+Ралли бар
+
+[SAV_BUMF6]
+Тяжелый бар
+
+[SAV_BUMF7]
+Мега Бар и Лебедка
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Утилита
+
+[SAV_HOOD2]
+Рупор
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Lightbar
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Большая Стойка
+
+[SAV_ROOF4]
+Большая Стойка Дерьма
+
+[SAV_ROOF5]
+Только Мой Рейлган
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Большие боковые юбки
+
+[SAV_SKIRT2]
+Трубочные боковые юбки
+
+[SAV_SKIRT3]
+Трубочные боковые юбки Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Белая Крыша
+
+[SAV_LIV2]
+Черная крыша
+
+[SAV_LIV3]
+коричневый камуфляж
+
+[SAV_LIV4]
+Розовый камуфляж
+
+[SAV_LIV5]
+Ретро полоса
+
+[SAV_LIV6]
+выглядит свежо
+
+[SAV_LIV7]
+Coil Гонки
+
+[SAV_LIV8]
+Шрусбери
+
+[SAV_LIV9]
+Шериф
+
+[SAV_LIV10]
+Колесница принцессы
+
+[SAV_LIV11]
+Сервер сообщества TheIvaneh
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,11 @@
+﻿
+{--- website descriptions --}
+[ELT_RCBARON]
+L'ascesa di popolarità di TopFun negli anni '80 può essere attribuita solo a questo classico biplano miniaturizzato. Popolando gli spazi aerei del centro commerciale più che volare in giro per hamburger in decomposizione nei bidoni della spazzatura vicini, o rievocare scenari di guerra mentre le bande latinoamericane se la cavano in una buona guerra tra bande vecchio stile, è sicuramente un colpo d'occhio oggi come era una volta. Parlando sia in senso letterale che figurato, l'elica è piuttosto affilata, te lo dico io.
+
+[WEB_RCBARONPACK]
+Parte di Death From Above
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

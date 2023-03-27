@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Tienda de munición
+
+[SAV_BOOT2]
+Fumador en cadena
+
+[SAV_BOOT3]
+Construir una bobina
+
+[SAV_BOOT4]
+Camión del contrabandista
+
+[SAV_BOOT5]
+Asistencia médica
+
+[SAV_BOOT6]
+Residuos tóxicos
+
+[SAV_BOOT7]
+Envío de imitación
+
+[SAV_BOOT8]
+Museo portátil
+
+[SAV_BOOT9]
+Máscaras y huesos
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Barra de luces
+
+[SAV_BUMF2]
+Barra especial
+
+[SAV_BUMF3]
+Barra especial reforzada
+
+[SAV_BUMF4]
+Barra especial pesada
+
+[SAV_BUMF5]
+Barra de rally
+
+[SAV_BUMF6]
+Barra pesada
+
+[SAV_BUMF7]
+Mega Bar & Winch
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Kit de utilidad
+
+[SAV_HOOD2]
+Cuerno de toro
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Barra de luces
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Estante Grande
+
+[SAV_ROOF4]
+Estante Grande de Mierda
+
+[SAV_ROOF5]
+Solo mi Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Faldas grandes
+
+[SAV_SKIRT2]
+Faldas de tubo
+
+[SAV_SKIRT3]
+Faldas de tubo Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Techo blanco
+
+[SAV_LIV2]
+Techo negro
+
+[SAV_LIV3]
+Camuflaje marrón
+
+[SAV_LIV4]
+Camuflaje rosa
+
+[SAV_LIV5]
+Raya Retro
+
+[SAV_LIV6]
+Luciendo Fresca
+
+[SAV_LIV7]
+Carreras de bobina
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+El Sheriff
+
+[SAV_LIV10]
+Carro de la Princesa
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

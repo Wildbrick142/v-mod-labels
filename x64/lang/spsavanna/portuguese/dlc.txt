@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Loja de munição
+
+[SAV_BOOT2]
+Fumante em cadeia
+
+[SAV_BOOT3]
+Construir uma Coil
+
+[SAV_BOOT4]
+Caminhão do contrabandista
+
+[SAV_BOOT5]
+Assistência Médica
+
+[SAV_BOOT6]
+Resíduos tóxicos
+
+[SAV_BOOT7]
+Remessa imitável
+
+[SAV_BOOT8]
+Museu Portátil
+
+[SAV_BOOT9]
+Peles e Ossos
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Barra de luz
+
+[SAV_BUMF2]
+Barra especial
+
+[SAV_BUMF3]
+Barra especial reforçada
+
+[SAV_BUMF4]
+Barra especial pesada
+
+[SAV_BUMF5]
+Barra de Reunião
+
+[SAV_BUMF6]
+Barra pesada
+
+[SAV_BUMF7]
+Mega Bar e guincho
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Kit Utilitário
+
+[SAV_HOOD2]
+Chifre de touro
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Barra de luzes
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Rack Grande
+
+[SAV_ROOF4]
+Porcaria de rack grande
+
+[SAV_ROOF5]
+Apenas minha arma
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Saias laterais grandes
+
+[SAV_SKIRT2]
+Saias laterais do tubo
+
+[SAV_SKIRT3]
+Saias laterais do tubo Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Telhado branco
+
+[SAV_LIV2]
+Telhado preto
+
+[SAV_LIV3]
+Camo marrom
+
+[SAV_LIV4]
+Camo rosa
+
+[SAV_LIV5]
+Faixa retrô
+
+[SAV_LIV6]
+Parecendo Fresco
+
+[SAV_LIV7]
+Corrida de Coil
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+O Xerife
+
+[SAV_LIV10]
+Carruagem da princesa
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

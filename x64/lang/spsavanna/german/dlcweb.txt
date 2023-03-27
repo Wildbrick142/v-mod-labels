@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Einige sagen, dass "Weniger mehr ist", und einige Designer von Coil haben es sich sehr zu Herzen genommen, als sie an einem Freitagabend betrunken waren. Wenn Sie schon immer einmal an einer Speedtrap in einem spitzen Stein mit der Aerodynamik eines Superautos und mehr Panzerung als die Panzer Ihres örtlichen Militärs vorbeifliegen wollten, ist jetzt Ihre Chance. Dies ist die Automobilzukunft, und Sie können nicht so einfach von einer Klippe aus fliegen.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

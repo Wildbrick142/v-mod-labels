@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Ammo Store
+
+[SAV_BOOT2]
+Chain Smoker
+
+[SAV_BOOT3]
+Build-a-Coil
+
+[SAV_BOOT4]
+Smuggler's Truck
+
+[SAV_BOOT5]
+Medical Assistance
+
+[SAV_BOOT6]
+Toxic Waste
+
+[SAV_BOOT7]
+Knockoff Shipment
+
+[SAV_BOOT8]
+Portable Museum
+
+[SAV_BOOT9]
+Skins and Bones
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Light Bar
+
+[SAV_BUMF2]
+Special Bar
+
+[SAV_BUMF3]
+Reinforced Special Bar
+
+[SAV_BUMF4]
+Heavy Special Bar
+
+[SAV_BUMF5]
+Rally Bar
+
+[SAV_BUMF6]
+Heavy Bar
+
+[SAV_BUMF7]
+Mega Bar & Winch
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Utility Kit
+
+[SAV_HOOD2]
+Bullhorn
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Lightbar
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Big Rack
+
+[SAV_ROOF4]
+Big Rack O' Crap
+
+[SAV_ROOF5]
+Only My Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Big Skirts
+
+[SAV_SKIRT2]
+Tube Skirts
+
+[SAV_SKIRT3]
+Tube Skirts Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+White Roof
+
+[SAV_LIV2]
+Black Roof
+
+[SAV_LIV3]
+Brown Camo
+
+[SAV_LIV4]
+Pink Camo
+
+[SAV_LIV5]
+Retro Stripe
+
+[SAV_LIV6]
+Lookin' Fresh
+
+[SAV_LIV7]
+Coil Racing
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+The Sheriff
+
+[SAV_LIV10]
+Princess' Chariot
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

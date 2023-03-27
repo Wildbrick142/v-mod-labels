@@ -1,0 +1,9 @@
+﻿
+{--- website descriptions --}
+[LGM_SAVANNA]
+Alguns dizem que "Menos é mais" e, claramente, algum designer da Coil levou muito a sério enquanto estava bêbado numa sexta à noite. Se você sempre quis passar por uma armadilha de velocidade em um tijolo pontudo com a aerodinâmica de um super carro e mais armadura do que os tanques militares locais, agora é sua chance. Este é o futuro automotivo e não permitirá que você pilote automaticamente de um penhasco tão facilmente.
+
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!

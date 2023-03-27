@@ -1,0 +1,152 @@
+﻿
+
+{--- vehicle names --}
+[SAVANNA]
+Savanna
+
+
+
+{ --- modparts - updated 8/03/20 --- }
+{***********************************************}
+{ - SAV_BOOT -}
+[SAV_BOOT1]
+Munitionsladen
+
+[SAV_BOOT2]
+Kettenraucher
+
+[SAV_BOOT3]
+Baue eine Coil
+
+[SAV_BOOT4]
+Schmuggler-Truck
+
+[SAV_BOOT5]
+Medizinische Assistenz
+
+[SAV_BOOT6]
+Giftmüll
+
+[SAV_BOOT7]
+Nachahmerversand
+
+[SAV_BOOT8]
+Tragbares Museum
+
+[SAV_BOOT9]
+Haut und Knochen
+
+
+
+{ - SAV_BARS -}
+
+[SAV_BUMF1]
+Licht Bar
+
+[SAV_BUMF2]
+Besondere Bar
+
+[SAV_BUMF3]
+Verstärkt Besondere Bar
+
+[SAV_BUMF4]
+Schwer Besondere Bar
+
+[SAV_BUMF5]
+Rallye Bar
+
+[SAV_BUMF6]
+Schwer Bar
+
+[SAV_BUMF7]
+Mega Bar und Winde
+
+
+
+
+{ - SAV_HOODS -}
+[SAV_HOOD1]
+Utility Kit
+
+[SAV_HOOD2]
+Stierhörner
+
+
+
+{ - SAV_ROOF_RACKS -}
+[SAV_ROOF1]
+Lichtleiste
+
+{ [SAV_ROOF2] }
+{ **sav_roof2 part name** }
+
+[SAV_ROOF3]
+Groß Gestell
+
+[SAV_ROOF4]
+Groß Gestell von Mist
+
+[SAV_ROOF5]
+Nur Meine Railgun
+
+
+{ - SAV_SKIRT -}
+[SAV_SKIRT1]
+Große Seitenschweller
+
+[SAV_SKIRT2]
+Tube Seitenschweller
+
+[SAV_SKIRT3]
+Tube Seitenschweller Mk II
+
+
+
+{ - SPECIAL -}
+[SAV_BLAZER]
+Blazer Aqua
+
+[SAV_SANCHEZ]
+Sanchez
+
+
+
+{ -- SAV_LIVERY -- }
+[SAV_LIV1]
+Weißes Dach
+
+[SAV_LIV2]
+Schwarzes Dach
+
+[SAV_LIV3]
+Braune Tarnung
+
+[SAV_LIV4]
+Rosa Tarnung
+
+[SAV_LIV5]
+Retro Streifen
+
+[SAV_LIV6]
+Frisch Aussehen
+
+[SAV_LIV7]
+Coil Rennen
+
+[SAV_LIV8]
+Shrewsbury
+
+[SAV_LIV9]
+Der Sheriff
+
+[SAV_LIV10]
+Prinzessin Streitwagen
+
+[SAV_LIV11]
+TheIvaneh Community Server
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!
