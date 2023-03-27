@@ -1,0 +1,13 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_10_SURF]
+桑托斯冲浪
+
+[RADIO_18_90S_ROCK_02]
+前千禧年电台
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

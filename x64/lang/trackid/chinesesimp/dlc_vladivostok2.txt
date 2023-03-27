@@ -1,0 +1,12 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_45_VLADIVOSTOK_02]
+{ Vladivostok FM }
+符拉迪沃斯托克欧陆节拍
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

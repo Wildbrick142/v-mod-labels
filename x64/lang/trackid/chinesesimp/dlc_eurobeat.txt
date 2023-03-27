@@ -1,0 +1,11 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_27_IMPACT_BLUE]
+影响蓝收音机
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

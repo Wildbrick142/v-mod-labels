@@ -1,0 +1,75 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_23_INTEGRITY]
+Integrity 2.0
+
+[RADIO_24_THE_VIBE]
+The Vibe 98.8
+
+[RADIO_25_LIBERTY_ROCK]
+Liberty Rock Radio
+
+[RADIO_26_JAZZ_NATION]
+Jazz Nation Radio 108.5
+
+[RADIO_27_BOBBY_KONDERS]
+Massive B Soundsystem 96.9
+
+[RADIO_28_K109_THE_STUDIO]
+K109 The Studio
+
+[RADIO_29_WKTT]
+WKTT Radio
+
+[RADIO_30_HARDCORE]
+Liberty City Hardcore
+
+[RADIO_31_CLASSICAL_AMBIENT]
+The Journey
+
+[RADIO_32_FUSION_FM]
+Fusion FM
+
+[RADIO_33_BEAT_95]
+The Beat 102.7
+
+[RADIO_34_DANCE_ROCK]
+Radio Broker
+
+[RADIO_35_VLADIVOSTOK]
+Vladivostok FM
+
+[RADIO_36_PLR]
+Public Liberty Radio
+
+[RADIO_37_SAN_JUAN_SOUNDS]
+San Juan Sounds
+
+[RADIO_38_DANCE_MIX]
+Electro-Choc
+
+[RADIO_39_NY_CLASSICS]
+The Classics 104.1
+
+[RADIO_40_AFRO_BEAT]
+IF99
+
+[RADIO_41_BABYLON]
+Tuff Gong Radio
+
+[RADIO_42_MEDITATION]
+Self-Actualization FM
+
+[RADIO_43_RAMJAMFM]
+RamJam FM
+
+[RADIO_46_USER_02]
+Independence FM
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

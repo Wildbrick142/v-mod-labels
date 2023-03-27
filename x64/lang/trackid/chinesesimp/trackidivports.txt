@@ -1,0 +1,597 @@
+﻿{--- misc. GTAIV radios --}
+
+{-- RADIO_35_VLADIVOSTOK --}
+{-- Vladivostok FM --}
+[40043A]
+SERYOGA
+[40043S]
+Dobav' Skorost
+[40044A]
+RIFFMASTER
+[40044S]
+Begu (Rancho Song)
+[40045A]
+SERYOGA
+[40045S]
+Chiki
+[40046A]
+SPLEAN
+[40046S]
+Liniya Zhizni
+[40047A]
+DELISE
+[40047S]
+Goryacheye Leto
+[40048A]
+ALEKSEY BOLSHOY
+[40048S]
+YA Nenavizhu Karaoke
+[40049A]
+SERYOGA
+[40049S]
+King Ring
+[40050A]
+KINO
+[40050S]
+Gruppa Krovi
+[40051A]
+ZVERI
+[40051S]
+Kvartira
+[40052A]
+SERYOGA
+[40052S]
+Liberty City: The Invasion
+[40053A]
+BASTA
+[40053S]
+Mama
+[40054A]
+SERYOGA FEAT.MAX LORENS
+[40054S]
+Mon Ami
+[40055A]
+LENINGRAD
+[40055S]
+Nikogo Ne Zhalko
+[40056A]
+ZHENYA FOKIN
+[40056S]
+Noch'ju
+[40057A]
+RANETKI GIRLS
+[40057S]
+O Tebe
+[40058A]
+KIEVELEKTRO FEAT.ALYONA VINNITSKAYA
+[40058S]
+Gulyaj, Slavyane!
+[40059A]
+DOLPHIN
+[40059S]
+Rap
+[40060A]
+AYVENGO
+[40060S]
+Reprezenty
+[40061A]
+RIFFMASTER
+[40061S]
+Riffmaster Tony
+[40062A]
+GLUKOZA
+[40062S]
+Schweine
+[40063A]
+AYVENGO
+[40063S]
+Underground
+[40064A]
+RUSLANA
+[40064S]
+Wild Dances
+[40065A]
+OLEG KVASHA
+[40065S]
+Zelenoglazoe Taksi (Club Remix)
+[40066A]
+MARAKESH
+[40066S]
+Zhdat
+
+
+
+
+
+
+{-- RADIO_38_DANCE_MIX --}
+{--- Electro-Choc (IV) --}
+
+[40067A]
+PADDED CELL
+[40067S]
+Signal Failure (GTA Version)
+[40068A]
+BLACK DEVIL DISCO CLUB
+[40068S]
+The Devil In Us (Dub)
+[40069A]
+ONE + ONE
+[40069S]
+No Pressure (Deadmau5 Remix)
+[40070A]
+ALEX GOPHER
+[40070S]
+Brain Leech (Bugged Mind Remix)
+[40071A]
+K.I.M.
+[40071S]
+B.T.T.T.T.R.Y. (Bag Raiders Remix)
+[40072A]
+SIMIAN MOBILE DISCO
+[40072S]
+Tits & Acid
+[40073A]
+NITZER EBB
+[40073S]
+Let Your Body Learn
+[40074A]
+KAVINSKY
+[40074S]
+Testarossa Overdrive (SebastiAn Remix)
+[40075A]
+CHRIS LAKE VS DEADMAU5
+[40075S]
+I Thought Inside Out (Original Mix)
+[40076A]
+BOYS NOIZE
+[40076S]
+& Down
+[40077A]
+JUSTICE
+[40077S]
+Waters Of Nazareth
+[40078A]
+KILLING JOKE
+[40078S]
+Turn To Red
+[40079A]
+PLAYGROUP
+[40079S]
+Make It Happen (Instrumental)
+[40080A]
+LIQUID LIQUID
+[40080S]
+Optimo
+[40081A]
+DEEP PURPLE
+[40081S]
+Highway Star
+
+
+
+
+
+
+{--- RADIO_25_LIBERTY_ROCK ---}
+{--- Liberty Rock Radio ---}
+[40082A]
+THE SMASHING PUMPKINS
+[40082S]
+1979
+[40083A]
+THE DOOBIE BROTHERS
+[40083S]
+China Grove
+[40084A]
+CHEESEBURGER
+[40084S]
+Cocaine
+[40085A]
+GODLEY & CREME
+[40085S]
+Cry
+[40086A]
+BON JOVI
+[40086S]
+Wanted Dead Or Alive
+[40087A]
+THE SISTERS OF MERCY
+[40087S]
+Dominion / Mother Russia
+[40088A]
+FOGHAT
+[40088S]
+Drivin' Wheel
+[40089A]
+STEVIE NICKS
+[40089S]
+Edge Of Seventeen
+[40090A]
+ROD STEWART
+[40090S]
+Every Picture Tells A Story
+[40091A]
+ELO
+[40091S]
+Evil Woman
+[40092A]
+DAVID BOWIE
+[40092S]
+Fascination
+[40093A]
+THE DOORS
+[40093S]
+Five To One
+[40094A]
+THE EDGAR WINTER GROUP
+[40094S]
+Free Ride
+[40095A]
+THE JAMES GANG
+[40095S]
+Funk #49
+[40096A]
+Q LAZZARUS
+[40096S]
+Goodbye Horses
+[40097A]
+ALICE COOPER
+[40097S]
+Go To Hell
+[40098A]
+NAZARETH
+[40098S]
+Hair Of The Dog
+[40099A]
+BLACK SABBATH
+[40099S]
+Heaven And Hell
+[40100A]
+BOB SEGER & THE SILVER BULLET BAND
+[40100S]
+Her Strut
+[40101A]
+IGGY POP
+[40101S]
+I Wanna Be Your Dog
+[40102A]
+THIN LIZZY
+[40102S]
+Jailbreak
+[40103A]
+STARSHIP
+[40103S]
+Jane
+[40104A]
+AEROSMITH
+[40104S]
+Lord Of The Thighs
+[40105A]
+GENESIS
+[40105S]
+Mama
+[40106A]
+HELLO
+[40106S]
+New York Groove
+[40107A]
+QUEEN
+[40107S]
+One Vision
+[40108A]
+THE BLACK CROWES
+[40108S]
+Remedy
+[40109A]
+STYX
+[40109S]
+Renegade
+[40110A]
+JOE WALSH
+[40110S]
+Rocky Mountain Way
+[40111A]
+IRON MAIDEN
+[40111S]
+Run To The Hills
+[40112A]
+LYNYRD SKYNYRD
+[40112S]
+Saturday Night Special
+[40113A]
+HEART
+[40113S]
+Straight On
+[40114A]
+ELTON JOHN
+[40114S]
+Street Kids
+[40115A]
+THE WHO
+[40115S]
+The Seeker
+[40116A]
+ZZ TOP
+[40116S]
+Thug
+[40117A]
+AC/DC
+[40117S]
+Touch Too Much
+[40118A]
+R.E.M.
+[40118S]
+Turn You Inside Out
+[40119A]
+SAXON
+[40119S]
+Wheels Of Steel
+[40120A]
+MÖTLEY CRÜE
+[40120S]
+Wild Side
+
+
+
+
+
+{-- RADIO_24_THE_VIBE --}
+{-- The Vibe --}
+
+[40121A]
+NE - YO
+[40121S]
+Because Of You
+[40122A]
+R. KELLY
+[40122S]
+Bump N' Grind
+[40123A]
+MTUME
+[40123S]
+C.O.D (I'll Deliver)
+[40124A]
+ALEXANDER O'NEAL
+[40124S]
+Criticize
+[40125A]
+RAMP
+[40125S]
+Daylight
+[40126A]
+THE ISLEY BROTHERS
+[40126S]
+Footsteps In The Dark
+[40127A]
+JODECI
+[40127S]
+Freek 'n You
+[40128A]
+LLOYD
+[40128S]
+Get It Shawty
+[40129A]
+JILL SCOTT
+[40129S]
+Golden
+[40130A]
+LOOSE ENDS
+[40130S]
+Hangin' On A String (Contemplating)
+[40131A]
+FREDDIE JACKSON
+[40131S]
+Have You Ever Loved Somebody
+[40132A]
+DRU HILL
+[40132S]
+In My Bed (So So Def Mix)
+[40133A]
+MARVIN GAYE
+[40133S]
+Inner City Blues (Make Me Wanna Holler)
+[40134A]
+MINNIE RIPERTON
+[40134S]
+Inside My Love
+[40135A]
+BARRY WHITE
+[40135S]
+It's Only Love Doing Its Thing
+[40136A]
+CJ
+[40136S]
+I Want You
+[40137A]
+SOS BAND
+[40137S]
+Just Be Good To Me
+[40138A]
+GINUWINE
+[40138S]
+Pony
+[40139A]
+RAHEEM DEVAUGHN
+[40139S]
+You
+
+
+
+{-- ????? -}
+[40140A]
+PLACEHOLDER
+[40140S]
+PLACEHOLDER
+[40141A]
+PLACEHOLDER
+[40141S]
+PLACEHOLDER
+[40142A]
+PLACEHOLDER
+[40142S]
+PLACEHOLDER
+
+
+
+{-- RADIO_31_CLASSICAL_AMBIENT -- }
+{--- The Journey --}
+
+[40143A]
+GLOBAL COMMUNICATION
+[40143S]
+5:23 (Maiden Voyage)
+[40144A]
+TERRY RILEY
+[40144S]
+A Rainbow in Curved Air
+[40145A]
+STEVE ROACH
+[40145S]
+Arrival
+[40146A]
+MICHAEL SHRIEVE
+[40146S]
+Communique: 'Approach Spiral'
+[40147A]
+JEAN MICHEL JARRE
+[40147S]
+Oxygène, Pt 4
+[40148A]
+PHILIP GLASS
+[40148S]
+Pruit Igoe
+[40149A]
+TANGERINE DREAM
+[40149S]
+Remote Viewing
+[40150A]
+APHEX TWIN
+[40150S]
+Z Twig
+[40151A]
+RAY LYNCH
+[40151S]
+The Oh of Pleasure
+
+
+
+{-- RADIO_29_WKTT --}
+{-- WKTT --}
+[40152A]
+Just or Unjust
+
+[40153A]
+Fizz! 
+
+[40154A]
+The Richard Bastion Show
+
+
+
+{--- RADIO_28_K109_THE_STUDIO ---}
+{--- K109 The Studio ---}
+[40155A]
+PETER BROWN
+[40155S]
+Burning Love Breakdown
+[40156A]
+TAMIKO JONES
+[40156S]
+Can't Live Without Your Love
+[40157A]
+GINO SOCCIO
+[40157S]
+Dancer
+[40158A]
+SUZY Q
+[40158S]
+Get On Up and Do It Again
+[40159A]
+ELECTRIK FUNK
+[40159S]
+On a Journey
+[40160A]
+DON RAY
+[40160S]
+Standing in the Rain
+[40161A]
+CERRONE
+[40161S]
+Supernature
+[40162A]
+RAINBOW BROWN
+[40162S]
+Till You Surrender
+[40163A]
+HARRY THUMANN
+[40163S]
+Underwater
+[40164A]
+SKATT BROTHERS
+[40164S]
+Walk the Night
+[40165A]
+CHANGE
+[40165S]
+A Lover's Holiday
+[40166A]
+RUFUS FEAT.CHAKA KHAN
+[40166S]
+Any Love
+[40167A]
+THE FATBACK BAND
+[40167S]
+(Are You Ready) Do the Bus Stop
+[40168A]
+A TASTE OF HONEY
+[40168S]
+Boogie Oogie Oogie
+[40169A]
+THE TRAMMPS
+[40169S]
+Disco Inferno
+[40170A]
+CREME D'COCOA
+[40170S]
+Doin' the Dog
+[40171A]
+CHIC
+[40171S]
+Everybody Dance
+[40172A]
+SISTER SLEDGE
+[40172S]
+He's the Greatest Dancer
+[40173A]
+SYLVESTER
+[40173S]
+I Need You
+[40174A]
+SYLVESTER
+[40174S]
+Menergy
+[40175A]
+STEPHANIE MILLS
+[40175S]
+Put Your Body in It
+[40176A]
+DAN HARTMAN
+[40176S]
+Relight My Fire
+[40177A]
+PEACHES & HERB
+[40177S]
+Shake Your Groove Thing
+[40178A]
+ROSE ROYCE
+[40178S]
+Still in Love
+[40179A]
+MACHINE
+[40179S]
+There But For the Grace of God Go I
+[40180A]
+CANDI STATON
+[40180S]
+Young Hearts Run Free

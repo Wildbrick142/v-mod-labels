@@ -1,0 +1,13 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_10_SURF]
+Santos Surf
+
+[RADIO_18_90S_ROCK_02]
+Pre-Millennium Radio
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

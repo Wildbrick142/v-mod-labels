@@ -1,0 +1,12 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_45_VLADIVOSTOK_02]
+{ Vladivostok FM }
+Vladivostok Eurobeat
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

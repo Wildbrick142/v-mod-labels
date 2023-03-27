@@ -1,0 +1,1922 @@
+﻿{ Rockstar Editor SFX }
+
+{-- original score --}
+[2101A]
+Electro
+[2101S]
+Dark Intent
+
+[2102A]
+Electro
+[2102S]
+Vacuum
+
+[2103A]
+Electro
+[2103S]
+The City
+
+[2104A]
+Electro
+[2104S]
+City Lights
+
+[2105A]
+Electro
+[2105S]
+The Streets
+
+[2106A]
+Electro
+[2106S]
+Scrapyard
+
+[2107A]
+Electro
+[2107S]
+Slow Burn
+
+[2108A]
+Rock
+[2108S]
+Gasoline Trail
+
+[2109A]
+Rock
+[2109S]
+Rolling Tracks
+
+[2110A]
+Rock
+[2110S]
+Silver Splinter
+
+[2111A]
+Rock
+[2111S]
+Debunked
+
+[2112A]
+Rock
+[2112S]
+The Summit
+
+[2113A]
+Rock
+[2113S]
+Distant Rumble
+
+[2114A]
+Rock
+[2114S]
+Crocodile Tears
+
+[2115A]
+Urban
+[2115S]
+Shotgun Game
+
+[2116A]
+Urban
+[2116S]
+Cruising
+
+[2117A]
+Urban
+[2117S]
+Street Slice
+
+[2118A]
+Urban
+[2118S]
+Vodka
+
+[2119A]
+Urban
+[2119S]
+Gun Novel
+
+
+
+
+{--- Commercials ---}
+[3100A]
+Commercial
+[3100S]
+Life Invader
+
+[3101A]
+Commercial
+[3101S]
+Righteous Slaughter "Nuke"
+
+[3102A]
+Commercial
+[3102S]
+Righteous Slaughter "Russians"
+
+[3103A]
+Commercial
+[3103S]
+Righteous Slaughter "Levels"
+
+[3104A]
+Commercial
+[3104S]
+San Andreas Tourism Board
+
+[3105A]
+Commercial
+[3105S]
+Grand Senora Desert
+
+[3106A]
+Commercial
+[3106S]
+San Andreas Water And Power
+
+[3107A]
+Commercial
+[3107S]
+Up-n-Atom
+
+[3108A]
+Commercial
+[3108S]
+Proposition 43
+
+[3109A]
+Commercial
+[3109S]
+Toeshoes
+
+[3110A]
+Commercial
+[3110S]
+Implant Outsource
+
+[3111A]
+Commercial
+[3111S]
+Donate Your Car
+
+[3112A]
+Commercial
+[3112S]
+Race To Pluto
+
+[3113A]
+Commercial
+[3113S]
+Proposition 208 "Dad"
+
+[3114A]
+Commercial
+[3114S]
+Proposition 208 "Jungle"
+
+[3115A]
+Commercial
+[3115S]
+Pisswasser
+
+[3116A]
+Commercial
+[3116S]
+Queensbury Boxing
+
+[3117A]
+Commercial
+[3117S]
+Lottery "Solving Hunger"
+
+[3118A]
+Commercial
+[3118S]
+Lottery 2 "Bugle"
+
+[3119A]
+Commercial
+[3119S]
+Whiz Wireless
+
+[3120A]
+Commercial
+[3120S]
+Rectify Holistic
+
+[3121A]
+Commercial
+[3121S]
+Jay's Bail Bonds
+
+[3122A]
+Commercial
+[3122S]
+Ovine Human Resources
+
+[3123A]
+Commercial
+[3123S]
+Proposition 14
+
+[3124A]
+Commercial
+[3124S]
+Prison Industrial Complex "Officer"
+
+[3125A]
+Commercial
+[3125S]
+Prison Industrial Complex 2 "Franchise"
+
+[3126A]
+Commercial
+[3126S]
+San Andreas Lobotomy
+
+[3127A]
+Commercial
+[3127S]
+Darwinian Yoga
+
+[3128A]
+Commercial
+[3128S]
+Gastro Band
+
+[3129A]
+Commercial
+[3129S]
+Economic Recovery Group
+
+[3130A]
+Commercial
+[3130S]
+Rehab Island
+
+[3131A]
+Commercial
+[3131S]
+Larry's RV Sales
+
+[3132A]
+Commercial
+[3132S]
+Night Lights
+
+[3133A]
+Commercial
+[3133S]
+Head Shots
+
+[3134A]
+Commercial
+[3134S]
+Electrotoke
+
+[3135A]
+Commercial
+[3135S]
+Toilet Cleaner
+
+[3136A]
+Commercial
+[3136S]
+Stop Paying Your Mortgage
+
+[3137A]
+Commercial
+[3137S]
+Floyd's Scrap Metal
+
+[3138A]
+Commercial
+[3138S]
+Buddy's Trucking
+
+[3139A]
+Commercial
+[3139S]
+Fleeca "Interest Fees"
+
+[3140A]
+Commercial
+[3140S]
+Fleeca 2 "Bedroom"
+
+[3141A]
+Commercial
+[3141S]
+Shark
+
+[3142A]
+Commercial
+[3142S]
+Smoked Dreams
+
+[3143A]
+Commercial
+[3143S]
+Hipsters For Hire
+
+[3144A]
+Commercial
+[3144S]
+Preservex
+
+[3145A]
+Commercial
+[3145S]
+Don's Country Store
+
+[3146A]
+Commercial
+[3146S]
+Proposition 45
+
+[3147A]
+Commercial
+[3147S]
+Windsor Real Estate "Immigrant"
+
+[3148A]
+Commercial
+[3148S]
+Windsor Real Estate 2 "Swinger"
+
+[3149A]
+Commercial
+[3149S]
+Cuckold Therapy
+
+[3150A]
+Commercial
+[3150S]
+Digifarm "Digifarm"
+
+[3151A]
+Commercial
+[3151S]
+Digifarm "Games"
+
+[3152A]
+Commercial
+[3152S]
+Blaine County Bank
+
+[3153A]
+Commercial
+[3153S]
+Lombank
+
+[3154A]
+Commercial
+[3154S]
+Hitting Kids Works Wonders
+
+[3155A]
+Commercial
+[3155S]
+Vinewood Health
+
+[3156A]
+Commercial
+[3156S]
+LS Benders "Wanker"
+
+[3157A]
+Commercial
+[3157S]
+LS Benders "Fat Bastard"
+
+[3158A]
+Commercial
+[3158S]
+Youtool
+
+[3159A]
+Commercial
+[3159S]
+Ammunation "Gardening"
+
+[3160A]
+Commercial
+[3160S]
+Ammunation "Apocalypse"
+
+[3161A]
+Commercial
+[3161S]
+Flow Water
+
+[3162A]
+Commercial
+[3162S]
+13 Steps To Heaven "Opportunity"
+
+[3163A]
+Commercial
+[3163S]
+Serious Cougar
+
+[3164A]
+Commercial
+[3164S]
+Cloud Computing
+
+[3165A]
+Commercial
+[3165S]
+Pride Not Prejudice "Grain Alcohol"
+
+[3166A]
+Commercial
+[3166S]
+Pride Not Prejudice "Tornado"
+
+[3167A]
+Commercial
+[3167S]
+Hitting Kids Works Wonders "Pot"
+
+[3168A]
+Commercial
+[3168S]
+Hammerstein And Faust
+
+[3169A]
+Commercial
+[3169S]
+Grain Of Truth
+
+[3170A]
+Commercial
+[3170S]
+FlyUS "Choices"
+
+[3171A]
+Commercial
+[3171S]
+FlyUS "Drunk"
+
+[3172A]
+Commercial
+[3172S]
+FlyUS "Planes"
+
+[3173A]
+Commercial
+[3173S]
+Refinance Your Home
+
+[3174A]
+Commercial
+[3174S]
+Unlock The Power "Jerking"
+
+[3175A]
+Commercial
+[3175S]
+Unlock The Power "Abyss"
+
+[3176A]
+Commercial
+[3176S]
+13 Steps To Heaven "Drowning"
+
+[3177A]
+Commercial
+[3177S]
+13 Steps To Heaven "Train"
+
+[3178A]
+Commercial
+[3178S]
+Manopause Adventures
+
+[3179A]
+Commercial
+[3179S]
+MMA
+
+[3180A]
+Commercial
+[3180S]
+Alcoholla
+
+[3181A]
+Commercial
+[3181S]
+Egochaser
+
+[3182A]
+Commercial
+[3182S]
+Chains Of Intimacy "Throbbing"
+
+[3183A]
+Commercial
+[3183S]
+Chains Of Intimacy "Diamonds"
+
+[3184A]
+Commercial
+[3184S]
+Bravado "Farms"
+
+[3185A]
+Commercial
+[3185S]
+Bravado "Cruise Control"
+
+[3186A]
+Commercial
+[3186S]
+SA Flight School
+
+[3187A]
+Commercial
+[3187S]
+Crevis "Nature"
+
+[3188A]
+Commercial
+[3188S]
+Crevis "Everest"
+
+[3189A]
+Commercial
+[3189S]
+Epsilon "Antarctica"
+
+[3190A]
+Commercial
+[3190S]
+Epsilon "Famous People"
+
+[3191A]
+Commercial
+[3191S]
+13 Steps To Heaven "Victims"
+
+[3192A]
+Commercial
+[3192S]
+Pontius
+
+[3193A]
+Commercial
+[3193S]
+Sue Murry
+
+[3194A]
+Commercial
+[3194S]
+Jock Cranley "Vote Jock"
+
+[3195A]
+Commercial
+[3195S]
+Jock Cranley "Your Jock"
+
+[3196A]
+Commercial
+[3196S]
+Extreme Paleo TM "Get Extreme"
+
+[3197A]
+Commercial
+[3197S]
+Extreme Paleo TM 2 "Real Paleo"
+
+[3198A]
+Commercial
+[3198S]
+Machiavelli Race "Win"
+
+[3199A]
+Commercial
+[3199S]
+Machiavelli Race "The Race"
+
+[3200A]
+Commercial
+[3200S]
+Mystaspot
+
+[3201A]
+Commercial
+[3201S]
+Phat Chips
+
+[3202A]
+Commercial
+[3202S]
+TCS Energy Pro 1
+
+[3203A]
+Commercial
+[3203S]
+TCS Energy Pro 2
+
+[3204A]
+Commercial
+[3204S]
+Visit Liberty City
+
+[3205A]
+Commercial
+[3205S]
+Bison
+
+[3206A]
+Commercial
+[3206S]
+Bravado "Together"
+
+[3207A]
+Commercial
+[3207S]
+Logger Beer
+
+[3208A]
+Commercial
+[3208S]
+Lottery "Ex-Wife"
+
+[3209A]
+Commercial
+[3209S]
+Hospital
+
+[3210A]
+Commercial
+[3210S]
+San Andreas Tourism Board 2
+
+[3211A]
+Commercial
+[3211S]
+San Andreas Water And Power 2
+
+[3212A]
+Commercial
+[3212S]
+Stunt Academy
+
+[3213A]
+Commercial
+[3213S]
+Epsilon "Famous People" 2
+
+[3214A]
+Commercial
+[3214S]
+Phat Chips 2
+
+[3215A]
+Commercial
+[3215S]
+Mystaspot 2
+
+[3216A]
+Commercial
+[3216S]
+Ammunation "Apocalypse" 2
+
+[3217A]
+Commercial
+[3217S]
+Grand Senora Desert 2
+
+[3218A]
+Commercial
+[3218S]
+Life Invader 2
+
+[3219A]
+Commercial
+[3219S]
+Surano
+
+[3220A]
+Commercial
+[3220S]
+Up-n-Atom 2
+
+
+
+
+
+
+{-- SFX --}
+[3300A]
+Crashes
+[3300S]
+Large Crash 1
+
+[3301A]
+Crashes
+[3301S]
+Large Crash 2
+
+[3302A]
+Crashes
+[3302S]
+Large Crash 3
+
+[3303A]
+Crashes
+[3303S]
+Medium Crash 1
+
+[3304A]
+Crashes
+[3304S]
+Medium Crash 2
+
+[3305A]
+Crashes
+[3305S]
+Medium Crash 3
+
+[3306A]
+Crashes
+[3306S]
+Small Crash 1
+
+[3307A]
+Crashes
+[3307S]
+Small Crash 2
+
+[3308A]
+Crashes
+[3308S]
+Small Crash 3
+
+[3309A]
+Explosions
+[3309S]
+Metal Explosion 1
+
+[3310A]
+Explosions
+[3310S]
+Metal Explosion 2
+
+[3311A]
+Explosions
+[3311S]
+Metal Explosion 3
+
+[3312A]
+Explosions
+[3312S]
+Wood Explosion 1
+
+[3313A]
+Explosions
+[3313S]
+Wood Explosion 2
+
+[3314A]
+Explosions
+[3314S]
+Wood Explosion 3
+
+[3315A]
+Crashes
+[3315S]
+Large Glass Break 1
+
+[3316A]
+Crashes
+[3316S]
+Large Glass Break 2
+
+[3317A]
+Crashes
+[3317S]
+Large Glass Break 3
+
+[3318A]
+Crashes
+[3318S]
+Medium Glass Break 1
+
+[3319A]
+Crashes
+[3319S]
+Medium Glass Break 2
+
+[3320A]
+Crashes
+[3320S]
+Medium Glass Break 3
+
+[3321A]
+Crashes
+[3321S]
+Small Glass Break 1
+
+[3322A]
+Crashes
+[3322S]
+Small Glass Break 2
+
+[3323A]
+Crashes
+[3323S]
+Small Glass Break 3
+
+[3324A]
+Explosions
+[3324S]
+Explosion 1
+
+[3325A]
+Explosions
+[3325S]
+Explosion 2
+
+[3326A]
+Explosions
+[3326S]
+Explosion 3
+
+[3327A]
+Explosions
+[3327S]
+Distant Explosion 1
+
+[3328A]
+Explosions
+[3328S]
+Distant Explosion 2
+
+[3329A]
+Explosions
+[3329S]
+Distant Explosion 3
+
+[3330A]
+Miscellaneous
+[3330S]
+Door Open 1
+
+[3331A]
+Miscellaneous
+[3331S]
+Door Open 2
+
+[3332A]
+Miscellaneous
+[3332S]
+Door Close 1
+
+[3333A]
+Miscellaneous
+[3333S]
+Door Close 2
+
+[3334A]
+Vehicle Pass By
+[3334S]
+Jet Plane Pass By 5
+
+[3335A]
+Vehicle Pass By
+[3335S]
+Jet Plane Pass By 6
+
+[3340A]
+Miscellaneous
+[3340S]
+Bottle Break 1
+
+[3341A]
+Miscellaneous
+[3341S]
+Bottle Break 2
+
+[3342A]
+Miscellaneous
+[3342S]
+Bottle Break 3
+
+[3343A]
+Miscellaneous
+[3343S]
+Skid 1
+
+[3344A]
+Miscellaneous
+[3344S]
+Skid 2
+
+[3345A]
+Miscellaneous
+[3345S]
+Skid 3
+
+[3346A]
+Miscellaneous
+[3346S]
+Skid 4
+
+[3347A]
+Miscellaneous
+[3347S]
+Skid 5
+
+[3348A]
+Miscellaneous
+[3348S]
+Door Knock 1
+
+[3349A]
+Miscellaneous
+[3349S]
+Door Knock 2
+
+[3350A]
+Miscellaneous
+[3350S]
+Door Knock 3
+
+[3351A]
+Miscellaneous
+[3351S]
+Door Knock 4
+
+[3352A]
+Miscellaneous
+[3352S]
+Door Knock 5
+
+[3353A]
+Miscellaneous
+[3353S]
+Door Knock 6
+
+[3354A]
+Miscellaneous
+[3354S]
+Door Knock 7
+
+[3355A]
+Miscellaneous
+[3355S]
+Dog Bark 1
+
+[3356A]
+Miscellaneous
+[3356S]
+Dog Bark 2
+
+[3357A]
+Miscellaneous
+[3357S]
+Dog Bark 3
+
+[3358A]
+Miscellaneous
+[3358S]
+Dog Bark 4
+
+[3359A]
+Miscellaneous
+[3359S]
+Dog Bark 5
+
+[3360A]
+Vehicle Pass By
+[3360S]
+Car Pass with Horn 1
+
+[3361A]
+Vehicle Pass By
+[3361S]
+Car Pass with Horn 2
+
+[3362A]
+Vehicle Pass By
+[3362S]
+Car Pass with Horn 3
+
+[3363A]
+Vehicle Pass By
+[3363S]
+Car Pass with Horn 4
+
+[3364A]
+Vehicle Pass By
+[3364S]
+Car Pass with Horn 5
+
+[3365A]
+Vehicle Pass By
+[3365S]
+Truck Pass with Horn 1
+
+[3366A]
+Vehicle Pass By
+[3366S]
+Truck Pass with Horn 2
+
+[3367A]
+Vehicle Pass By
+[3367S]
+Truck Pass with Horn 3
+
+[3368A]
+Vehicle Pass By
+[3368S]
+Motorcycle Pass with Horn 1
+
+[3369A]
+Vehicle Pass By
+[3369S]
+Motorcycle Pass with Horn 2
+
+[3370A]
+Vehicle Pass By
+[3370S]
+Motorcycle Pass with Horn 3
+
+[3371A]
+Vehicle Pass By
+[3371S]
+Motorcycle Pass with Horn 4
+
+[3372A]
+Vehicle Pass By
+[3372S]
+Motorcycle Pass with Horn 5
+
+[3373A]
+Vehicle Pass By
+[3373S]
+Motorcycle Pass with Horn 6
+
+[3374A]
+Vehicle Pass By
+[3374S]
+Motorcycle Pass By 1
+
+[3375A]
+Vehicle Pass By
+[3375S]
+Motorcycle Pass By 2
+
+[3376A]
+Vehicle Pass By
+[3376S]
+Motorcycle Pass By 3
+
+[3377A]
+Vehicle Pass By
+[3377S]
+Motorcycle Pass By 4
+
+[3378A]
+Vehicle Pass By
+[3378S]
+Motorcycle Pass By 5
+
+[3379A]
+Vehicle Pass By
+[3379S]
+Car Pass By 1
+
+[3380A]
+Vehicle Pass By
+[3380S]
+Car Pass By 2
+
+[3381A]
+Vehicle Pass By
+[3381S]
+Car Pass By 3
+
+[3382A]
+Vehicle Pass By
+[3382S]
+Car Pass By 4
+
+[3383A]
+Vehicle Pass By
+[3383S]
+Car Pass By 5
+
+[3384A]
+Vehicle Pass By
+[3384S]
+Car Pass By 6
+
+[3385A]
+Vehicle Pass By
+[3385S]
+Car Pass By 7
+
+[3386A]
+Vehicle Pass By
+[3386S]
+Car Pass By 8
+
+[3387A]
+Vehicle Pass By
+[3387S]
+Siren Pass By 1
+
+[3388A]
+Vehicle Pass By
+[3388S]
+Siren Pass By 2
+
+[3389A]
+Vehicle Pass By
+[3389S]
+Siren Pass By 3
+
+[3390A]
+Vehicle Pass By
+[3390S]
+Siren Pass By 4
+
+[3391A]
+Vehicle Pass By
+[3391S]
+Prop Plane Pass By 1
+
+[3392A]
+Vehicle Pass By
+[3392S]
+Prop Plane Pass By 2
+
+[3393A]
+Vehicle Pass By
+[3393S]
+Prop Plane Pass By 3
+
+[3394A]
+Vehicle Pass By
+[3394S]
+Prop Plane Pass By 4
+
+[3395A]
+Vehicle Pass By
+[3395S]
+Prop Plane Pass By 5
+
+[3396A]
+Vehicle Pass By
+[3396S]
+Jet Plane Pass By 1
+
+[3397A]
+Vehicle Pass By
+[3397S]
+Jet Plane Pass By 2
+
+[3398A]
+Vehicle Pass By
+[3398S]
+Jet Plane Pass By 3
+
+[3399A]
+Vehicle Pass By
+[3399S]
+Jet Plane Pass By 4
+
+[3400A]
+Stingers
+[3400S]
+Stinger Hit 1
+
+[3401A]
+Stingers
+[3401S]
+Stinger Hit 2
+
+[3402A]
+Stingers
+[3402S]
+Stinger Hit 3
+
+[3403A]
+Stingers
+[3403S]
+Stinger Hit 4
+
+[3404A]
+Stingers
+[3404S]
+Stinger Hit 5
+
+[3405A]
+Stingers
+[3405S]
+Stinger Riser 1
+
+[3406A]
+Stingers
+[3406S]
+Stinger Riser 2
+
+[3407A]
+Stingers
+[3407S]
+Stinger Riser 3
+
+[3408A]
+Stingers
+[3408S]
+Stinger Riser 4
+
+[3409A]
+Stingers
+[3409S]
+Stinger Riser 5
+
+[3410A]
+Stingers
+[3410S]
+Stinger Wipe 1
+
+[3411A]
+Stingers
+[3411S]
+Stinger Wipe 2
+
+[3412A]
+Stingers
+[3412S]
+Stinger Wipe 3
+
+[3413A]
+Stingers
+[3413S]
+Stinger Wipe 4
+
+[3414A]
+Stingers
+[3414S]
+Stinger Wipe 5
+
+
+
+
+{--- DLC_HALLOWEEN_SFX --}
+[3415A]
+Horror Stingers
+[3415S]
+Horror Stinger Hit 1
+[3416A]
+Horror Stingers
+[3416S]
+Horror Stinger Hit 2
+[3417A]
+Horror Stingers
+[3417S]
+Horror Stinger Hit 3
+[3418A]
+Horror Stingers
+[3418S]
+Horror Stinger Hit 4
+
+[3419A]
+Horror Stingers
+[3419S]
+Horror Stinger Hit 5
+
+[3420A]
+Horror Stingers
+[3420S]
+Horror Stinger Hit 6
+
+[3421A]
+Horror Stingers
+[3421S]
+Horror Stinger Hit 7
+
+[3422A]
+Horror Stingers
+[3422S]
+Horror Stinger Hit 8
+
+[3423A]
+Horror Stingers
+[3423S]
+Horror Stinger Riser 1
+
+[3424A]
+Horror Stingers
+[3424S]
+Horror Stinger Riser 2
+
+[3425A]
+Horror Stingers
+[3425S]
+Horror Stinger Riser 3
+
+[3426A]
+Horror Stingers
+[3426S]
+Horror Stinger Riser 4
+
+[3427A]
+Horror Stingers
+[3427S]
+Horror Stinger Riser 5
+
+[3428A]
+Horror Stingers
+[3428S]
+Horror Stinger Thud 1
+
+[3429A]
+Horror Stingers
+[3429S]
+Horror Stinger Thud 2
+
+[3430A]
+Horror Stingers
+[3430S]
+Horror Stinger Thud 3
+
+[3431A]
+Horror Misc
+[3431S]
+Creaky Door Open 1
+
+[3432A]
+Horror Misc
+[3432S]
+Creaky Door Open 2
+
+[3433A]
+Horror Misc
+[3433S]
+Creaky Door Close 1
+
+[3434A]
+Horror Misc
+[3434S]
+Creaky Door Close 2
+
+[3435A]
+Horror Gore
+[3435S]
+Crushed 1
+
+[3436A]
+Horror Gore
+[3436S]
+Crushed 2
+
+[3437A]
+Horror Gore
+[3437S]
+Crushed 3
+
+[3438A]
+Horror Gore
+[3438S]
+Crushed 4
+
+[3439A]
+Horror Gore
+[3439S]
+Crushed 5
+
+[3440A]
+Horror Gore
+[3440S]
+Crushed 6
+
+[3441A]
+Horror Gore
+[3441S]
+Bone Crunch 1
+
+[3442A]
+Horror Gore
+[3442S]
+Bone Crunch 2
+
+[3443A]
+Horror Gore
+[3443S]
+Dismember 1
+
+[3444A]
+Horror Gore
+[3444S]
+Throat Slit 1
+
+[3445A]
+Horror Gore
+[3445S]
+Throat Slit 2
+
+[3446A]
+Horror Gore
+[3446S]
+Horror Crunch 6
+
+[3447A]
+Horror Gore
+[3447S]
+Stab 1
+
+[3448A]
+Horror Gore
+[3448S]
+Stab 2
+
+[3449A]
+Horror Gore
+[3449S]
+Stab 3
+
+[3450A]
+Weather
+[3450S]
+Thunderstorm
+
+[3451A]
+Weather
+[3451S]
+Light Rain and Wind
+
+[3452A]
+Weather
+[3452S]
+Heavy Rain and Wind
+
+[3480A]
+Horror Animals
+[3480S]
+Wolf 1
+
+[3481A]
+Horror Animals
+[3481S]
+Wolf 2
+
+[3482A]
+Horror Animals
+[3482S]
+Wolf 3
+
+[3483A]
+Horror Voices
+[3483S]
+Witch 1
+
+[3484A]
+Horror Voices
+[3484S]
+Witch 2
+
+[3485A]
+Horror Animals
+[3485S]
+Angry Cat 1
+
+[3486A]
+Horror Animals
+[3486S]
+Angry Cat 2
+
+[3487A]
+Horror Animals
+[3487S]
+Angry Cat 3
+
+[3488A]
+Horror Animals
+[3488S]
+Angry Cat 4
+
+[3489A]
+Horror Animals
+[3489S]
+Angry Cat 5
+
+[3490A]
+Horror Gore
+[3490S]
+Stab 4
+
+[3491A]
+Horror Gore
+[3491S]
+Stab 5
+
+[3492A]
+Horror Gore
+[3492S]
+Bludgeon 1
+
+[3493A]
+Horror Gore
+[3493S]
+Bludgeon 2
+
+[3494A]
+Horror Gore
+[3494S]
+Bludgeon 3
+
+[3495A]
+Horror Gore
+[3495S]
+Hack 1
+
+[3496A]
+Horror Gore
+[3496S]
+Hack 2
+
+[3497A]
+Horror Gore
+[3497S]
+Hack 3
+
+[3498A]
+Horror Gore
+[3498S]
+Hack 4
+
+[3499A]
+Horror Gore
+[3499S]
+Hack 5
+
+[3500A]
+Alarms
+[3500S]
+Alarm 1
+
+[3501A]
+Alarms
+[3501S]
+Alarm 2
+
+[3502A]
+Alarms
+[3502S]
+Alarm 3
+
+[3503A]
+Alarms
+[3503S]
+Alarm 4
+
+[3504A]
+Alarms
+[3504S]
+Alarm 5
+
+[3505A]
+Alarms
+[3505S]
+Alarm 6
+
+[3510A]
+Fire
+[3510S]
+Fire 1
+
+[3511A]
+Fire
+[3511S]
+Fire 2
+
+[3512A]
+Fire
+[3512S]
+Fire 3
+
+[3513A]
+Fire
+[3513S]
+Fire 4
+
+[3515A]
+Sirens
+[3515S]
+Siren 1
+
+[3516A]
+Sirens
+[3516S]
+Siren 2
+
+[3517A]
+Sirens
+[3517S]
+Siren 3
+
+[3550A]
+Environment Noises
+[3550S]
+Commercial Area 1
+
+[3551A]
+Environment Noises
+[3551S]
+Industrial Area 1
+
+[3552A]
+Environment Noises
+[3552S]
+Residential Area 1
+
+[3553A]
+Environment Noises
+[3553S]
+Residential Area 2
+
+[3554A]
+Environment Noises
+[3554S]
+Countryside 1
+
+[3555A]
+Environment Noises
+[3555S]
+Countryside 2
+
+[3556A]
+Environment Noises
+[3556S]
+Desert 1
+
+[3557A]
+Environment Noises
+[3557S]
+Desert 2
+
+[3558A]
+Environment Noises
+[3558S]
+Desert 3
+
+[3559A]
+Horror Drones
+[3559S]
+Horror Drone 1
+
+[3560A]
+Horror Drones
+[3560S]
+Horror Drone 2
+
+[3562A]
+Horror Drones
+[3562S]
+Horror Drone 3
+
+[3564A]
+Horror Drones
+[3564S]
+Horror Drone 4
+
+[3565A]
+Horror Drones
+[3565S]
+Horror Drone 5
+
+[3566A]
+Horror Drones
+[3566S]
+Horror Drone 6
+
+[3567A]
+Horror Drones
+[3567S]
+Horror Drone 7
+
+[3568A]
+Horror Drones
+[3568S]
+Horror Drone 8
+
+[3570A]
+Horror Miscellaneous
+[3570S]
+Burning Alive 1
+
+[3571A]
+Horror Miscellaneous
+[3571S]
+Breathing 1
+
+[3573A]
+Horror Miscellaneous
+[3573S]
+Eerie Wind 1
+
+[3574A]
+Horror Miscellaneous
+[3574S]
+Eerie Wind 2
+
+[3575A]
+Horror Miscellaneous
+[3575S]
+Woman Crying 1
+
+[3576A]
+Horror Miscellaneous
+[3576S]
+Dripping Faucet 1
+
+[3577A]
+Horror Miscellaneous
+[3577S]
+Chains Rattle 1
+
+[3578A]
+Horror Miscellaneous
+[3578S]
+Creaky Stairwell 1
+
+[3580A]
+Horror Gore
+[3580S]
+Body Impact 1
+
+[3581A]
+Horror Gore
+[3581S]
+Body Impact 2
+
+[3582A]
+Horror Gore
+[3582S]
+Body Impact 3
+
+[3583A]
+Horror Gore
+[3583S]
+Body Impact 4
+
+[3584A]
+Horror Voices
+[3584S]
+Female Scream 1
+
+[3585A]
+Horror Voices
+[3585S]
+Female Scream 2
+
+[3586A]
+Horror Voices
+[3586S]
+Female Scream 3
+
+[3587A]
+Horror Voices
+[3587S]
+Female Scream 4
+
+[3588A]
+Horror Voices
+[3588S]
+Female Scream 5
+
+[3589A]
+Horror Voices
+[3589S]
+Male Scream 1
+
+[3590A]
+Horror Voices
+[3590S]
+Male Scream 2
+
+[3591A]
+Horror Voices
+[3591S]
+Male Scream 3
+
+[3592A]
+Horror Voices
+[3592S]
+Male Scream 4
+
+[3593A]
+Horror Voices
+[3593S]
+Male Scream 5
+
+[3594A]
+Horror Voices
+[3594S]
+Creature 1
+
+[3595A]
+Horror Voices
+[3595S]
+Creature 2
+
+[3596A]
+Horror Voices
+[3596S]
+Creature 3
+
+[3597A]
+Horror Misc
+[3597S]
+Muffled Footsteps 1
+
+[3598A]
+Horror Misc
+[3598S]
+Rattle Door Handle 1
+
+[3599A]
+Horror Misc
+[3599S]
+Rattle Door Handle 2
+
+[3600A]
+Horror Gore
+[3600S]
+Blood Spills 1
+
+[3601A]
+Horror Gore
+[3601S]
+Blood Spills 2
+
+[3602A]
+Horror Misc
+[3602S]
+Church Bell Midnight 1
+
+[3603A]
+Horror Animals
+[3603S]
+Angry Dog 1
+
+[3604A]
+Horror Animals
+[3604S]
+Angry Dog 2
+
+[3605A]
+Horror Animals
+[3605S]
+Angry Dog 3
+
+[3606A]
+Horror Animals
+[3606S]
+Angry Dog 4
+
+[3607A]
+Horror Animals
+[3607S]
+Angry Dog 5
+
+[3608A]
+Horror Gore
+[3608S]
+Bludgeon 4
+
+[3609A]
+Horror Gore
+[3609S]
+Bludgeon 5
+
+[3610A]
+Horror Gore
+[3610S]
+Bludgeon 6
+
+[3611A]
+Horror Gore
+[3611S]
+Bludgeon 7
+
+[3612A]
+Horror Gore
+[3612S]
+Bludgeon 8
+
+[3613A]
+Horror Gore
+[3613S]
+Bottle Stab 1
+
+
+
+{--- SFX END --}

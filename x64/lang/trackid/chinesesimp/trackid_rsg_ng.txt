@@ -1,0 +1,907 @@
+﻿{--- NG track updates ---}
+
+{-- RADIO_01_CLASS_ROCK --}
+{-- Los Santos Rock Radio --}
+[1468A]
+CREEDENCE CLEARWATER REVIVAL
+[1468S]
+Fortunate Son
+
+[1469A]
+MOUNTAIN
+[1469S]
+Mississippi Queen
+
+[1470A]
+ALANNAH MYLES
+[1470S]
+Black Velvet
+
+[1472A]
+KANSAS
+[1472S]
+Carry On Wayward Son
+
+[1473A]
+SURVIVOR
+[1473S]
+Burning Heart
+
+[1474A]
+ZZ TOP
+[1474S]
+Gimme All Your Lovin'
+
+[1475A]
+BROKEN ENGLISH
+[1475S]
+Coming On Strong
+
+[1477A]
+BOSTON
+[1477S]
+Peace Of Mind
+
+[1478A]
+YES
+[1478S]
+Roundabout
+
+[1479A]
+HARRY CHAPIN
+[1479S]
+Cat's In The Cradle
+
+[1481A]
+PAT BENATAR
+[1481S]
+Shadows Of The Night
+
+[1484A]
+BELINDA CARLISLE
+[1484S]
+Circle In The Sand
+
+[1563A]
+STARSHIP
+[1563S]
+We Built This City
+
+[1566A]
+HUMBLE PIE
+[1566S]
+Thirty Days In The Hole
+
+[1605A]
+KENNY LOGGINS
+[1605S]
+Danger Zone
+
+
+
+
+{-- RADIO_02_POP --}
+{-- NonStop Pop FM --}
+[1406A]
+MIKE POSNER
+[1406S]
+Cooler Than Me
+
+[1407A]
+MOLOKO
+[1407S]
+The Time Is Now
+
+[1408A]
+MORCHEEBA
+[1408S]
+Tape Loop
+
+[1409A]
+ROBBIE WILLIAMS & KYLIE MINOGUE
+[1409S]
+Kids
+
+[1410A]
+SNEAKER PIMPS
+[1410S]
+6 Underground
+
+[1411A]
+CASSIE
+[1411S]
+Me & U
+
+[1482A]
+BLOW MONKEYS FEAT.KYM MAZELLE
+[1482S]
+Wait
+
+[1485A]
+INXS
+[1485S]
+New Sensation
+
+[1487A]
+BOBBY BROWN
+[1487S]
+On Our Own
+
+[1488A]
+SIMPLY RED
+[1488S]
+Something Got Me Started (Hurley's House Mix)
+
+[1489A]
+BACKSTREET BOYS
+[1489S]
+I Want It That Way
+
+[1490A]
+GORILLAZ
+[1490S]
+Feel Good Inc.
+
+[1491A]
+MAROON 5
+[1491S]
+Moves Like Jagger (feat.Christina Aguilera)
+
+[1493A]
+M.I.A.
+[1493S]
+Bad Girls
+
+[1495A]
+M83
+[1495S]
+Midnight City
+
+[1496A]
+LORDE
+[1496S]
+Tennis Court
+
+[1497A]
+LADY GAGA
+[1497S]
+Applause
+
+[1570A]
+REAL LIFE
+[1570S]
+Send Me An Angel
+
+[1571A]
+SLY FOX
+[1571S]
+Let's Go All The Way
+
+[1574A]
+JAMIROQUAI
+[1574S]
+Alright
+
+[1575A]
+DIRTY VEGAS
+[1575S]
+Days Go By
+
+[1589A]
+LIVING IN A BOX
+[1589S]
+Living In A Box
+
+[1590A]
+THE BLACK EYED PEAS
+[1590S]
+Meet Me Halfway
+
+[1604A]
+TAYLOR DAYNE
+[1604S]
+Tell It To My Heart
+
+[1607A]
+BRONSKI BEAT
+[1607S]
+Smalltown Boy
+
+[1608A]
+NAKED EYES
+[1608S]
+Promises, Promises
+
+
+
+
+
+{-- RADIO_03_HIPHOP_NEW ---}
+{-- Radio LS ---}
+
+[1415A]
+DANNY BROWN & ACTION BRONSON
+[1415S]
+Bad News
+
+[1498A]
+A$AP FERG
+[1498S]
+Work
+
+[1499A]
+KENDRICK LAMAR
+[1499S]
+Swimming Pools (Drank)
+
+[1500A]
+DANNY BROWN FEAT.A$AP ROCKY & ZELOOPERZ
+[1500S]
+Kush Coma
+
+[1501A]
+SCHOOLBOY Q FEAT.KENDRICK LAMAR
+[1501S]
+Collard Greens
+
+[1503A]
+SKEME
+[1503S]
+Millions
+
+[1504A]
+AB-SOUL FEAT.SCHOOLBOY Q
+[1504S]
+Hunnid Stax
+
+[1505A]
+PROBLEM & IAMSU!FEAT.BAD LUCC & SAGE THE GEMINI
+[1505S]
+Do It Big
+
+[1577A]
+G-SIDE FT G-MANE
+[1577S]
+Relaxin
+
+[1578A]
+TROUBLE FT GUCCI MANE
+[1578S]
+Everyday
+
+[1579A]
+TRAVI$ SCOTT
+[1579S]
+Upper Echelon feat T.I. and 2 Chainz
+
+[1580A]
+ACE HOOD FEAT.FUTURE & RICK ROSS
+[1580S]
+Bugatti
+
+[1581A]
+CHUCK INGLISH
+[1581S]
+Came Thru/Easily feat Mac Miller and Ab-Soul
+
+[1582A]
+YOUNG SCOOTER FEAT.GUCCI MANE
+[1582S]
+Work
+
+[1594A]
+YOUNG SCOOTER FT TRINIDAD JAMES
+[1594S]
+I Can't Wait
+
+[1643A]
+FREDDIE GIBBS & MIKE DEAN
+[1643S]
+Sellin' Dope
+
+
+
+{-- RADIO_04_PUNK ---}
+{-- Radio X ---}
+
+[1420A]
+D.O.A.
+[1420S]
+The Enemy
+
+[1421A]
+D.R.I
+[1421S]
+I Don't Need Society
+
+[1422A]
+MDC
+[1422S]
+John Wayne Was A Nazi
+
+[1423A]
+REDD KROSS
+[1423S]
+Linda Blair
+
+[1427A]
+X
+[1427S]
+Los Angeles
+
+[1428A]
+THE ZEROS
+[1428S]
+Don't Push Me Around
+
+
+
+
+
+
+{ -- RADIO_06_COUNTRY --}
+{ -- Rebel Radio --}
+
+[1429A]
+CHARLIE FEATHERS
+[1429S]
+Get With It
+
+[1506A]
+HOMER & JETHRO
+[1506S]
+She Made Toothpicks Of The Timber Of My Heart
+
+[1507A]
+TAMMY WYNETTE
+[1507S]
+D-I-V-O-R-C-E
+
+[1508A]
+MARVIN JACKSON
+[1508S]
+Dippin' Snuff
+
+[1583A]
+THE HIGHWAYMEN
+[1583S]
+Highwayman
+
+[1584A]
+RAY PRICE
+[1584S]
+Crazy Arms
+
+
+
+
+
+{ -- RADIO_09_HIPHOP_OLD --}
+{ -- WCC --}
+
+[1432A]
+JAYO FELONY
+[1432S]
+Sherm Stick
+
+[1433A]
+SPICE 1 FEAT.MC EIHT
+[1433S]
+The Murda Show
+
+[1509A]
+CPO
+[1509S]
+Ballad Of A Menace
+
+[1510A]
+THE CONSCIOUS DAUGHTERS
+[1510S]
+We Roll Deep
+
+[1511A]
+SOUTH CENTRAL CARTEL
+[1511S]
+Servin' 'Em Heat
+
+[1512A]
+WESTSIDE CONNECTION
+[1512S]
+Bow Down
+
+[1513A]
+WARREN G
+[1513S]
+This D.J.
+
+[1567A]
+E-40
+[1567S]
+Captain Save A Hoe
+
+[1569A]
+THE LADY OF RAGE
+[1569S]
+Afro Puffs
+
+[1596A]
+BONE THUGS-N-HARMONY
+[1596S]
+1st Of Tha Month
+
+[1597A]
+EAZY-E
+[1597S]
+No More ?'s
+
+[1642A]
+THE LUNIZ
+[1642S]
+I Got 5 On It
+
+
+
+
+
+{-- RADIO_12_REGGAE --}
+{-- Blue Ark --}
+[1436A]
+BUSY SIGNAL
+[1436S]
+Kingston Town
+
+[1437A]
+DANNY HENSWORTH
+[1437S]
+Mr. Money Man
+
+[1515A]
+I-OCTANE
+[1515S]
+Topic Of The Day
+
+[1516A]
+VYBZ KARTEL
+[1516S]
+Addi Truth
+
+[1517A]
+DEMARCO
+[1517S]
+Loyals (Royals Remix)
+
+[1555A]
+LEE "SCRATCH" PERRY
+[1555S]
+Money Come And Money Go
+
+[1603A]
+LEE "SCRATCH" PERRY
+[1603S]
+Roast Fish & Cornbread
+
+
+
+
+
+{-- RADIO_13_JAZZ --}
+{-- Worldwide FM --}
+[1622A]
+DEMARCO
+[1622S]
+Loyals (Royals Remix)
+
+[1623A]
+SINKANE
+[1623S]
+Shark Week
+
+[1624A]
+WILLIAM ONYEABOR
+[1624S]
+Body & Soul
+
+[1625A]
+FOUR TET
+[1625S]
+Kool FM
+
+[1626A]
+MOUNT KIMBIE
+[1626S]
+Made To Stray
+
+[1627A]
+ANUSHKA
+[1627S]
+World In A Room
+
+[1628A]
+SMOKEY ROBINSON
+[1628S]
+Why You Wanna See My Bad Side?
+
+[1629A]
+RANDY CRAWFORD
+[1629S]
+Street Life
+
+[1630A]
+FLUME
+[1630S]
+What You Need
+
+[1631A]
+EARL SWEATSHIRT FT. VINCE STAPLES & CASEY VEGGIES
+[1631S]
+Hive
+
+[1632A]
+PORTISHEAD
+[1632S]
+Numb
+
+[1633A]
+JON WAYNE
+[1633S]
+Black Magic
+
+[1634A]
+ROMAN GIANARTHUR
+[1634S]
+I69
+
+[1635A]
+LION BABE
+[1635S]
+Treat Me Like Fire
+
+[1636A]
+DAM-FUNK
+[1636S]
+Killdat
+
+[1637A]
+JAMIE LIDELL
+[1637S]
+Run Away
+
+[1638A]
+CHVRCHES
+[1638S]
+Recover (CID RIM REMIX)
+
+[1639A]
+JIMMY EDGAR
+[1639S]
+Let Yrself Be
+
+[1640A]
+CLAP!CLAP!
+[1640S]
+Viarejo
+
+[1641A]
+MAGA BO
+[1641S]
+No Balanço Da Canoa
+
+
+
+
+
+{-- RADIO_14_DANCE_02 --}
+{-- FlyLo FM --}
+[1609A]
+CURTIS MAYFIELD
+[1609S]
+Eddie You Should Know Better
+
+[1610A]
+DORIS
+[1610S]
+You Never Come Closer
+
+[1611A]
+FLYING LOTUS FT. KRAYZIE BONE
+[1611S]
+Medication Medication
+
+[1612A]
+XXYYXX
+[1612S]
+What We Want
+
+[1613A]
+LAPALUX
+[1613S]
+Make Money
+
+[1614A]
+MONO/POLY AND THUNDERCAT
+[1614S]
+B Adams
+
+[1615A]
+FLYING LOTUS
+[1615S]
+Osaka Trade
+
+[1616A]
+DOOM
+[1616S]
+Masquatch
+
+[1617A]
+FLYING LOTUS
+[1617S]
+Early Mountain
+
+[1618A]
+DIMLITE
+[1618S]
+Into Vogon Skulls
+
+[1619A]
+KNOWER
+[1619S]
+F--- The Makeup, Skip The Shower
+
+[1621A]
+KASKADE
+[1621S]
+4AM/AraabMuzik Streetz Tonight Remix
+
+[1644A]
+GASLAMP KILLER
+[1644S]
+Shred You To Bits
+
+
+{-- RADIO_15_MOTOWN --}
+{-- The Lowdown --}
+[1440A]
+JACKSON SISTERS
+[1440S]
+I Believe In Miracles
+
+[1441A]
+JOHNNY "GUITAR" WATSON
+[1441S]
+Superman Lover
+
+[1442A]
+OHIO PLAYERS
+[1442S]
+Climax
+
+[1443A]
+THE DELFONICS
+[1443S]
+Funny Feeling
+
+[1518A]
+PLEASURE
+[1518S]
+Bouncy Lady
+
+[1519A]
+WAR
+[1519S]
+Magic Mountain
+
+[1520A]
+BRASS CONSTRUCTION
+[1520S]
+Changin'
+
+[1552A]
+THE CHAKACHAS
+[1552S]
+Stories
+
+
+
+{-- RADIO_16_SILVERLAKE --}
+{-- Mirror Park Radio --}
+
+[1452A]
+!!!
+[1452S]
+One Girl/One Boy
+
+[1453A]
+DOM
+[1453S]
+Living In America
+
+[1454A]
+MITZI
+[1454S]
+Truly Alive
+
+[1455A]
+NIKI & THE DOVE
+[1455S]
+The Drummer
+
+[1456A]
+THE RUBY SUNS
+[1456S]
+In Real Life
+
+[1457A]
+YEASAYER
+[1457S]
+O.N.E.
+
+[1492A]
+CUT COPY
+[1492S]
+Strangers In The Wind
+
+[1522A]
+PANAMA
+[1522S]
+Always
+
+[1523A]
+HOT CHIP
+[1523S]
+Flutes
+
+[1524A]
+HOLY GHOST!
+[1524S]
+Hold On
+
+[1525A]
+SCENIC
+[1525S]
+Mesmerised
+
+[1526A]
+LITTLE DRAGON
+[1526S]
+Crystalfilm
+
+[1527A]
+TWIN SHADOW
+[1527S]
+Forget
+
+[1530A]
+AGE OF CONSENT
+[1530S]
+Heartbreak
+
+[1532A]
+SBTRKT
+[1532S]
+Pharaohs feat Roses Gabor
+
+[1534A]
+TORO Y MOI
+[1534S]
+New Beat
+
+[1556A]
+NEON INDIAN
+[1556S]
+Polish Girl
+
+[1562A]
+KAUF
+[1562S]
+When You're Out
+
+
+
+
+{-- RADIO_17_FUNK --}
+{-- Space 102.3 --}
+[1462A]
+DAZZ BAND
+[1462S]
+Joystick
+
+[1466A]
+ZAPP & ROGER
+[1466S]
+Do It Roger
+
+[1535A]
+IMAGINATION
+[1535S]
+Flashback
+
+[1536A]
+FATBACK BAND
+[1536S]
+Gotta Get My Hands On Some (Money)
+
+[1537A]
+PARLIAMENT
+[1537S]
+Mothership Connection
+
+[1538A]
+CENTRAL LINE
+[1538S]
+Walking Into Sunshine
+
+[1539A]
+CAMEO
+[1539S]
+Back And Forth
+
+[1540A]
+BILLY OCEAN
+[1540S]
+Nights (Feel Like Getting Down)
+
+[1553A]
+PARLIAMENT
+[1553S]
+Flashlight
+
+[1645A]
+VISITORS
+[1645S]
+V-I-S-I-T-O-R-S
+
+
+
+
+
+{-- RADIO_18_90S_ROCK --}
+{-- Vinewood Boulevard Radio --}
+
+[1543A]
+BLEACHED
+[1543S]
+Next Stop
+
+[1544A]
+COLISEUM
+[1544S]
+Used Blood
+
+[1546A]
+MIND SPIDERS
+[1546S]
+Fall In Line
+
+[1547A]
+THE MEN
+[1547S]
+Turn It Around
+
+[1548A]
+NOBUNNY
+[1548S]
+Gone For Good
+
+[1549A]
+THE SOFT PACK
+[1549S]
+Answer To Yourself
+
+[1550A]
+JEFF THE BROTHERHOOD
+[1550S]
+Sixpack
+
+[1551A]
+HANNI EL KHATIB
+[1551S]
+Pay No Mind
+
+[1606A]
+THE ORWELLS
+[1606S]
+Who Needs You
+
+
+
+
