@@ -418,19 +418,16 @@ You
 
 
 
-{-- ????? -}
+{--- RADIO_36_PLR ---}
+{--- Public Liberty Radio ---}
 [40140A]
-PLACEHOLDER
-[40140S]
-PLACEHOLDER
+Intelligent Agenda
+
 [40141A]
-PLACEHOLDER
-[40141S]
-PLACEHOLDER
+Peacemaker
+
 [40142A]
-PLACEHOLDER
-[40142S]
-PLACEHOLDER
+The Séance
 
 
 
@@ -486,6 +483,12 @@ Fizz!
 
 [40154A]
 The Richard Bastion Show
+
+{- extras -}
+[40195A]
+The Martin Serious Show
+[40196A]
+Conspire
 
 
 
@@ -595,3 +598,1112 @@ There But For the Grace of God Go I
 CANDI STATON
 [40180S]
 Young Hearts Run Free
+
+
+
+{--- RADIO_27_BOBBY_KONDERS ---}
+{--- Massive B Soundsystem ---}
+
+[40181A]
+BURRO BANTON
+[40181S]
+Badder Den Dem
+
+[40182A]
+CHOPPA CHOP
+[40182S]
+Set It Off
+
+[40183A]
+MAVADO
+[40183S]
+Real McKoy
+
+[40184A]
+JABBA
+[40184S]
+Raise It Up
+
+[40185A]
+BUNJI GARLIN
+[40185S]
+Brrrt
+
+[40186A]
+RICHIE SPICE
+[40186S]
+Youth Dem Cold
+
+[40187A]
+CHUCK FENDA
+[40187S]
+All About Da Weed
+
+[40188A]
+CHEZIDEK
+[40188S]
+Call Pon Dem
+
+[40189A]
+MAVADO
+[40189S]
+Last Night
+
+[40190A]
+SPRAGGA BENZ
+[40190S]
+Da Order
+
+[40191A]
+BOUNTY KILLER
+[40191S]
+Bullet Proof Skin
+
+[40192A]
+SHAGGY
+[40192S]
+Church Heathen
+
+[40193A]
+MUNGA
+[40193S]
+No Fraid
+
+[40194A]
+BUJU BANTON
+[40194S]
+Driver A
+
+
+
+
+
+
+
+
+{-- RADIO_38_DANCE_MIX --}
+{--- Electro-Choc (TBOGT Crookers mix) --}
+[40197A]
+MAJOR LAZER FEAT.LEFTSIDE & SUPAHYPE
+[40197S]
+Jump Up
+
+[40198A]
+DANIEL HAAKSMAN FEAT.MC MILTINHO
+[40198S]
+Kid Conga
+
+[40199A]
+BOY 8-BIT
+[40199S]
+A City Under Siege
+
+[40200A]
+CROOKERS FEAT.KARDINAL OFFISHALL & CARLA-MARIE
+[40200S]
+Put Your Hands on Me
+
+[40201A]
+THE CHEMICAL BROTHERS
+[40201S]
+Nude Night
+
+[40202A]
+CROOKERS FEAT.SOLO
+[40202S]
+Bad Men
+
+[40203A]
+MIIKE SNOW
+[40203S]
+Animal
+
+[40204A]
+JAHCOOZI
+[40204S]
+Watching You (Oliver $ Remix)
+
+[40205A]
+CROOKERS FEAT.NIC SARNO
+[40205S]
+Boxer
+
+[40206A]
+SONICC
+[40206S]
+Stickin
+
+[40207A]
+BLACK NOISE
+[40207S]
+Knock You Out (Andy George Remix)
+
+[40208A]
+MIXHELL FEAT.JEN LASHER & OH SNAP
+[40208S]
+Boom Da (Crookers Mix)
+
+[40209A]
+CROOKERS FEAT.KELIS
+[40209S]
+No Security
+
+
+
+
+
+
+{-- RADIO_33_BEAT_95 --}
+{--- The Beat 102.7 --}
+
+{- lantern mix -}
+[40210A]
+STYLES P
+[40210S]
+What's The Problem
+
+[40211A]
+UNCLE MURDA
+[40211S]
+Anybody Can Get It
+
+[40212A]
+QADIR
+[40212S]
+Nickname
+
+[40213A]
+BUSTA RHYMES
+[40213S]
+Where's My Money
+
+[40214A]
+MAINO
+[40214S]
+Get Away Driver
+
+[40215A]
+RED CAFÉ
+[40215S]
+Stick'm
+
+[40216A]
+TRU LIFE
+[40216S]
+Wet 'Em Up
+
+[40217A]
+JOHNNY POLYGON
+[40217S]
+Price On Your Head
+
+
+{- cee mix -}
+[40218A]
+SWIZZ BEATZ
+[40218S]
+Top Down
+
+[40219A]
+NAS
+[40219S]
+War Is Necessary
+
+[40220A]
+KANYE WEST FEAT.DWELE
+[40220S]
+Flashing Lights
+
+[40221A]
+JOELL ORTIZ FEAT.JADAKISS & SAIGON
+[40221S]
+Hip-Hop (Remix)
+
+[40222A]
+FAT JOE FEAT.LIL WAYNE
+[40222S]
+Crackhouse
+
+[40223A]
+MOBB DEEP
+[40223S]
+Dirty New Yorker
+
+[40224A]
+GHOSTFACE KILLAH FEAT.KID CAPRI
+[40224S]
+We Celebrate
+
+[40225A]
+STYLES P FEAT.JADAKISS & SHEEK LOUCH
+[40225S]
+Blow Ya Mind (Remix)
+
+[40226A]
+PAPOOSE
+[40226S]
+Stylin'
+
+
+{- statik mix -}
+[40227A]
+FREEWAY
+[40227S]
+Carjack
+
+[40228A]
+TERMANOLOGY
+[40228S]
+Here in Liberty City
+
+[40229A]
+SAIGON
+[40229S]
+Spit
+
+[40230A]
+SKYZOO
+[40230S]
+The Chase Is On
+
+[40231A]
+CONSEQUENCE
+[40231S]
+I Hear Footsteps
+
+[40232A]
+TALIB KWELI
+[40232S]
+My Favorite Song
+
+
+{- interlude -}
+[40233A]
+B.O.B
+[40233S]
+Auto Tune
+
+
+{- flex mix -}
+[40234A]
+BUSTA RHYMES FEAT.RON BROWZ
+[40234S]
+Arab Money
+
+[40235A]
+BUSTA RHYMES FEAT.YOUNG JEEZY & JADAKISS
+[40235S]
+Conglomerate
+
+[40236A]
+T.I. FEAT.SWIZZ BEATZ
+[40236S]
+Swing Ya Rag
+
+[40237A]
+RON BROWZ
+[40237S]
+Jumping (Out The Window)
+
+[40238A]
+DJ KHALED FEAT.KANYE WEST & T-PAIN
+[40238S]
+Go Hard
+
+[40239A]
+KARDINAL OFFISHALL FEAT.AKON & SEAN PAUL
+[40239S]
+Dangerous (Remix)
+
+[40240A]
+JOHN LEGEND FEAT.ANDRÉ 3000
+[40240S]
+Green Light
+
+[40241A]
+KANYE WEST
+[40241S]
+Love Lockdown
+
+
+
+
+
+{-- RADIO_37_SAN_JUAN_SOUNDS --}
+{--- San Juan Sounds --}
+
+{- original -}
+[40242A]
+DON OMAR
+[40242S]
+Salió el Sol
+
+[40243A]
+HECTOR EL FATHER
+[40243S]
+Maldades
+
+[40244A]
+TITO EL BAMBINO
+[40244S]
+Siente El Boom (Remix)
+
+[40245A]
+WISIN & YANDEL
+[40245S]
+Sexy Movimiento
+
+[40246A]
+CALLE 13
+[40246S]
+Atrévete-te-te
+
+[40247A]
+DADDY YANKEE
+[40247S]
+Impacto
+
+[40248A]
+VOLTIO FEAT.JOWELL & RANDY
+[40248S]
+Pónmela
+
+[40249A]
+ANGEL & KHRIZ
+[40249S]
+Ven Báilalo
+
+
+{- EFLC mix -}
+[40250A]
+AVENTURA
+[40250S]
+El Désprecio
+
+[40251A]
+ELVIS CRESPO
+[40251S]
+Suavemente
+
+[40252A]
+ANGEL & KHRIZ FEAT.GOCHO & JOHN ERIC
+[40252S]
+Na De Na
+
+[40253A]
+IVY QUEEN
+[40253S]
+Dime (Bachata Remix)
+
+[40254A]
+DON OMAR
+[40254S]
+Virtual Diva
+
+[40255A]
+WISIN & YANDEL FEAT.DJ NESTY
+[40255S]
+Me Estás Tentando
+
+[40256A]
+TEGO CALDERON FEAT.OSCAR D'LEÓN
+[40256S]
+Llora, Llora
+
+[40257A]
+FULANITO
+[40257S]
+Guallando
+
+
+
+
+{-- RADIO_41_BABYLON --}
+{--- Tuff Gong Radio --}
+[40258A]
+BOB MARLEY & THE WAILERS AND DAMIAN MARLEY
+[40258S]
+Stand Up Jamrock
+[40259A]
+BOB MARLEY & THE WAILERS
+[40259S]
+Wake Up And Live
+[40260A]
+BOB MARLEY & THE WAILERS
+[40260S]
+Rebel Music (3 O'Clock Roadblock)
+[40261A]
+BOB MARLEY & THE WAILERS
+[40261S]
+So Much Trouble In The World
+[40262A]
+STEPHEN MARLEY
+[40262S]
+Chase Dem
+[40263A]
+BOB MARLEY & THE WAILERS
+[40263S]
+Rat Race
+[40264A]
+BOB MARLEY & THE WAILERS
+[40264S]
+Pimper's Paradise
+[40265A]
+BOB MARLEY & THE WAILERS
+[40265S]
+Concrete Jungle
+[40266A]
+BOB MARLEY & THE WAILERS
+[40266S]
+Satisfy My Soul
+
+
+
+
+{-- RADIO_32_FUSION_FM --}
+{--- Fusion FM --}
+[40267A]
+BILLY COBHAM
+[40267S]
+Stratus
+[40268A]
+TOM SCOTT AND THE L.A. EXPRESS
+[40268S]
+Sneakin' In The Back
+[40269A]
+DAVID AXELROD
+[40269S]
+Holy Thursday
+[40270A]
+DAVID MCCALLUM
+[40270S]
+The Edge
+[40271A]
+ALEKSANDER MALISZEWSKI
+[40271S]
+Pokusa
+[40272A]
+RYO KAWASAKI
+[40272S]
+Raisins
+[40273A]
+GONG
+[40273S]
+Heavy Tune
+[40274A]
+MARC MOULIN
+[40274S]
+Stomp
+[40275A]
+GROVER WASHINGTON, JR.
+[40275S]
+Knucklehead
+[40276A]
+ROY AYERS
+[40276S]
+Funk In The Hole
+
+
+
+
+
+{-- RADIO_40_AFRO_BEAT --}
+{--- IF99 --}
+[40277A]
+CREATIVE SOURCE
+[40277S]
+Who Is He (And What Is He To You)?
+[40278A]
+MANDRILL
+[40278S]
+Livin' It Up
+[40279A]
+THE O'JAYS
+[40279S]
+Give The People What They Want
+[40280A]
+GIL SCOTT-HERON
+[40280S]
+Home Is Where The Hatred Is
+[40281A]
+MANU DIBANGO
+[40281S]
+New Bell
+[40282A]
+THE METERS
+[40282S]
+Just Kissed My Baby
+[40283A]
+FELA KUTI
+[40283S]
+Sorrow, Tears & Blood
+[40284A]
+FEMI KUTI
+[40284S]
+Truth Don Die
+[40285A]
+LONNIE LISTON SMITH
+[40285S]
+A Chance For Peace
+[40286A]
+FELA KUTI
+[40286S]
+Zombie
+[40287A]
+HUMMINGBIRD
+[40287S]
+You Can't Hide Love
+[40288A]
+WAR
+[40288S]
+Galaxy
+
+
+
+
+{-- RADIO_30_HARDCORE --}
+{--- LCHC --}
+{-- iv ---}
+[40289A]
+MAXIMUM PENALTY
+[40289S]
+All Your Boyz
+
+[40290A]
+BAD BRAINS
+[40290S]
+Right Brigade
+
+[40291A]
+SHEER TERROR
+[40291S]
+Just Can't Hate Enough (LIVE)
+
+[40292A]
+CRO-MAGS
+[40292S]
+It's The Limit
+
+[40293A]
+SICK OF IT ALL
+[40293S]
+Injustice System
+
+[40294A]
+LEEWAY
+[40294S]
+Enforcer
+
+[40295A]
+UNDERDOG
+[40295S]
+Back To Back
+
+[40296A]
+AGNOSTIC FRONT
+[40296S]
+Victim In Pain
+
+[40297A]
+MURPHY'S LAW
+[40297S]
+A Day In The Life
+
+[40298A]
+KILLING TIME
+[40298S]
+Tell Tale
+
+
+{- tlad mix intro -}
+[40299A]
+SOULFLY
+[40299S]
+Blood Fire War Hate
+{- tlad mix -}
+[40300A]
+ENTOMBED
+[40300S]
+Drowned
+
+[40301A]
+BATHORY
+[40301S]
+Call From The Grave
+
+[40302A]
+CANNIBAL CORPSE
+[40302S]
+I Cum Blood
+
+[40303A]
+SEPULTURA
+[40303S]
+Dead Embryonic Cells
+
+[40304A]
+TERRORIZER
+[40304S]
+Fear Of Napalm
+
+[40305A]
+KREATOR
+[40305S]
+Awakening Of The Gods
+
+[40306A]
+CELTIC FROST
+[40306S]
+Inner Sanctum
+
+[40307A]
+DRIVE BY AUDIO
+[40307S]
+Jailbait
+
+[40308A]
+AT THE GATES
+[40308S]
+Slaughter Of The Soul
+
+[40309A]
+DEICIDE
+[40309S]
+Dead By Dawn
+
+
+
+
+
+
+{-- RADIO_34_DANCE_ROCK --}
+{--- Radio Broker --}
+
+[40310A]
+THE PRAIRIE CARTEL
+[40310S]
+Homicide
+[40311A]
+LCD SOUNDSYSTEM
+[40311S]
+Get Innocuous!
+[40312A]
+THE BOGGS
+[40312S]
+Arm In Arm (Shy Child Remix)
+[40313A]
+LES SAVY FAV
+[40313S]
+Raging In The Plague Age
+[40314A]
+UNKLE FEAT.THE DUKE SPIRIT
+[40314S]
+Mayday
+[40315A]
+TOM VEK
+[40315S]
+One Horse Race
+[40316A]
+CHEESEBURGER
+[40316S]
+Cocaine
+[40317A]
+THE PISTOLAS
+[40317S]
+Take It With A Kiss
+[40318A]
+WHITEY
+[40318S]
+Wrap It Up
+[40319A]
+!!!
+[40319S]
+Yadnus (Still Going To The Roadhouse Mix)
+[40320A]
+RALPH MYERZ
+[40320S]
+The Teacher
+[40321A]
+GET SHAKES
+[40321S]
+Disneyland (Pt. 1)
+[40322A]
+DELUKA
+[40322S]
+Sleep Is Impossible
+[40323A]
+GREENSKEEPERS
+[40323S]
+Vagabond
+[40324A]
+JULIETTE AND THE LICKS
+[40324S]
+Inside The Cage (David Gilmour Girls Remix)
+[40325A]
+THE BLACK KEYS
+[40325S]
+Strange Times
+[40326A]
+TEENAGER
+[40326S]
+Pony
+[40327A]
+WHITE LIGHT PARADE
+[40327S]
+Riot In The City
+[40328A]
+THE VIRGINS
+[40328S]
+One Week Of Danger
+[40329A]
+THE RAPTURE
+[40329S]
+No Sex For Ben
+[40330A]
+CELEBRATION
+[40330S]
+Fly The Fly (Holy Fuck Remix)
+
+
+{--- eflc --}
+[40331A]
+BLONDE ACID CULT
+[40331S]
+Calypso
+[40332A]
+BLONDE ACID CULT
+[40332S]
+Shake It Loose
+[40333A]
+FREE BLOOD
+[40333S]
+Quick And Painful
+[40334A]
+THE CARPS
+[40334S]
+Porgie & Bess (Big Booty Girls)
+[40335A]
+THE CARPS
+[40335S]
+Veronica Belmont
+[40336A]
+THE JANE SHERMANS
+[40336S]
+I Walk Alone
+[40337A]
+MAGIC DIRT
+[40337S]
+Get Ready To Die
+[40338A]
+BRAZILIAN GIRLS
+[40338S]
+Nouveau Americain
+[40339A]
+TK WEBB & THE VISIONS
+[40339S]
+Shame
+[40340A]
+FREELAND
+[40340S]
+Borderline
+[40341A]
+SCISSORS FOR LEFTY
+[40341S]
+Consumption Junction
+[40342A]
+THE SOFT PACK
+[40342S]
+Nightlife
+[40343A]
+JAPANTHER
+[40343S]
+Radical Businessman
+[40344A]
+FOXYLANE
+[40344S]
+Same Shirt
+[40345A]
+FOXYLANE
+[40345S]
+Command
+[40346A]
+MONOTONIX
+[40346S]
+Body Language
+[40347A]
+KUDU
+[40347S]
+Give Me Your Head
+[40348A]
+TAME IMPALA
+[40348S]
+Half Full Glass Of Wine
+[40349A]
+THE BRONX
+[40349S]
+Knifeman
+[40350A]
+GAME REBELLION
+[40350S]
+Dance Girl (GTA Mix)
+[40351A]
+THE YELLING
+[40351S]
+Blood On The Steps
+[40352A]
+KILL MEMORY CRASH
+[40352S]
+Hell On Wheels
+[40353A]
+KREEPS
+[40353S]
+The Hunger (Blood In My Mouth)
+
+
+
+
+{-- RADIO_26_JAZZ_NATION --}
+{--- Jazz Nation Radio 108.5 --}
+[40354A]
+MILES DAVIS
+[40354S]
+Move
+[40355A]
+ART BLAKEY AND THE JAZZ MESSENGERS
+[40355S]
+Moanin'
+[40356A]
+CHARLIE PARKER
+[40356S]
+Night and Day
+[40357A]
+DIZZY GILLESPIE
+[40357S]
+Whisper Not
+[40358A]
+SONNY ROLLINS
+[40358S]
+St. Thomas
+[40359A]
+CHET BAKER
+[40359S]
+Let's Get Lost
+[40360A]
+JOHN COLTRANE
+[40360S]
+Giant Steps
+[40361A]
+COUNT BASIE
+[40361S]
+April In Paris
+[40362A]
+ROY HAYNES
+[40362S]
+Snap Crackle
+[40363A]
+DUKE ELLINGTON
+[40363S]
+Take the "A" Train
+
+
+
+
+
+
+{-- RADIO_43_RAMJAMFM --}
+{--- RamJam FM --}
+
+[40364A]
+BARRINGTON LEVY
+[40364S]
+Don't Fuss Nor Fight (AKA Sweet Reggae Music)
+[40365A]
+INI KAMOZE
+[40365S]
+Outta Jamaica
+[40366A]
+DAMIAN "JR. GONG" MARLEY
+[40366S]
+Holiday
+[40367A]
+THE MORWELLS & PRINCE JAMMY
+[40367S]
+Jammin' For Survival
+[40368A]
+JOHN HOLT
+[40368S]
+Police In Helicopter
+[40369A]
+SUGAR MINOTT
+[40369S]
+Hard Time Pressure
+[40370A]
+DESMOND DEKKER & THE ACES
+[40370S]
+007 (Shanty Town)
+[40371A]
+MAJOR LAZER FEAT.TURBULENCE
+[40371S]
+Anything Goes
+[40372A]
+PRINCE JAMMY
+[40372S]
+Jammy's A Shine
+[40373A]
+TOOTS & THE MAYTALS
+[40373S]
+54-46 Was My Number
+[40374A]
+FRANKIE PAUL
+[40374S]
+Worries In The Dance
+[40375A]
+MR. VEGAS
+[40375S]
+Mus Come a Road
+
+
+
+
+{-- RADIO_39_NY_CLASSICS --}
+{--- The Classics 104.1 --}
+[40376A]
+GROUP HOME
+[40376S]
+Supa Star
+
+[40377A]
+BRAND NUBIAN
+[40377S]
+All For One
+
+[40378A]
+SPECIAL ED
+[40378S]
+I Got It Made
+
+[40379A]
+JERU THE DAMAJA
+[40379S]
+D. Original
+
+[40380A]
+MARLEY MARL FEAT.CRAIG G
+[40380S]
+Droppin' Science
+
+[40381A]
+MC LYTE
+[40381S]
+Cha Cha Cha
+
+[40382A]
+AUDIO TWO
+[40382S]
+Top Billin'
+
+[40383A]
+STETSASONIC
+[40383S]
+Go Stetsa I
+
+[40384A]
+T LA ROCK & JAZZY JAY
+[40384S]
+It's Yours
+
+[40385A]
+GANG STARR
+[40385S]
+Who's Gonna Take The Weight?
+
+[40386A]
+MAIN SOURCE FEAT.NAS, JOE FATAL & AKINYELE
+[40386S]
+Live At The Barbeque
+
+
+
+
+
+
+{-- RADIO_42_MEDITATION --}
+{--- Self-Actualization FM --}
+[40387A]
+ALPHA WAVE MOVEMENT
+[40387S]
+Artifacts & Prophecies
+[40388A]
+ERIK WØLLO
+[40388S]
+Monument
+[40389A]
+PETE NAMLOOK
+[40389S]
+1st Impression
+[40390A]
+AUTECHRE
+[40390S]
+Bike
+[40391A]
+PETE NAMLOOK & KLAUS SCHULZE FEAT.BILL LASWELL
+[40391S]
+Psychedelic Brunch
+[40392A]
+CHILLED BY NATURE
+[40392S]
+Go Forward (Love Bubble Mix)
+[40393A]
+SPACETIME CONTINUUM
+[40393S]
+Voice of the Earth
+[40394A]
+LARRY HEARD
+[40394S]
+Cosmology Myth
+[40395A]
+ALUCIDNATION
+[40395S]
+Skygazer (3002 Remix)
+[40396A]
+COLDCUT
+[40396S]
+Autumn Leaves (Irresistable Force Mix Trip 2)
+[40397A]
+TOM MIDDLETON
+[40397S]
+Moonbathing
+[40398A]
+SYSTEM 7
+[40398S]
+Masato Eternity (Original Mix)
+[40399A]
+MOBY
+[40399S]
+My Beautiful Blue Sky
+[40400A]
+THE ORB
+[40400S]
+A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix MK 10)
+[40401A]
+FUTURE SOUND OF LONDON
+[40401S]
+Lifeforms
+
+
+
+
+{-- RADIO_23_INTEGRITY --}
+{--- Integrity 2.0 --}
+[40402A]
+Algonquin with Lazlow Jones
+
+
+
+
+
+
+
+
+
+{***********************************************}
