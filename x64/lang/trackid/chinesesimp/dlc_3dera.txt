@@ -1,0 +1,47 @@
+﻿
+{-- Radio Names --}
+
+[RADIO_30_COMMUNITYSLOT]
+V-Rock
+
+[RADIO_31_COMMUNITYSLOT]
+Radio X
+
+[RADIO_32_COMMUNITYSLOT]
+Wave 103
+
+[RADIO_33_COMMUNITYSLOT]
+Flash FM
+
+[RADIO_34_COMMUNITYSLOT]
+Emotion 98.3
+
+[RADIO_35_COMMUNITYSLOT]
+K-DST
+
+[RADIO_30_VROC]
+{- seems to be the actual label name for 0x13CCF4AB in most recent version -}
+V-Rock
+
+[RADIO_31_RADIOX]
+Radio X
+
+[RADIO_32_WAVE]
+Wave 103
+
+[RADIO_33_FLASH]
+Flash FM
+
+[RADIO_34_EMOTION]
+Emotion 98.3
+
+[RADIO_35_KDST]
+K-DST
+
+
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

@@ -1,0 +1,651 @@
+﻿
+
+{--- Wave 103 ---}
+[2120A]
+FRANKY GOES TO HOLLYWOOD
+[2120S]
+Two Tribes
+[2121A]
+SIGUE SIGUE SPUTNIK
+[2121S]
+Love Missile F1-11
+[2122A]
+GARY NUMAN
+[2122S]
+Cars
+[2123A]
+THE HUMAN LEAGUE
+[2123S]
+(Keep Feeling) Fascination
+[2124A]
+BLONDIE
+[2124S]
+Atomic
+[2125A]
+NENA
+[2125S]
+99 Luftballons
+[2126A]
+KIM WILDE
+[2126S]
+Kids in America
+[2127A]
+TEARS FOR FEARS
+[2127S]
+Pale Shelter
+[2128A]
+COREY HART
+[2128S]
+Sunglasses at Night
+[2129A]
+ABC
+[2129S]
+Poison Arrow
+[2130A]
+A FLOCK OF SEAGULLS
+[2130S]
+I Ran (So Far Away)
+[2131A]
+THE PSYCHEDELIC FURS
+[2131S]
+Love My Way
+[2132A]
+ANIMOTION
+[2132S]
+Obsession
+[2133A]
+SPANDAU BALLET
+[2133S]
+Gold
+[2134A]
+THOMAS DOLBY
+[2134S]
+Hyperactive!
+[2135A]
+ROMEO VOID
+[2135S]
+Never Say Never
+[2136A]
+THE HUMAN LEAGUE
+[2136S]
+Love Action (I Believe in Love)
+[2137A]
+THOMPSON TWINS
+[2137S]
+Love on Your Side
+[2138A]
+DEPECHE MODE
+[2138S]
+Everything Counts
+[2139A]
+BLONDIE
+[2139S]
+Heart of Glass
+[2140A]
+FRANKIE GOES TO HOLLYWOOD
+[2140S]
+Relax
+[2141A]
+ABC
+[2141S]
+(How to Be a) Millionaire
+[2142A]
+NEW ORDER
+[2142S]
+Blue Monday
+[2143A]
+JAPAN
+[2143S]
+Quiet Life
+[2144A]
+KAJAGOOGOO
+[2144S]
+Too Shy (Midnight Mix)
+[2145A]
+HEAVEN 17
+[2145S]
+Penthouse and Pavement
+[2146A]
+BERLIN
+[2146S]
+Sex (I'm A...)
+[2147A]
+HOWARD JONES
+[2147S]
+Like to Get to Know You Well
+[2148A]
+THE CURE
+[2148S]
+A Forrest
+[2149A]
+A FLOCK OF SEAGULLS
+[2149S]
+Space Age Love Song
+[2150A]
+YAZOO
+[2150S]
+Don't Go
+
+
+
+
+
+{--- Flash FM ---}
+
+[2151A]
+HALL AND OATES
+[2151S]
+Out of Touch
+[2152A]
+WANG CHUNG
+[2152S]
+Dance Hall Days
+[2153A]
+MICHAEL JACKSON
+[2153S]
+Billie Jean
+[2154A]
+LAURA BRANIGAN
+[2154S]
+Self Control
+[2155A]
+GO WEST
+[2155S]
+Call ME
+[2156A]
+INXS
+[2156S]
+Kiss the Dirt (Falling Down the Mountain)
+[2157A]
+BRYAN ADAMS
+[2157S]
+Run To You
+[2158A]
+ELECTRIC LIGHT ORCHESTRA
+[2158S]
+Four Little Diamonds
+[2159A]
+YES
+[2159S]
+Owner of a Lonely Heart
+[2160A]
+THE BUGGLES
+[2160S]
+Video Killed the Radio Star
+[2161A]
+ANEKA
+[2161S]
+Japanese Boy
+[2162A]
+TALK TALK
+[2162S]
+Life's What You Make It
+[2163A]
+THE OUTFIELD
+[2163S]
+Your Love
+[2164A]
+JOE JACKSON
+[2164S]
+Steppin' Out
+[2165A]
+THE FIXX
+[2165S]
+One Thing Leads to Another
+[2166A]
+LIONEL RICHIE
+[2166S]
+Running With The Night
+[2167A]
+LAURA BRANIGAN
+[2167S]
+Gloria
+[2168A]
+RICK SPRINGFIELD
+[2168S]
+Human Touch
+[2169A]
+INXS
+[2169S]
+The One Thing
+[2170A]
+PHILIP BAILEY & PHILL COLLINS
+[2170S]
+Easy Lover
+[2171A]
+SCANDAL
+[2171S]
+The Warrior
+[2172A]
+ALISON MOYET
+[2172S]
+Love Resurrection
+[2173A]
+THE ALAN PARSONS PROJECT
+[2173S]
+Games People Play
+[2174A]
+HALL & OATES
+[2174S]
+Family Man
+[2175A]
+PAT BENATAR
+[2175S]
+Love is a Battlefield
+[2176A]
+NICK KERSHAW
+[2176S]
+Wouldn't be Good
+[2177A]
+PHIL OAKEY AND GIORGIO MORODER
+[2177S]
+Together in Electric Dreams
+[2178A]
+TALK TALK
+[2178S]
+It's My Life
+[2179A]
+MISSING PERSONS
+[2179S]
+Destination Unknown
+[2180A]
+WANG CHUNG
+[2180S]
+Don't Let Go
+[2181A]
+GINO VANNELLI
+[2181S]
+Appaloosa
+[2182A]
+GENESIS
+[2182S]
+Turn It on Again
+[2183A]
+BLANCMANGE
+[2183S]
+Living on the Ceiling
+[2184A]
+PAUL YOUNG
+[2184S]
+Come Back and Stay
+
+
+
+{--- Emotion ---}
+[2185A]
+FOREIGNER
+[2185S]
+Waiting For A Girl Like You
+[2186A]
+KATE BUSH
+[2186S]
+Wow
+[2187A]
+SQUEEZE
+[2187S]
+Tempted
+[2188A]
+REO SPEEDWAGON
+[2188S]
+Keep On Loving You
+[2189A]
+CUTTING CREW
+[2189S]
+(I Just) Died In Your Arms
+[2190A]
+ROXY MUSIC
+[2190S]
+More Than This
+[2191A]
+TOTO
+[2191S]
+Africa
+[2192A]
+MR. MISTER
+[2192S]
+Broken Wings
+[2193A]
+JOHN WAITE
+[2193S]
+Missing You
+[2194A]
+JAN HAMMER
+[2194S]
+Crockett's Theme
+[2195A]
+NIGHT RANGER
+[2195S]
+Sister Christian
+[2196A]
+LUTHER VANDROSS
+[2196S]
+Never Too Much
+[2197A]
+THE MOTELS
+[2197S]
+Only the Lonely
+[2198A]
+10CC
+[2198S]
+I'm Not in Love
+[2199A]
+QUARTERFLASH
+[2199S]
+Harden My Heart
+[2200A]
+TOTO
+[2200S]
+Make Believe
+[2201A]
+ELKIE BROOKS
+[2201S]
+Fool (If You Think It's Over)
+[2202A]
+THE PASSIONS
+[2202S]
+I'm in Love with a German Film Star
+[2203A]
+FOREIGNER
+[2203S]
+I want to Know What Love Is
+[2204A]
+THE ASSEMBLY
+[2204S]
+Never Never
+[2205A]
+PAT BENATAR
+[2205S]
+We Belong
+[2206A]
+THE PRETENDERS
+[2206S]
+Private Life
+[2207A]
+PHIL COLLINS
+[2207S]
+In the Air Tonight
+[2208A]
+ROXY MUSIC
+[2208S]
+Avalon
+[2209A]
+EDDIE MONEY
+[2209S]
+Baby Hold On
+[2210A]
+RAINBOW
+[2210S]
+Stone Cold
+[2211A]
+GIUFFRIA
+[2211S]
+Call to the Heart
+[2212A]
+ART OF THE NOISE
+[2212S]
+Moments in Love
+[2213A]
+DAN HARTMAN
+[2213S]
+I can Dream About You
+
+
+
+{--- K-DST ---}
+[2214A]
+FOGHAT
+[2214S]
+Slow Ride
+[2215A]
+CREEDENCE CLEARWATER REVIVAL
+[2215S]
+Green River
+[2216A]
+Heart
+[2216S]
+Barracuda
+[2217A]
+KISS
+[2217S]
+Strutter
+[2218A]
+TOTO
+[2218S]
+Hold the Line
+[2219A]
+ROD STEWARD
+[2219S]
+Young Turks
+[2220A]
+TOM PETTY
+[2220S]
+Runnin' Down a Dream
+[2221A]
+JOE COCKER
+[2221S]
+Woman to Woman
+[2222A]
+HUMBLE PIE
+[2222S]
+Get Down to It
+[2223A]
+GRAND FUNK RAILROAD
+[2223S]
+Some Kind of Wonderful
+[2224A]
+LYNYRD SKYNYRD
+[2224S]
+Free Bird
+[2225A]
+AMERICA
+[2225S]
+A Horse with No Name
+[2226A]
+THE WHO
+[2226S]
+Eminence Front
+[2227A]
+BOSTON
+[2227S]
+Smokin'
+[2228A]
+DAVID BOWIE
+[2228S]
+Somebody Up There Likes Me
+[2229A]
+EDDIE MONEY
+[2229S]
+Two Tickets to Paradise
+[2230A]
+BILLY IDOL
+[2230S]
+White Wedding
+
+
+
+{--- V-Rock ---}
+[5550A]
+TWISTED SISTER
+[5550S]
+I Wanna Rock
+[5551A]
+MÖTLEY CRÜE
+[5551S]
+Too Young to Fall in Love
+[5552A]
+QUIET RIOT
+[5552S]
+Cum On Feel the Noize
+[5553A]
+THE CULT
+[5553S]
+She Sells Sanctuary
+[5554A]
+OZZY OSBOURNE
+[5554S]
+Bark at the Moon
+[5555A]
+LOVE FIST
+[5555S]
+Dangerous Bastard
+[5556A]
+IRON MAIDEN
+[5556S]
+2 Minutes to Midnight
+[5557A]
+LOVERBOY
+[5557S]
+Working for the Weekend
+[5558A]
+ALCATRAZZ
+[5558S]
+God Blessed Video
+[5559A]
+TESLA
+[5559S]
+Cumin' Atcha Live
+[5560A]
+AUTOGRAPH
+[5560S]
+Turn Up the Radio
+[5561A]
+MEGADETH
+[5561S]
+Peace Sells
+[5562A]
+ANTHRAX
+[5562S]
+Madhouse
+[5563A]
+SLAYER
+[5563S]
+Raining Blood
+[5564A]
+JUDAS PRIEST
+[5564S]
+You've Got Another Thing Comin'
+[5565A]
+LOVE FIST
+[5565S]
+Fist Fury
+[5566A]
+DAVID LEE ROTH
+[5566S]
+Yankee Rose
+[5567A]
+DIO
+[5567S]
+Holy Diver
+[5568A]
+Queensrÿche
+[5568S]
+Queen of the Reich
+[5569A]
+KISS
+[5569S]
+Lick It Up
+[5570A]
+DOKKEN
+[5570S]
+Breaking the Chains
+[5571A]
+AUTOGRAPH
+[5571S]
+All I'm Gonna Take
+[5572A]
+ACCEPT
+[5572S]
+Balls to the Wall
+[5573A]
+SCORPIONS
+[5573S]
+Rock You Like a Hurricane
+[5574A]
+KROKUS
+[5574S]
+Long Stick Goes Boom
+[5575A]
+TED NUGENT
+[5575S]
+Strangehold
+[5576A]
+RATT
+[5576S]
+Round and Round
+[5577A]
+JUDAS PRIEST
+[5577S]
+Eletric Eye
+[5578A]
+MÖTLEY CRÜE
+[5578S]
+Looks That Kill
+[5579A]
+QUIET RIOT
+[5579S]
+Metal Health
+
+
+
+
+{--- Radio X ---}
+[5580A]
+HELMUT
+[5580S]
+Unsung
+[5581A]
+DEPECHE MODE
+[5581S]
+Personal Jesus
+[5582A]
+FAITH NO MORE
+[5582S]
+Midlife Crisis
+[5583A]
+DANZIG
+[5583S]
+Mother
+[5584A]
+LIVING COLOUR
+[5584S]
+Cult of Personality
+[5585A]
+PRIMAL SCREAM
+[5585S]
+Movin' On Up
+[5586A]
+GUNS N' ROSES
+[5586S]
+Welcome to the Jungle
+[5587A]
+L7
+[5587S]
+Pretend We're Dead
+[5588A]
+OZZY OSBOURNE
+[5588S]
+Hellraiser
+[5589A]
+SOUNDGARDEN
+[5589S]
+Rusty Cage
+[5590A]
+RAGE AGAINST THE MACHINE
+[5590S]
+Killing in the Name
+[5591A]
+JANE'S ADDICTION
+[5591S]
+Been Caught Stealing
+[5593A]
+ALICE IN CHAINS
+[5593S]
+Them Bones
+[5594A]
+STONE TEMPLE PILOTS
+[5594S]
+Plush
+[5595A]
+THE STONE ROSES
+[5595S]
+Fools Gold
