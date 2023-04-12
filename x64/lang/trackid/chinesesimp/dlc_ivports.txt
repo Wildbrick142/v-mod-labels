@@ -2,25 +2,25 @@
 {-- Radio Names --}
 
 [RADIO_23_INTEGRITY]
-诚信2.0
+诚信µ2.0
 
 [RADIO_24_THE_VIBE]
-盛传98.8
+盛传µ98.8
 
 [RADIO_25_LIBERTY_ROCK]
 自由摇滚电台
 
 [RADIO_26_JAZZ_NATION]
-爵士国家电台108.5
+爵士国家电台µ108.5
 
 [RADIO_27_BOBBY_KONDERS]
-海量乙音响系统96.9
+海量乙音响系统µ96.9
 
 [RADIO_28_K109_THE_STUDIO]
-K109工作室
+K109µ工作室
 
 [RADIO_29_WKTT]
-WKTT电台
+WKTTµ电台
 
 [RADIO_30_HARDCORE]
 自由城铁杆
@@ -32,7 +32,7 @@ WKTT电台
 聚变调频
 
 [RADIO_33_BEAT_95]
-节拍102.7
+节拍µ102.7
 
 [RADIO_34_DANCE_ROCK]
 无线电经纪人
@@ -50,7 +50,7 @@ WKTT电台
 电乔科
 
 [RADIO_39_NY_CLASSICS]
-经典104.1
+经典µ104.1
 
 [RADIO_40_AFRO_BEAT]
 IF99

@@ -2,38 +2,38 @@
 {-- Radio Names --}
 
 [RADIO_30_COMMUNITYSLOT]
-V-Rock
+Vµ摇滚
 
 [RADIO_31_COMMUNITYSLOT]
-Radio X
+电台µX
 
 [RADIO_32_COMMUNITYSLOT]
-Wave 103
+海浪µ103
 
 [RADIO_33_COMMUNITYSLOT]
-Flash FM
+闪光电台
 
 [RADIO_34_COMMUNITYSLOT]
-Emotion 98.3
+真情µ98.3
 
 [RADIO_35_COMMUNITYSLOT]
 K-DST
 
 [RADIO_30_VROC]
 {- seems to be the actual label name for 0x13CCF4AB in most recent version -}
-V-Rock
+Vµ摇滚
 
 [RADIO_31_RADIOX]
-Radio X
+电台µX
 
 [RADIO_32_WAVE]
-Wave 103
+海浪µ103
 
 [RADIO_33_FLASH]
-Flash FM
+闪光电台
 
 [RADIO_34_EMOTION]
-Emotion 98.3
+真情µ98.3
 
 [RADIO_35_KDST]
 K-DST
