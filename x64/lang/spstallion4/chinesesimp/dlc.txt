@@ -1,0 +1,291 @@
+﻿
+
+{--- vehicle names --}
+[STALLION4]
+种马
+
+
+
+{ --- modparts ## updated 4/21/23 --- }
+{***********************************************}
+
+{**** grilles ****}
+[STA4_GRILL_1]
+直板条
+
+[STA4_GRILL_2]
+横向板条
+
+[STA4_GRILL_3]
+铬合金横向板条
+
+[STA4_GRILL_4]
+矩形中网
+
+[STA4_GRILL_5]
+矩形板条
+
+
+
+{**** HOODS ***}
+[STA4_HOOD_1]
+** sta4_hood_0b label **
+
+[STA4_HOOD_2]
+** sta4_hood_0c label **
+
+[STA4_HOOD_3]
+** sta4_hood_1 label **
+
+[STA4_HOOD_4]
+** sta4_hood_1b label **
+
+[STA4_HOOD_5]
+** sta4_hood_1c label **
+
+[STA4_HOOD_6]
+** sta4_hood_2 label **
+
+[STA4_HOOD_7]
+** sta4_hood_2b label **
+
+[STA4_HOOD_8]
+** sta4_hood_2c label **
+
+[STA4_HOOD_9]
+** sta4_hood_3 + sta4_filt_2 label **
+
+[STA4_HOOD_10]
+** sta4_hood_3b + sta4_filt_2 label **
+
+[STA4_HOOD_11]
+** sta4_hood_3c + sta4_filt_2 label **
+
+[STA4_HOOD_12]
+** sta4_hood_3 + sta4_filt_3 label **
+
+[STA4_HOOD_13]
+** sta4_hood_3b + sta4_filt_3 label **
+
+[STA4_HOOD_14]
+** sta4_hood_3c + sta4_filt_3 label **
+
+[STA4_HOOD_15]
+** sta4_hood_3 + sta4_blower_1 label **
+
+[STA4_HOOD_16]
+** sta4_hood_3b + sta4_blower_1 label **
+
+[STA4_HOOD_17]
+** sta4_hood_3c + sta4_blower_1 label **
+
+[STA4_HOOD_18]
+** sta4_hood_3 + sta4_blower_2 label **
+
+[STA4_HOOD_19]
+** sta4_hood_3b + sta4_blower_2 label **
+
+[STA4_HOOD_20]
+** sta4_hood_3c + sta4_blower_2 label **
+
+[STA4_HOOD_21]
+** sta4_hood_3 + sta4_blower_3 label **
+
+[STA4_HOOD_22]
+** sta4_hood_3b + sta4_blower_3 label **
+
+[STA4_HOOD_23]
+** sta4_hood_3c + sta4_blower_3 label **
+
+[STA4_HOOD_24]
+** sta4_hood_3 + sta4_blower_4 label **
+
+[STA4_HOOD_25]
+** sta4_hood_3b + sta4_blower_4 label **
+
+[STA4_HOOD_26]
+** sta4_hood_3c + sta4_blower_4 label **
+
+
+{- STA4_SPOILERS -}
+[STA4_WING_1]
+原厂尾翼
+
+[STA4_WING_2]
+副色调原厂尾翼
+
+[STA4_WING_3]
+经典尾翼
+
+[STA4_WING_4]
+副色调经典尾翼
+
+[STA4_WING_5]
+超级种马
+
+[STA4_WING_6]
+副色调超级种马
+
+
+
+{- STA4_BUMPERS FRONT -}
+[STA4_BUMF_1]
+** sta4_bumf_1 label **
+
+[STA4_BUMF_2]
+** sta4_bumf_2 label **
+
+[STA4_BUMF_3]
+** sta4_bumf_3 label **
+
+
+{- STA4_BUMPERS REAR -}
+[STA4_BUMR_1]
+** sta4_bumr_1 label **
+
+
+
+{- STA4_EXHAUSTS -}
+[STA4_EXH_1]
+** Placeholder **
+
+[STA4_EXH_2]
+** Placeholder **
+
+[STA4_EXH_3]
+** Placeholder **
+
+[STA4_EXH_4]
+** Placeholder **
+
+[STA4_EXH_5]
+** Placeholder **
+
+[STA4_EXH_6]
+** Placeholder **
+
+[STA4_EXH_7]
+** Placeholder **
+
+[STA4_EXH_8]
+** Placeholder **
+
+[STA4_EXH_9]
+** Placeholder **
+
+[STA4_EXH_10]
+** Placeholder **
+
+[STA4_EXH_11]
+** Placeholder **
+
+
+
+{- STA4_DRAG_ACCS -}
+[STA4_WBAR_1]
+降落伞
+
+[STA4_WBAR_2]
+防翘杆
+
+[STA4_WBAR_3]
+降落伞加防翘杆
+
+
+
+{- STA4_CAGES -}
+[STA4_CAGE_1]
+竞速防滚架
+
+
+
+
+{- STA4_SUNS -}
+[STA4_STRIP_1]
+** Placeholder **
+
+[STA4_STRIP_2]
+** Placeholder **
+
+[STA4_STRIP_3]
+** Placeholder **
+
+[STA4_STRIP_4]
+** Placeholder **
+
+
+
+{- STA4_CUSTOMSEAT -}
+[STA4_SEATS_1]
+** Placeholder **
+
+[STA4_SEATS_2]
+** Placeholder **
+
+[STA4_SEATS_3]
+** Placeholder **
+
+[STA4_SEATS_4]
+** Placeholder **
+
+[STA4_SEATS_5]
+** Placeholder **
+
+
+
+{- STA4_MIRROR -}
+[STA4_MIRR_1]
+** Placeholder **
+
+[STA4_MIRR_2]
+** Placeholder **
+
+[STA4_MIRR_3]
+** Placeholder **
+
+[STA4_MIRR_4]
+** Placeholder **
+
+[STA4_MIRR_5]
+** Placeholder **
+
+[STA4_MIRR_6]
+** Placeholder **
+
+[STA4_MIRR_7]
+** Placeholder **
+
+[STA4_MIRR_8]
+** Placeholder **
+
+
+{- STA4_LIVERY -}
+[STA4_LIV_1]
+** Placeholder (smukk 1) **
+
+[STA4_LIV_2]
+** Placeholder (smukk 2) **
+
+[STA4_LIV_3]
+** Placeholder (helios 1) **
+
+[STA4_LIV_4]
+** Placeholder (helios 2) **
+
+[STA4_LIV_5]
+** Placeholder (helios 3) **
+
+[STA4_LIV_6]
+** Placeholder (helios 4) **
+
+[STA4_LIV_7]
+** Placeholder (helios 5) **
+
+[STA4_LIV_8]
+** Placeholder (helios 6) **
+
+
+
+{***********************************************}
+[DUMMYDLCNAMES]
+THIS LABEL NEEDS TO BE HERE !!!

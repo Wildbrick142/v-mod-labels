@@ -1,0 +1,40 @@
+
+------ Sun Apr 09 22:19:19 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
+[INFO] (american/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (chinese/global.gxt2) Compiled!	Size 2979	Labels count 90
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 2979	Labels count 90
+[INFO] (french/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (german/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (italian/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (japanese/global.gxt2) Compiled!	Size 2988	Labels count 90
+[INFO] (korean/global.gxt2) Compiled!	Size 2985	Labels count 90
+[INFO] (mexican/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (polish/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (portuguese/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (russian/global.gxt2) Compiled!	Size 2981	Labels count 90
+[INFO] (spanish/global.gxt2) Compiled!	Size 2981	Labels count 90
+
+------ Fri Apr 21 18:41:08 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
+[INFO] (american/global.gxt2) Compiled!	Size 2854	Labels count 85
+[INFO] (chinese/global.gxt2) Compiled!	Size 2816	Labels count 85
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 2789	Labels count 85
+[INFO] (french/global.gxt2) Compiled!	Size 2888	Labels count 85
+[INFO] (german/global.gxt2) Compiled!	Size 2876	Labels count 85
+[INFO] (italian/global.gxt2) Compiled!	Size 2812	Labels count 85
+[INFO] (japanese/global.gxt2) Compiled!	Size 3019	Labels count 85
+[INFO] (korean/global.gxt2) Compiled!	Size 2873	Labels count 85
+[INFO] (mexican/global.gxt2) Compiled!	Size 2861	Labels count 85
+[INFO] (polish/global.gxt2) Compiled!	Size 2852	Labels count 85
+[INFO] (portuguese/global.gxt2) Compiled!	Size 2805	Labels count 85
+[INFO] (russian/global.gxt2) Compiled!	Size 3122	Labels count 85
+[INFO] (spanish/global.gxt2) Compiled!	Size 2852	Labels count 85

@@ -1,0 +1,8 @@
+﻿
+{--- website descriptions --}
+[WVE_STALLION4]
+** placeholder Stallion4 description **
+
+{--- dummy ---}
+[DUMMYWEBSITES]
+THIS LABEL NEEDS TO BE HERE !!!
