@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Secondary Super Stallion
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Primary Stock Bumper
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Secondary Stock Bumper
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Primary Stock Bumper
+
+[STA4_BUMR_2]
+Secondary Stock Bumper
 
 
 
@@ -183,80 +192,92 @@ Secondary Super Stallion
 
 {- STA4_DRAG_ACCS -}
 [STA4_WBAR_1]
-** Placeholder **
+Chute
 
 [STA4_WBAR_2]
-** Placeholder **
+Wheelie Bar
 
 [STA4_WBAR_3]
-** Placeholder **
+Chute & Wheelie Bar
 
 
 
 {- STA4_CAGES -}
 [STA4_CAGE_1]
-** Placeholder (Race Cage) **
+Race Cage
 
 
 
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Plastic Sunstrip
 
 [STA4_STRIP_2]
-** Placeholder **
+Primary Sunstrip
 
 [STA4_STRIP_3]
-** Placeholder **
+Secondary Sunstrip
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Primary Valve Covers
+
+[STA4_ENGINE_2]
+Secondary Valve Covers
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Carbon Bucket Seats
 
 [STA4_SEATS_2]
-** Placeholder **
+Mk1 Rally Seats
 
 [STA4_SEATS_3]
-** Placeholder **
+Mk2 Rally Seats
 
 [STA4_SEATS_4]
-** Placeholder **
+Mk1 Racing Seats
 
 [STA4_SEATS_5]
-** Placeholder **
+Mk2 Racing Seats
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+Secondary Stock Mirrors
 
 [STA4_MIRR_2]
-** Placeholder **
+Chrome Stock Mirrors
 
 [STA4_MIRR_3]
-** Placeholder **
+Chrome Rounded Mirrors
 
 [STA4_MIRR_4]
-** Placeholder **
+Primary Rounded Mirrors
 
 [STA4_MIRR_5]
-** Placeholder **
+Secondary Rounded Mirrors
 
 [STA4_MIRR_6]
-** Placeholder **
+Chrome Squared Mirrors
 
 [STA4_MIRR_7]
-** Placeholder **
+Primary Squared Mirrors
 
 [STA4_MIRR_8]
-** Placeholder **
+Secondary Squared Mirrors
+
+[STA4_MIRR_9]
+Chrome Vintage Mirrors
+
+[STA4_MIRR_10]
+Gauntlet Mirrors
 
 
 {- STA4_LIVERY -}

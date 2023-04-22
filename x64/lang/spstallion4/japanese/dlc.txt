@@ -6,7 +6,7 @@
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+バンパー(標準装備)(メイン)
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+バンパー(標準装備)(サブ)
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+バンパー(標準装備)(メイン)
+
+[STA4_BUMR_2]
+バンパー(標準装備)(サブ)
 
 
 
@@ -202,61 +211,73 @@
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+プラスチック・サンストリップ
 
 [STA4_STRIP_2]
-** Placeholder **
+サンストリップ(メイン)
 
 [STA4_STRIP_3]
-** Placeholder **
+サンストリップ(サブ)
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+バルブカバー(メイン)
+
+[STA4_ENGINE_2]
+バルブカバー(サブ)
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+カーボン・バケットシート
 
 [STA4_SEATS_2]
-** Placeholder **
+Mk1ラリーシート
 
 [STA4_SEATS_3]
-** Placeholder **
+Mk2ラリーシート
 
 [STA4_SEATS_4]
-** Placeholder **
+Mk1レーシングシート
 
 [STA4_SEATS_5]
-** Placeholder **
+Mk2レーシングシート
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+ミラー(標準装備)(サブ)
 
 [STA4_MIRR_2]
-** Placeholder **
+クロームミラー(標準装備)
 
 [STA4_MIRR_3]
-** Placeholder **
+クローム丸形ミラー
 
 [STA4_MIRR_4]
-** Placeholder **
+丸形ミラー(メイン)
 
 [STA4_MIRR_5]
-** Placeholder **
+丸形ミラー(サブ)
 
 [STA4_MIRR_6]
-** Placeholder **
+クローム角形ミラー
 
 [STA4_MIRR_7]
-** Placeholder **
+角形ミラー(メイン)
 
 [STA4_MIRR_8]
-** Placeholder **
+角形ミラー(サブ)
+
+[STA4_MIRR_9]
+クローム・ビンテージミラー
+
+[STA4_MIRR_10]
+ガントレットミラー
 
 
 {- STA4_LIVERY -}

@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Super Stallion secundario
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Defensa color principal
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Defensa color secundario
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Defensa color principal
+
+[STA4_BUMR_2]
+Defensa color secundario
 
 
 
@@ -202,61 +211,73 @@ Jaula de carreras
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Película solar de plástico
 
 [STA4_STRIP_2]
-** Placeholder **
+Película solar principal
 
 [STA4_STRIP_3]
-** Placeholder **
+Película solar secundario
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Cubiertas principal
+
+[STA4_ENGINE_2]
+Cubiertas secundario
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Asientos butacas carbono
 
 [STA4_SEATS_2]
-** Placeholder **
+Asientos Mk I de rally
 
 [STA4_SEATS_3]
-** Placeholder **
+Asientos Mk II de rally
 
 [STA4_SEATS_4]
-** Placeholder **
+Asientos Mk I de carreras
 
 [STA4_SEATS_5]
-** Placeholder **
+Asientos Mk II de carreras
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+De serie color secundario
 
 [STA4_MIRR_2]
-** Placeholder **
+De serie cromados
 
 [STA4_MIRR_3]
-** Placeholder **
+Redondos cromados
 
 [STA4_MIRR_4]
-** Placeholder **
+Redondos color principal
 
 [STA4_MIRR_5]
-** Placeholder **
+Redondos color secundario
 
 [STA4_MIRR_6]
-** Placeholder **
+Cuadrados cromados
 
 [STA4_MIRR_7]
-** Placeholder **
+Cuadrados color principal
 
 [STA4_MIRR_8]
-** Placeholder **
+Cuadrados color secundario
+
+[STA4_MIRR_9]
+Vintage cromados
+
+[STA4_MIRR_10]
+Gauntlet
 
 
 {- STA4_LIVERY -}

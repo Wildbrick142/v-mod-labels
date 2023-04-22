@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Super Stallion, kolor #2
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Zderzak fabryczny, kolor #1
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Zderzak fabryczny, kolor #2
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Zderzak fabryczny, kolor #1
+
+[STA4_BUMR_2]
+Zderzak fabryczny, kolor #2
 
 
 
@@ -202,61 +211,73 @@ Wyścigowa klatka
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Plastik. pas przeciwsłoneczny
 
 [STA4_STRIP_2]
-** Placeholder **
+Pas przeciwsłoneczny, kol. #1
 
 [STA4_STRIP_3]
-** Placeholder **
+Pas przeciwsłoneczny, kol. #2
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Osłony zaworów, kolor #1
+
+[STA4_ENGINE_2]
+Osłony zaworów, kolor #2
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Karbonowe fotele kubełkowe
 
 [STA4_SEATS_2]
-** Placeholder **
+Rajdowe siedzenia Mk I
 
 [STA4_SEATS_3]
-** Placeholder **
+Rajdowe siedzenia Mk II
 
 [STA4_SEATS_4]
-** Placeholder **
+Wyścigowe siedzenia Mk I
 
 [STA4_SEATS_5]
-** Placeholder **
+Wyścigowe siedzenia Mk II
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+Fabryczne lusterka, kolor #2
 
 [STA4_MIRR_2]
-** Placeholder **
+Chrom. fabryczne lusterka
 
 [STA4_MIRR_3]
-** Placeholder **
+Chromowane okrągłe lusterka
 
 [STA4_MIRR_4]
-** Placeholder **
+Okrągłe lusterka, kolor #1
 
 [STA4_MIRR_5]
-** Placeholder **
+Okrągłe lusterka, kolor #2
 
 [STA4_MIRR_6]
-** Placeholder **
+Chrom. kwadratowe lusterka
 
 [STA4_MIRR_7]
-** Placeholder **
+Kwadratowe lusterka, kolor #1
 
 [STA4_MIRR_8]
-** Placeholder **
+Kwadratowe lusterka, kolor #2
+
+[STA4_MIRR_9]
+Chrom. tradycyjne lusterka
+
+[STA4_MIRR_10]
+Gauntlet lusterka
 
 
 {- STA4_LIVERY -}

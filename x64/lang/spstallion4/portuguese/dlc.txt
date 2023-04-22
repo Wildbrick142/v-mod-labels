@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Super Stallion secundária
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Original primária
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Original secundária
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Original primária
+
+[STA4_BUMR_2]
+Original secundária
 
 
 
@@ -202,61 +211,73 @@ Corrida
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Plástico
 
 [STA4_STRIP_2]
-** Placeholder **
+Cor primária
 
 [STA4_STRIP_3]
-** Placeholder **
+Cor secundária
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Capa primária
+
+[STA4_ENGINE_2]
+Capa secundária
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Anatômicos carbono
 
 [STA4_SEATS_2]
-** Placeholder **
+Rally Mk1
 
 [STA4_SEATS_3]
-** Placeholder **
+Rally Mk2
 
 [STA4_SEATS_4]
-** Placeholder **
+Corrida Mk1
 
 [STA4_SEATS_5]
-** Placeholder **
+Corrida Mk2
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+Originais secundária
 
 [STA4_MIRR_2]
-** Placeholder **
+Originais cromados
 
 [STA4_MIRR_3]
-** Placeholder **
+Redondos cromados
 
 [STA4_MIRR_4]
-** Placeholder **
+Redondos primária
 
 [STA4_MIRR_5]
-** Placeholder **
+Redondos secundária
 
 [STA4_MIRR_6]
-** Placeholder **
+Quadrados cromados
 
 [STA4_MIRR_7]
-** Placeholder **
+Quadrados primária
 
 [STA4_MIRR_8]
-** Placeholder **
+Quadrados secundária
+
+[STA4_MIRR_9]
+Vintage cromados
+
+[STA4_MIRR_10]
+Gauntlet
 
 
 {- STA4_LIVERY -}

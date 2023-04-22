@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Super Stallion colore 2
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Standard colore 1
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Standard colore 2
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Standard colore 1
+
+[STA4_BUMR_2]
+Standard colore 2
 
 
 
@@ -202,61 +211,73 @@ Gabbia da corsa
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Plastica
 
 [STA4_STRIP_2]
-** Placeholder **
+Colore 1
 
 [STA4_STRIP_3]
-** Placeholder **
+Colore 2
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Coprivalvole colore 1
+
+[STA4_ENGINE_2]
+Coprivalvole colore 2
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Avvolgenti in carbonio
 
 [STA4_SEATS_2]
-** Placeholder **
+Da rally Mk1
 
 [STA4_SEATS_3]
-** Placeholder **
+Da rally Mk2
 
 [STA4_SEATS_4]
-** Placeholder **
+Da gara Mk1
 
 [STA4_SEATS_5]
-** Placeholder **
+Da gara Mk2
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+Standard colore 2
 
 [STA4_MIRR_2]
-** Placeholder **
+Standard cromati
 
 [STA4_MIRR_3]
-** Placeholder **
+Rotondi cromati
 
 [STA4_MIRR_4]
-** Placeholder **
+Rotondi colore 1
 
 [STA4_MIRR_5]
-** Placeholder **
+Rotondi colore 2
 
 [STA4_MIRR_6]
-** Placeholder **
+Quadrati cromati
 
 [STA4_MIRR_7]
-** Placeholder **
+Quadrati colore 1
 
 [STA4_MIRR_8]
-** Placeholder **
+Quadrati colore 2
+
+[STA4_MIRR_9]
+Vintage cromati
+
+[STA4_MIRR_10]
+Gauntlet
 
 
 {- STA4_LIVERY -}

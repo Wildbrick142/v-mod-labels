@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/21/23 --- }
+{ --- modparts ## updated 4/22/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -130,18 +130,27 @@ Stallion
 
 {- STA4_BUMPERS FRONT -}
 [STA4_BUMF_1]
-** sta4_bumf_1 label **
+Стандартный (осн. цвет)
 
 [STA4_BUMF_2]
-** sta4_bumf_2 label **
+Стандартный (доп. цвет)
 
 [STA4_BUMF_3]
 ** sta4_bumf_3 label **
 
+[STA4_BUMF_4]
+** sta4_bumf_4 label **
+
+[STA4_BUMF_5]
+** sta4_bumf_5 label **
+
 
 {- STA4_BUMPERS REAR -}
 [STA4_BUMR_1]
-** sta4_bumr_1 label **
+Стандартный (осн. цвет)
+
+[STA4_BUMR_2]
+Стандартный (доп. цвет)
 
 
 
@@ -202,61 +211,73 @@ Stallion
 
 {- STA4_SUNS -}
 [STA4_STRIP_1]
-** Placeholder **
+Пластиковая полоса
 
 [STA4_STRIP_2]
-** Placeholder **
+Полоса осн. цвета
 
 [STA4_STRIP_3]
-** Placeholder **
+Полоса доп. цвета
 
-[STA4_STRIP_4]
-** Placeholder **
+
+
+{- STA4_ENG -}
+[STA4_ENGINE_1]
+Крышки осн. цвета
+
+[STA4_ENGINE_2]
+Крышки доп. цвета
 
 
 
 {- STA4_CUSTOMSEAT -}
 [STA4_SEATS_1]
-** Placeholder **
+Ковшовые сиденья (карбон)
 
 [STA4_SEATS_2]
-** Placeholder **
+Раллийные сиденья Mk1
 
 [STA4_SEATS_3]
-** Placeholder **
+Раллийные сиденья Mk2
 
 [STA4_SEATS_4]
-** Placeholder **
+Гоночные сиденья Mk1
 
 [STA4_SEATS_5]
-** Placeholder **
+Гоночные сиденья Mk2
 
 
 
 {- STA4_MIRROR -}
 [STA4_MIRR_1]
-** Placeholder **
+Стандартные зеркала (доп.)
 
 [STA4_MIRR_2]
-** Placeholder **
+Стандартные зеркала (хром)
 
 [STA4_MIRR_3]
-** Placeholder **
+Круглые (хром)
 
 [STA4_MIRR_4]
-** Placeholder **
+Круглые (осн. цвет)
 
 [STA4_MIRR_5]
-** Placeholder **
+Круглые (доп. цвет)
 
 [STA4_MIRR_6]
-** Placeholder **
+Квадратные (хром)
 
 [STA4_MIRR_7]
-** Placeholder **
+Квадратные (осн. цвет)
 
 [STA4_MIRR_8]
-** Placeholder **
+Квадратные (доп. цвет)
+
+[STA4_MIRR_9]
+Винтажные (хром)
+
+[STA4_MIRR_10]
+Gauntlet зеркала
 
 
 {- STA4_LIVERY -}
