@@ -6,7 +6,7 @@
 
 
 
-{ --- modparts ## updated 4/22/23 --- }
+{ --- modparts ## updated 4/28/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -304,6 +304,21 @@ Mkµ2µ竞速座椅
 
 [STA4_LIV_8]
 ** Placeholder (helios 6) **
+
+[STA4_LIV_9]
+** Placeholder (dayashi 1) **
+
+[STA4_LIV_10]
+** Placeholder (dayashi 2) **
+
+[STA4_LIV_11]
+** Placeholder (dayashi 3) **
+
+[STA4_LIV_12]
+** Placeholder (dayashi 4) **
+
+[STA4_LIV_13]
+** Placeholder (dayashi 5) **
 
 
 
