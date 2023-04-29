@@ -1,708 +1,708 @@
 ﻿{ Rockstar Editor SFX }
 
 {-- original score --}
-[2101A]
+[TRACKID:2101A]
 Electro
-[2101S]
+[TRACKID:2101S]
 Dark Intent
 
-[2102A]
+[TRACKID:2102A]
 Electro
-[2102S]
+[TRACKID:2102S]
 Vacuum
 
-[2103A]
+[TRACKID:2103A]
 Electro
-[2103S]
+[TRACKID:2103S]
 The City
 
-[2104A]
+[TRACKID:2104A]
 Electro
-[2104S]
+[TRACKID:2104S]
 City Lights
 
-[2105A]
+[TRACKID:2105A]
 Electro
-[2105S]
+[TRACKID:2105S]
 The Streets
 
-[2106A]
+[TRACKID:2106A]
 Electro
-[2106S]
+[TRACKID:2106S]
 Scrapyard
 
-[2107A]
+[TRACKID:2107A]
 Electro
-[2107S]
+[TRACKID:2107S]
 Slow Burn
 
-[2108A]
+[TRACKID:2108A]
 Rock
-[2108S]
+[TRACKID:2108S]
 Gasoline Trail
 
-[2109A]
+[TRACKID:2109A]
 Rock
-[2109S]
+[TRACKID:2109S]
 Rolling Tracks
 
-[2110A]
+[TRACKID:2110A]
 Rock
-[2110S]
+[TRACKID:2110S]
 Silver Splinter
 
-[2111A]
+[TRACKID:2111A]
 Rock
-[2111S]
+[TRACKID:2111S]
 Debunked
 
-[2112A]
+[TRACKID:2112A]
 Rock
-[2112S]
+[TRACKID:2112S]
 The Summit
 
-[2113A]
+[TRACKID:2113A]
 Rock
-[2113S]
+[TRACKID:2113S]
 Distant Rumble
 
-[2114A]
+[TRACKID:2114A]
 Rock
-[2114S]
+[TRACKID:2114S]
 Crocodile Tears
 
-[2115A]
+[TRACKID:2115A]
 Urban
-[2115S]
+[TRACKID:2115S]
 Shotgun Game
 
-[2116A]
+[TRACKID:2116A]
 Urban
-[2116S]
+[TRACKID:2116S]
 Cruising
 
-[2117A]
+[TRACKID:2117A]
 Urban
-[2117S]
+[TRACKID:2117S]
 Street Slice
 
-[2118A]
+[TRACKID:2118A]
 Urban
-[2118S]
+[TRACKID:2118S]
 Vodka
 
-[2119A]
+[TRACKID:2119A]
 Urban
-[2119S]
+[TRACKID:2119S]
 Gun Novel
 
 
 
 
 {--- Commercials ---}
-[3100A]
+[TRACKID:3100A]
 Commercial
-[3100S]
+[TRACKID:3100S]
 Life Invader
 
-[3101A]
+[TRACKID:3101A]
 Commercial
-[3101S]
+[TRACKID:3101S]
 Righteous Slaughter "Nuke"
 
-[3102A]
+[TRACKID:3102A]
 Commercial
-[3102S]
+[TRACKID:3102S]
 Righteous Slaughter "Russians"
 
-[3103A]
+[TRACKID:3103A]
 Commercial
-[3103S]
+[TRACKID:3103S]
 Righteous Slaughter "Levels"
 
-[3104A]
+[TRACKID:3104A]
 Commercial
-[3104S]
+[TRACKID:3104S]
 San Andreas Tourism Board
 
-[3105A]
+[TRACKID:3105A]
 Commercial
-[3105S]
+[TRACKID:3105S]
 Grand Senora Desert
 
-[3106A]
+[TRACKID:3106A]
 Commercial
-[3106S]
+[TRACKID:3106S]
 San Andreas Water And Power
 
-[3107A]
+[TRACKID:3107A]
 Commercial
-[3107S]
+[TRACKID:3107S]
 Up-n-Atom
 
-[3108A]
+[TRACKID:3108A]
 Commercial
-[3108S]
+[TRACKID:3108S]
 Proposition 43
 
-[3109A]
+[TRACKID:3109A]
 Commercial
-[3109S]
+[TRACKID:3109S]
 Toeshoes
 
-[3110A]
+[TRACKID:3110A]
 Commercial
-[3110S]
+[TRACKID:3110S]
 Implant Outsource
 
-[3111A]
+[TRACKID:3111A]
 Commercial
-[3111S]
+[TRACKID:3111S]
 Donate Your Car
 
-[3112A]
+[TRACKID:3112A]
 Commercial
-[3112S]
+[TRACKID:3112S]
 Race To Pluto
 
-[3113A]
+[TRACKID:3113A]
 Commercial
-[3113S]
+[TRACKID:3113S]
 Proposition 208 "Dad"
 
-[3114A]
+[TRACKID:3114A]
 Commercial
-[3114S]
+[TRACKID:3114S]
 Proposition 208 "Jungle"
 
-[3115A]
+[TRACKID:3115A]
 Commercial
-[3115S]
+[TRACKID:3115S]
 Pisswasser
 
-[3116A]
+[TRACKID:3116A]
 Commercial
-[3116S]
+[TRACKID:3116S]
 Queensbury Boxing
 
-[3117A]
+[TRACKID:3117A]
 Commercial
-[3117S]
+[TRACKID:3117S]
 Lottery "Solving Hunger"
 
-[3118A]
+[TRACKID:3118A]
 Commercial
-[3118S]
+[TRACKID:3118S]
 Lottery 2 "Bugle"
 
-[3119A]
+[TRACKID:3119A]
 Commercial
-[3119S]
+[TRACKID:3119S]
 Whiz Wireless
 
-[3120A]
+[TRACKID:3120A]
 Commercial
-[3120S]
+[TRACKID:3120S]
 Rectify Holistic
 
-[3121A]
+[TRACKID:3121A]
 Commercial
-[3121S]
+[TRACKID:3121S]
 Jay's Bail Bonds
 
-[3122A]
+[TRACKID:3122A]
 Commercial
-[3122S]
+[TRACKID:3122S]
 Ovine Human Resources
 
-[3123A]
+[TRACKID:3123A]
 Commercial
-[3123S]
+[TRACKID:3123S]
 Proposition 14
 
-[3124A]
+[TRACKID:3124A]
 Commercial
-[3124S]
+[TRACKID:3124S]
 Prison Industrial Complex "Officer"
 
-[3125A]
+[TRACKID:3125A]
 Commercial
-[3125S]
+[TRACKID:3125S]
 Prison Industrial Complex 2 "Franchise"
 
-[3126A]
+[TRACKID:3126A]
 Commercial
-[3126S]
+[TRACKID:3126S]
 San Andreas Lobotomy
 
-[3127A]
+[TRACKID:3127A]
 Commercial
-[3127S]
+[TRACKID:3127S]
 Darwinian Yoga
 
-[3128A]
+[TRACKID:3128A]
 Commercial
-[3128S]
+[TRACKID:3128S]
 Gastro Band
 
-[3129A]
+[TRACKID:3129A]
 Commercial
-[3129S]
+[TRACKID:3129S]
 Economic Recovery Group
 
-[3130A]
+[TRACKID:3130A]
 Commercial
-[3130S]
+[TRACKID:3130S]
 Rehab Island
 
-[3131A]
+[TRACKID:3131A]
 Commercial
-[3131S]
+[TRACKID:3131S]
 Larry's RV Sales
 
-[3132A]
+[TRACKID:3132A]
 Commercial
-[3132S]
+[TRACKID:3132S]
 Night Lights
 
-[3133A]
+[TRACKID:3133A]
 Commercial
-[3133S]
+[TRACKID:3133S]
 Head Shots
 
-[3134A]
+[TRACKID:3134A]
 Commercial
-[3134S]
+[TRACKID:3134S]
 Electrotoke
 
-[3135A]
+[TRACKID:3135A]
 Commercial
-[3135S]
+[TRACKID:3135S]
 Toilet Cleaner
 
-[3136A]
+[TRACKID:3136A]
 Commercial
-[3136S]
+[TRACKID:3136S]
 Stop Paying Your Mortgage
 
-[3137A]
+[TRACKID:3137A]
 Commercial
-[3137S]
+[TRACKID:3137S]
 Floyd's Scrap Metal
 
-[3138A]
+[TRACKID:3138A]
 Commercial
-[3138S]
+[TRACKID:3138S]
 Buddy's Trucking
 
-[3139A]
+[TRACKID:3139A]
 Commercial
-[3139S]
+[TRACKID:3139S]
 Fleeca "Interest Fees"
 
-[3140A]
+[TRACKID:3140A]
 Commercial
-[3140S]
+[TRACKID:3140S]
 Fleeca 2 "Bedroom"
 
-[3141A]
+[TRACKID:3141A]
 Commercial
-[3141S]
+[TRACKID:3141S]
 Shark
 
-[3142A]
+[TRACKID:3142A]
 Commercial
-[3142S]
+[TRACKID:3142S]
 Smoked Dreams
 
-[3143A]
+[TRACKID:3143A]
 Commercial
-[3143S]
+[TRACKID:3143S]
 Hipsters For Hire
 
-[3144A]
+[TRACKID:3144A]
 Commercial
-[3144S]
+[TRACKID:3144S]
 Preservex
 
-[3145A]
+[TRACKID:3145A]
 Commercial
-[3145S]
+[TRACKID:3145S]
 Don's Country Store
 
-[3146A]
+[TRACKID:3146A]
 Commercial
-[3146S]
+[TRACKID:3146S]
 Proposition 45
 
-[3147A]
+[TRACKID:3147A]
 Commercial
-[3147S]
+[TRACKID:3147S]
 Windsor Real Estate "Immigrant"
 
-[3148A]
+[TRACKID:3148A]
 Commercial
-[3148S]
+[TRACKID:3148S]
 Windsor Real Estate 2 "Swinger"
 
-[3149A]
+[TRACKID:3149A]
 Commercial
-[3149S]
+[TRACKID:3149S]
 Cuckold Therapy
 
-[3150A]
+[TRACKID:3150A]
 Commercial
-[3150S]
+[TRACKID:3150S]
 Digifarm "Digifarm"
 
-[3151A]
+[TRACKID:3151A]
 Commercial
-[3151S]
+[TRACKID:3151S]
 Digifarm "Games"
 
-[3152A]
+[TRACKID:3152A]
 Commercial
-[3152S]
+[TRACKID:3152S]
 Blaine County Bank
 
-[3153A]
+[TRACKID:3153A]
 Commercial
-[3153S]
+[TRACKID:3153S]
 Lombank
 
-[3154A]
+[TRACKID:3154A]
 Commercial
-[3154S]
+[TRACKID:3154S]
 Hitting Kids Works Wonders
 
-[3155A]
+[TRACKID:3155A]
 Commercial
-[3155S]
+[TRACKID:3155S]
 Vinewood Health
 
-[3156A]
+[TRACKID:3156A]
 Commercial
-[3156S]
+[TRACKID:3156S]
 LS Benders "Wanker"
 
-[3157A]
+[TRACKID:3157A]
 Commercial
-[3157S]
+[TRACKID:3157S]
 LS Benders "Fat Bastard"
 
-[3158A]
+[TRACKID:3158A]
 Commercial
-[3158S]
+[TRACKID:3158S]
 Youtool
 
-[3159A]
+[TRACKID:3159A]
 Commercial
-[3159S]
+[TRACKID:3159S]
 Ammunation "Gardening"
 
-[3160A]
+[TRACKID:3160A]
 Commercial
-[3160S]
+[TRACKID:3160S]
 Ammunation "Apocalypse"
 
-[3161A]
+[TRACKID:3161A]
 Commercial
-[3161S]
+[TRACKID:3161S]
 Flow Water
 
-[3162A]
+[TRACKID:3162A]
 Commercial
-[3162S]
+[TRACKID:3162S]
 13 Steps To Heaven "Opportunity"
 
-[3163A]
+[TRACKID:3163A]
 Commercial
-[3163S]
+[TRACKID:3163S]
 Serious Cougar
 
-[3164A]
+[TRACKID:3164A]
 Commercial
-[3164S]
+[TRACKID:3164S]
 Cloud Computing
 
-[3165A]
+[TRACKID:3165A]
 Commercial
-[3165S]
+[TRACKID:3165S]
 Pride Not Prejudice "Grain Alcohol"
 
-[3166A]
+[TRACKID:3166A]
 Commercial
-[3166S]
+[TRACKID:3166S]
 Pride Not Prejudice "Tornado"
 
-[3167A]
+[TRACKID:3167A]
 Commercial
-[3167S]
+[TRACKID:3167S]
 Hitting Kids Works Wonders "Pot"
 
-[3168A]
+[TRACKID:3168A]
 Commercial
-[3168S]
+[TRACKID:3168S]
 Hammerstein And Faust
 
-[3169A]
+[TRACKID:3169A]
 Commercial
-[3169S]
+[TRACKID:3169S]
 Grain Of Truth
 
-[3170A]
+[TRACKID:3170A]
 Commercial
-[3170S]
+[TRACKID:3170S]
 FlyUS "Choices"
 
-[3171A]
+[TRACKID:3171A]
 Commercial
-[3171S]
+[TRACKID:3171S]
 FlyUS "Drunk"
 
-[3172A]
+[TRACKID:3172A]
 Commercial
-[3172S]
+[TRACKID:3172S]
 FlyUS "Planes"
 
-[3173A]
+[TRACKID:3173A]
 Commercial
-[3173S]
+[TRACKID:3173S]
 Refinance Your Home
 
-[3174A]
+[TRACKID:3174A]
 Commercial
-[3174S]
+[TRACKID:3174S]
 Unlock The Power "Jerking"
 
-[3175A]
+[TRACKID:3175A]
 Commercial
-[3175S]
+[TRACKID:3175S]
 Unlock The Power "Abyss"
 
-[3176A]
+[TRACKID:3176A]
 Commercial
-[3176S]
+[TRACKID:3176S]
 13 Steps To Heaven "Drowning"
 
-[3177A]
+[TRACKID:3177A]
 Commercial
-[3177S]
+[TRACKID:3177S]
 13 Steps To Heaven "Train"
 
-[3178A]
+[TRACKID:3178A]
 Commercial
-[3178S]
+[TRACKID:3178S]
 Manopause Adventures
 
-[3179A]
+[TRACKID:3179A]
 Commercial
-[3179S]
+[TRACKID:3179S]
 MMA
 
-[3180A]
+[TRACKID:3180A]
 Commercial
-[3180S]
+[TRACKID:3180S]
 Alcoholla
 
-[3181A]
+[TRACKID:3181A]
 Commercial
-[3181S]
+[TRACKID:3181S]
 Egochaser
 
-[3182A]
+[TRACKID:3182A]
 Commercial
-[3182S]
+[TRACKID:3182S]
 Chains Of Intimacy "Throbbing"
 
-[3183A]
+[TRACKID:3183A]
 Commercial
-[3183S]
+[TRACKID:3183S]
 Chains Of Intimacy "Diamonds"
 
-[3184A]
+[TRACKID:3184A]
 Commercial
-[3184S]
+[TRACKID:3184S]
 Bravado "Farms"
 
-[3185A]
+[TRACKID:3185A]
 Commercial
-[3185S]
+[TRACKID:3185S]
 Bravado "Cruise Control"
 
-[3186A]
+[TRACKID:3186A]
 Commercial
-[3186S]
+[TRACKID:3186S]
 SA Flight School
 
-[3187A]
+[TRACKID:3187A]
 Commercial
-[3187S]
+[TRACKID:3187S]
 Crevis "Nature"
 
-[3188A]
+[TRACKID:3188A]
 Commercial
-[3188S]
+[TRACKID:3188S]
 Crevis "Everest"
 
-[3189A]
+[TRACKID:3189A]
 Commercial
-[3189S]
+[TRACKID:3189S]
 Epsilon "Antarctica"
 
-[3190A]
+[TRACKID:3190A]
 Commercial
-[3190S]
+[TRACKID:3190S]
 Epsilon "Famous People"
 
-[3191A]
+[TRACKID:3191A]
 Commercial
-[3191S]
+[TRACKID:3191S]
 13 Steps To Heaven "Victims"
 
-[3192A]
+[TRACKID:3192A]
 Commercial
-[3192S]
+[TRACKID:3192S]
 Pontius
 
-[3193A]
+[TRACKID:3193A]
 Commercial
-[3193S]
+[TRACKID:3193S]
 Sue Murry
 
-[3194A]
+[TRACKID:3194A]
 Commercial
-[3194S]
+[TRACKID:3194S]
 Jock Cranley "Vote Jock"
 
-[3195A]
+[TRACKID:3195A]
 Commercial
-[3195S]
+[TRACKID:3195S]
 Jock Cranley "Your Jock"
 
-[3196A]
+[TRACKID:3196A]
 Commercial
-[3196S]
+[TRACKID:3196S]
 Extreme Paleo TM "Get Extreme"
 
-[3197A]
+[TRACKID:3197A]
 Commercial
-[3197S]
+[TRACKID:3197S]
 Extreme Paleo TM 2 "Real Paleo"
 
-[3198A]
+[TRACKID:3198A]
 Commercial
-[3198S]
+[TRACKID:3198S]
 Machiavelli Race "Win"
 
-[3199A]
+[TRACKID:3199A]
 Commercial
-[3199S]
+[TRACKID:3199S]
 Machiavelli Race "The Race"
 
-[3200A]
+[TRACKID:3200A]
 Commercial
-[3200S]
+[TRACKID:3200S]
 Mystaspot
 
-[3201A]
+[TRACKID:3201A]
 Commercial
-[3201S]
+[TRACKID:3201S]
 Phat Chips
 
-[3202A]
+[TRACKID:3202A]
 Commercial
-[3202S]
+[TRACKID:3202S]
 TCS Energy Pro 1
 
-[3203A]
+[TRACKID:3203A]
 Commercial
-[3203S]
+[TRACKID:3203S]
 TCS Energy Pro 2
 
-[3204A]
+[TRACKID:3204A]
 Commercial
-[3204S]
+[TRACKID:3204S]
 Visit Liberty City
 
-[3205A]
+[TRACKID:3205A]
 Commercial
-[3205S]
+[TRACKID:3205S]
 Bison
 
-[3206A]
+[TRACKID:3206A]
 Commercial
-[3206S]
+[TRACKID:3206S]
 Bravado "Together"
 
-[3207A]
+[TRACKID:3207A]
 Commercial
-[3207S]
+[TRACKID:3207S]
 Logger Beer
 
-[3208A]
+[TRACKID:3208A]
 Commercial
-[3208S]
+[TRACKID:3208S]
 Lottery "Ex-Wife"
 
-[3209A]
+[TRACKID:3209A]
 Commercial
-[3209S]
+[TRACKID:3209S]
 Hospital
 
-[3210A]
+[TRACKID:3210A]
 Commercial
-[3210S]
+[TRACKID:3210S]
 San Andreas Tourism Board 2
 
-[3211A]
+[TRACKID:3211A]
 Commercial
-[3211S]
+[TRACKID:3211S]
 San Andreas Water And Power 2
 
-[3212A]
+[TRACKID:3212A]
 Commercial
-[3212S]
+[TRACKID:3212S]
 Stunt Academy
 
-[3213A]
+[TRACKID:3213A]
 Commercial
-[3213S]
+[TRACKID:3213S]
 Epsilon "Famous People" 2
 
-[3214A]
+[TRACKID:3214A]
 Commercial
-[3214S]
+[TRACKID:3214S]
 Phat Chips 2
 
-[3215A]
+[TRACKID:3215A]
 Commercial
-[3215S]
+[TRACKID:3215S]
 Mystaspot 2
 
-[3216A]
+[TRACKID:3216A]
 Commercial
-[3216S]
+[TRACKID:3216S]
 Ammunation "Apocalypse" 2
 
-[3217A]
+[TRACKID:3217A]
 Commercial
-[3217S]
+[TRACKID:3217S]
 Grand Senora Desert 2
 
-[3218A]
+[TRACKID:3218A]
 Commercial
-[3218S]
+[TRACKID:3218S]
 Life Invader 2
 
-[3219A]
+[TRACKID:3219A]
 Commercial
-[3219S]
+[TRACKID:3219S]
 Surano
 
-[3220A]
+[TRACKID:3220A]
 Commercial
-[3220S]
+[TRACKID:3220S]
 Up-n-Atom 2
 
 
@@ -711,1454 +711,1454 @@ Up-n-Atom 2
 
 
 {-- SFX --}
-[3300A]
+[TRACKID:3300A]
 Kolizje
 
-[3300S]
+[TRACKID:3300S]
 Duża kolizja 1
 
-[3301A]
+[TRACKID:3301A]
 Kolizje
 
-[3301S]
+[TRACKID:3301S]
 Duża kolizja 2
 
-[3302A]
+[TRACKID:3302A]
 Kolizje
 
-[3302S]
+[TRACKID:3302S]
 Duża kolizja 3
 
-[3303A]
+[TRACKID:3303A]
 Kolizje
 
-[3303S]
+[TRACKID:3303S]
 Średnia kolizja 1
 
-[3304A]
+[TRACKID:3304A]
 Kolizje
 
-[3304S]
+[TRACKID:3304S]
 Średnia kolizja 2
 
-[3305A]
+[TRACKID:3305A]
 Kolizje
 
-[3305S]
+[TRACKID:3305S]
 Średnia kolizja 3
 
-[3306A]
+[TRACKID:3306A]
 Kolizje
 
-[3306S]
+[TRACKID:3306S]
 Mała kolizja 1
 
-[3307A]
+[TRACKID:3307A]
 Kolizje
 
-[3307S]
+[TRACKID:3307S]
 Mała kolizja 2
 
-[3308A]
+[TRACKID:3308A]
 Kolizje
 
-[3308S]
+[TRACKID:3308S]
 Mała kolizja 3
 
-[3309A]
+[TRACKID:3309A]
 Eksplozje
 
-[3309S]
+[TRACKID:3309S]
 Metal - wybuch 1
 
-[3310A]
+[TRACKID:3310A]
 Eksplozje
 
-[3310S]
+[TRACKID:3310S]
 Metal - wybuch 2
 
-[3311A]
+[TRACKID:3311A]
 Eksplozje
 
-[3311S]
+[TRACKID:3311S]
 Metal - wybuch 3
 
-[3312A]
+[TRACKID:3312A]
 Eksplozje
 
-[3312S]
+[TRACKID:3312S]
 Drewno - wybuch 1
 
-[3313A]
+[TRACKID:3313A]
 Eksplozje
 
-[3313S]
+[TRACKID:3313S]
 Drewno - wybuch 2
 
-[3314A]
+[TRACKID:3314A]
 Eksplozje
 
-[3314S]
+[TRACKID:3314S]
 Drewno - wybuch 3
 
-[3315A]
+[TRACKID:3315A]
 Wypadki
 
-[3315S]
+[TRACKID:3315S]
 Głośne tłuczenie szkła 1
 
-[3316A]
+[TRACKID:3316A]
 Wypadki
 
-[3316S]
+[TRACKID:3316S]
 Głośne tłuczenie szkła 2
 
-[3317A]
+[TRACKID:3317A]
 Wypadki
 
-[3317S]
+[TRACKID:3317S]
 Głośne tłuczenie szkła 3
 
-[3318A]
+[TRACKID:3318A]
 Wypadki
 
-[3318S]
+[TRACKID:3318S]
 Średnie tłuczenie szkła 1
 
-[3319A]
+[TRACKID:3319A]
 Wypadki
 
-[3319S]
+[TRACKID:3319S]
 Średnie tłuczenie szkła 2
 
-[3320A]
+[TRACKID:3320A]
 Wypadki
 
-[3320S]
+[TRACKID:3320S]
 Średnie tłuczenie szkła 3
 
-[3321A]
+[TRACKID:3321A]
 Wypadki
 
-[3321S]
+[TRACKID:3321S]
 Ciche tłuczenie szkła 1
 
-[3322A]
+[TRACKID:3322A]
 Wypadki
 
-[3322S]
+[TRACKID:3322S]
 Ciche tłuczenie szkła 2
 
-[3323A]
+[TRACKID:3323A]
 Wypadki
 
-[3323S]
+[TRACKID:3323S]
 Ciche tłuczenie szkła 3
 
-[3324A]
+[TRACKID:3324A]
 Eksplozje
 
-[3324S]
+[TRACKID:3324S]
 Eksplozja 1
 
-[3325A]
+[TRACKID:3325A]
 Eksplozje
 
-[3325S]
+[TRACKID:3325S]
 Eksplozja 2
 
-[3326A]
+[TRACKID:3326A]
 Eksplozje
 
-[3326S]
+[TRACKID:3326S]
 Eksplozja 3
 
-[3327A]
+[TRACKID:3327A]
 Eksplozje
 
-[3327S]
+[TRACKID:3327S]
 Odległa eksplozja 1
 
-[3328A]
+[TRACKID:3328A]
 Eksplozje
 
-[3328S]
+[TRACKID:3328S]
 Odległa eksplozja 2
 
-[3329A]
+[TRACKID:3329A]
 Eksplozje
 
-[3329S]
+[TRACKID:3329S]
 Odległa eksplozja 3
 
-[3330A]
+[TRACKID:3330A]
 Inne
 
-[3330S]
+[TRACKID:3330S]
 Otwieranie drzwi 1
 
-[3331A]
+[TRACKID:3331A]
 Inne
 
-[3331S]
+[TRACKID:3331S]
 Otwieranie drzwi 2
 
-[3332A]
+[TRACKID:3332A]
 Inne
 
-[3332S]
+[TRACKID:3332S]
 Zamykanie drzwi 1
 
-[3333A]
+[TRACKID:3333A]
 Inne
 
-[3333S]
+[TRACKID:3333S]
 Zamykanie drzwi 2
 
-[3334A]
+[TRACKID:3334A]
 Przejazd
 
-[3334S]
+[TRACKID:3334S]
 Przelot odrzutowca 5
 
-[3335A]
+[TRACKID:3335A]
 Przejazd
 
-[3335S]
+[TRACKID:3335S]
 Przelot odrzutowca 6
 
-[3340A]
+[TRACKID:3340A]
 Inne
 
-[3340S]
+[TRACKID:3340S]
 Tłuczona butelka 1
 
-[3341A]
+[TRACKID:3341A]
 Inne
 
-[3341S]
+[TRACKID:3341S]
 Tłuczona butelka 2
 
-[3342A]
+[TRACKID:3342A]
 Inne
 
-[3342S]
+[TRACKID:3342S]
 Tłuczona butelka 3
 
-[3343A]
+[TRACKID:3343A]
 Inne
 
-[3343S]
+[TRACKID:3343S]
 Buksowanie 1
 
-[3344A]
+[TRACKID:3344A]
 Inne
 
-[3344S]
+[TRACKID:3344S]
 Buksowanie 2
 
-[3345A]
+[TRACKID:3345A]
 Inne
 
-[3345S]
+[TRACKID:3345S]
 Buksowanie 3
 
-[3346A]
+[TRACKID:3346A]
 Inne
 
-[3346S]
+[TRACKID:3346S]
 Buksowanie 4
 
-[3347A]
+[TRACKID:3347A]
 Inne
 
-[3347S]
+[TRACKID:3347S]
 Buksowanie 5
 
-[3348A]
+[TRACKID:3348A]
 Inne
 
-[3348S]
+[TRACKID:3348S]
 Pukanie do drzwi 1
 
-[3349A]
+[TRACKID:3349A]
 Inne
 
-[3349S]
+[TRACKID:3349S]
 Pukanie do drzwi 2
 
-[3350A]
+[TRACKID:3350A]
 Inne
 
-[3350S]
+[TRACKID:3350S]
 Pukanie do drzwi 3
 
-[3351A]
+[TRACKID:3351A]
 Inne
 
-[3351S]
+[TRACKID:3351S]
 Pukanie do drzwi 4
 
-[3352A]
+[TRACKID:3352A]
 Inne
 
-[3352S]
+[TRACKID:3352S]
 Pukanie do drzwi 5
 
-[3353A]
+[TRACKID:3353A]
 Inne
 
-[3353S]
+[TRACKID:3353S]
 Pukanie do drzwi 6
 
-[3354A]
+[TRACKID:3354A]
 Inne
 
-[3354S]
+[TRACKID:3354S]
 Pukanie do drzwi 7
 
-[3355A]
+[TRACKID:3355A]
 Inne
 
-[3355S]
+[TRACKID:3355S]
 Szczekanie psa 1
 
-[3356A]
+[TRACKID:3356A]
 Inne
 
-[3356S]
+[TRACKID:3356S]
 Szczekanie psa 2
 
-[3357A]
+[TRACKID:3357A]
 Inne
 
-[3357S]
+[TRACKID:3357S]
 Szczekanie psa 3
 
-[3358A]
+[TRACKID:3358A]
 Inne
 
-[3358S]
+[TRACKID:3358S]
 Szczekanie psa 4
 
-[3359A]
+[TRACKID:3359A]
 Inne
 
-[3359S]
+[TRACKID:3359S]
 Szczekanie psa 5
 
-[3360A]
+[TRACKID:3360A]
 Przejazd
 
-[3360S]
+[TRACKID:3360S]
 Samochód z klaksonem 1
 
-[3361A]
+[TRACKID:3361A]
 Przejazd
 
-[3361S]
+[TRACKID:3361S]
 Samochód z klaksonem 2
 
-[3362A]
+[TRACKID:3362A]
 Przejazd
 
-[3362S]
+[TRACKID:3362S]
 Samochód z klaksonem 3
 
-[3363A]
+[TRACKID:3363A]
 Przejazd
 
-[3363S]
+[TRACKID:3363S]
 Samochód z klaksonem 4
 
-[3364A]
+[TRACKID:3364A]
 Przejazd
 
-[3364S]
+[TRACKID:3364S]
 Samochód z klaksonem 5
 
-[3365A]
+[TRACKID:3365A]
 Przejazd
 
-[3365S]
+[TRACKID:3365S]
 Ciężarówka z klaksonem 1
 
-[3366A]
+[TRACKID:3366A]
 Przejazd
 
-[3366S]
+[TRACKID:3366S]
 Ciężarówka z klaksonem 2
 
-[3367A]
+[TRACKID:3367A]
 Przejazd
 
-[3367S]
+[TRACKID:3367S]
 Ciężarówka z klaksonem 3
 
-[3368A]
+[TRACKID:3368A]
 Przejazd
 
-[3368S]
+[TRACKID:3368S]
 Motocykl z klaksonem 1
 
-[3369A]
+[TRACKID:3369A]
 Przejazd
 
-[3369S]
+[TRACKID:3369S]
 Motocykl z klaksonem 2
 
-[3370A]
+[TRACKID:3370A]
 Przejazd
 
-[3370S]
+[TRACKID:3370S]
 Motocykl z klaksonem 3
 
-[3371A]
+[TRACKID:3371A]
 Przejazd
 
-[3371S]
+[TRACKID:3371S]
 Motocykl z klaksonem 4
 
-[3372A]
+[TRACKID:3372A]
 Przejazd
 
-[3372S]
+[TRACKID:3372S]
 Motocykl z klaksonem 5
 
-[3373A]
+[TRACKID:3373A]
 Przejazd
 
-[3373S]
+[TRACKID:3373S]
 Motocykl z klaksonem 6
 
-[3374A]
+[TRACKID:3374A]
 Przejazd
 
-[3374S]
+[TRACKID:3374S]
 Przejazd motocykla 1
 
-[3375A]
+[TRACKID:3375A]
 Przejazd
 
-[3375S]
+[TRACKID:3375S]
 Przejazd motocykla 2
 
-[3376A]
+[TRACKID:3376A]
 Przejazd
 
-[3376S]
+[TRACKID:3376S]
 Przejazd motocykla 3
 
-[3377A]
+[TRACKID:3377A]
 Przejazd
 
-[3377S]
+[TRACKID:3377S]
 Przejazd motocykla 4
 
-[3378A]
+[TRACKID:3378A]
 Przejazd
 
-[3378S]
+[TRACKID:3378S]
 Przejazd motocykla 5
 
-[3379A]
+[TRACKID:3379A]
 Przejazd
 
-[3379S]
+[TRACKID:3379S]
 Przejazd samochodu 1
 
-[3380A]
+[TRACKID:3380A]
 Przejazd
 
-[3380S]
+[TRACKID:3380S]
 Przejazd samochodu 2
 
-[3381A]
+[TRACKID:3381A]
 Przejazd
 
-[3381S]
+[TRACKID:3381S]
 Przejazd samochodu 3
 
-[3382A]
+[TRACKID:3382A]
 Przejazd
 
-[3382S]
+[TRACKID:3382S]
 Przejazd samochodu 4
 
-[3383A]
+[TRACKID:3383A]
 Przejazd
 
-[3383S]
+[TRACKID:3383S]
 Przejazd samochodu 5
 
-[3384A]
+[TRACKID:3384A]
 Przejazd
 
-[3384S]
+[TRACKID:3384S]
 Przejazd samochodu 6
 
-[3385A]
+[TRACKID:3385A]
 Przejazd
 
-[3385S]
+[TRACKID:3385S]
 Przejazd samochodu 7
 
-[3386A]
+[TRACKID:3386A]
 Przejazd
 
-[3386S]
+[TRACKID:3386S]
 Przejazd samochodu 8
 
-[3387A]
+[TRACKID:3387A]
 Przejazd
 
-[3387S]
+[TRACKID:3387S]
 Syrena 1
 
-[3388A]
+[TRACKID:3388A]
 Przejazd
 
-[3388S]
+[TRACKID:3388S]
 Syrena 2
 
-[3389A]
+[TRACKID:3389A]
 Przejazd
 
-[3389S]
+[TRACKID:3389S]
 Syrena 3
 
-[3390A]
+[TRACKID:3390A]
 Przejazd
 
-[3390S]
+[TRACKID:3390S]
 Syrena 4
 
-[3391A]
+[TRACKID:3391A]
 Przejazd
 
-[3391S]
+[TRACKID:3391S]
 Przelot 1
 
-[3392A]
+[TRACKID:3392A]
 Przejazd
 
-[3392S]
+[TRACKID:3392S]
 Przelot 2
 
-[3393A]
+[TRACKID:3393A]
 Przejazd
 
-[3393S]
+[TRACKID:3393S]
 Przelot 3
 
-[3394A]
+[TRACKID:3394A]
 Przejazd
 
-[3394S]
+[TRACKID:3394S]
 Przelot 4
 
-[3395A]
+[TRACKID:3395A]
 Przejazd
 
-[3395S]
+[TRACKID:3395S]
 Przelot 5
 
-[3396A]
+[TRACKID:3396A]
 Przejazd
 
-[3396S]
+[TRACKID:3396S]
 Przelot odrzutowca 1
 
-[3397A]
+[TRACKID:3397A]
 Przejazd
 
-[3397S]
+[TRACKID:3397S]
 Przelot odrzutowca 2
 
-[3398A]
+[TRACKID:3398A]
 Przejazd
 
-[3398S]
+[TRACKID:3398S]
 Przelot odrzutowca 3
 
-[3399A]
+[TRACKID:3399A]
 Przejazd
 
-[3399S]
+[TRACKID:3399S]
 Przelot odrzutowca 4
 
-[3400A]
+[TRACKID:3400A]
 Kolczatki
 
-[3400S]
+[TRACKID:3400S]
 Trafienie kolczatką 1
 
-[3401A]
+[TRACKID:3401A]
 Kolczatki
 
-[3401S]
+[TRACKID:3401S]
 Trafienie kolczatką 2
 
-[3402A]
+[TRACKID:3402A]
 Kolczatki
 
-[3402S]
+[TRACKID:3402S]
 Trafienie kolczatką 3
 
-[3403A]
+[TRACKID:3403A]
 Kolczatki
 
-[3403S]
+[TRACKID:3403S]
 Trafienie kolczatką 4
 
-[3404A]
+[TRACKID:3404A]
 Kolczatki
 
-[3404S]
+[TRACKID:3404S]
 Trafienie kolczatką 5
 
-[3405A]
+[TRACKID:3405A]
 Kolczatki
 
-[3405S]
+[TRACKID:3405S]
 Podnośnik kolczatki 1
 
-[3406A]
+[TRACKID:3406A]
 Kolczatki
 
-[3406S]
+[TRACKID:3406S]
 Podnośnik kolczatki 2
 
-[3407A]
+[TRACKID:3407A]
 Kolczatki
 
-[3407S]
+[TRACKID:3407S]
 Podnośnik kolczatki 3
 
-[3408A]
+[TRACKID:3408A]
 Kolczatki
 
-[3408S]
+[TRACKID:3408S]
 Podnośnik kolczatki 4
 
-[3409A]
+[TRACKID:3409A]
 Kolczatki
 
-[3409S]
+[TRACKID:3409S]
 Podnośnik kolczatki 5
 
-[3410A]
+[TRACKID:3410A]
 Kolczatki
 
-[3410S]
+[TRACKID:3410S]
 Otarcie kolczatki 1
 
-[3411A]
+[TRACKID:3411A]
 Kolczatki
 
-[3411S]
+[TRACKID:3411S]
 Otarcie kolczatki 2
 
-[3412A]
+[TRACKID:3412A]
 Kolczatki
 
-[3412S]
+[TRACKID:3412S]
 Otarcie kolczatki 3
 
-[3413A]
+[TRACKID:3413A]
 Kolczatki
 
-[3413S]
+[TRACKID:3413S]
 Otarcie kolczatki 4
 
-[3414A]
+[TRACKID:3414A]
 Kolczatki
 
-[3414S]
+[TRACKID:3414S]
 Otarcie kolczatki 5
 
 
 
 
 {--- DLC_HALLOWEEN_SFX --}
-[3415A]
+[TRACKID:3415A]
 Straszne kolczatki
 
-[3415S]
+[TRACKID:3415S]
 Straszne trafienie kolczatką 1
 
-[3416A]
+[TRACKID:3416A]
 Straszne kolczatki
 
-[3416S]
+[TRACKID:3416S]
 Straszne trafienie kolczatką 2
 
-[3417A]
+[TRACKID:3417A]
 Straszne kolczatki
 
-[3417S]
+[TRACKID:3417S]
 Straszne trafienie kolczatką 3
 
-[3418A]
+[TRACKID:3418A]
 Straszne kolczatki
 
-[3418S]
+[TRACKID:3418S]
 Straszne trafienie kolczatką 4
 
-[3419A]
+[TRACKID:3419A]
 Straszne kolczatki
 
-[3419S]
+[TRACKID:3419S]
 Straszne trafienie kolczatką 5
 
-[3420A]
+[TRACKID:3420A]
 Straszne kolczatki
 
-[3420S]
+[TRACKID:3420S]
 Straszne trafienie kolczatką 6
 
-[3421A]
+[TRACKID:3421A]
 Straszne kolczatki
 
-[3421S]
+[TRACKID:3421S]
 Straszne trafienie kolczatką 7
 
-[3422A]
+[TRACKID:3422A]
 Straszne kolczatki
 
-[3422S]
+[TRACKID:3422S]
 Straszne trafienie kolczatką 8
 
-[3423A]
+[TRACKID:3423A]
 Straszne kolczatki
 
-[3423S]
+[TRACKID:3423S]
 Straszny podnośnik kolczatki 1
 
-[3424A]
+[TRACKID:3424A]
 Straszne kolczatki
 
-[3424S]
+[TRACKID:3424S]
 Straszny podnośnik kolczatki 2
 
-[3425A]
+[TRACKID:3425A]
 Straszne kolczatki
 
-[3425S]
+[TRACKID:3425S]
 Straszny podnośnik kolczatki 3
 
-[3426A]
+[TRACKID:3426A]
 Straszne kolczatki
 
-[3426S]
+[TRACKID:3426S]
 Straszny podnośnik kolczatki 4
 
-[3427A]
+[TRACKID:3427A]
 Straszne kolczatki
 
-[3427S]
+[TRACKID:3427S]
 Straszny podnośnik kolczatki 5
 
-[3428A]
+[TRACKID:3428A]
 Straszne kolczatki
 
-[3428S]
+[TRACKID:3428S]
 Straszny łomot kolczatki 1
 
-[3429A]
+[TRACKID:3429A]
 Straszne kolczatki
 
-[3429S]
+[TRACKID:3429S]
 Straszny łomot kolczatki 2
 
-[3430A]
+[TRACKID:3430A]
 Straszne kolczatki
 
-[3430S]
+[TRACKID:3430S]
 Straszny łomot kolczatki 3
 
-[3431A]
+[TRACKID:3431A]
 Inne straszne
 
-[3431S]
+[TRACKID:3431S]
 Otwarcie skrzypiących drzwi 1
 
-[3432A]
+[TRACKID:3432A]
 Inne straszne
 
-[3432S]
+[TRACKID:3432S]
 Otwarcie skrzypiących drzwi 2
 
-[3433A]
+[TRACKID:3433A]
 Inne straszne
 
-[3433S]
+[TRACKID:3433S]
 Zamknięcie skrzypiących drzwi 1
 
-[3434A]
+[TRACKID:3434A]
 Inne straszne
 
-[3434S]
+[TRACKID:3434S]
 Zamknięcie skrzypiących drzwi 2
 
-[3435A]
+[TRACKID:3435A]
 Straszna rzeźnia
 
-[3435S]
+[TRACKID:3435S]
 Zgniecenie 1
 
-[3436A]
+[TRACKID:3436A]
 Straszna rzeźnia
 
-[3436S]
+[TRACKID:3436S]
 Zgniecenie 2
 
-[3437A]
+[TRACKID:3437A]
 Straszna rzeźnia
 
-[3437S]
+[TRACKID:3437S]
 Zgniecenie 3
 
-[3438A]
+[TRACKID:3438A]
 Straszna rzeźnia
 
-[3438S]
+[TRACKID:3438S]
 Zgniecenie 4
 
-[3439A]
+[TRACKID:3439A]
 Straszna rzeźnia
 
-[3439S]
+[TRACKID:3439S]
 Zgniecenie 5
 
-[3440A]
+[TRACKID:3440A]
 Straszna rzeźnia
 
-[3440S]
+[TRACKID:3440S]
 Zgniecenie 6
 
-[3441A]
+[TRACKID:3441A]
 Straszna rzeźnia
 
-[3441S]
+[TRACKID:3441S]
 Chrzęst kości 1
 
-[3442A]
+[TRACKID:3442A]
 Straszna rzeźnia
 
-[3442S]
+[TRACKID:3442S]
 Chrzęst kości 2
 
-[3443A]
+[TRACKID:3443A]
 Straszna rzeźnia
 
-[3443S]
+[TRACKID:3443S]
 Rozczłonkowanie 1
 
-[3444A]
+[TRACKID:3444A]
 Straszna rzeźnia
 
-[3444S]
+[TRACKID:3444S]
 Podrzynanie gardła 1
 
-[3445A]
+[TRACKID:3445A]
 Straszna rzeźnia
 
-[3445S]
+[TRACKID:3445S]
 Podrzynanie gardła 2
 
-[3446A]
+[TRACKID:3446A]
 Straszna rzeźnia
 
-[3446S]
+[TRACKID:3446S]
 Straszny chrzęst 6
 
-[3447A]
+[TRACKID:3447A]
 Straszna rzeźnia
 
-[3447S]
+[TRACKID:3447S]
 Dźgnięcie 1
 
-[3448A]
+[TRACKID:3448A]
 Straszna rzeźnia
 
-[3448S]
+[TRACKID:3448S]
 Dźgnięcie 2
 
-[3449A]
+[TRACKID:3449A]
 Straszna rzeźnia
 
-[3449S]
+[TRACKID:3449S]
 Dźgnięcie 3
 
-[3450A]
+[TRACKID:3450A]
 Pogoda
 
-[3450S]
+[TRACKID:3450S]
 Burza
 
-[3451A]
+[TRACKID:3451A]
 Pogoda
 
-[3451S]
+[TRACKID:3451S]
 Lekki deszcz i wiatr
 
-[3452A]
+[TRACKID:3452A]
 Pogoda
 
-[3452S]
+[TRACKID:3452S]
 Ulewa i wiatr
 
-[3480A]
+[TRACKID:3480A]
 Straszne zwierzęta
 
-[3480S]
+[TRACKID:3480S]
 Wilk 1
 
-[3481A]
+[TRACKID:3481A]
 Straszne zwierzęta
 
-[3481S]
+[TRACKID:3481S]
 Wilk 2
 
-[3482A]
+[TRACKID:3482A]
 Straszne zwierzęta
 
-[3482S]
+[TRACKID:3482S]
 Wilk 3
 
-[3483A]
+[TRACKID:3483A]
 Straszne głosy
 
-[3483S]
+[TRACKID:3483S]
 Wiedźma 1
 
-[3484A]
+[TRACKID:3484A]
 Straszne głosy
 
-[3484S]
+[TRACKID:3484S]
 Wiedźma 2
 
-[3485A]
+[TRACKID:3485A]
 Straszne zwierzęta
 
-[3485S]
+[TRACKID:3485S]
 Wściekły kot 1
 
-[3486A]
+[TRACKID:3486A]
 Straszne zwierzęta
 
-[3486S]
+[TRACKID:3486S]
 Wściekły kot 2
 
-[3487A]
+[TRACKID:3487A]
 Straszne zwierzęta
 
-[3487S]
+[TRACKID:3487S]
 Wściekły kot 3
 
-[3488A]
+[TRACKID:3488A]
 Straszne zwierzęta
 
-[3488S]
+[TRACKID:3488S]
 Wściekły kot 4
 
-[3489A]
+[TRACKID:3489A]
 Straszne zwierzęta
 
-[3489S]
+[TRACKID:3489S]
 Wściekły kot 5
 
-[3490A]
+[TRACKID:3490A]
 Straszna rzeźnia
 
-[3490S]
+[TRACKID:3490S]
 Dźgnięcie 4
 
-[3491A]
+[TRACKID:3491A]
 Straszna rzeźnia
 
-[3491S]
+[TRACKID:3491S]
 Dźgnięcie 5
 
-[3492A]
+[TRACKID:3492A]
 Straszna rzeźnia
 
-[3492S]
+[TRACKID:3492S]
 Cios obuchem 1
 
-[3493A]
+[TRACKID:3493A]
 Straszna rzeźnia
 
-[3493S]
+[TRACKID:3493S]
 Cios obuchem 2
 
-[3494A]
+[TRACKID:3494A]
 Straszna rzeźnia
 
-[3494S]
+[TRACKID:3494S]
 Cios obuchem 3
 
-[3495A]
+[TRACKID:3495A]
 Straszna rzeźnia
 
-[3495S]
+[TRACKID:3495S]
 Sieknięcie 1
 
-[3496A]
+[TRACKID:3496A]
 Straszna rzeźnia
 
-[3496S]
+[TRACKID:3496S]
 Sieknięcie 2
 
-[3497A]
+[TRACKID:3497A]
 Straszna rzeźnia
 
-[3497S]
+[TRACKID:3497S]
 Sieknięcie 3
 
-[3498A]
+[TRACKID:3498A]
 Straszna rzeźnia
 
-[3498S]
+[TRACKID:3498S]
 Sieknięcie 4
 
-[3499A]
+[TRACKID:3499A]
 Straszna rzeźnia
 
-[3499S]
+[TRACKID:3499S]
 Sieknięcie 5
 
-[3500A]
+[TRACKID:3500A]
 Alarmy
 
-[3500S]
+[TRACKID:3500S]
 Alarm 1
 
-[3501A]
+[TRACKID:3501A]
 Alarmy
 
-[3501S]
+[TRACKID:3501S]
 Alarm 2
 
-[3502A]
+[TRACKID:3502A]
 Alarmy
 
-[3502S]
+[TRACKID:3502S]
 Alarm 3
 
-[3503A]
+[TRACKID:3503A]
 Alarmy
 
-[3503S]
+[TRACKID:3503S]
 Alarm 4
 
-[3504A]
+[TRACKID:3504A]
 Alarmy
 
-[3504S]
+[TRACKID:3504S]
 Alarm 5
 
-[3505A]
+[TRACKID:3505A]
 Alarmy
 
-[3505S]
+[TRACKID:3505S]
 Alarm 6
 
-[3510A]
+[TRACKID:3510A]
 Ogień
 
-[3510S]
+[TRACKID:3510S]
 Ogień 1
 
-[3511A]
+[TRACKID:3511A]
 Ogień
 
-[3511S]
+[TRACKID:3511S]
 Ogień 2
 
-[3512A]
+[TRACKID:3512A]
 Ogień
 
-[3512S]
+[TRACKID:3512S]
 Ogień 3
 
-[3513A]
+[TRACKID:3513A]
 Ogień
 
-[3513S]
+[TRACKID:3513S]
 Ogień 4
 
-[3515A]
+[TRACKID:3515A]
 Syreny
 
-[3515S]
+[TRACKID:3515S]
 Syreny 1
 
-[3516A]
+[TRACKID:3516A]
 Syreny
 
-[3516S]
+[TRACKID:3516S]
 Syreny 2
 
-[3517A]
+[TRACKID:3517A]
 Syreny
 
-[3517S]
+[TRACKID:3517S]
 Syreny 3
 
-[3550A]
+[TRACKID:3550A]
 Odgłosy otoczenia
 
-[3550S]
+[TRACKID:3550S]
 Dzielnica komercyjna 1
 
-[3551A]
+[TRACKID:3551A]
 Odgłosy otoczenia
 
-[3551S]
+[TRACKID:3551S]
 Dzielnica przemysłowa 1
 
-[3552A]
+[TRACKID:3552A]
 Odgłosy otoczenia
 
-[3552S]
+[TRACKID:3552S]
 Dzielnica mieszkalna 1
 
-[3553A]
+[TRACKID:3553A]
 Odgłosy otoczenia
 
-[3553S]
+[TRACKID:3553S]
 Dzielnica mieszkalna 2
 
-[3554A]
+[TRACKID:3554A]
 Odgłosy otoczenia
 
-[3554S]
+[TRACKID:3554S]
 Przedmieścia 1
 
-[3555A]
+[TRACKID:3555A]
 Odgłosy otoczenia
 
-[3555S]
+[TRACKID:3555S]
 Przedmieścia 2
 
-[3556A]
+[TRACKID:3556A]
 Odgłosy otoczenia
 
-[3556S]
+[TRACKID:3556S]
 Pustynia 1
 
-[3557A]
+[TRACKID:3557A]
 Odgłosy otoczenia
 
-[3557S]
+[TRACKID:3557S]
 Pustynia 2
 
-[3558A]
+[TRACKID:3558A]
 Odgłosy otoczenia
 
-[3558S]
+[TRACKID:3558S]
 Pustynia 3
 
-[3559A]
+[TRACKID:3559A]
 Straszne drony
 
-[3559S]
+[TRACKID:3559S]
 Straszny burdon 1
 
-[3560A]
+[TRACKID:3560A]
 Straszne drony
 
-[3560S]
+[TRACKID:3560S]
 Straszny burdon 2
 
-[3562A]
+[TRACKID:3562A]
 Straszne drony
 
-[3562S]
+[TRACKID:3562S]
 Straszny burdon 3
 
-[3564A]
+[TRACKID:3564A]
 Straszne drony
 
-[3564S]
+[TRACKID:3564S]
 Straszny burdon 4
 
-[3565A]
+[TRACKID:3565A]
 Straszne drony
 
-[3565S]
+[TRACKID:3565S]
 Straszny burdon 5
 
-[3566A]
+[TRACKID:3566A]
 Straszne drony
 
-[3566S]
+[TRACKID:3566S]
 Straszny burdon 6
 
-[3567A]
+[TRACKID:3567A]
 Straszne drony
 
-[3567S]
+[TRACKID:3567S]
 Straszny burdon 7
 
-[3568A]
+[TRACKID:3568A]
 Straszne drony
 
-[3568S]
+[TRACKID:3568S]
 Straszny burdon 8
 
-[3570A]
+[TRACKID:3570A]
 Inne straszne
 
-[3570S]
+[TRACKID:3570S]
 Spalanie żywcem 1
 
-[3571A]
+[TRACKID:3571A]
 Inne straszne
 
-[3571S]
+[TRACKID:3571S]
 Oddychanie 1
 
-[3573A]
+[TRACKID:3573A]
 Inne straszne
 
-[3573S]
+[TRACKID:3573S]
 Straszny wiatr 1
 
-[3574A]
+[TRACKID:3574A]
 Inne straszne
 
-[3574S]
+[TRACKID:3574S]
 Straszny wiatr 2
 
-[3575A]
+[TRACKID:3575A]
 Inne straszne
 
-[3575S]
+[TRACKID:3575S]
 Płacz kobiety 1
 
-[3576A]
+[TRACKID:3576A]
 Inne straszne
 
-[3576S]
+[TRACKID:3576S]
 Kapiący kran 1
 
-[3577A]
+[TRACKID:3577A]
 Inne straszne
 
-[3577S]
+[TRACKID:3577S]
 Brzęk łańcuchów 1
 
-[3578A]
+[TRACKID:3578A]
 Inne straszne
 
-[3578S]
+[TRACKID:3578S]
 Skrzypiące schody 1
 
-[3580A]
+[TRACKID:3580A]
 Straszna rzeźnia
 
-[3580S]
+[TRACKID:3580S]
 Uderzenie ciała 1
 
-[3581A]
+[TRACKID:3581A]
 Straszna rzeźnia
 
-[3581S]
+[TRACKID:3581S]
 Uderzenie ciała 2
 
-[3582A]
+[TRACKID:3582A]
 Straszna rzeźnia
 
-[3582S]
+[TRACKID:3582S]
 Uderzenie ciała 3
 
-[3583A]
+[TRACKID:3583A]
 Straszna rzeźnia
 
-[3583S]
+[TRACKID:3583S]
 Uderzenie ciała 4
 
-[3584A]
+[TRACKID:3584A]
 Straszne głosy
 
-[3584S]
+[TRACKID:3584S]
 Krzyk kobiety 1
 
-[3585A]
+[TRACKID:3585A]
 Straszne głosy
 
-[3585S]
+[TRACKID:3585S]
 Krzyk kobiety 2
 
-[3586A]
+[TRACKID:3586A]
 Straszne głosy
 
-[3586S]
+[TRACKID:3586S]
 Krzyk kobiety 3
 
-[3587A]
+[TRACKID:3587A]
 Straszne głosy
 
-[3587S]
+[TRACKID:3587S]
 Krzyk kobiety 4
 
-[3588A]
+[TRACKID:3588A]
 Straszne głosy
 
-[3588S]
+[TRACKID:3588S]
 Krzyk kobiety 5
 
-[3589A]
+[TRACKID:3589A]
 Straszne głosy
 
-[3589S]
+[TRACKID:3589S]
 Krzyk mężczyzny 1
 
-[3590A]
+[TRACKID:3590A]
 Straszne głosy
 
-[3590S]
+[TRACKID:3590S]
 Krzyk mężczyzny 2
 
-[3591A]
+[TRACKID:3591A]
 Straszne głosy
 
-[3591S]
+[TRACKID:3591S]
 Krzyk mężczyzny 3
 
-[3592A]
+[TRACKID:3592A]
 Straszne głosy
 
-[3592S]
+[TRACKID:3592S]
 Krzyk mężczyzny 4
 
-[3593A]
+[TRACKID:3593A]
 Straszne głosy
 
-[3593S]
+[TRACKID:3593S]
 Krzyk mężczyzny 5
 
-[3594A]
+[TRACKID:3594A]
 Straszne głosy
 
-[3594S]
+[TRACKID:3594S]
 Stworzenie 1
 
-[3595A]
+[TRACKID:3595A]
 Straszne głosy
 
-[3595S]
+[TRACKID:3595S]
 Stworzenie 2
 
-[3596A]
+[TRACKID:3596A]
 Straszne głosy
 
-[3596S]
+[TRACKID:3596S]
 Stworzenie 3
 
-[3597A]
+[TRACKID:3597A]
 Inne straszne
 
-[3597S]
+[TRACKID:3597S]
 Ciche kroki 1
 
-[3598A]
+[TRACKID:3598A]
 Inne straszne
 
-[3598S]
+[TRACKID:3598S]
 Klamka 1
 
-[3599A]
+[TRACKID:3599A]
 Inne straszne
 
-[3599S]
+[TRACKID:3599S]
 Klamka 2
 
-[3600A]
+[TRACKID:3600A]
 Straszna rzeźnia
 
-[3600S]
+[TRACKID:3600S]
 Rozlew krwi 1
 
-[3601A]
+[TRACKID:3601A]
 Straszna rzeźnia
 
-[3601S]
+[TRACKID:3601S]
 Rozlew krwi 2
 
-[3602A]
+[TRACKID:3602A]
 Inne straszne
 
-[3602S]
+[TRACKID:3602S]
 Dzwon o północy 1
 
-[3603A]
+[TRACKID:3603A]
 Straszne zwierzęta
 
-[3603S]
+[TRACKID:3603S]
 Wściekły pies 1
 
-[3604A]
+[TRACKID:3604A]
 Straszne zwierzęta
 
-[3604S]
+[TRACKID:3604S]
 Wściekły pies 2
 
-[3605A]
+[TRACKID:3605A]
 Straszne zwierzęta
 
-[3605S]
+[TRACKID:3605S]
 Wściekły pies 3
 
-[3606A]
+[TRACKID:3606A]
 Straszne zwierzęta
 
-[3606S]
+[TRACKID:3606S]
 Wściekły pies 4
 
-[3607A]
+[TRACKID:3607A]
 Straszne zwierzęta
 
-[3607S]
+[TRACKID:3607S]
 Wściekły pies 5
 
-[3608A]
+[TRACKID:3608A]
 Straszna rzeźnia
 
-[3608S]
+[TRACKID:3608S]
 Cios obuchem 4
 
-[3609A]
+[TRACKID:3609A]
 Straszna rzeźnia
 
-[3609S]
+[TRACKID:3609S]
 Cios obuchem 5
 
-[3610A]
+[TRACKID:3610A]
 Straszna rzeźnia
 
-[3610S]
+[TRACKID:3610S]
 Cios obuchem 6
 
-[3611A]
+[TRACKID:3611A]
 Straszna rzeźnia
 
-[3611S]
+[TRACKID:3611S]
 Cios obuchem 7
 
-[3612A]
+[TRACKID:3612A]
 Straszna rzeźnia
 
-[3612S]
+[TRACKID:3612S]
 Cios obuchem 8
 
-[3613A]
+[TRACKID:3613A]
 Straszna rzeźnia
 
-[3613S]
+[TRACKID:3613S]
 Dźgnięcie butelką 1
 
 
