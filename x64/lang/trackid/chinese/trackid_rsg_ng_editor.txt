@@ -1,708 +1,708 @@
 ﻿{ Rockstar Editor SFX }
 
 {-- original score --}
-[2101A]
+[TRACKID:2101A]
 Electro
-[2101S]
+[TRACKID:2101S]
 Dark Intent
 
-[2102A]
+[TRACKID:2102A]
 Electro
-[2102S]
+[TRACKID:2102S]
 Vacuum
 
-[2103A]
+[TRACKID:2103A]
 Electro
-[2103S]
+[TRACKID:2103S]
 The City
 
-[2104A]
+[TRACKID:2104A]
 Electro
-[2104S]
+[TRACKID:2104S]
 City Lights
 
-[2105A]
+[TRACKID:2105A]
 Electro
-[2105S]
+[TRACKID:2105S]
 The Streets
 
-[2106A]
+[TRACKID:2106A]
 Electro
-[2106S]
+[TRACKID:2106S]
 Scrapyard
 
-[2107A]
+[TRACKID:2107A]
 Electro
-[2107S]
+[TRACKID:2107S]
 Slow Burn
 
-[2108A]
+[TRACKID:2108A]
 Rock
-[2108S]
+[TRACKID:2108S]
 Gasoline Trail
 
-[2109A]
+[TRACKID:2109A]
 Rock
-[2109S]
+[TRACKID:2109S]
 Rolling Tracks
 
-[2110A]
+[TRACKID:2110A]
 Rock
-[2110S]
+[TRACKID:2110S]
 Silver Splinter
 
-[2111A]
+[TRACKID:2111A]
 Rock
-[2111S]
+[TRACKID:2111S]
 Debunked
 
-[2112A]
+[TRACKID:2112A]
 Rock
-[2112S]
+[TRACKID:2112S]
 The Summit
 
-[2113A]
+[TRACKID:2113A]
 Rock
-[2113S]
+[TRACKID:2113S]
 Distant Rumble
 
-[2114A]
+[TRACKID:2114A]
 Rock
-[2114S]
+[TRACKID:2114S]
 Crocodile Tears
 
-[2115A]
+[TRACKID:2115A]
 Urban
-[2115S]
+[TRACKID:2115S]
 Shotgun Game
 
-[2116A]
+[TRACKID:2116A]
 Urban
-[2116S]
+[TRACKID:2116S]
 Cruising
 
-[2117A]
+[TRACKID:2117A]
 Urban
-[2117S]
+[TRACKID:2117S]
 Street Slice
 
-[2118A]
+[TRACKID:2118A]
 Urban
-[2118S]
+[TRACKID:2118S]
 Vodka
 
-[2119A]
+[TRACKID:2119A]
 Urban
-[2119S]
+[TRACKID:2119S]
 Gun Novel
 
 
 
 
 {--- Commercials ---}
-[3100A]
+[TRACKID:3100A]
 Commercial
-[3100S]
+[TRACKID:3100S]
 Life Invader
 
-[3101A]
+[TRACKID:3101A]
 Commercial
-[3101S]
+[TRACKID:3101S]
 Righteous Slaughter "Nuke"
 
-[3102A]
+[TRACKID:3102A]
 Commercial
-[3102S]
+[TRACKID:3102S]
 Righteous Slaughter "Russians"
 
-[3103A]
+[TRACKID:3103A]
 Commercial
-[3103S]
+[TRACKID:3103S]
 Righteous Slaughter "Levels"
 
-[3104A]
+[TRACKID:3104A]
 Commercial
-[3104S]
+[TRACKID:3104S]
 San Andreas Tourism Board
 
-[3105A]
+[TRACKID:3105A]
 Commercial
-[3105S]
+[TRACKID:3105S]
 Grand Senora Desert
 
-[3106A]
+[TRACKID:3106A]
 Commercial
-[3106S]
+[TRACKID:3106S]
 San Andreas Water And Power
 
-[3107A]
+[TRACKID:3107A]
 Commercial
-[3107S]
+[TRACKID:3107S]
 Up-n-Atom
 
-[3108A]
+[TRACKID:3108A]
 Commercial
-[3108S]
+[TRACKID:3108S]
 Proposition 43
 
-[3109A]
+[TRACKID:3109A]
 Commercial
-[3109S]
+[TRACKID:3109S]
 Toeshoes
 
-[3110A]
+[TRACKID:3110A]
 Commercial
-[3110S]
+[TRACKID:3110S]
 Implant Outsource
 
-[3111A]
+[TRACKID:3111A]
 Commercial
-[3111S]
+[TRACKID:3111S]
 Donate Your Car
 
-[3112A]
+[TRACKID:3112A]
 Commercial
-[3112S]
+[TRACKID:3112S]
 Race To Pluto
 
-[3113A]
+[TRACKID:3113A]
 Commercial
-[3113S]
+[TRACKID:3113S]
 Proposition 208 "Dad"
 
-[3114A]
+[TRACKID:3114A]
 Commercial
-[3114S]
+[TRACKID:3114S]
 Proposition 208 "Jungle"
 
-[3115A]
+[TRACKID:3115A]
 Commercial
-[3115S]
+[TRACKID:3115S]
 Pisswasser
 
-[3116A]
+[TRACKID:3116A]
 Commercial
-[3116S]
+[TRACKID:3116S]
 Queensbury Boxing
 
-[3117A]
+[TRACKID:3117A]
 Commercial
-[3117S]
+[TRACKID:3117S]
 Lottery "Solving Hunger"
 
-[3118A]
+[TRACKID:3118A]
 Commercial
-[3118S]
+[TRACKID:3118S]
 Lottery 2 "Bugle"
 
-[3119A]
+[TRACKID:3119A]
 Commercial
-[3119S]
+[TRACKID:3119S]
 Whiz Wireless
 
-[3120A]
+[TRACKID:3120A]
 Commercial
-[3120S]
+[TRACKID:3120S]
 Rectify Holistic
 
-[3121A]
+[TRACKID:3121A]
 Commercial
-[3121S]
+[TRACKID:3121S]
 Jay's Bail Bonds
 
-[3122A]
+[TRACKID:3122A]
 Commercial
-[3122S]
+[TRACKID:3122S]
 Ovine Human Resources
 
-[3123A]
+[TRACKID:3123A]
 Commercial
-[3123S]
+[TRACKID:3123S]
 Proposition 14
 
-[3124A]
+[TRACKID:3124A]
 Commercial
-[3124S]
+[TRACKID:3124S]
 Prison Industrial Complex "Officer"
 
-[3125A]
+[TRACKID:3125A]
 Commercial
-[3125S]
+[TRACKID:3125S]
 Prison Industrial Complex 2 "Franchise"
 
-[3126A]
+[TRACKID:3126A]
 Commercial
-[3126S]
+[TRACKID:3126S]
 San Andreas Lobotomy
 
-[3127A]
+[TRACKID:3127A]
 Commercial
-[3127S]
+[TRACKID:3127S]
 Darwinian Yoga
 
-[3128A]
+[TRACKID:3128A]
 Commercial
-[3128S]
+[TRACKID:3128S]
 Gastro Band
 
-[3129A]
+[TRACKID:3129A]
 Commercial
-[3129S]
+[TRACKID:3129S]
 Economic Recovery Group
 
-[3130A]
+[TRACKID:3130A]
 Commercial
-[3130S]
+[TRACKID:3130S]
 Rehab Island
 
-[3131A]
+[TRACKID:3131A]
 Commercial
-[3131S]
+[TRACKID:3131S]
 Larry's RV Sales
 
-[3132A]
+[TRACKID:3132A]
 Commercial
-[3132S]
+[TRACKID:3132S]
 Night Lights
 
-[3133A]
+[TRACKID:3133A]
 Commercial
-[3133S]
+[TRACKID:3133S]
 Head Shots
 
-[3134A]
+[TRACKID:3134A]
 Commercial
-[3134S]
+[TRACKID:3134S]
 Electrotoke
 
-[3135A]
+[TRACKID:3135A]
 Commercial
-[3135S]
+[TRACKID:3135S]
 Toilet Cleaner
 
-[3136A]
+[TRACKID:3136A]
 Commercial
-[3136S]
+[TRACKID:3136S]
 Stop Paying Your Mortgage
 
-[3137A]
+[TRACKID:3137A]
 Commercial
-[3137S]
+[TRACKID:3137S]
 Floyd's Scrap Metal
 
-[3138A]
+[TRACKID:3138A]
 Commercial
-[3138S]
+[TRACKID:3138S]
 Buddy's Trucking
 
-[3139A]
+[TRACKID:3139A]
 Commercial
-[3139S]
+[TRACKID:3139S]
 Fleeca "Interest Fees"
 
-[3140A]
+[TRACKID:3140A]
 Commercial
-[3140S]
+[TRACKID:3140S]
 Fleeca 2 "Bedroom"
 
-[3141A]
+[TRACKID:3141A]
 Commercial
-[3141S]
+[TRACKID:3141S]
 Shark
 
-[3142A]
+[TRACKID:3142A]
 Commercial
-[3142S]
+[TRACKID:3142S]
 Smoked Dreams
 
-[3143A]
+[TRACKID:3143A]
 Commercial
-[3143S]
+[TRACKID:3143S]
 Hipsters For Hire
 
-[3144A]
+[TRACKID:3144A]
 Commercial
-[3144S]
+[TRACKID:3144S]
 Preservex
 
-[3145A]
+[TRACKID:3145A]
 Commercial
-[3145S]
+[TRACKID:3145S]
 Don's Country Store
 
-[3146A]
+[TRACKID:3146A]
 Commercial
-[3146S]
+[TRACKID:3146S]
 Proposition 45
 
-[3147A]
+[TRACKID:3147A]
 Commercial
-[3147S]
+[TRACKID:3147S]
 Windsor Real Estate "Immigrant"
 
-[3148A]
+[TRACKID:3148A]
 Commercial
-[3148S]
+[TRACKID:3148S]
 Windsor Real Estate 2 "Swinger"
 
-[3149A]
+[TRACKID:3149A]
 Commercial
-[3149S]
+[TRACKID:3149S]
 Cuckold Therapy
 
-[3150A]
+[TRACKID:3150A]
 Commercial
-[3150S]
+[TRACKID:3150S]
 Digifarm "Digifarm"
 
-[3151A]
+[TRACKID:3151A]
 Commercial
-[3151S]
+[TRACKID:3151S]
 Digifarm "Games"
 
-[3152A]
+[TRACKID:3152A]
 Commercial
-[3152S]
+[TRACKID:3152S]
 Blaine County Bank
 
-[3153A]
+[TRACKID:3153A]
 Commercial
-[3153S]
+[TRACKID:3153S]
 Lombank
 
-[3154A]
+[TRACKID:3154A]
 Commercial
-[3154S]
+[TRACKID:3154S]
 Hitting Kids Works Wonders
 
-[3155A]
+[TRACKID:3155A]
 Commercial
-[3155S]
+[TRACKID:3155S]
 Vinewood Health
 
-[3156A]
+[TRACKID:3156A]
 Commercial
-[3156S]
+[TRACKID:3156S]
 LS Benders "Wanker"
 
-[3157A]
+[TRACKID:3157A]
 Commercial
-[3157S]
+[TRACKID:3157S]
 LS Benders "Fat Bastard"
 
-[3158A]
+[TRACKID:3158A]
 Commercial
-[3158S]
+[TRACKID:3158S]
 Youtool
 
-[3159A]
+[TRACKID:3159A]
 Commercial
-[3159S]
+[TRACKID:3159S]
 Ammunation "Gardening"
 
-[3160A]
+[TRACKID:3160A]
 Commercial
-[3160S]
+[TRACKID:3160S]
 Ammunation "Apocalypse"
 
-[3161A]
+[TRACKID:3161A]
 Commercial
-[3161S]
+[TRACKID:3161S]
 Flow Water
 
-[3162A]
+[TRACKID:3162A]
 Commercial
-[3162S]
+[TRACKID:3162S]
 13 Steps To Heaven "Opportunity"
 
-[3163A]
+[TRACKID:3163A]
 Commercial
-[3163S]
+[TRACKID:3163S]
 Serious Cougar
 
-[3164A]
+[TRACKID:3164A]
 Commercial
-[3164S]
+[TRACKID:3164S]
 Cloud Computing
 
-[3165A]
+[TRACKID:3165A]
 Commercial
-[3165S]
+[TRACKID:3165S]
 Pride Not Prejudice "Grain Alcohol"
 
-[3166A]
+[TRACKID:3166A]
 Commercial
-[3166S]
+[TRACKID:3166S]
 Pride Not Prejudice "Tornado"
 
-[3167A]
+[TRACKID:3167A]
 Commercial
-[3167S]
+[TRACKID:3167S]
 Hitting Kids Works Wonders "Pot"
 
-[3168A]
+[TRACKID:3168A]
 Commercial
-[3168S]
+[TRACKID:3168S]
 Hammerstein And Faust
 
-[3169A]
+[TRACKID:3169A]
 Commercial
-[3169S]
+[TRACKID:3169S]
 Grain Of Truth
 
-[3170A]
+[TRACKID:3170A]
 Commercial
-[3170S]
+[TRACKID:3170S]
 FlyUS "Choices"
 
-[3171A]
+[TRACKID:3171A]
 Commercial
-[3171S]
+[TRACKID:3171S]
 FlyUS "Drunk"
 
-[3172A]
+[TRACKID:3172A]
 Commercial
-[3172S]
+[TRACKID:3172S]
 FlyUS "Planes"
 
-[3173A]
+[TRACKID:3173A]
 Commercial
-[3173S]
+[TRACKID:3173S]
 Refinance Your Home
 
-[3174A]
+[TRACKID:3174A]
 Commercial
-[3174S]
+[TRACKID:3174S]
 Unlock The Power "Jerking"
 
-[3175A]
+[TRACKID:3175A]
 Commercial
-[3175S]
+[TRACKID:3175S]
 Unlock The Power "Abyss"
 
-[3176A]
+[TRACKID:3176A]
 Commercial
-[3176S]
+[TRACKID:3176S]
 13 Steps To Heaven "Drowning"
 
-[3177A]
+[TRACKID:3177A]
 Commercial
-[3177S]
+[TRACKID:3177S]
 13 Steps To Heaven "Train"
 
-[3178A]
+[TRACKID:3178A]
 Commercial
-[3178S]
+[TRACKID:3178S]
 Manopause Adventures
 
-[3179A]
+[TRACKID:3179A]
 Commercial
-[3179S]
+[TRACKID:3179S]
 MMA
 
-[3180A]
+[TRACKID:3180A]
 Commercial
-[3180S]
+[TRACKID:3180S]
 Alcoholla
 
-[3181A]
+[TRACKID:3181A]
 Commercial
-[3181S]
+[TRACKID:3181S]
 Egochaser
 
-[3182A]
+[TRACKID:3182A]
 Commercial
-[3182S]
+[TRACKID:3182S]
 Chains Of Intimacy "Throbbing"
 
-[3183A]
+[TRACKID:3183A]
 Commercial
-[3183S]
+[TRACKID:3183S]
 Chains Of Intimacy "Diamonds"
 
-[3184A]
+[TRACKID:3184A]
 Commercial
-[3184S]
+[TRACKID:3184S]
 Bravado "Farms"
 
-[3185A]
+[TRACKID:3185A]
 Commercial
-[3185S]
+[TRACKID:3185S]
 Bravado "Cruise Control"
 
-[3186A]
+[TRACKID:3186A]
 Commercial
-[3186S]
+[TRACKID:3186S]
 SA Flight School
 
-[3187A]
+[TRACKID:3187A]
 Commercial
-[3187S]
+[TRACKID:3187S]
 Crevis "Nature"
 
-[3188A]
+[TRACKID:3188A]
 Commercial
-[3188S]
+[TRACKID:3188S]
 Crevis "Everest"
 
-[3189A]
+[TRACKID:3189A]
 Commercial
-[3189S]
+[TRACKID:3189S]
 Epsilon "Antarctica"
 
-[3190A]
+[TRACKID:3190A]
 Commercial
-[3190S]
+[TRACKID:3190S]
 Epsilon "Famous People"
 
-[3191A]
+[TRACKID:3191A]
 Commercial
-[3191S]
+[TRACKID:3191S]
 13 Steps To Heaven "Victims"
 
-[3192A]
+[TRACKID:3192A]
 Commercial
-[3192S]
+[TRACKID:3192S]
 Pontius
 
-[3193A]
+[TRACKID:3193A]
 Commercial
-[3193S]
+[TRACKID:3193S]
 Sue Murry
 
-[3194A]
+[TRACKID:3194A]
 Commercial
-[3194S]
+[TRACKID:3194S]
 Jock Cranley "Vote Jock"
 
-[3195A]
+[TRACKID:3195A]
 Commercial
-[3195S]
+[TRACKID:3195S]
 Jock Cranley "Your Jock"
 
-[3196A]
+[TRACKID:3196A]
 Commercial
-[3196S]
+[TRACKID:3196S]
 Extreme Paleo TM "Get Extreme"
 
-[3197A]
+[TRACKID:3197A]
 Commercial
-[3197S]
+[TRACKID:3197S]
 Extreme Paleo TM 2 "Real Paleo"
 
-[3198A]
+[TRACKID:3198A]
 Commercial
-[3198S]
+[TRACKID:3198S]
 Machiavelli Race "Win"
 
-[3199A]
+[TRACKID:3199A]
 Commercial
-[3199S]
+[TRACKID:3199S]
 Machiavelli Race "The Race"
 
-[3200A]
+[TRACKID:3200A]
 Commercial
-[3200S]
+[TRACKID:3200S]
 Mystaspot
 
-[3201A]
+[TRACKID:3201A]
 Commercial
-[3201S]
+[TRACKID:3201S]
 Phat Chips
 
-[3202A]
+[TRACKID:3202A]
 Commercial
-[3202S]
+[TRACKID:3202S]
 TCS Energy Pro 1
 
-[3203A]
+[TRACKID:3203A]
 Commercial
-[3203S]
+[TRACKID:3203S]
 TCS Energy Pro 2
 
-[3204A]
+[TRACKID:3204A]
 Commercial
-[3204S]
+[TRACKID:3204S]
 Visit Liberty City
 
-[3205A]
+[TRACKID:3205A]
 Commercial
-[3205S]
+[TRACKID:3205S]
 Bison
 
-[3206A]
+[TRACKID:3206A]
 Commercial
-[3206S]
+[TRACKID:3206S]
 Bravado "Together"
 
-[3207A]
+[TRACKID:3207A]
 Commercial
-[3207S]
+[TRACKID:3207S]
 Logger Beer
 
-[3208A]
+[TRACKID:3208A]
 Commercial
-[3208S]
+[TRACKID:3208S]
 Lottery "Ex-Wife"
 
-[3209A]
+[TRACKID:3209A]
 Commercial
-[3209S]
+[TRACKID:3209S]
 Hospital
 
-[3210A]
+[TRACKID:3210A]
 Commercial
-[3210S]
+[TRACKID:3210S]
 San Andreas Tourism Board 2
 
-[3211A]
+[TRACKID:3211A]
 Commercial
-[3211S]
+[TRACKID:3211S]
 San Andreas Water And Power 2
 
-[3212A]
+[TRACKID:3212A]
 Commercial
-[3212S]
+[TRACKID:3212S]
 Stunt Academy
 
-[3213A]
+[TRACKID:3213A]
 Commercial
-[3213S]
+[TRACKID:3213S]
 Epsilon "Famous People" 2
 
-[3214A]
+[TRACKID:3214A]
 Commercial
-[3214S]
+[TRACKID:3214S]
 Phat Chips 2
 
-[3215A]
+[TRACKID:3215A]
 Commercial
-[3215S]
+[TRACKID:3215S]
 Mystaspot 2
 
-[3216A]
+[TRACKID:3216A]
 Commercial
-[3216S]
+[TRACKID:3216S]
 Ammunation "Apocalypse" 2
 
-[3217A]
+[TRACKID:3217A]
 Commercial
-[3217S]
+[TRACKID:3217S]
 Grand Senora Desert 2
 
-[3218A]
+[TRACKID:3218A]
 Commercial
-[3218S]
+[TRACKID:3218S]
 Life Invader 2
 
-[3219A]
+[TRACKID:3219A]
 Commercial
-[3219S]
+[TRACKID:3219S]
 Surano
 
-[3220A]
+[TRACKID:3220A]
 Commercial
-[3220S]
+[TRACKID:3220S]
 Up-n-Atom 2
 
 
@@ -711,1213 +711,1213 @@ Up-n-Atom 2
 
 
 {-- SFX --}
-[3300A]
+[TRACKID:3300A]
 撞擊
-[3300S]
+[TRACKID:3300S]
 大型撞擊 1
 
-[3301A]
+[TRACKID:3301A]
 撞擊
-[3301S]
+[TRACKID:3301S]
 大型撞擊 2
 
-[3302A]
+[TRACKID:3302A]
 撞擊
-[3302S]
+[TRACKID:3302S]
 大型撞擊 3
 
-[3303A]
+[TRACKID:3303A]
 撞擊
-[3303S]
+[TRACKID:3303S]
 中型撞擊 1
 
-[3304A]
+[TRACKID:3304A]
 撞擊
-[3304S]
+[TRACKID:3304S]
 中型撞擊 2
 
-[3305A]
+[TRACKID:3305A]
 撞擊
-[3305S]
+[TRACKID:3305S]
 中型撞擊 3
 
-[3306A]
+[TRACKID:3306A]
 撞擊
-[3306S]
+[TRACKID:3306S]
 小型撞擊 1
 
-[3307A]
+[TRACKID:3307A]
 撞擊
-[3307S]
+[TRACKID:3307S]
 小型撞擊 2
 
-[3308A]
+[TRACKID:3308A]
 撞擊
-[3308S]
+[TRACKID:3308S]
 小型撞擊 3
 
-[3309A]
+[TRACKID:3309A]
 爆破
-[3309S]
+[TRACKID:3309S]
 金屬爆破 1
 
-[3310A]
+[TRACKID:3310A]
 爆破
-[3310S]
+[TRACKID:3310S]
 金屬爆破 2
 
-[3311A]
+[TRACKID:3311A]
 爆破
-[3311S]
+[TRACKID:3311S]
 金屬爆破 3
 
-[3312A]
+[TRACKID:3312A]
 爆破
-[3312S]
+[TRACKID:3312S]
 木質爆破 1
 
-[3313A]
+[TRACKID:3313A]
 爆破
-[3313S]
+[TRACKID:3313S]
 木質爆破 2
 
-[3314A]
+[TRACKID:3314A]
 爆破
-[3314S]
+[TRACKID:3314S]
 木質爆破 3
 
-[3315A]
+[TRACKID:3315A]
 撞擊
-[3315S]
+[TRACKID:3315S]
 大型玻璃碎裂 1
 
-[3316A]
+[TRACKID:3316A]
 撞擊
-[3316S]
+[TRACKID:3316S]
 大型玻璃碎裂 2
 
-[3317A]
+[TRACKID:3317A]
 撞擊
-[3317S]
+[TRACKID:3317S]
 大型玻璃碎裂 3
 
-[3318A]
+[TRACKID:3318A]
 撞擊
-[3318S]
+[TRACKID:3318S]
 中型玻璃碎裂 1
 
-[3319A]
+[TRACKID:3319A]
 撞擊
-[3319S]
+[TRACKID:3319S]
 中型玻璃碎裂 2
 
-[3320A]
+[TRACKID:3320A]
 撞擊
-[3320S]
+[TRACKID:3320S]
 中型玻璃碎裂 3
 
-[3321A]
+[TRACKID:3321A]
 撞擊
-[3321S]
+[TRACKID:3321S]
 小型玻璃碎裂 1
 
-[3322A]
+[TRACKID:3322A]
 撞擊
-[3322S]
+[TRACKID:3322S]
 小型玻璃碎裂 2
 
-[3323A]
+[TRACKID:3323A]
 撞擊
-[3323S]
+[TRACKID:3323S]
 小型玻璃碎裂µ3
 
-[3324A]
+[TRACKID:3324A]
 爆破
-[3324S]
+[TRACKID:3324S]
 爆炸µ1
 
-[3325A]
+[TRACKID:3325A]
 爆破
-[3325S]
+[TRACKID:3325S]
 爆炸µ2
 
-[3326A]
+[TRACKID:3326A]
 爆破
-[3326S]
+[TRACKID:3326S]
 爆炸µ3
 
-[3327A]
+[TRACKID:3327A]
 爆破
-[3327S]
+[TRACKID:3327S]
 遠處爆炸µ1
 
-[3328A]
+[TRACKID:3328A]
 爆破
-[3328S]
+[TRACKID:3328S]
 遠處爆炸µ2
 
-[3329A]
+[TRACKID:3329A]
 爆破
-[3329S]
+[TRACKID:3329S]
 遠處爆炸µ3
 
-[3330A]
+[TRACKID:3330A]
 其他
-[3330S]
+[TRACKID:3330S]
 開門µ1
 
-[3331A]
+[TRACKID:3331A]
 其他
-[3331S]
+[TRACKID:3331S]
 開門µ2
 
-[3332A]
+[TRACKID:3332A]
 其他
-[3332S]
+[TRACKID:3332S]
 關門µ1
 
-[3333A]
+[TRACKID:3333A]
 其他
-[3333S]
+[TRACKID:3333S]
 關門µ2
 
-[3334A]
+[TRACKID:3334A]
 經過的載具
-[3334S]
+[TRACKID:3334S]
 經過的噴射機µ5
 
-[3335A]
+[TRACKID:3335A]
 經過的載具
-[3335S]
+[TRACKID:3335S]
 經過的噴射機µ6
 
-[3340A]
+[TRACKID:3340A]
 其他
-[3340S]
+[TRACKID:3340S]
 瓶子碎裂 1
 
-[3341A]
+[TRACKID:3341A]
 其他
-[3341S]
+[TRACKID:3341S]
 瓶子碎裂 2
 
-[3342A]
+[TRACKID:3342A]
 其他
-[3342S]
+[TRACKID:3342S]
 瓶子碎裂 3
 
-[3343A]
+[TRACKID:3343A]
 其他
-[3343S]
+[TRACKID:3343S]
 緊急煞車µ1
 
-[3344A]
+[TRACKID:3344A]
 其他
-[3344S]
+[TRACKID:3344S]
 緊急煞車µ2
 
-[3345A]
+[TRACKID:3345A]
 其他
-[3345S]
+[TRACKID:3345S]
 緊急煞車µ3
 
-[3346A]
+[TRACKID:3346A]
 其他
-[3346S]
+[TRACKID:3346S]
 緊急煞車µ4
 
-[3347A]
+[TRACKID:3347A]
 其他
-[3347S]
+[TRACKID:3347S]
 緊急煞車µ5
 
-[3348A]
+[TRACKID:3348A]
 其他
-[3348S]
+[TRACKID:3348S]
 敲門µ1
 
-[3349A]
+[TRACKID:3349A]
 其他
-[3349S]
+[TRACKID:3349S]
 敲門µ2
 
-[3350A]
+[TRACKID:3350A]
 其他
-[3350S]
+[TRACKID:3350S]
 敲門µ3
 
-[3351A]
+[TRACKID:3351A]
 其他
-[3351S]
+[TRACKID:3351S]
 敲門µ4
 
-[3352A]
+[TRACKID:3352A]
 其他
-[3352S]
+[TRACKID:3352S]
 敲門µ5
 
-[3353A]
+[TRACKID:3353A]
 其他
-[3353S]
+[TRACKID:3353S]
 敲門µ6
 
-[3354A]
+[TRACKID:3354A]
 其他
-[3354S]
+[TRACKID:3354S]
 敲門µ7
 
-[3355A]
+[TRACKID:3355A]
 其他
-[3355S]
+[TRACKID:3355S]
 狗吠µ1
 
-[3356A]
+[TRACKID:3356A]
 其他
-[3356S]
+[TRACKID:3356S]
 狗吠µ2
 
-[3357A]
+[TRACKID:3357A]
 其他
-[3357S]
+[TRACKID:3357S]
 狗吠µ3
 
-[3358A]
+[TRACKID:3358A]
 其他
-[3358S]
+[TRACKID:3358S]
 狗吠µ4
 
-[3359A]
+[TRACKID:3359A]
 其他
-[3359S]
+[TRACKID:3359S]
 狗吠µ5
 
-[3360A]
+[TRACKID:3360A]
 經過的載具
-[3360S]
+[TRACKID:3360S]
 經過按喇叭的汽車µ1
 
-[3361A]
+[TRACKID:3361A]
 經過的載具
-[3361S]
+[TRACKID:3361S]
 經過按喇叭的汽車µ2
 
-[3362A]
+[TRACKID:3362A]
 經過的載具
-[3362S]
+[TRACKID:3362S]
 經過按喇叭的汽車µ3
 
-[3363A]
+[TRACKID:3363A]
 經過的載具
-[3363S]
+[TRACKID:3363S]
 經過按喇叭的汽車µ4
 
-[3364A]
+[TRACKID:3364A]
 經過的載具
-[3364S]
+[TRACKID:3364S]
 經過按喇叭的汽車µ5
 
-[3365A]
+[TRACKID:3365A]
 經過的載具
-[3365S]
+[TRACKID:3365S]
 經過按喇叭的卡車µ1
 
-[3366A]
+[TRACKID:3366A]
 經過的載具
-[3366S]
+[TRACKID:3366S]
 經過按喇叭的卡車µ2
 
-[3367A]
+[TRACKID:3367A]
 經過的載具
-[3367S]
+[TRACKID:3367S]
 經過按喇叭的卡車µ3
 
-[3368A]
+[TRACKID:3368A]
 經過的載具
-[3368S]
+[TRACKID:3368S]
 經過按喇叭的機車µ1
 
-[3369A]
+[TRACKID:3369A]
 經過的載具
-[3369S]
+[TRACKID:3369S]
 經過按喇叭的機車µ2
 
-[3370A]
+[TRACKID:3370A]
 經過的載具
-[3370S]
+[TRACKID:3370S]
 經過按喇叭的機車µ3
 
-[3371A]
+[TRACKID:3371A]
 經過的載具
-[3371S]
+[TRACKID:3371S]
 經過按喇叭的機車µ4
 
-[3372A]
+[TRACKID:3372A]
 經過的載具
-[3372S]
+[TRACKID:3372S]
 經過按喇叭的機車µ5
 
-[3373A]
+[TRACKID:3373A]
 經過的載具
-[3373S]
+[TRACKID:3373S]
 經過按喇叭的機車µ6
 
-[3374A]
+[TRACKID:3374A]
 經過的載具
-[3374S]
+[TRACKID:3374S]
 經過的機車µ1
 
-[3375A]
+[TRACKID:3375A]
 經過的載具
-[3375S]
+[TRACKID:3375S]
 經過的機車µ2
 
-[3376A]
+[TRACKID:3376A]
 經過的載具
-[3376S]
+[TRACKID:3376S]
 經過的機車µ3
 
-[3377A]
+[TRACKID:3377A]
 經過的載具
-[3377S]
+[TRACKID:3377S]
 經過的機車µ4
 
-[3378A]
+[TRACKID:3378A]
 經過的載具
-[3378S]
+[TRACKID:3378S]
 經過的機車µ5
 
-[3379A]
+[TRACKID:3379A]
 經過的載具
-[3379S]
+[TRACKID:3379S]
 經過的汽車µ1
 
-[3380A]
+[TRACKID:3380A]
 經過的載具
-[3380S]
+[TRACKID:3380S]
 經過的汽車µ2
 
-[3381A]
+[TRACKID:3381A]
 經過的載具
-[3381S]
+[TRACKID:3381S]
 經過的汽車µ3
 
-[3382A]
+[TRACKID:3382A]
 經過的載具
-[3382S]
+[TRACKID:3382S]
 經過的汽車µ4
 
-[3383A]
+[TRACKID:3383A]
 經過的載具
-[3383S]
+[TRACKID:3383S]
 經過的汽車µ5
 
-[3384A]
+[TRACKID:3384A]
 經過的載具
-[3384S]
+[TRACKID:3384S]
 經過的汽車µ6
 
-[3385A]
+[TRACKID:3385A]
 經過的載具
-[3385S]
+[TRACKID:3385S]
 經過的汽車µ7
 
-[3386A]
+[TRACKID:3386A]
 經過的載具
-[3386S]
+[TRACKID:3386S]
 經過的汽車µ8
 
-[3387A]
+[TRACKID:3387A]
 經過的載具
-[3387S]
+[TRACKID:3387S]
 經過的警笛聲µ1
 
-[3388A]
+[TRACKID:3388A]
 經過的載具
-[3388S]
+[TRACKID:3388S]
 經過的警笛聲µ2
 
-[3389A]
+[TRACKID:3389A]
 經過的載具
-[3389S]
+[TRACKID:3389S]
 經過的警笛聲µ3
 
-[3390A]
+[TRACKID:3390A]
 經過的載具
-[3390S]
+[TRACKID:3390S]
 經過的警笛聲µ4
 
-[3391A]
+[TRACKID:3391A]
 經過的載具
-[3391S]
+[TRACKID:3391S]
 經過的螺旋槳飛機µ1
 
-[3392A]
+[TRACKID:3392A]
 經過的載具
-[3392S]
+[TRACKID:3392S]
 經過的螺旋槳飛機µ2
 
-[3393A]
+[TRACKID:3393A]
 經過的載具
-[3393S]
+[TRACKID:3393S]
 經過的螺旋槳飛機µ3
 
-[3394A]
+[TRACKID:3394A]
 經過的載具
-[3394S]
+[TRACKID:3394S]
 經過的螺旋槳飛機µ4
 
-[3395A]
+[TRACKID:3395A]
 經過的載具
-[3395S]
+[TRACKID:3395S]
 經過的螺旋槳飛機µ5
 
-[3396A]
+[TRACKID:3396A]
 經過的載具
-[3396S]
+[TRACKID:3396S]
 經過的噴射機µ1
 
-[3397A]
+[TRACKID:3397A]
 經過的載具
-[3397S]
+[TRACKID:3397S]
 經過的噴射機µ2
 
-[3398A]
+[TRACKID:3398A]
 經過的載具
-[3398S]
+[TRACKID:3398S]
 經過的噴射機µ3
 
-[3399A]
+[TRACKID:3399A]
 經過的載具
-[3399S]
+[TRACKID:3399S]
 經過的噴射機µ4
 
-[3400A]
+[TRACKID:3400A]
 特效
-[3400S]
+[TRACKID:3400S]
 短促 1
 
-[3401A]
+[TRACKID:3401A]
 特效
-[3401S]
+[TRACKID:3401S]
 短促 2
 
-[3402A]
+[TRACKID:3402A]
 特效
-[3402S]
+[TRACKID:3402S]
 短促 3
 
-[3403A]
+[TRACKID:3403A]
 特效
-[3403S]
+[TRACKID:3403S]
 短促 4
 
-[3404A]
+[TRACKID:3404A]
 特效
-[3404S]
+[TRACKID:3404S]
 短促 5
 
-[3405A]
+[TRACKID:3405A]
 特效
-[3405S]
+[TRACKID:3405S]
 高調 1
 
-[3406A]
+[TRACKID:3406A]
 特效
-[3406S]
+[TRACKID:3406S]
 高調 2
 
-[3407A]
+[TRACKID:3407A]
 特效
-[3407S]
+[TRACKID:3407S]
 高調 3
 
-[3408A]
+[TRACKID:3408A]
 特效
-[3408S]
+[TRACKID:3408S]
 高調 4
 
-[3409A]
+[TRACKID:3409A]
 特效
-[3409S]
+[TRACKID:3409S]
 高調 5
 
-[3410A]
+[TRACKID:3410A]
 特效
-[3410S]
+[TRACKID:3410S]
 震撼 1
 
-[3411A]
+[TRACKID:3411A]
 特效
-[3411S]
+[TRACKID:3411S]
 震撼 2
 
-[3412A]
+[TRACKID:3412A]
 特效
-[3412S]
+[TRACKID:3412S]
 震撼 3
 
-[3413A]
+[TRACKID:3413A]
 特效
-[3413S]
+[TRACKID:3413S]
 震撼 4
 
-[3414A]
+[TRACKID:3414A]
 特效
-[3414S]
+[TRACKID:3414S]
 震撼 5
 
 
 
 
 {--- DLC_HALLOWEEN_SFX --}
-[3415A]
+[TRACKID:3415A]
 恐怖特效
-[3415S]
+[TRACKID:3415S]
 恐怖短促特效µ1
 
-[3416A]
+[TRACKID:3416A]
 恐怖特效
-[3416S]
+[TRACKID:3416S]
 恐怖短促特效µ2
 
-[3417A]
+[TRACKID:3417A]
 恐怖特效
-[3417S]
+[TRACKID:3417S]
 恐怖短促特效µ3
 
-[3418A]
+[TRACKID:3418A]
 恐怖特效
-[3418S]
+[TRACKID:3418S]
 恐怖短促特效µ4
 
-[3419A]
+[TRACKID:3419A]
 恐怖特效
-[3419S]
+[TRACKID:3419S]
 恐怖短促特效µ5
 
-[3420A]
+[TRACKID:3420A]
 恐怖特效
-[3420S]
+[TRACKID:3420S]
 恐怖短促特效µ6
 
-[3421A]
+[TRACKID:3421A]
 恐怖特效
-[3421S]
+[TRACKID:3421S]
 恐怖短促特效µ7
 
-[3422A]
+[TRACKID:3422A]
 恐怖特效
-[3422S]
+[TRACKID:3422S]
 恐怖短促特效µ8
 
-[3423A]
+[TRACKID:3423A]
 恐怖特效
-[3423S]
+[TRACKID:3423S]
 恐怖高調特效µ1
 
-[3424A]
+[TRACKID:3424A]
 恐怖特效
-[3424S]
+[TRACKID:3424S]
 恐怖高調特效µ2
 
-[3425A]
+[TRACKID:3425A]
 恐怖特效
-[3425S]
+[TRACKID:3425S]
 恐怖高調特效µ3
 
-[3426A]
+[TRACKID:3426A]
 恐怖特效
-[3426S]
+[TRACKID:3426S]
 恐怖高調特效µ4
 
-[3427A]
+[TRACKID:3427A]
 恐怖特效
-[3427S]
+[TRACKID:3427S]
 恐怖高調特效µ5
 
-[3428A]
+[TRACKID:3428A]
 恐怖特效
-[3428S]
+[TRACKID:3428S]
 恐怖碰撞音效µ1
 
-[3429A]
+[TRACKID:3429A]
 恐怖特效
-[3429S]
+[TRACKID:3429S]
 恐怖碰撞音效µ2
 
-[3430A]
+[TRACKID:3430A]
 恐怖特效
-[3430S]
+[TRACKID:3430S]
 恐怖碰撞音效µ3
 
-[3431A]
+[TRACKID:3431A]
 恐怖音效
-[3431S]
+[TRACKID:3431S]
 嘎吱開門µ1
 
-[3432A]
+[TRACKID:3432A]
 恐怖音效
-[3432S]
+[TRACKID:3432S]
 嘎吱開門µ2
 
-[3433A]
+[TRACKID:3433A]
 恐怖音效
-[3433S]
+[TRACKID:3433S]
 嘎吱關門µ1
 
-[3434A]
+[TRACKID:3434A]
 恐怖音效
-[3434S]
+[TRACKID:3434S]
 嘎吱關門µ2
 
-[3435A]
+[TRACKID:3435A]
 恐怖血腥
-[3435S]
+[TRACKID:3435S]
 粉碎µ1
 
-[3436A]
+[TRACKID:3436A]
 恐怖血腥
-[3436S]
+[TRACKID:3436S]
 粉碎µ2
 
-[3437A]
+[TRACKID:3437A]
 恐怖血腥
-[3437S]
+[TRACKID:3437S]
 粉碎µ3
 
-[3438A]
+[TRACKID:3438A]
 恐怖血腥
-[3438S]
+[TRACKID:3438S]
 粉碎µ4
 
-[3439A]
+[TRACKID:3439A]
 恐怖血腥
-[3439S]
+[TRACKID:3439S]
 粉碎µ5
 
-[3440A]
+[TRACKID:3440A]
 恐怖血腥
-[3440S]
+[TRACKID:3440S]
 粉碎µ6
 
-[3441A]
+[TRACKID:3441A]
 恐怖血腥
-[3441S]
+[TRACKID:3441S]
 骨頭斷裂µ1
 
-[3442A]
+[TRACKID:3442A]
 恐怖血腥
-[3442S]
+[TRACKID:3442S]
 骨頭斷裂µ2
 
-[3443A]
+[TRACKID:3443A]
 恐怖血腥
-[3443S]
+[TRACKID:3443S]
 肢解µ1
 
-[3444A]
+[TRACKID:3444A]
 恐怖血腥
-[3444S]
+[TRACKID:3444S]
 割喉µ1
 
-[3445A]
+[TRACKID:3445A]
 恐怖血腥
-[3445S]
+[TRACKID:3445S]
 割喉µ2
 
-[3446A]
+[TRACKID:3446A]
 恐怖血腥
-[3446S]
+[TRACKID:3446S]
 恐怖嘎吱µ6
 
-[3447A]
+[TRACKID:3447A]
 恐怖血腥
-[3447S]
+[TRACKID:3447S]
 捅刺µ1
 
-[3448A]
+[TRACKID:3448A]
 恐怖血腥
-[3448S]
+[TRACKID:3448S]
 捅刺µ2
 
-[3449A]
+[TRACKID:3449A]
 恐怖血腥
-[3449S]
+[TRACKID:3449S]
 捅刺µ3
 
-[3450A]
+[TRACKID:3450A]
 天氣
-[3450S]
+[TRACKID:3450S]
 雷暴
 
-[3451A]
+[TRACKID:3451A]
 天氣
-[3451S]
+[TRACKID:3451S]
 小風雨
 
-[3452A]
+[TRACKID:3452A]
 天氣
-[3452S]
+[TRACKID:3452S]
 大風雨
 
-[3480A]
+[TRACKID:3480A]
 恐怖動物叫聲
-[3480S]
+[TRACKID:3480S]
 狼嚎µ1
 
-[3481A]
+[TRACKID:3481A]
 恐怖動物叫聲
-[3481S]
+[TRACKID:3481S]
 狼嚎µ2
 
-[3482A]
+[TRACKID:3482A]
 恐怖動物叫聲
-[3482S]
+[TRACKID:3482S]
 狼嚎µ3
 
-[3483A]
+[TRACKID:3483A]
 恐怖叫聲
-[3483S]
+[TRACKID:3483S]
 女巫µ1
 
-[3484A]
+[TRACKID:3484A]
 恐怖叫聲
-[3484S]
+[TRACKID:3484S]
 女巫µ2
 
-[3485A]
+[TRACKID:3485A]
 恐怖動物叫聲
-[3485S]
+[TRACKID:3485S]
 憤怒貓叫µ1
 
-[3486A]
+[TRACKID:3486A]
 恐怖動物叫聲
-[3486S]
+[TRACKID:3486S]
 憤怒貓叫µ2
 
-[3487A]
+[TRACKID:3487A]
 恐怖動物叫聲
-[3487S]
+[TRACKID:3487S]
 憤怒貓叫µ3
 
-[3488A]
+[TRACKID:3488A]
 恐怖動物叫聲
-[3488S]
+[TRACKID:3488S]
 憤怒貓叫µ4
 
-[3489A]
+[TRACKID:3489A]
 恐怖動物叫聲
-[3489S]
+[TRACKID:3489S]
 憤怒貓叫µ5
 
-[3490A]
+[TRACKID:3490A]
 恐怖血腥
-[3490S]
+[TRACKID:3490S]
 捅刺µ4
 
-[3491A]
+[TRACKID:3491A]
 恐怖血腥
-[3491S]
+[TRACKID:3491S]
 捅刺µ5
 
-[3492A]
+[TRACKID:3492A]
 恐怖血腥
-[3492S]
+[TRACKID:3492S]
 棒擊µ1
 
-[3493A]
+[TRACKID:3493A]
 恐怖血腥
-[3493S]
+[TRACKID:3493S]
 棒擊µ2
 
-[3494A]
+[TRACKID:3494A]
 恐怖血腥
-[3494S]
+[TRACKID:3494S]
 棒擊µ3
 
-[3495A]
+[TRACKID:3495A]
 恐怖血腥
-[3495S]
+[TRACKID:3495S]
 劈砍µ1
 
-[3496A]
+[TRACKID:3496A]
 恐怖血腥
-[3496S]
+[TRACKID:3496S]
 劈砍µ2
 
-[3497A]
+[TRACKID:3497A]
 恐怖血腥
-[3497S]
+[TRACKID:3497S]
 劈砍µ3
 
-[3498A]
+[TRACKID:3498A]
 恐怖血腥
-[3498S]
+[TRACKID:3498S]
 劈砍µ4
 
-[3499A]
+[TRACKID:3499A]
 恐怖血腥
-[3499S]
+[TRACKID:3499S]
 劈砍µ5
 
-[3500A]
+[TRACKID:3500A]
 警報
-[3500S]
+[TRACKID:3500S]
 警報 1
 
-[3501A]
+[TRACKID:3501A]
 警報
-[3501S]
+[TRACKID:3501S]
 警報 2
 
-[3502A]
+[TRACKID:3502A]
 警報
-[3502S]
+[TRACKID:3502S]
 警報 3
 
-[3503A]
+[TRACKID:3503A]
 警報
-[3503S]
+[TRACKID:3503S]
 警報 4
 
-[3504A]
+[TRACKID:3504A]
 警報
-[3504S]
+[TRACKID:3504S]
 警報 5
 
-[3505A]
+[TRACKID:3505A]
 警報
-[3505S]
+[TRACKID:3505S]
 警報 6
 
-[3510A]
+[TRACKID:3510A]
 火災
-[3510S]
+[TRACKID:3510S]
 火焰µ1
 
-[3511A]
+[TRACKID:3511A]
 火災
-[3511S]
+[TRACKID:3511S]
 火焰µ2
 
-[3512A]
+[TRACKID:3512A]
 火災
-[3512S]
+[TRACKID:3512S]
 火焰µ3
 
-[3513A]
+[TRACKID:3513A]
 火災
-[3513S]
+[TRACKID:3513S]
 火焰µ4
 
-[3515A]
+[TRACKID:3515A]
 警笛
-[3515S]
+[TRACKID:3515S]
 警笛µ1
 
-[3516A]
+[TRACKID:3516A]
 警笛
-[3516S]
+[TRACKID:3516S]
 警笛µ2
 
-[3517A]
+[TRACKID:3517A]
 警笛
-[3517S]
+[TRACKID:3517S]
 警笛µ3
 
-[3550A]
+[TRACKID:3550A]
 環境噪音
-[3550S]
+[TRACKID:3550S]
 商業區µ1
 
-[3551A]
+[TRACKID:3551A]
 環境噪音
-[3551S]
+[TRACKID:3551S]
 工業區µ1
 
-[3552A]
+[TRACKID:3552A]
 環境噪音
-[3552S]
+[TRACKID:3552S]
 住宅區µ1
 
-[3553A]
+[TRACKID:3553A]
 環境噪音
-[3553S]
+[TRACKID:3553S]
 住宅區µ2
 
-[3554A]
+[TRACKID:3554A]
 環境噪音
-[3554S]
+[TRACKID:3554S]
 郊區µ1
 
-[3555A]
+[TRACKID:3555A]
 環境噪音
-[3555S]
+[TRACKID:3555S]
 郊區µ2
 
-[3556A]
+[TRACKID:3556A]
 環境噪音
-[3556S]
+[TRACKID:3556S]
 沙漠µ1
 
-[3557A]
+[TRACKID:3557A]
 環境噪音
-[3557S]
+[TRACKID:3557S]
 沙漠µ2
 
-[3558A]
+[TRACKID:3558A]
 環境噪音
-[3558S]
+[TRACKID:3558S]
 沙漠µ3
 
-[3559A]
+[TRACKID:3559A]
 恐怖鬧鬼
-[3559S]
+[TRACKID:3559S]
 恐怖鬧鬼µ1
 
-[3560A]
+[TRACKID:3560A]
 恐怖鬧鬼
-[3560S]
+[TRACKID:3560S]
 恐怖鬧鬼µ2
 
-[3562A]
+[TRACKID:3562A]
 恐怖鬧鬼
-[3562S]
+[TRACKID:3562S]
 恐怖鬧鬼µ3
 
-[3564A]
+[TRACKID:3564A]
 恐怖鬧鬼
-[3564S]
+[TRACKID:3564S]
 恐怖鬧鬼µ4
 
-[3565A]
+[TRACKID:3565A]
 恐怖鬧鬼
-[3565S]
+[TRACKID:3565S]
 恐怖鬧鬼µ5
 
-[3566A]
+[TRACKID:3566A]
 恐怖鬧鬼
-[3566S]
+[TRACKID:3566S]
 恐怖鬧鬼µ6
 
-[3567A]
+[TRACKID:3567A]
 恐怖鬧鬼
-[3567S]
+[TRACKID:3567S]
 恐怖鬧鬼µ7
 
-[3568A]
+[TRACKID:3568A]
 恐怖鬧鬼
-[3568S]
+[TRACKID:3568S]
 恐怖鬧鬼µ8
 
-[3570A]
+[TRACKID:3570A]
 恐怖音效
-[3570S]
+[TRACKID:3570S]
 活生生燃燒µ1
 
-[3571A]
+[TRACKID:3571A]
 恐怖音效
-[3571S]
+[TRACKID:3571S]
 呼吸µ1
 
-[3573A]
+[TRACKID:3573A]
 恐怖音效
-[3573S]
+[TRACKID:3573S]
 驚悚風吹µ1
 
-[3574A]
+[TRACKID:3574A]
 恐怖音效
-[3574S]
+[TRACKID:3574S]
 驚悚風吹µ2
 
-[3575A]
+[TRACKID:3575A]
 恐怖音效
-[3575S]
+[TRACKID:3575S]
 女性哭聲µ1
 
-[3576A]
+[TRACKID:3576A]
 恐怖音效
-[3576S]
+[TRACKID:3576S]
 水龍頭滴水µ1
 
-[3577A]
+[TRACKID:3577A]
 恐怖音效
-[3577S]
+[TRACKID:3577S]
 鐵鍊摩擦聲µ1
 
-[3578A]
+[TRACKID:3578A]
 恐怖音效
-[3578S]
+[TRACKID:3578S]
 樓梯嘎吱聲µ1
 
-[3580A]
+[TRACKID:3580A]
 恐怖血腥
-[3580S]
+[TRACKID:3580S]
 身體碰撞µ1
 
-[3581A]
+[TRACKID:3581A]
 恐怖血腥
-[3581S]
+[TRACKID:3581S]
 身體碰撞µ2
 
-[3582A]
+[TRACKID:3582A]
 恐怖血腥
-[3582S]
+[TRACKID:3582S]
 身體碰撞µ3
 
-[3583A]
+[TRACKID:3583A]
 恐怖血腥
-[3583S]
+[TRACKID:3583S]
 身體碰撞µ4
 
-[3584A]
+[TRACKID:3584A]
 恐怖叫聲
-[3584S]
+[TRACKID:3584S]
 尖叫（女聲）µ1
 
-[3585A]
+[TRACKID:3585A]
 恐怖叫聲
-[3585S]
+[TRACKID:3585S]
 尖叫（女聲）µ2
 
-[3586A]
+[TRACKID:3586A]
 恐怖叫聲
-[3586S]
+[TRACKID:3586S]
 尖叫（女聲）µ3
 
-[3587A]
+[TRACKID:3587A]
 恐怖叫聲
-[3587S]
+[TRACKID:3587S]
 尖叫（女聲）µ4
 
-[3588A]
+[TRACKID:3588A]
 恐怖叫聲
-[3588S]
+[TRACKID:3588S]
 尖叫（女聲）µ5
 
-[3589A]
+[TRACKID:3589A]
 恐怖叫聲
-[3589S]
+[TRACKID:3589S]
 尖叫（男聲）µ1
 
-[3590A]
+[TRACKID:3590A]
 恐怖叫聲
-[3590S]
+[TRACKID:3590S]
 尖叫（男聲）µ2
 
-[3591A]
+[TRACKID:3591A]
 恐怖叫聲
-[3591S]
+[TRACKID:3591S]
 尖叫（男聲）µ3
 
-[3592A]
+[TRACKID:3592A]
 恐怖叫聲
-[3592S]
+[TRACKID:3592S]
 尖叫（男聲）µ4
 
-[3593A]
+[TRACKID:3593A]
 恐怖叫聲
-[3593S]
+[TRACKID:3593S]
 尖叫（男聲）µ5
 
-[3594A]
+[TRACKID:3594A]
 恐怖叫聲
-[3594S]
+[TRACKID:3594S]
 生物µ1
 
-[3595A]
+[TRACKID:3595A]
 恐怖叫聲
-[3595S]
+[TRACKID:3595S]
 生物µ2
 
-[3596A]
+[TRACKID:3596A]
 恐怖叫聲
-[3596S]
+[TRACKID:3596S]
 生物µ3
 
-[3597A]
+[TRACKID:3597A]
 恐怖音效
-[3597S]
+[TRACKID:3597S]
 低沉腳步µ1
 
-[3598A]
+[TRACKID:3598A]
 恐怖音效
-[3598S]
+[TRACKID:3598S]
 門把咯咯µ1
 
-[3599A]
+[TRACKID:3599A]
 恐怖音效
-[3599S]
+[TRACKID:3599S]
 門把咯咯µ2
 
-[3600A]
+[TRACKID:3600A]
 恐怖血腥
-[3600S]
+[TRACKID:3600S]
 血濺µ1
 
-[3601A]
+[TRACKID:3601A]
 恐怖血腥
-[3601S]
+[TRACKID:3601S]
 血濺µ2
 
-[3602A]
+[TRACKID:3602A]
 恐怖音效
-[3602S]
+[TRACKID:3602S]
 午夜教堂鐘µ1
 
-[3603A]
+[TRACKID:3603A]
 恐怖動物
-[3603S]
+[TRACKID:3603S]
 憤怒狗叫µ1
 
-[3604A]
+[TRACKID:3604A]
 恐怖動物
-[3604S]
+[TRACKID:3604S]
 憤怒狗叫µ2
 
-[3605A]
+[TRACKID:3605A]
 恐怖動物
-[3605S]
+[TRACKID:3605S]
 憤怒狗叫µ3
 
-[3606A]
+[TRACKID:3606A]
 恐怖動物
-[3606S]
+[TRACKID:3606S]
 憤怒狗叫µ4
 
-[3607A]
+[TRACKID:3607A]
 恐怖動物
-[3607S]
+[TRACKID:3607S]
 憤怒狗叫µ5
 
-[3608A]
+[TRACKID:3608A]
 恐怖血腥
-[3608S]
+[TRACKID:3608S]
 棒擊µ4
 
-[3609A]
+[TRACKID:3609A]
 恐怖血腥
-[3609S]
+[TRACKID:3609S]
 棒擊µ5
 
-[3610A]
+[TRACKID:3610A]
 恐怖血腥
-[3610S]
+[TRACKID:3610S]
 棒擊µ6
 
-[3611A]
+[TRACKID:3611A]
 恐怖血腥
-[3611S]
+[TRACKID:3611S]
 棒擊µ7
 
-[3612A]
+[TRACKID:3612A]
 恐怖血腥
-[3612S]
+[TRACKID:3612S]
 棒擊µ8
 
-[3613A]
+[TRACKID:3613A]
 恐怖血腥
-[3613S]
+[TRACKID:3613S]
 瓶子捅刺µ1
 
 
