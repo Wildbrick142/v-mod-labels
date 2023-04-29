@@ -1,0 +1,829 @@
+
+------ Tue Apr 04 21:46:43 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 80554	Labels count 3482
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 80327	Labels count 3482
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 79279	Labels count 3482
+[INFO] (french/trackid.gxt2) Compiled!	Size 82038	Labels count 3482
+[INFO] (german/trackid.gxt2) Compiled!	Size 80654	Labels count 3482
+[INFO] (italian/trackid.gxt2) Compiled!	Size 80843	Labels count 3482
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 83001	Labels count 3482
+[INFO] (korean/trackid.gxt2) Compiled!	Size 82140	Labels count 3482
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 81440	Labels count 3482
+[INFO] (polish/trackid.gxt2) Compiled!	Size 81233	Labels count 3482
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 81027	Labels count 3482
+[INFO] (russian/trackid.gxt2) Compiled!	Size 86653	Labels count 3482
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 81391	Labels count 3482
+
+------ Tue Apr 04 21:46:46 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 739	Labels count 29
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 725	Labels count 29
+
+------ Fri Apr 07 07:00:50 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 16485	Labels count 711
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 16460	Labels count 712
+[INFO] (french/trackid.gxt2) Compiled!	Size 16511	Labels count 713
+[INFO] (german/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (italian/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (korean/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (polish/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (russian/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+
+------ Fri Apr 07 07:00:54 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (chinese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 580	Labels count 23
+[INFO] (french/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (german/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (italian/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (japanese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (korean/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (mexican/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (polish/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (portuguese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (russian/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (spanish/global.gxt2) Compiled!	Size 582	Labels count 23
+
+------ Fri Apr 07 07:04:53 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 91012	Labels count 3920
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 90790	Labels count 3921
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 89715	Labels count 3921
+[INFO] (french/trackid.gxt2) Compiled!	Size 92522	Labels count 3922
+[INFO] (german/trackid.gxt2) Compiled!	Size 91117	Labels count 3921
+[INFO] (italian/trackid.gxt2) Compiled!	Size 91306	Labels count 3921
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 93464	Labels count 3921
+[INFO] (korean/trackid.gxt2) Compiled!	Size 92603	Labels count 3921
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 91903	Labels count 3921
+[INFO] (polish/trackid.gxt2) Compiled!	Size 91696	Labels count 3921
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 91490	Labels count 3921
+[INFO] (russian/trackid.gxt2) Compiled!	Size 97116	Labels count 3921
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 91854	Labels count 3921
+
+------ Fri Apr 07 07:05:25 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 739	Labels count 29
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 725	Labels count 29
+
+------ Fri Apr 07 07:05:31 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (french/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (german/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (italian/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (korean/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (polish/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (russian/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 5705	Labels count 252
+
+------ Fri Apr 07 07:05:35 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 876	Labels count 40
+[INFO] (french/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (german/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (italian/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (korean/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (polish/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (russian/trackid.gxt2) Compiled!	Size 877	Labels count 40
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 877	Labels count 40
+
+------ Fri Apr 07 07:05:38 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (chinese/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 83	Labels count 2
+[INFO] (french/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (german/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (italian/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (japanese/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (korean/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (mexican/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (polish/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (portuguese/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (russian/global.gxt2) Compiled!	Size 82	Labels count 2
+[INFO] (spanish/global.gxt2) Compiled!	Size 82	Labels count 2
+
+------ Fri Apr 07 07:05:41 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 16485	Labels count 711
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 16460	Labels count 712
+[INFO] (french/trackid.gxt2) Compiled!	Size 16511	Labels count 713
+[INFO] (german/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (italian/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (korean/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (polish/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (russian/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 16490	Labels count 712
+
+------ Fri Apr 07 07:12:56 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 91012	Labels count 3920
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 90785	Labels count 3920
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 89710	Labels count 3920
+[INFO] (french/trackid.gxt2) Compiled!	Size 92496	Labels count 3920
+[INFO] (german/trackid.gxt2) Compiled!	Size 91112	Labels count 3920
+[INFO] (italian/trackid.gxt2) Compiled!	Size 91301	Labels count 3920
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 93459	Labels count 3920
+[INFO] (korean/trackid.gxt2) Compiled!	Size 92598	Labels count 3920
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 91898	Labels count 3920
+[INFO] (polish/trackid.gxt2) Compiled!	Size 91691	Labels count 3920
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 91485	Labels count 3920
+[INFO] (russian/trackid.gxt2) Compiled!	Size 97111	Labels count 3920
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 91849	Labels count 3920
+
+------ Fri Apr 07 07:12:59 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 739	Labels count 29
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 725	Labels count 29
+
+------ Fri Apr 07 07:17:24 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (chinese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 580	Labels count 23
+[INFO] (french/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (german/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (italian/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (japanese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (korean/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (mexican/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (polish/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (portuguese/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (russian/global.gxt2) Compiled!	Size 582	Labels count 23
+[INFO] (spanish/global.gxt2) Compiled!	Size 582	Labels count 23
+
+------ Fri Apr 07 07:33:48 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (french/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (german/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (italian/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (korean/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (polish/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (russian/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 6911	Labels count 312
+
+------ Fri Apr 07 07:35:00 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 97907	Labels count 4232
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 97680	Labels count 4232
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 96605	Labels count 4232
+[INFO] (french/trackid.gxt2) Compiled!	Size 99391	Labels count 4232
+[INFO] (german/trackid.gxt2) Compiled!	Size 98007	Labels count 4232
+[INFO] (italian/trackid.gxt2) Compiled!	Size 98196	Labels count 4232
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 100354	Labels count 4232
+[INFO] (korean/trackid.gxt2) Compiled!	Size 99493	Labels count 4232
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 98793	Labels count 4232
+[INFO] (polish/trackid.gxt2) Compiled!	Size 98586	Labels count 4232
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 98380	Labels count 4232
+[INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
+
+------ Fri Apr 07 07:35:03 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 739	Labels count 29
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 725	Labels count 29
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 725	Labels count 29
+
+------ Fri Apr 07 07:45:02 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 97907	Labels count 4232
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 97680	Labels count 4232
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 96605	Labels count 4232
+[INFO] (french/trackid.gxt2) Compiled!	Size 99391	Labels count 4232
+[INFO] (german/trackid.gxt2) Compiled!	Size 98007	Labels count 4232
+[INFO] (italian/trackid.gxt2) Compiled!	Size 98196	Labels count 4232
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 100354	Labels count 4232
+[INFO] (korean/trackid.gxt2) Compiled!	Size 99493	Labels count 4232
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 98793	Labels count 4232
+[INFO] (polish/trackid.gxt2) Compiled!	Size 98586	Labels count 4232
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 98380	Labels count 4232
+[INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
+
+------ Fri Apr 07 07:45:05 2023 ------
+
+gxt2maker v1.2.6	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 939	Labels count 41
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [DUMMYDLCNAMES] (Text content: "THIS LABEL NEEDS TO BE HERE !!!") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+
+------ Fri Apr 07 13:20:30 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 23350	Labels count 1023
+[INFO] (french/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (german/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (italian/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (korean/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (polish/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (russian/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 23380	Labels count 1023
+
+------ Fri Apr 07 13:20:33 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
+[INFO] (american/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (chinese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 780	Labels count 35
+[INFO] (french/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (german/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (italian/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (japanese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (korean/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (mexican/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (polish/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (portuguese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (russian/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (spanish/global.gxt2) Compiled!	Size 782	Labels count 35
+
+------ Fri Apr 07 13:21:09 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 25462	Labels count 1109
+[INFO] (french/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (german/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (italian/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (korean/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (polish/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (russian/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 25498	Labels count 1109
+
+------ Fri Apr 07 13:21:11 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
+[INFO] (american/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (chinese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 780	Labels count 35
+[INFO] (french/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (german/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (italian/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (japanese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (korean/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (mexican/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (polish/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (portuguese/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (russian/global.gxt2) Compiled!	Size 782	Labels count 35
+[INFO] (spanish/global.gxt2) Compiled!	Size 782	Labels count 35
+
+------ Tue Apr 11 22:19:36 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 97907	Labels count 4232
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 97680	Labels count 4232
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 96605	Labels count 4232
+[INFO] (french/trackid.gxt2) Compiled!	Size 99391	Labels count 4232
+[INFO] (german/trackid.gxt2) Compiled!	Size 98007	Labels count 4232
+[INFO] (italian/trackid.gxt2) Compiled!	Size 98196	Labels count 4232
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 100354	Labels count 4232
+[INFO] (korean/trackid.gxt2) Compiled!	Size 99493	Labels count 4232
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 98793	Labels count 4232
+[INFO] (polish/trackid.gxt2) Compiled!	Size 98586	Labels count 4232
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 98380	Labels count 4232
+[INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
+
+------ Tue Apr 11 22:19:38 2023 ------
+
+gxt2maker v1.2.7	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+
+------ Fri Apr 28 17:14:19 2023 ------
+
+gxt2maker v1.4.0	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 97907	Labels count 4232
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 97680	Labels count 4232
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 96605	Labels count 4232
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 99391	Labels count 4232
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 98007	Labels count 4232
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 98196	Labels count 4232
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 100354	Labels count 4232
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 99493	Labels count 4232
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 98793	Labels count 4232
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 98586	Labels count 4232
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 98380	Labels count 4232
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
