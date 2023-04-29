@@ -1,8 +1,7 @@
 
 ------ Sun Apr 09 22:19:19 2023 ------
 
-gxt2maker v1.2.7	     by Wildbrick
-A Rockstar style of generating GXT2 files
+gxt2maker v1.2.7	     by WildbrickA Rockstar style of generating GXT2 files
 
 [INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
 [INFO] (american/global.gxt2) Compiled!	Size 2981	Labels count 90
@@ -21,8 +20,7 @@ A Rockstar style of generating GXT2 files
 
 ------ Fri Apr 21 18:41:08 2023 ------
 
-gxt2maker v1.2.7	     by Wildbrick
-A Rockstar style of generating GXT2 files
+gxt2maker v1.2.7	     by WildbrickA Rockstar style of generating GXT2 files
 
 [INFO] Writing to global.gxt2, duplicate dummy label warnings are suppressed!
 [INFO] (american/global.gxt2) Compiled!	Size 2854	Labels count 85

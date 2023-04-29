@@ -1,21 +1,20 @@
 @echo off
 set d=spplates
-set txt=global
 set lang=american chinese chinesesimp french
-for %%a in (%lang%) do del /F X:\Users\Sumire\gtamods\x64\lang\%d%\%%a\%txt%.gxt2
+for %%a in (%lang%) do del /F X:\Users\Sumire\gtamods\x64\lang\%d%\%%a\*.gxt2
 
-gxt2maker %txt% -a dlc.txt
-
-PAUSE
-
-gxt2maker %txt% -cht dlc.txt
+gxt2maker -a dlc.txt
 
 PAUSE
 
-gxt2maker %txt% -chs dlc.txt
+gxt2maker -cht dlc.txt
 
 PAUSE
 
-gxt2maker %txt% -f dlc.txt
+gxt2maker -chs dlc.txt
+
+PAUSE
+
+gxt2maker -f dlc.txt
 
 PAUSE
