@@ -55,3 +55,41 @@ A Rockstar style of generating GXT2 files
 [INFO] (portuguese/global.gxt2) Compiled!	Size 3115	Labels count 96
 [INFO] (russian/global.gxt2) Compiled!	Size 3914	Labels count 96
 [INFO] (spanish/global.gxt2) Compiled!	Size 3294	Labels count 96
+
+------ Sun Apr 30 14:40:23 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 3228	Labels count 96
+[INFO] (chinese/global.gxt2) Compiled!	Size 3236	Labels count 96
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 3256	Labels count 96
+[INFO] (french/global.gxt2) Compiled!	Size 3441	Labels count 96
+[INFO] (german/global.gxt2) Compiled!	Size 3387	Labels count 96
+[INFO] (italian/global.gxt2) Compiled!	Size 3099	Labels count 96
+[INFO] (japanese/global.gxt2) Compiled!	Size 3667	Labels count 96
+[INFO] (korean/global.gxt2) Compiled!	Size 3267	Labels count 96
+[INFO] (mexican/global.gxt2) Compiled!	Size 3326	Labels count 96
+[INFO] (polish/global.gxt2) Compiled!	Size 3422	Labels count 96
+[INFO] (portuguese/global.gxt2) Compiled!	Size 3115	Labels count 96
+[INFO] (russian/global.gxt2) Compiled!	Size 3914	Labels count 96
+[INFO] (spanish/global.gxt2) Compiled!	Size 3294	Labels count 96
+
+------ Sun Apr 30 14:46:01 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 3228	Labels count 96
+[INFO] (chinese/global.gxt2) Compiled!	Size 3236	Labels count 96
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 3256	Labels count 96
+[INFO] (french/global.gxt2) Compiled!	Size 3441	Labels count 96
+[INFO] (german/global.gxt2) Compiled!	Size 3387	Labels count 96
+[INFO] (italian/global.gxt2) Compiled!	Size 3099	Labels count 96
+[INFO] (japanese/global.gxt2) Compiled!	Size 3667	Labels count 96
+[INFO] (korean/global.gxt2) Compiled!	Size 3267	Labels count 96
+[INFO] (mexican/global.gxt2) Compiled!	Size 3326	Labels count 96
+[INFO] (polish/global.gxt2) Compiled!	Size 3422	Labels count 96
+[INFO] (portuguese/global.gxt2) Compiled!	Size 3115	Labels count 96
+[INFO] (russian/global.gxt2) Compiled!	Size 3914	Labels count 96
+[INFO] (spanish/global.gxt2) Compiled!	Size 3294	Labels count 96

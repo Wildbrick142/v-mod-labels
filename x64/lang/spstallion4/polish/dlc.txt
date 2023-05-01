@@ -315,9 +315,15 @@ Gauntlet lusterka
 ** Placeholder (dayashi 3) **
 
 [STA4_LIV_12]
-** Placeholder (dayashi 4) **
+** Placeholder (direct 1) **
 
 [STA4_LIV_13]
+** Placeholder (direct 2) **
+
+[STA4_LIV_14]
+** Placeholder (dayashi 4) **
+
+[STA4_LIV_15]
 ** Placeholder (dayashi 5) **
 
 
