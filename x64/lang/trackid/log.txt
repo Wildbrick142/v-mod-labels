@@ -827,3 +827,35 @@ A Rockstar style of generating GXT2 files
 [INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
 [INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
 [INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
+
+------ Mon May 01 18:28:02 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 97907	Labels count 4232
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 97680	Labels count 4232
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 96605	Labels count 4232
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 99391	Labels count 4232
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 98007	Labels count 4232
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 98196	Labels count 4232
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 100354	Labels count 4232
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 99493	Labels count 4232
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 98793	Labels count 4232
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 98586	Labels count 4232
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 98380	Labels count 4232
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
