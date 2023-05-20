@@ -6,7 +6,7 @@
 
 
 
-{ --- modparts ## updated 4/28/23 --- }
+{ --- modparts ## updated 5/19/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -29,82 +29,108 @@
 
 {**** HOODS ***}
 [STA4_HOOD_1]
-** sta4_hood_0b label **
+{Secondary Stock Hood}
+2차 후드 재고품
 
 [STA4_HOOD_2]
-** sta4_hood_0c label **
+{Carbon Stock Hood}
+카본 후드 재고품
 
 [STA4_HOOD_3]
-** sta4_hood_1 label **
+{Single Intake Hood}
+싱글 흡입 후드
 
 [STA4_HOOD_4]
-** sta4_hood_1b label **
+{Sec. Single Intake Hood}
+2차 싱글 흡입 후드
 
 [STA4_HOOD_5]
-** sta4_hood_1c label **
+{Carbon Single Intake Hood}
+카본 싱글 흡입 후드
 
 [STA4_HOOD_6]
-** sta4_hood_2 label **
+{Dual Intake Hood}
+듀얼 흡입구 후드
 
 [STA4_HOOD_7]
-** sta4_hood_2b label **
+{Sec. Dual Intake Hood}
+2차 듀얼 흡입구 후드
 
 [STA4_HOOD_8]
-** sta4_hood_2c label **
+{Carbon Dual Intake Hood}
+카본 듀얼 흡입구 후드
 
 [STA4_HOOD_9]
-** sta4_hood_3 + sta4_filt_2 label **
+{Dual Filter Blower}
+듀얼 필터 블로워
 
 [STA4_HOOD_10]
-** sta4_hood_3b + sta4_filt_2 label **
+{D. Fil. Blower w/ Sec. Hood}
+2차 듀얼 필터 블로워
 
 [STA4_HOOD_11]
-** sta4_hood_3c + sta4_filt_2 label **
+{D. Fil. Blower w/ Carbon Hood}
+카본 듀얼 필터 블로워
 
 [STA4_HOOD_12]
-** sta4_hood_3 + sta4_filt_3 label **
+{Large Filter Blower}
+대형 필터 블로워
 
 [STA4_HOOD_13]
-** sta4_hood_3b + sta4_filt_3 label **
+{L. Filt. Blower w/ Sec. Hood}
+2차 대형 필터 블로워
 
 [STA4_HOOD_14]
-** sta4_hood_3c + sta4_filt_3 label **
+{L. Filt. Blower w/ Carbon Hood}
+카본 대형 필터 블로워
 
 [STA4_HOOD_15]
-** sta4_hood_3 + sta4_blower_1 label **
+{Air Intake}
+공기 흡입구
 
 [STA4_HOOD_16]
-** sta4_hood_3b + sta4_blower_1 label **
+{Air Intake w/ Sec. Hood}
+2차 공기 흡입구
 
 [STA4_HOOD_17]
-** sta4_hood_3c + sta4_blower_1 label **
+{Air Intake w/ Carbon Hood}
+카본 공기 흡입구
 
 [STA4_HOOD_18]
-** sta4_hood_3 + sta4_blower_2 label **
+{Large Air Intake}
+대형 공기 흡입구
 
 [STA4_HOOD_19]
-** sta4_hood_3b + sta4_blower_2 label **
+{L. Air Intake w/ Sec. Hood}
+2차 대형 공기 흡입구
 
 [STA4_HOOD_20]
-** sta4_hood_3c + sta4_blower_2 label **
+{L. Air Intake w/ Carbon Hood}
+카본 대형 공기 흡입구
 
 [STA4_HOOD_21]
-** sta4_hood_3 + sta4_blower_3 label **
+{Smooth Bug Catcher}
+매끄러운 버그캐쳐
 
 [STA4_HOOD_22]
-** sta4_hood_3b + sta4_blower_3 label **
+{S. Bug Catcher w/ Sec. Hood}
+2차 매끄러운 버그캐쳐
 
 [STA4_HOOD_23]
-** sta4_hood_3c + sta4_blower_3 label **
+{S. Bug Catcher w/ Carbon Hood}
+카본 매끄러운 버그캐쳐
 
 [STA4_HOOD_24]
-** sta4_hood_3 + sta4_blower_4 label **
+{Boxy Bug Catcher}
+정사각형 버그캐쳐
 
 [STA4_HOOD_25]
-** sta4_hood_3b + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Sec. Hood}
+2차 정사각형 버그캐쳐
 
 [STA4_HOOD_26]
-** sta4_hood_3c + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Carbon Hood}
+카본 정사각형 버그캐쳐
 
 
 {- STA4_SPOILERS -}
@@ -136,13 +162,21 @@
 2차 범퍼 재고품
 
 [STA4_BUMF_3]
-** sta4_bumf_3 label **
+{Splitter}
+스플리터
 
 [STA4_BUMF_4]
-** sta4_bumf_4 label **
+{Aftermarket Bumper}
+애프터마켓 범퍼
 
 [STA4_BUMF_5]
-** sta4_bumf_5 label **
+{Aftermarket Bumper w/ Split.}
+애프터마켓 범퍼 그리고 스플리터
+
+{ new bumper option }
+[STA4_BUMF_0]
+{Bumper Delete}
+범퍼 제거
 
 
 {- STA4_BUMPERS REAR -}
@@ -155,38 +189,48 @@
 
 
 {- STA4_EXHAUSTS -}
-[STA4_EXH_1]
-** Placeholder **
+{[STA4_EXH_1]}
+{** Placeholder **}
 
 [STA4_EXH_2]
-** Placeholder **
+{Double Exhausts}
+이중 배기
 
 [STA4_EXH_3]
-** Placeholder **
+{Double Titanium Exhausts}
+더블 티타늄 머플러
 
 [STA4_EXH_4]
-** Placeholder **
+{Double Anodized Exhausts}
+이중 알루마이트 배기
 
 [STA4_EXH_5]
-** Placeholder **
+{Double Rimmed Exhausts}
+더블 림 배기
 
 [STA4_EXH_6]
-** Placeholder **
+{Box Exhausts}
+박스 배기
 
 [STA4_EXH_7]
-** Placeholder **
+{Side Pipe Exhausts}
+사이드 파이프 배기
 
 [STA4_EXH_8]
-** Placeholder **
+{Side Exhausts}
+사이드 배기
 
 [STA4_EXH_9]
-** Placeholder **
+{Double Side Exhausts}
+양면 배기
 
 [STA4_EXH_10]
-** Placeholder **
+{Side Titanium Box Exhausts}
+사이드 티타늄 박스 배기
 
 [STA4_EXH_11]
-** Placeholder **
+{Side Box Exhausts}
+사이드 박스 배기
 
 
 
@@ -282,49 +326,64 @@ Mk2 레이싱 시트
 
 {- STA4_LIVERY -}
 [STA4_LIV_1]
-** Placeholder (smukk 1) **
+{White Two-Tone}
+화이트 투톤
 
 [STA4_LIV_2]
-** Placeholder (smukk 2) **
+{Black Two-Tone}
+블랙 투톤
 
 [STA4_LIV_3]
-** Placeholder (helios 1) **
+{White Sport Stripes}
+화이트 스포츠 스트라이프
 
 [STA4_LIV_4]
-** Placeholder (helios 2) **
+{Black Sport Stripes}
+블랙 스포츠 스트라이프
 
 [STA4_LIV_5]
-** Placeholder (helios 3) **
+{Red Sport Stripes}
+레드 스포츠 스트라이프
 
 [STA4_LIV_6]
-** Placeholder (helios 4) **
+{Gold Sport Stripes}
+골드 스포츠 스트라이프
 
 [STA4_LIV_7]
-** Placeholder (helios 5) **
+{Performance Package}
+성능 패키지
 
 [STA4_LIV_8]
-** Placeholder (helios 6) **
+{Los Santos 500 Pace Car}
+로스 산토스 500 페이스 카
 
 [STA4_LIV_9]
-** Placeholder (dayashi 1) **
+{Street Annihilator}
+거리 전멸자
 
 [STA4_LIV_10]
-** Placeholder (dayashi 2) **
+{Afterlife Annihilator}
+내세 전멸자
 
 [STA4_LIV_11]
-** Placeholder (dayashi 3) **
+{Super Annihilator}
+슈퍼 전멸자
 
 [STA4_LIV_12]
-** Placeholder (direct 1) **
+{Patina}
+푸른 녹
 
 [STA4_LIV_13]
-** Placeholder (direct 2) **
+{Beater}
+구식 자동차
 
 [STA4_LIV_14]
-** Placeholder (dayashi 4) **
+{Team Fixup}
+팀 수정
 
 [STA4_LIV_15]
-** Placeholder (dayashi 5) **
+{#57 Burger Shot}
+#57 버거 샷
 
 
 

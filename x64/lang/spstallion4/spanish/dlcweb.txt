@@ -1,6 +1,6 @@
 ﻿
 {--- website descriptions --}
-[WVE_STALLION4]
+[VWE_STALLION4]
 ** placeholder Stallion4 description **
 
 {--- dummy ---}

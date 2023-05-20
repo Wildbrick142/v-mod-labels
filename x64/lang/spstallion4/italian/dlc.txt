@@ -6,7 +6,7 @@ Stallion
 
 
 
-{ --- modparts ## updated 4/28/23 --- }
+{ --- modparts ## updated 5/19/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -29,82 +29,108 @@ Slat rettangolare
 
 {**** HOODS ***}
 [STA4_HOOD_1]
-** sta4_hood_0b label **
+{Secondary Stock Hood}
+Standard colore 2
 
 [STA4_HOOD_2]
-** sta4_hood_0c label **
+{Carbon Stock Hood}
+Standard in carbonio
 
 [STA4_HOOD_3]
-** sta4_hood_1 label **
+{Single Intake Hood}
+Incassato singolo
 
 [STA4_HOOD_4]
-** sta4_hood_1b label **
+{Sec. Single Intake Hood}
+Incassato singolo colore 2
 
 [STA4_HOOD_5]
-** sta4_hood_1c label **
+{Carbon Single Intake Hood}
+Incassato singolo in carbonio
 
 [STA4_HOOD_6]
-** sta4_hood_2 label **
+{Dual Intake Hood}
+Incassato doppio
 
 [STA4_HOOD_7]
-** sta4_hood_2b label **
+{Sec. Dual Intake Hood}
+Incassato doppio colore 2
 
 [STA4_HOOD_8]
-** sta4_hood_2c label **
+{Carbon Dual Intake Hood}
+Incassato doppio in carbonio
 
 [STA4_HOOD_9]
-** sta4_hood_3 + sta4_filt_2 label **
+{Dual Filter Blower}
+Compressore a due filtri
 
 [STA4_HOOD_10]
-** sta4_hood_3b + sta4_filt_2 label **
+{D. Fil. Blower w/ Sec. Hood}
+C. a due filtri colore 2
 
 [STA4_HOOD_11]
-** sta4_hood_3c + sta4_filt_2 label **
+{D. Fil. Blower w/ Carbon Hood}
+C. a due filtri in carbonio
 
 [STA4_HOOD_12]
-** sta4_hood_3 + sta4_filt_3 label **
+{Large Filter Blower}
+Compressore a grande filtri
 
 [STA4_HOOD_13]
-** sta4_hood_3b + sta4_filt_3 label **
+{L. Filt. Blower w/ Sec. Hood}
+C. a grande filtri colore 2
 
 [STA4_HOOD_14]
-** sta4_hood_3c + sta4_filt_3 label **
+{L. Filt. Blower w/ Carbon Hood}
+C. a grande filtri in carb.
 
 [STA4_HOOD_15]
-** sta4_hood_3 + sta4_blower_1 label **
+{Air Intake}
+Compressore
 
 [STA4_HOOD_16]
-** sta4_hood_3b + sta4_blower_1 label **
+{Air Intake w/ Sec. Hood}
+Compressore colore 2
 
 [STA4_HOOD_17]
-** sta4_hood_3c + sta4_blower_1 label **
+{Air Intake w/ Carbon Hood}
+Compressore in carbonio
 
 [STA4_HOOD_18]
-** sta4_hood_3 + sta4_blower_2 label **
+{Large Air Intake}
+Compressore grande
 
 [STA4_HOOD_19]
-** sta4_hood_3b + sta4_blower_2 label **
+{L. Air Intake w/ Sec. Hood}
+Comp. grande colore 2
 
 [STA4_HOOD_20]
-** sta4_hood_3c + sta4_blower_2 label **
+{L. Air Intake w/ Carbon Hood}
+Comp. grande in carbonio
 
 [STA4_HOOD_21]
-** sta4_hood_3 + sta4_blower_3 label **
+{Smooth Bug Catcher}
+Bug catcher liscio
 
 [STA4_HOOD_22]
-** sta4_hood_3b + sta4_blower_3 label **
+{S. Bug Catcher w/ Sec. Hood}
+Bug c. liscio colore 2
 
 [STA4_HOOD_23]
-** sta4_hood_3c + sta4_blower_3 label **
+{S. Bug Catcher w/ Carbon Hood}
+Bug c. liscio in carbonio
 
 [STA4_HOOD_24]
-** sta4_hood_3 + sta4_blower_4 label **
+{Boxy Bug Catcher}
+Bug catcher piazza
 
 [STA4_HOOD_25]
-** sta4_hood_3b + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Sec. Hood}
+Bug c. piazza colore 2
 
 [STA4_HOOD_26]
-** sta4_hood_3c + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Carbon Hood}
+Bug c. piazza in carbonio
 
 
 {- STA4_SPOILERS -}
@@ -136,13 +162,21 @@ Standard colore 1
 Standard colore 2
 
 [STA4_BUMF_3]
-** sta4_bumf_3 label **
+{Splitter}
+Splitter
 
 [STA4_BUMF_4]
-** sta4_bumf_4 label **
+{Aftermarket Bumper}
+Da aftermarket
 
 [STA4_BUMF_5]
-** sta4_bumf_5 label **
+{Aftermarket Bumper w/ Split.}
+Da aftermarket cont Splitter
+
+{ new bumper option }
+[STA4_BUMF_0]
+{Bumper Delete}
+Rimozione paraurti
 
 
 {- STA4_BUMPERS REAR -}
@@ -155,38 +189,48 @@ Standard colore 2
 
 
 {- STA4_EXHAUSTS -}
-[STA4_EXH_1]
-** Placeholder **
+{[STA4_EXH_1]}
+{** Placeholder **}
 
 [STA4_EXH_2]
-** Placeholder **
+{Double Exhausts}
+Doppie
 
 [STA4_EXH_3]
-** Placeholder **
+{Double Titanium Exhausts}
+Doppie in titanio
 
 [STA4_EXH_4]
-** Placeholder **
+{Double Anodized Exhausts}
+Doppie in anodizzato
 
 [STA4_EXH_5]
-** Placeholder **
+{Double Rimmed Exhausts}
+Doppie Bordata
 
 [STA4_EXH_6]
-** Placeholder **
+{Box Exhausts}
+Squadrate
 
 [STA4_EXH_7]
-** Placeholder **
+{Side Pipe Exhausts}
+Laterali a tubo
 
 [STA4_EXH_8]
-** Placeholder **
+{Side Exhausts}
+Laterali
 
 [STA4_EXH_9]
-** Placeholder **
+{Double Side Exhausts}
+Doppie laterali
 
 [STA4_EXH_10]
-** Placeholder **
+{Side Titanium Box Exhausts}
+Laterali piatte in titanio
 
 [STA4_EXH_11]
-** Placeholder **
+{Side Box Exhausts}
+Laterali piatte
 
 
 
@@ -282,49 +326,64 @@ Gauntlet
 
 {- STA4_LIVERY -}
 [STA4_LIV_1]
-** Placeholder (smukk 1) **
+{White Two-Tone}
+Bicolore bianco
 
 [STA4_LIV_2]
-** Placeholder (smukk 2) **
+{Black Two-Tone}
+Bicolore nero
 
 [STA4_LIV_3]
-** Placeholder (helios 1) **
+{White Sport Stripes}
+Strisce sportive bianche
 
 [STA4_LIV_4]
-** Placeholder (helios 2) **
+{Black Sport Stripes}
+Strisce sportive nere
 
 [STA4_LIV_5]
-** Placeholder (helios 3) **
+{Red Sport Stripes}
+Strisce sportive rosse
 
 [STA4_LIV_6]
-** Placeholder (helios 4) **
+{Gold Sport Stripes}
+Strisce sportive dorate
 
 [STA4_LIV_7]
-** Placeholder (helios 5) **
+{Performance Package}
+Pacchetto prestazioni
 
 [STA4_LIV_8]
-** Placeholder (helios 6) **
+{Los Santos 500 Pace Car}
+Los Santos 500 Pace Car
 
 [STA4_LIV_9]
-** Placeholder (dayashi 1) **
+{Street Annihilator}
+Annientatore di strada
 
 [STA4_LIV_10]
-** Placeholder (dayashi 2) **
+{Afterlife Annihilator}
+Annientatore dell'aldilà
 
 [STA4_LIV_11]
-** Placeholder (dayashi 3) **
+{Super Annihilator}
+Super Annientatore
 
 [STA4_LIV_12]
-** Placeholder (direct 1) **
+{Patina}
+Patina
 
 [STA4_LIV_13]
-** Placeholder (direct 2) **
+{Beater}
+Automobile vecchia
 
 [STA4_LIV_14]
-** Placeholder (dayashi 4) **
+{Team Fixup}
+Squadra Fixup
 
 [STA4_LIV_15]
-** Placeholder (dayashi 5) **
+{#57 Burger Shot}
+#57 Burger Shot
 
 
 

@@ -6,7 +6,7 @@
 
 
 
-{ --- modparts ## updated 4/28/23 --- }
+{ --- modparts ## updated 5/19/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -29,82 +29,108 @@
 
 {**** HOODS ***}
 [STA4_HOOD_1]
-** sta4_hood_0b label **
+{Secondary Stock Hood}
+副色調原廠引擎蓋
 
 [STA4_HOOD_2]
-** sta4_hood_0c label **
+{Carbon Stock Hood}
+碳纖原廠引擎蓋
 
 [STA4_HOOD_3]
-** sta4_hood_1 label **
+{Single Intake Hood}
+單一進氣口引擎蓋
 
 [STA4_HOOD_4]
-** sta4_hood_1b label **
+{Sec. Single Intake Hood}
+副色調單一進氣口引擎蓋
 
 [STA4_HOOD_5]
-** sta4_hood_1c label **
+{Carbon Single Intake Hood}
+碳纖單一進氣口引擎蓋
 
 [STA4_HOOD_6]
-** sta4_hood_2 label **
+{Dual Intake Hood}
+成對進氣口引擎蓋
 
 [STA4_HOOD_7]
-** sta4_hood_2b label **
+{Sec. Dual Intake Hood}
+副色調成對進氣口引擎蓋
 
 [STA4_HOOD_8]
-** sta4_hood_2c label **
+{Carbon Dual Intake Hood}
+碳纖成對進氣口引擎蓋
 
 [STA4_HOOD_9]
-** sta4_hood_3 + sta4_filt_2 label **
+{Dual Filter Blower}
+成對濾清器風箱
 
 [STA4_HOOD_10]
-** sta4_hood_3b + sta4_filt_2 label **
+{D. Fil. Blower w/ Sec. Hood}
+成對濾清器風箱和副色調引擎蓋
 
 [STA4_HOOD_11]
-** sta4_hood_3c + sta4_filt_2 label **
+{D. Fil. Blower w/ Carbon Hood}
+成對濾清器風箱和碳纖引擎蓋
 
 [STA4_HOOD_12]
-** sta4_hood_3 + sta4_filt_3 label **
+{Large Filter Blower}
+大的濾清器風箱
 
 [STA4_HOOD_13]
-** sta4_hood_3b + sta4_filt_3 label **
+{L. Filt. Blower w/ Sec. Hood}
+大的濾清器風箱和副色調引擎蓋
 
 [STA4_HOOD_14]
-** sta4_hood_3c + sta4_filt_3 label **
+{L. Filt. Blower w/ Carbon Hood}
+大的濾清器風箱和碳纖引擎蓋
 
 [STA4_HOOD_15]
-** sta4_hood_3 + sta4_blower_1 label **
+{Air Intake}
+進氣口
 
 [STA4_HOOD_16]
-** sta4_hood_3b + sta4_blower_1 label **
+{Air Intake w/ Sec. Hood}
+進氣口和副色調引擎蓋
 
 [STA4_HOOD_17]
-** sta4_hood_3c + sta4_blower_1 label **
+{Air Intake w/ Carbon Hood}
+進氣口和碳纖引擎蓋
 
 [STA4_HOOD_18]
-** sta4_hood_3 + sta4_blower_2 label **
+{Large Air Intake}
+大的進氣口
 
 [STA4_HOOD_19]
-** sta4_hood_3b + sta4_blower_2 label **
+{L. Air Intake w/ Sec. Hood}
+大的進氣口和副色調引擎蓋
 
 [STA4_HOOD_20]
-** sta4_hood_3c + sta4_blower_2 label **
+{L. Air Intake w/ Carbon Hood}
+大的進氣口和碳纖引擎蓋
 
 [STA4_HOOD_21]
-** sta4_hood_3 + sta4_blower_3 label **
+{Smooth Bug Catcher}
+光滑的進氣濾網
 
 [STA4_HOOD_22]
-** sta4_hood_3b + sta4_blower_3 label **
+{S. Bug Catcher w/ Sec. Hood}
+光滑的進氣濾網和副色調引擎蓋
 
 [STA4_HOOD_23]
-** sta4_hood_3c + sta4_blower_3 label **
+{S. Bug Catcher w/ Carbon Hood}
+光滑的進氣濾網和碳纖引擎蓋
 
 [STA4_HOOD_24]
-** sta4_hood_3 + sta4_blower_4 label **
+{Boxy Bug Catcher}
+盒子進氣濾網
 
 [STA4_HOOD_25]
-** sta4_hood_3b + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Sec. Hood}
+盒子進氣濾網和副色調引擎蓋
 
 [STA4_HOOD_26]
-** sta4_hood_3c + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Carbon Hood}
+盒子進氣濾網和碳纖引擎蓋
 
 
 {- STA4_SPOILERS -}
@@ -136,13 +162,21 @@
 副色調原廠保險桿
 
 [STA4_BUMF_3]
-** sta4_bumf_3 label **
+{Splitter}
+定風翼
 
 [STA4_BUMF_4]
-** sta4_bumf_4 label **
+{Aftermarket Bumper}
+副廠保險桿
 
 [STA4_BUMF_5]
-** sta4_bumf_5 label **
+{Aftermarket Bumper w/ Split.}
+副廠保險桿和定風翼
+
+{ new bumper option }
+[STA4_BUMF_0]
+{Bumper Delete}
+移除保險桿
 
 
 {- STA4_BUMPERS REAR -}
@@ -155,38 +189,48 @@
 
 
 {- STA4_EXHAUSTS -}
-[STA4_EXH_1]
-** Placeholder **
+{[STA4_EXH_1]}
+{** Placeholder **}
 
 [STA4_EXH_2]
-** Placeholder **
+{Double Exhausts}
+雙排氣管
 
 [STA4_EXH_3]
-** Placeholder **
+{Double Titanium Exhausts}
+雙鈦金排氣管
 
 [STA4_EXH_4]
-** Placeholder **
+{Double Anodized Exhausts}
+雙陽極氧化排氣管
 
 [STA4_EXH_5]
-** Placeholder **
+{Double Rimmed Exhausts}
+雙鑲邊式排氣管
 
 [STA4_EXH_6]
-** Placeholder **
+{Box Exhausts}
+盒式排氣管
 
 [STA4_EXH_7]
-** Placeholder **
+{Side Pipe Exhausts}
+側出式排氣管
 
 [STA4_EXH_8]
-** Placeholder **
+{Side Exhausts}
+側排氣管
 
 [STA4_EXH_9]
-** Placeholder **
+{Double Side Exhausts}
+雙側排氣管
 
 [STA4_EXH_10]
-** Placeholder **
+{Side Titanium Box Exhausts}
+鈦金盒式側排氣管
 
 [STA4_EXH_11]
-** Placeholder **
+{Side Box Exhausts}
+盒式側排氣管
 
 
 
@@ -282,49 +326,64 @@ Mk2µ競速座椅
 
 {- STA4_LIVERY -}
 [STA4_LIV_1]
-** Placeholder (smukk 1) **
+{White Two-Tone}
+白色雙色
 
 [STA4_LIV_2]
-** Placeholder (smukk 2) **
+{Black Two-Tone}
+黑色雙色
 
 [STA4_LIV_3]
-** Placeholder (helios 1) **
+{White Sport Stripes}
+白色運動條紋
 
 [STA4_LIV_4]
-** Placeholder (helios 2) **
+{Black Sport Stripes}
+黑色運動條紋
 
 [STA4_LIV_5]
-** Placeholder (helios 3) **
+{Red Sport Stripes}
+紅色運動條紋
 
 [STA4_LIV_6]
-** Placeholder (helios 4) **
+{Gold Sport Stripes}
+金色運動條紋
 
 [STA4_LIV_7]
-** Placeholder (helios 5) **
+{Performance Package}
+性能包
 
 [STA4_LIV_8]
-** Placeholder (helios 6) **
+{Los Santos 500 Pace Car}
+洛聖都µ500µ步車
 
 [STA4_LIV_9]
-** Placeholder (dayashi 1) **
+{Street Annihilator}
+街頭殲滅者
 
 [STA4_LIV_10]
-** Placeholder (dayashi 2) **
+{Afterlife Annihilator}
+來世殲滅者
 
 [STA4_LIV_11]
-** Placeholder (dayashi 3) **
+{Super Annihilator}
+超級殲滅者
 
 [STA4_LIV_12]
-** Placeholder (direct 1) **
+{Patina}
+古銅色
 
 [STA4_LIV_13]
-** Placeholder (direct 2) **
+{Beater}
+打漿機
 
 [STA4_LIV_14]
-** Placeholder (dayashi 4) **
+{Team Fixup}
+團隊修理王
 
 [STA4_LIV_15]
-** Placeholder (dayashi 5) **
+{#57 Burger Shot}
+吃得飽漢堡µ#57
 
 
 

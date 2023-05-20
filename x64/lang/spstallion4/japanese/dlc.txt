@@ -6,7 +6,7 @@
 
 
 
-{ --- modparts ## updated 4/28/23 --- }
+{ --- modparts ## updated 5/19/23 --- }
 {***********************************************}
 
 {**** grilles ****}
@@ -29,82 +29,108 @@
 
 {**** HOODS ***}
 [STA4_HOOD_1]
-** sta4_hood_0b label **
+{Secondary Stock Hood}
+サブカラー・ボンネット(標準装備)
 
 [STA4_HOOD_2]
-** sta4_hood_0c label **
+{Carbon Stock Hood}
+カーボン・ボンネット(標準装備)
 
 [STA4_HOOD_3]
-** sta4_hood_1 label **
+{Single Intake Hood}
+シングルインテーク・ボンネット
 
 [STA4_HOOD_4]
-** sta4_hood_1b label **
+{Sec. Single Intake Hood}
+サブカラー・シングルインテーク・ボンネット
 
 [STA4_HOOD_5]
-** sta4_hood_1c label **
+{Carbon Single Intake Hood}
+カーボン・シングルインテーク・ボンネット
 
 [STA4_HOOD_6]
-** sta4_hood_2 label **
+{Dual Intake Hood}
+デュアルインテーク・ボンネット
 
 [STA4_HOOD_7]
-** sta4_hood_2b label **
+{Sec. Dual Intake Hood}
+サブカラー・デュアルインテーク・ボンネット
 
 [STA4_HOOD_8]
-** sta4_hood_2c label **
+{Carbon Dual Intake Hood}
+カーボン・デュアルインテーク・ボンネット
 
 [STA4_HOOD_9]
-** sta4_hood_3 + sta4_filt_2 label **
+{Dual Filter Blower}
+デュアルフィルターブロワー
 
 [STA4_HOOD_10]
-** sta4_hood_3b + sta4_filt_2 label **
+{D. Fil. Blower w/ Sec. Hood}
+デュアルフィルターブロワーとサブカラー・ボンネット
 
 [STA4_HOOD_11]
-** sta4_hood_3c + sta4_filt_2 label **
+{D. Fil. Blower w/ Carbon Hood}
+デュアルフィルターブロワーとカーボン・ボンネット
 
 [STA4_HOOD_12]
-** sta4_hood_3 + sta4_filt_3 label **
+{Large Filter Blower}
+フィルターブロワー(大)
 
 [STA4_HOOD_13]
-** sta4_hood_3b + sta4_filt_3 label **
+{L. Filt. Blower w/ Sec. Hood}
+フィルターブロワー(大)とサブカラー・ボンネット
 
 [STA4_HOOD_14]
-** sta4_hood_3c + sta4_filt_3 label **
+{L. Filt. Blower w/ Carbon Hood}
+フィルターブロワー(大)とカーボン・ボンネット
 
 [STA4_HOOD_15]
-** sta4_hood_3 + sta4_blower_1 label **
+{Air Intake}
+エアインテーク
 
 [STA4_HOOD_16]
-** sta4_hood_3b + sta4_blower_1 label **
+{Air Intake w/ Sec. Hood}
+エアインテークとサブカラー・ボンネット
 
 [STA4_HOOD_17]
-** sta4_hood_3c + sta4_blower_1 label **
+{Air Intake w/ Carbon Hood}
+エアインテークとカーボン・ボンネット
 
 [STA4_HOOD_18]
-** sta4_hood_3 + sta4_blower_2 label **
+{Large Air Intake}
+エアインテーク(大)
 
 [STA4_HOOD_19]
-** sta4_hood_3b + sta4_blower_2 label **
+{L. Air Intake w/ Sec. Hood}
+エアインテーク(大)とサブカラー・ボンネット
 
 [STA4_HOOD_20]
-** sta4_hood_3c + sta4_blower_2 label **
+{L. Air Intake w/ Carbon Hood}
+エアインテーク(大)とカーボン・ボンネット
 
 [STA4_HOOD_21]
-** sta4_hood_3 + sta4_blower_3 label **
+{Smooth Bug Catcher}
+インテーク（スムーズ）
 
 [STA4_HOOD_22]
-** sta4_hood_3b + sta4_blower_3 label **
+{S. Bug Catcher w/ Sec. Hood}
+インテーク（スムーズ）とサブカラー・ボンネット
 
 [STA4_HOOD_23]
-** sta4_hood_3c + sta4_blower_3 label **
+{S. Bug Catcher w/ Carbon Hood}
+インテーク（スムーズ）とカーボン・ボンネット
 
 [STA4_HOOD_24]
-** sta4_hood_3 + sta4_blower_4 label **
+{Boxy Bug Catcher}
+インテーク(ボクシー)
 
 [STA4_HOOD_25]
-** sta4_hood_3b + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Sec. Hood}
+インテーク(ボクシー)とサブカラー・ボンネット
 
 [STA4_HOOD_26]
-** sta4_hood_3c + sta4_blower_4 label **
+{Boxy Bug Catcher w/ Carbon Hood}
+インテーク(ボクシー)とカーボン・ボンネット
 
 
 {- STA4_SPOILERS -}
@@ -136,13 +162,21 @@
 バンパー(標準装備)(サブ)
 
 [STA4_BUMF_3]
-** sta4_bumf_3 label **
+{Splitter}
+スプリッター
 
 [STA4_BUMF_4]
-** sta4_bumf_4 label **
+{Aftermarket Bumper}
+アフターマーケット・バンパー
 
 [STA4_BUMF_5]
-** sta4_bumf_5 label **
+{Aftermarket Bumper w/ Split.}
+アフターマーケット・バンパーとスプリッター
+
+{ new bumper option }
+[STA4_BUMF_0]
+{Bumper Delete}
+バンパー削除
 
 
 {- STA4_BUMPERS REAR -}
@@ -155,38 +189,48 @@
 
 
 {- STA4_EXHAUSTS -}
-[STA4_EXH_1]
-** Placeholder **
+{[STA4_EXH_1]}
+{** Placeholder **}
 
 [STA4_EXH_2]
-** Placeholder **
+{Double Exhausts}
+ダブル・マフラー
 
 [STA4_EXH_3]
-** Placeholder **
+{Double Titanium Exhausts}
+ダブル・チタン・マフラー
 
 [STA4_EXH_4]
-** Placeholder **
+{Double Anodized Exhausts}
+ダブル・アルマイト・マフラー
 
 [STA4_EXH_5]
-** Placeholder **
+{Double Rimmed Exhausts}
+ダブル・縁のついたマフラー
 
 [STA4_EXH_6]
-** Placeholder **
+{Box Exhausts}
+ボックス・マフラー
 
 [STA4_EXH_7]
-** Placeholder **
+{Side Pipe Exhausts}
+サイドパイプ・マフラー
 
 [STA4_EXH_8]
-** Placeholder **
+{Side Exhausts}
+サイドマフラー
 
 [STA4_EXH_9]
-** Placeholder **
+{Double Side Exhausts}
+ダブル・サイドマフラー
 
 [STA4_EXH_10]
-** Placeholder **
+{Side Titanium Box Exhausts}
+チタン・サイドボックス・マフラー
 
 [STA4_EXH_11]
-** Placeholder **
+{Side Box Exhausts}
+サイドボックス・マフラー
 
 
 
@@ -282,49 +326,62 @@ Mk2レーシングシート
 
 {- STA4_LIVERY -}
 [STA4_LIV_1]
-** Placeholder (smukk 1) **
+{White Two-Tone}
+ツートンカラー（白）
 
 [STA4_LIV_2]
-** Placeholder (smukk 2) **
+{Black Two-Tone}
+ツートンカラー（黒)
 
 [STA4_LIV_3]
-** Placeholder (helios 1) **
+{White Sport Stripes}
+スポーツストライプ（白）
 
 [STA4_LIV_4]
-** Placeholder (helios 2) **
+{Black Sport Stripes}
+スポーツストライプ（黒)
 
 [STA4_LIV_5]
-** Placeholder (helios 3) **
+{Red Sport Stripes}
+スポーツストライプ（赤）
 
 [STA4_LIV_6]
-** Placeholder (helios 4) **
+{Gold Sport Stripes}
+スポーツストライプ（金）
 
 [STA4_LIV_7]
-** Placeholder (helios 5) **
+{Performance Package}
+パフォーマンスパッケージ
 
 [STA4_LIV_8]
-** Placeholder (helios 6) **
+{Los Santos 500 Pace Car}
+ロスサントス500ペースカー
 
 [STA4_LIV_9]
-** Placeholder (dayashi 1) **
+{Street Annihilator}
+ストリート・アナイアレイター
 
 [STA4_LIV_10]
-** Placeholder (dayashi 2) **
+{Afterlife Annihilator}
+アフタライフ・アナイアレイター
 
 [STA4_LIV_11]
-** Placeholder (dayashi 3) **
+{Super Annihilator}
+スーパー・アナイアレイター
 
 [STA4_LIV_12]
-** Placeholder (direct 1) **
+{Patina}
+緑青
 
 [STA4_LIV_13]
-** Placeholder (direct 2) **
+{Beater}
+ビーター
 
 [STA4_LIV_14]
-** Placeholder (dayashi 4) **
+「Fixup」チーム
 
 [STA4_LIV_15]
-** Placeholder (dayashi 5) **
+「#57 BURGER SHOT」
 
 
 
