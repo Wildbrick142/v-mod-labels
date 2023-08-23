@@ -1,0 +1,53 @@
+﻿start
+trackID
+end
+
+
+{ ** V Airwaves and PMR shared tracks **}
+{ needed to stop the compiler warn spam }
+
+[1042A:TRACKID]
+FAITH NO MORE
+[1042S:TRACKID]
+The Real Thing
+
+[1118A:TRACKID]
+STAIND
+[1118S:TRACKID]
+It's Been A While
+
+[1119A:TRACKID]
+OASIS
+[1119S:TRACKID]
+(It's Good) To Be Free
+
+[1120A:TRACKID]
+STEREOPHONICS
+[1120S:TRACKID]
+Mr. Writer
+
+[1121A:TRACKID]
+TRAVIS
+[1121S:TRACKID]
+Side
+
+[1122A:TRACKID]
+THE CHARLATANS
+[1122S:TRACKID]
+The Only One I Know
+
+[1123A:TRACKID]
+MANSUN
+[1123S:TRACKID]
+Wide Open Space
+
+[1772A:TRACKID]
+ALANIS MORISSETTE
+[1772S:TRACKID]
+You Oughta Know
+
+[1798A:TRACKID]
+THE CRANBERRIES
+[1798S:TRACKID]
+Linger
+
