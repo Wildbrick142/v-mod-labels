@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+The brand may be dead, but the legend lives on. You can't find a meaner "bad guy" car like this anywhere. The smell of burnt gunpowder, the fumes of cheap cigarettes, and the familiar stench of dried out man-juice combine in a highly masculine aroma that says 'I am unlikeable and I am unwilling to change.' Just one ride in this classic and you'll be fantasizing about living in a low budget action movie as a very sexist protagonist. The Classique Stallion: The quintessential outlaw machine.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [vWE_STALLION4]
-** placeholder Stallion4 description **
+Il marchio potrebbe essere morto, ma la leggenda continua a vivere. Non puoi trovare un'auto da "cattivo" più cattiva come questa da nessuna parte. L'odore della polvere da sparo bruciata, i fumi delle sigarette scadenti e il familiare puzzo di succo d'uomo essiccato si combinano in un aroma altamente maschile che dice "Sono antipatico e non sono disposto a cambiare". Solo un giro in questo classico e fantasticarai di vivere in un film d'azione a basso budget come protagonista molto sessista. Classique Stallion: la quintessenza della macchina fuorilegge.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

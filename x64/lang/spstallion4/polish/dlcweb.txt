@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+Marka może i jest martwa, ale legenda żyje. Nigdzie nie można znaleźć tak wrednego samochodu „złego faceta”. Zapach spalonego prochu strzelniczego, opary tanich papierosów i znajomy smród wyschniętego męskiego soku łączą się w bardzo męski aromat, który mówi: „Jestem nielubiany i nie chcę się zmieniać”. Wystarczy jedna przejażdżka w tym klasyku, a już będziesz fantazjować o życiu w niskobudżetowym filmie akcji jako bardzo seksistowski bohater. Classique Stallion: Kwintesencja maszyny wyjętej spod prawa.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

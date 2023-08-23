@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+Die Marke mag tot sein, aber die Legende lebt weiter. So ein gemeineres „Bösewicht“-Auto wie dieses kann man nirgendwo finden. Der Geruch von verbranntem Schießpulver, die Dämpfe billiger Zigaretten und der vertraute Gestank von ausgetrocknetem Männersaft vereinen sich zu einem höchst maskulinen Aroma, das sagt: „Ich bin unsympathisch und nicht bereit, mich zu ändern.“ Nur eine Fahrt in diesem Klassiker und Sie werden davon träumen, als sehr sexistischer Protagonist in einem Low-Budget-Actionfilm zu leben. Der Classique Stallion: Die Quintessenz der Outlaw-Maschine.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

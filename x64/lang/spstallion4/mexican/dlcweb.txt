@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+La marca puede estar muerta, pero la leyenda sigue viva. No puedes encontrar un auto de "chico malo" más malo como este en ningún lado. El olor a pólvora quemada, el humo de los cigarrillos baratos y el hedor familiar del jugo de hombre seco se combinan en un aroma muy masculino que dice: "Soy desagradable y no estoy dispuesto a cambiar". Solo un paseo en este clásico y estarás fantaseando con vivir en una película de acción de bajo presupuesto como un protagonista muy sexista. El Classique Stallion: La máquina forajida por excelencia.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

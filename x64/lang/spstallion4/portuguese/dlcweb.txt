@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+A marca pode estar morta, mas a lenda continua viva. Você não consegue encontrar um carro de "cara mau" pior como este em qualquer lugar. O cheiro de pólvora queimada, a fumaça de cigarros baratos e o cheiro familiar de suco de homem seco se combinam em um aroma altamente masculino que diz 'Sou antipático e não estou disposto a mudar'. Apenas um passeio neste clássico e você estará fantasiando sobre viver em um filme de ação de baixo orçamento como um protagonista muito machista. O Garanhão Classique: A máquina fora da lei por excelência.
 
 {--- dummy ---}
 [DUMMYWEBSITES]

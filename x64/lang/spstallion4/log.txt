@@ -169,3 +169,22 @@ A Rockstar style of generating GXT2 files
 [INFO] (portuguese/global.gxt2) Compiled!	Size 2615	Labels count 98
 [INFO] (russian/global.gxt2) Compiled!	Size 4618	Labels count 98
 [INFO] (spanish/global.gxt2) Compiled!	Size 2949	Labels count 98
+
+------ Tue May 30 19:03:16 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 3268	Labels count 98
+[INFO] (chinese/global.gxt2) Compiled!	Size 3411	Labels count 98
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 3413	Labels count 98
+[INFO] (french/global.gxt2) Compiled!	Size 3803	Labels count 98
+[INFO] (german/global.gxt2) Compiled!	Size 3464	Labels count 98
+[INFO] (italian/global.gxt2) Compiled!	Size 3197	Labels count 98
+[INFO] (japanese/global.gxt2) Compiled!	Size 5103	Labels count 98
+[INFO] (korean/global.gxt2) Compiled!	Size 3583	Labels count 98
+[INFO] (mexican/global.gxt2) Compiled!	Size 3547	Labels count 98
+[INFO] (polish/global.gxt2) Compiled!	Size 3549	Labels count 98
+[INFO] (portuguese/global.gxt2) Compiled!	Size 3135	Labels count 98
+[INFO] (russian/global.gxt2) Compiled!	Size 5379	Labels count 98
+[INFO] (spanish/global.gxt2) Compiled!	Size 3459	Labels count 98

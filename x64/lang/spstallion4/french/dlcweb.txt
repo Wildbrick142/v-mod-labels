@@ -1,7 +1,7 @@
 ﻿
 {--- website descriptions --}
 [VWE_STALLION4]
-** placeholder Stallion4 description **
+La marque est peut-être morte, mais la légende perdure. Vous ne pouvez pas trouver une voiture de "méchant" plus méchante comme celle-ci nulle part. L'odeur de la poudre à canon brûlée, les vapeurs des cigarettes bon marché et la puanteur familière du jus d'homme séché se combinent dans un arôme très masculin qui dit "Je suis antipathique et je ne veux pas changer". Un seul tour dans ce classique et vous rêverez de vivre dans un film d'action à petit budget en tant que protagoniste très sexiste. Classique Stallion : la machine hors-la-loi par excellence.
 
 {--- dummy ---}
 [DUMMYWEBSITES]
