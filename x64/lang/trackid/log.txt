@@ -859,3 +859,929 @@ A Rockstar style of generating GXT2 files
 [INFO] (russian/trackid.gxt2) Compiled!	Size 104006	Labels count 4232
 [INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
 [INFO] (spanish/trackid.gxt2) Compiled!	Size 98744	Labels count 4232
+
+------ Thu Aug 24 05:10:21 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+Usage : gxt2maker [-all] <filename>
+                   -all : convert to all languages
+                   individual languges : -a -cht -chs -f -g -i
+                                         -j -k -m -pl -pt -r -s
+                          note : must run only 1 at a time
+          -pack : pack into DLC RPF files
+          -m    : followed by a number then filenames to specify multiple .txt files
+
+------ Thu Aug 24 05:11:24 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (american/trackid.gxt2) Compiled!	Size 106574	Labels count 4582
+[!! WARNING !!] (chinese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 106347	Labels count 4582
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 1547	Labels count 67
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105284	Labels count 4582
+[!! WARNING !!] (french/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (french/trackid.gxt2) Compiled!	Size 108052	Labels count 4582
+[!! WARNING !!] (german/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (german/trackid.gxt2) Compiled!	Size 106674	Labels count 4582
+[!! WARNING !!] (italian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (italian/trackid.gxt2) Compiled!	Size 106863	Labels count 4582
+[!! WARNING !!] (japanese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 109021	Labels count 4582
+[!! WARNING !!] (korean/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108160	Labels count 4582
+[!! WARNING !!] (mexican/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 107460	Labels count 4582
+[!! WARNING !!] (polish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107253	Labels count 4582
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107047	Labels count 4582
+[!! WARNING !!] (russian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (russian/trackid.gxt2) Compiled!	Size 112673	Labels count 4582
+[!! WARNING !!] (spanish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 1490	Labels count 67
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 107411	Labels count 4582
+
+------ Thu Aug 24 06:00:51 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (american/trackid.gxt2) Compiled!	Size 72731	Labels count 3149
+[INFO] (chinese/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 72502	Labels count 3149
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 71488	Labels count 3149
+[INFO] (french/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (french/trackid.gxt2) Compiled!	Size 74207	Labels count 3149
+[INFO] (german/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (german/trackid.gxt2) Compiled!	Size 72829	Labels count 3149
+[INFO] (italian/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (italian/trackid.gxt2) Compiled!	Size 73018	Labels count 3149
+[INFO] (japanese/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 75176	Labels count 3149
+[INFO] (korean/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (korean/trackid.gxt2) Compiled!	Size 74315	Labels count 3149
+[INFO] (mexican/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 73615	Labels count 3149
+[INFO] (polish/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (polish/trackid.gxt2) Compiled!	Size 73408	Labels count 3149
+[INFO] (portuguese/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 73202	Labels count 3149
+[INFO] (russian/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (russian/trackid.gxt2) Compiled!	Size 78828	Labels count 3149
+[INFO] (spanish/global.gxt2) Compiled!	Size 581	Labels count 26
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 73566	Labels count 3149
+
+------ Thu Aug 24 06:08:30 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/trackid.gxt2) Compiled!	Size 73296	Labels count 3175
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 73067	Labels count 3175
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 72053	Labels count 3175
+[INFO] (french/trackid.gxt2) Compiled!	Size 74772	Labels count 3175
+[INFO] (german/trackid.gxt2) Compiled!	Size 73394	Labels count 3175
+[INFO] (italian/trackid.gxt2) Compiled!	Size 73583	Labels count 3175
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 75741	Labels count 3175
+[INFO] (korean/trackid.gxt2) Compiled!	Size 74880	Labels count 3175
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 74180	Labels count 3175
+[INFO] (polish/trackid.gxt2) Compiled!	Size 73973	Labels count 3175
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 73767	Labels count 3175
+[INFO] (russian/trackid.gxt2) Compiled!	Size 79393	Labels count 3175
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 74131	Labels count 3175
+
+------ Thu Aug 24 06:09:20 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 107126	Labels count 4608
+[!! WARNING !!] (chinese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 106897	Labels count 4608
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105834	Labels count 4608
+[!! WARNING !!] (french/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 108602	Labels count 4608
+[!! WARNING !!] (german/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 107224	Labels count 4608
+[!! WARNING !!] (italian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 107413	Labels count 4608
+[!! WARNING !!] (japanese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 109571	Labels count 4608
+[!! WARNING !!] (korean/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108710	Labels count 4608
+[!! WARNING !!] (mexican/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 108010	Labels count 4608
+[!! WARNING !!] (polish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107803	Labels count 4608
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107597	Labels count 4608
+[!! WARNING !!] (russian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 113223	Labels count 4608
+[!! WARNING !!] (spanish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 107961	Labels count 4608
+
+------ Thu Aug 24 06:21:33 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[!! WARNING !!] (american/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (american/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 107126	Labels count 4608
+[!! WARNING !!] (chinese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 106899	Labels count 4608
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (chinesesimp/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105836	Labels count 4608
+[!! WARNING !!] (french/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (french/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 108604	Labels count 4608
+[!! WARNING !!] (german/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (german/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 107226	Labels count 4608
+[!! WARNING !!] (italian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (italian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 107415	Labels count 4608
+[!! WARNING !!] (japanese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (japanese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 109573	Labels count 4608
+[!! WARNING !!] (korean/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (korean/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108712	Labels count 4608
+[!! WARNING !!] (mexican/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (mexican/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 108012	Labels count 4608
+[!! WARNING !!] (polish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (polish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107805	Labels count 4608
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (portuguese/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107599	Labels count 4608
+[!! WARNING !!] (russian/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (russian/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 113225	Labels count 4608
+[!! WARNING !!] (spanish/) Duplicate Key: [1042A:TRACKID] (Text content: "FAITH NO MORE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1042S:TRACKID] (Text content: "The Real Thing") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118A:TRACKID] (Text content: "STAIND") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1118S:TRACKID] (Text content: "It's Been A While") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119A:TRACKID] (Text content: "OASIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1119S:TRACKID] (Text content: "(It's Good) To Be Free") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120A:TRACKID] (Text content: "STEREOPHONICS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1120S:TRACKID] (Text content: "Mr. Writer") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121A:TRACKID] (Text content: "TRAVIS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1121S:TRACKID] (Text content: "Side") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122A:TRACKID] (Text content: "THE CHARLATANS") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1122S:TRACKID] (Text content: "The Only One I Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123A:TRACKID] (Text content: "MANSUN") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1123S:TRACKID] (Text content: "Wide Open Space") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772A:TRACKID] (Text content: "ALANIS MORISSETTE") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1772S:TRACKID] (Text content: "You Oughta Know") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798A:TRACKID] (Text content: "THE CRANBERRIES") - will skip.
+[!! WARNING !!] (spanish/) Duplicate Key: [1798S:TRACKID] (Text content: "Linger") - will skip.
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 107963	Labels count 4608
+
+------ Thu Aug 24 06:23:43 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 107126	Labels count 4608
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 106899	Labels count 4608
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105836	Labels count 4608
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 108604	Labels count 4608
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 107226	Labels count 4608
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 107415	Labels count 4608
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 109573	Labels count 4608
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108712	Labels count 4608
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 108012	Labels count 4608
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107805	Labels count 4608
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107599	Labels count 4608
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 113225	Labels count 4608
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 107963	Labels count 4608
+
+------ Thu Aug 24 06:27:18 2023 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 106538	Labels count 4608
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 106311	Labels count 4608
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105236	Labels count 4608
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 108022	Labels count 4608
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 106638	Labels count 4608
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 106827	Labels count 4608
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 108985	Labels count 4608
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108124	Labels count 4608
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 107424	Labels count 4608
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107217	Labels count 4608
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107011	Labels count 4608
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 112637	Labels count 4608
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 107375	Labels count 4608
