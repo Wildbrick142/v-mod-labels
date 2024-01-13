@@ -1785,3 +1785,67 @@ A Rockstar style of generating GXT2 files
 [INFO] (russian/trackid.gxt2) Compiled!	Size 112637	Labels count 4608
 [INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
 [INFO] (spanish/trackid.gxt2) Compiled!	Size 107375	Labels count 4608
+
+------ Sun Jan 14 02:17:16 2024 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 107827	Labels count 4638
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 107600	Labels count 4638
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 106537	Labels count 4638
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 109305	Labels count 4638
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 107927	Labels count 4638
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 108116	Labels count 4638
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 110274	Labels count 4638
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 109413	Labels count 4638
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 108713	Labels count 4638
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 108506	Labels count 4638
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 108300	Labels count 4638
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 113926	Labels count 4638
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 108664	Labels count 4638
+
+------ Sun Jan 14 02:20:37 2024 ------
+
+gxt2maker v1.4.2	     by Wildbrick
+A Rockstar style of generating GXT2 files
+
+[INFO] (american/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (american/trackid.gxt2) Compiled!	Size 107239	Labels count 4638
+[INFO] (chinese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (chinese/trackid.gxt2) Compiled!	Size 107012	Labels count 4638
+[INFO] (chinesesimp/global.gxt2) Compiled!	Size 982	Labels count 41
+[INFO] (chinesesimp/trackid.gxt2) Compiled!	Size 105937	Labels count 4638
+[INFO] (french/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (french/trackid.gxt2) Compiled!	Size 108723	Labels count 4638
+[INFO] (german/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (german/trackid.gxt2) Compiled!	Size 107339	Labels count 4638
+[INFO] (italian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (italian/trackid.gxt2) Compiled!	Size 107528	Labels count 4638
+[INFO] (japanese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (japanese/trackid.gxt2) Compiled!	Size 109686	Labels count 4638
+[INFO] (korean/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (korean/trackid.gxt2) Compiled!	Size 108825	Labels count 4638
+[INFO] (mexican/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (mexican/trackid.gxt2) Compiled!	Size 108125	Labels count 4638
+[INFO] (polish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (polish/trackid.gxt2) Compiled!	Size 107918	Labels count 4638
+[INFO] (portuguese/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (portuguese/trackid.gxt2) Compiled!	Size 107712	Labels count 4638
+[INFO] (russian/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (russian/trackid.gxt2) Compiled!	Size 113338	Labels count 4638
+[INFO] (spanish/global.gxt2) Compiled!	Size 925	Labels count 41
+[INFO] (spanish/trackid.gxt2) Compiled!	Size 108076	Labels count 4638

@@ -48,7 +48,7 @@ CURREN$Y & FREDDIE GIBBS
 Fetti
 
 [1654A:TRACKID]
-E-40 FEAT. DAM FUNK & ARIEL PINK
+E-40 FEAT. DaM-FunK & ARIEL PINK
 [1654S:TRACKID]
 California
 
@@ -2773,5 +2773,82 @@ Papa's Lil Soldier
 
 
 
+
+
+{ -- MP2023_02 10-year WCC mix -- }
+[4173A:TRACKID]
+DaM-FunK
+[4173S:TRACKID]
+The Contract - Space
+
+[4174A:TRACKID]
+SOULWAX
+[4174S:TRACKID]
+Los Santos Drug Wars
+
+[4175A:TRACKID]
+NICK HOOK
+[4175S:TRACKID]
+The Diamond Casino Heist
+
+[4176A:TRACKID]
+RAMPA
+[4176S:TRACKID]
+The Cayo Perico Heist II
+
+[4177A:TRACKID]
+OH NO
+[4177S:TRACKID]
+Lowriders
+
+[4178A:TRACKID]
+HOLY FUCK
+[4178S:TRACKID]
+Bikers
+
+[4179A:TRACKID]
+HEALTH
+[4179S:TRACKID]
+Arena Wars
+
+[4180A:TRACKID]
+&ME
+[4180S:TRACKID]
+The Cayo Perico Heist I
+
+[4181A:TRACKID]
+DaM-FunK
+[4181S:TRACKID]
+The Contract - The Journey
+
+[4182A:TRACKID]
+DaM-FunK
+[4182S:TRACKID]
+The Contract - Mass
+
+[4183A:TRACKID]
+SHOW ME THE BODY
+[4183S:TRACKID]
+Smuggler's Run
+
+[4184A:TRACKID]
+TAKE A DAYTRIP
+[4184S:TRACKID]
+Import/Export
+
+[4185A:TRACKID]
+JAMES CURD AKA GREENSKEEPERS
+[4185S:TRACKID]
+Executives And Other Criminals
+
+[4186A:TRACKID]
+DaM-FunK
+[4186S:TRACKID]
+The Contract - House Call
+
+[4187A:TRACKID]
+DaM-FunK
+[4187S:TRACKID]
+The Contract - Smooth Kill
 
 
